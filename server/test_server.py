@@ -6,6 +6,7 @@ import sqlite3
 import tempfile
 import threading
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 from urllib.error import HTTPError
 from urllib.parse import urlencode, quote
@@ -76,10 +77,60 @@ class ReaderTest(unittest.TestCase):
             self.assertEqual(get('navigation', path='词根.md', offset=1, limit=1)['items'][0]['label'], 'vending')
             target = get('document', path='词根.md', anchor='w-2')['target']
             self.assertIn('vending', get('chunks', path='词根.md', offset=target['chunk'], limit=1)['items'][0]['markdown'])
+            self.assertIsNone(get('navigation-position', path='词根.md', chunk=0)['current'])
+            current = get('navigation-position', path='词根.md', chunk=target['chunk'])
+            self.assertEqual(current['current']['anchor'], 'w-2')
+            self.assertEqual(current['index'], 1)
+            # The same word spans following chunks, even without another heading.
+            self.assertEqual(get('navigation-position', path='词根.md', chunk=target['chunk'] + 1)['index'], 1)
+            self.assertEqual(get('navigation-position', path='词根.md', chunk=target['chunk'], q='售卖')['index'], 0)
+            self.assertIsNone(get('navigation-position', path='词根.md', chunk=target['chunk'], q='vendor')['index'])
+            heading = get('navigation-position', path='词根.md', kind='heading', chunk=target['chunk'])
+            self.assertEqual(heading['current']['anchor'], '单词')
+            self.assertEqual(heading['index'], 1)
             for route in ['/source/.index.sqlite3', '/server.py', '/source/%2e%2e/secret.md']:
                 with self.assertRaises(HTTPError) as error:
                     urlopen(base + route)
                 self.assertIn(error.exception.code, [400, 404])
+        finally:
+            http.shutdown(); http.server_close(); thread.join()
+
+    def test_page_refresh_syncs_edits_additions_and_deletions(self):
+        http = server.ThreadingHTTPServer(('127.0.0.1', 0), server.Handler)
+        thread = threading.Thread(target=http.serve_forever, daemon=True)
+        thread.start()
+        base = f'http://127.0.0.1:{http.server_port}'
+
+        def get(route, **params):
+            with urlopen(base + '/api/' + route + '?' + urlencode(params)) as response:
+                return json.load(response)
+
+        try:
+            # Match the browser: stats finishes before navigation/content loads.
+            with patch.object(server, 'split_document', wraps=server.split_document) as parse:
+                self.assertEqual(get('stats')['documents'], 1)
+                parse.assert_not_called()
+                self.file.write_text('# 新标题\n\n<a id="w-1"></a>\n\n### 1. particle — 微粒\n\n更新后的拆解：part + -icle。\n', encoding='utf-8')
+                self.assertEqual(get('stats')['words'], 1)
+                self.assertEqual(parse.call_count, 1)
+                doc = get('document', path='词根.md', anchor='w-1')
+                self.assertEqual(doc['title'], '新标题')
+                self.assertEqual(get('words', q='vendor')['total'], 0)
+                self.assertEqual(get('navigation', path='词根.md')['items'][0]['label'], 'particle')
+                content = get('chunks', path='词根.md', offset=doc['target']['chunk'], limit=1)
+                self.assertIn('更新后的拆解', content['items'][0]['markdown'])
+                # Reading subsequent pages does not rescan/reparse the library.
+                self.assertEqual(parse.call_count, 1)
+                added = server.ROOT / '新增.md'
+                added.write_text('# 新增文档\n\n新增内容', encoding='utf-8')
+                self.assertEqual(get('stats')['documents'], 2)
+                self.assertEqual(get('documents', q='新增')['total'], 1)
+                self.assertEqual(parse.call_count, 2)
+                self.file.unlink()
+                self.assertEqual(get('stats')['documents'], 1)
+                self.assertEqual(get('words', q='particle')['total'], 0)
+                self.assertEqual(get('chunks', path='词根.md')['items'], [])
+                self.assertEqual(parse.call_count, 2)
         finally:
             http.shutdown(); http.server_close(); thread.join()
 

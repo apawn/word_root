@@ -46,6 +46,7 @@ class PagedList {
     this.pages = new Map();
     this.pending = new Set();
     this.nodes.clear();
+    this.pendingReveal = null;
     this.element.scrollTop = 0;
     this.space.style.height = 'auto';
     this.space.innerHTML = '<div class="list-empty">正在加载…</div>';
@@ -72,6 +73,10 @@ class PagedList {
     }
   }
   schedule() {if (!this.frame) this.frame = requestAnimationFrame(() => {this.frame = null; this.render();});}
+  reveal(index) {
+    this.pendingReveal = index;
+    this.schedule();
+  }
   async load(page) {
     if (this.pending.has(page) || this.pages.has(page)) return;
     this.pending.add(page);
@@ -100,6 +105,15 @@ class PagedList {
   render() {
     if (!this.v) return;
     this.space.style.height = `${this.v.getTotalSize()}px`;
+    if (this.pendingReveal !== null && this.element.clientHeight > 0) {
+      const index = this.pendingReveal;
+      this.pendingReveal = null;
+      const top = index * this.rowHeight;
+      const bottom = top + this.rowHeight;
+      if (top < this.element.scrollTop || bottom > this.element.scrollTop + this.element.clientHeight) {
+        this.v.scrollToIndex(index, {align: 'center'});
+      }
+    }
     const visible = this.v.getVirtualItems();
     const wanted = new Set(visible.map(x => x.index));
     for (const [index, node] of this.nodes) if (!wanted.has(index)) {node.remove(); this.nodes.delete(index);}
@@ -128,12 +142,44 @@ function fileRow(item, index) {
   return `<button data-index="${index}" class="${item.path === state.path ? 'active' : ''}" title="${esc(isWord ? detail : item.path)}"><span class="row-title">${esc(title)}</span><span class="row-detail">${esc(detail)}</span></button>`;
 }
 function wordRow(item, index) {
-  return `<button data-index="${index}" class="word-row ${item.anchor === state.anchor ? 'active' : ''}" title="${esc(item.label + ' ' + item.detail)}"><span class="row-title">${esc(item.label)}</span><span class="row-detail">${esc(item.detail || (item.kind === 'heading' ? '章节 · 点击跳转' : '点击阅读讲解'))}</span></button>`;
+  return `<button data-index="${index}" aria-current="${item.anchor === state.anchor ? 'location' : 'false'}" class="word-row ${item.anchor === state.anchor ? 'active' : ''}" title="${esc(item.label + ' ' + item.detail)}"><span class="row-title">${esc(item.label)}</span><span class="row-detail">${esc(item.detail || (item.kind === 'heading' ? '章节 · 点击跳转' : '点击阅读讲解'))}</span></button>`;
 }
 const files = new PagedList($('#file-list'), $('#file-count'), fileRow, item => openDocument(item.path, item.anchor || ''));
 const words = new PagedList($('#word-list'), $('#word-count'), wordRow, item => jump(item.chunk, item.anchor));
 function searchFiles() {return files.reset(state.mode === 'words' ? 'words' : 'documents', {q: $('#global-search').value.trim(), category: $('#category').value});}
-function searchWords() {if (state.path) return words.reset('navigation', {path: state.path, kind: state.kind, q: $('#word-search').value.trim()});}
+async function searchWords() {
+  if (!state.path) return;
+  await words.reset('navigation', {path: state.path, kind: state.kind, q: $('#word-search').value.trim()});
+  reader.schedule();
+}
+
+let sidebarSyncKey = '', sidebarSyncTimer, sidebarSyncController;
+function queueSidebarSync(chunk) {
+  if (!words.v || words.params.path !== state.path) return;
+  const params = {...words.params, chunk};
+  const version = words.version;
+  const key = JSON.stringify([params, version]);
+  if (key === sidebarSyncKey) return;
+  sidebarSyncKey = key;
+  clearTimeout(sidebarSyncTimer);
+  sidebarSyncController?.abort();
+  sidebarSyncController = new AbortController();
+  const signal = sidebarSyncController.signal;
+  // Coalesce fast scrolling; keep one tiny lookup in flight, not a full word list.
+  sidebarSyncTimer = setTimeout(async () => {
+    try {
+      const result = await api('navigation-position', params, signal);
+      if (key !== sidebarSyncKey || version !== words.version || params.path !== state.path || signal.aborted) return;
+      state.anchor = result.current?.anchor || '';
+      words.schedule();
+      if (result.index !== null) words.reveal(result.index);
+      else if (!result.current && !params.q && words.total) words.reveal(0);
+      else words.pendingReveal = null;
+    } catch (error) {
+      if (error.name !== 'AbortError' && key === sidebarSyncKey) sidebarSyncKey = '';
+    }
+  }, 80);
+}
 
 // Variable-height virtual Markdown. TanStack measures chunks, including late images.
 class Reader {
@@ -212,6 +258,13 @@ class Reader {
     const percent = total <= this.element.clientHeight ? 100 : Math.min(100, Math.round(this.element.scrollTop / (total - this.element.clientHeight) * 100));
     $('#progress').style.width = `${percent}%`;
     $('#reading-status').textContent = `阅读进度 ${percent}% · 第 ${first + 1} / ${this.count} 段`;
+    if (this.element.clientHeight > 0) {
+      const atBottom = total > this.element.clientHeight && this.element.scrollTop + this.element.clientHeight >= total - 2;
+      const position = this.element.scrollTop + 64;
+      const current = visible.find(item => item.start <= position && item.end > position);
+      const chunk = atBottom ? this.count - 1 : current?.index;
+      if (chunk !== undefined && this.nodes.get(chunk)?._loaded) queueSidebarSync(chunk);
+    }
   }
   prepare(node) {
     const base = new URL(`/source/${this.path}`, location.origin);
@@ -255,6 +308,7 @@ function selectPanel(panel) {
   document.body.dataset.panel = panel;
   document.querySelectorAll('.mobile-tabs button').forEach(b => b.classList.toggle('selected', b.dataset.panel === panel));
   files.v?._willUpdate(); words.v?._willUpdate(); reader.v?._willUpdate();
+  words.schedule();
 }
 async function openDocument(path, anchor = '', updateRoute = true) {
   const token = ++state.openToken;

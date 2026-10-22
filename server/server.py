@@ -6,6 +6,7 @@ import json
 import mimetypes
 import re
 import sqlite3
+import threading
 import time
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -19,6 +20,7 @@ EXCLUDED = {'server', 'node_modules', '__pycache__'}
 HEADING = re.compile(r'^(#{1,6})\s+(.+)$')
 ANCHOR = re.compile(r'<a\s+(?:id|name)=["\']([^"\']+)["\']\s*>\s*</a>')
 WORD = re.compile(r'^\d+[.、]\s+(.+?)(?:\s+[—–]\s+(.*))?$')
+INDEX_LOCK = threading.Lock()
 
 
 def plain(text):
@@ -141,7 +143,14 @@ def markdown_files():
                     yield path
 
 
-def build_index():
+def build_index(verbose=True):
+    # Page loads can overlap across tabs. Only one writer may synchronize the
+    # index at a time, and readers must see an entire update, not partial batches.
+    with INDEX_LOCK:
+        return _build_index(verbose)
+
+
+def _build_index(verbose):
     start = time.monotonic()
     with contextlib.closing(connect()) as db:
         db.executescript('''
@@ -157,6 +166,7 @@ def build_index():
               PRIMARY KEY(path,n));
             CREATE INDEX IF NOT EXISTS nav_word ON navigation(kind,label COLLATE NOCASE);
             CREATE INDEX IF NOT EXISTS nav_anchor ON navigation(path,anchor);
+            CREATE INDEX IF NOT EXISTS nav_chunk ON navigation(path,kind,chunk,n);
         ''')
         old_version = db.execute("SELECT value FROM settings WHERE key='version'").fetchone()
         rebuild = not old_version or old_version[0] != VERSION
@@ -164,12 +174,17 @@ def build_index():
         seen, changed = set(), 0
         for file in markdown_files():
             path = file.relative_to(ROOT).as_posix()
-            seen.add(path)
-            stat = file.stat()
-            old = previous.get(path)
-            if not rebuild and old and old['mtime'] == stat.st_mtime_ns and old['size'] == stat.st_size:
+            try:
+                stat = file.stat()
+                old = previous.get(path)
+                if not rebuild and old and old['mtime'] == stat.st_mtime_ns and old['size'] == stat.st_size:
+                    seen.add(path)
+                    continue
+                text = file.read_text(encoding='utf-8', errors='replace')
+            except FileNotFoundError:
+                # Editors may replace or remove a file while the tree is scanned.
                 continue
-            text = file.read_text(encoding='utf-8', errors='replace')
+            seen.add(path)
             chunks, entries = split_document(text)
             title = next((plain(s[2:]) for s in text.splitlines() if s.startswith('# ')), file.stem)
             parent = file.parent.relative_to(ROOT).as_posix()
@@ -184,15 +199,15 @@ def build_index():
             db.executemany('INSERT INTO navigation VALUES (?,?,?,?,?,?,?,?)',
                            ((path, n, e['label'], e['detail'], e['anchor'], e['chunk'], e['kind'], e['level']) for n, e in enumerate(entries)))
             changed += 1
-            if changed % 250 == 0:
-                db.commit()
+            if verbose and changed % 250 == 0:
                 print(f'已索引 {changed} 份文档…', flush=True)
         for path in previous.keys() - seen:
             for table in ['chunks', 'navigation', 'documents']:
                 db.execute(f'DELETE FROM {table} WHERE path=?', (path,))
         db.execute("INSERT OR REPLACE INTO settings VALUES ('version',?)", (VERSION,))
         db.commit()
-    print(f'索引完成：{len(seen)} 份 Markdown，更新 {changed} 份，耗时 {time.monotonic() - start:.1f}s', flush=True)
+    if verbose:
+        print(f'索引完成：{len(seen)} 份 Markdown，更新 {changed} 份，耗时 {time.monotonic() - start:.1f}s', flush=True)
 
 
 def like(value):
@@ -216,6 +231,10 @@ class Handler(BaseHTTPRequestHandler):
         try:
             url = urlsplit(self.path)
             if url.path.startswith('/api/'):
+                if url.path == '/api/stats':
+                    # The client awaits stats before requesting lists or content.
+                    # Sync once per page load, never on each virtual-scroll fetch.
+                    build_index(verbose=False)
                 with contextlib.closing(connect()) as db:
                     self.api(url.path, parse_qs(url.query), db)
             else:
@@ -249,6 +268,24 @@ class Handler(BaseHTTPRequestHandler):
             total = db.execute('SELECT count(*) FROM documents WHERE ' + where, params).fetchone()[0]
             rows = db.execute('SELECT * FROM documents WHERE ' + where + ' ORDER BY category,path LIMIT ? OFFSET ?', params + [limit, offset])
             return self.send_data({'total': total, 'items': [dict(r) for r in rows]})
+        if route == '/api/navigation-position':
+            # Resolve the item spanning this chunk, including continuation chunks
+            # with no heading of their own. Return its rank in the filtered list.
+            kind = arg('kind', 'word')
+            chunk = max(0, int(arg('chunk', '0')))
+            row = db.execute('''SELECT n,anchor,chunk FROM navigation
+                WHERE path=? AND kind=? AND chunk<=?
+                ORDER BY chunk DESC,n DESC LIMIT 1''', (path, kind, chunk)).fetchone()
+            if not row:
+                return self.send_data({'current': None, 'index': None})
+            conditions, params = ['path=?', 'kind=?'], [path, kind]
+            if q:
+                conditions.append("(label LIKE ? ESCAPE '\\' OR detail LIKE ? ESCAPE '\\')")
+                params.extend([like(q), like(q)])
+            where = ' AND '.join(conditions)
+            matches = db.execute('SELECT 1 FROM navigation WHERE ' + where + ' AND n=?', params + [row['n']]).fetchone()
+            index = db.execute('SELECT count(*) FROM navigation WHERE ' + where + ' AND n<?', params + [row['n']]).fetchone()[0] if matches else None
+            return self.send_data({'current': dict(row), 'index': index})
         if route in ['/api/words', '/api/navigation']:
             conditions, params = ['1=1'], []
             if path:
