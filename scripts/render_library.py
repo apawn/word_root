@@ -12,6 +12,7 @@ from urllib.parse import quote
 from wordfreq import zipf_frequency
 from build_catalog import BASE, CACHE, OUT, load_lexicon, components
 from explanatory import load_lessons,render_root,finish as finish_lessons,images_paused
+from lesson_order import make_relations,order_family
 
 LANG={'Latin':'拉丁语','Greek':'古希腊语','Latin from Greek':'拉丁语 ← 古希腊语','Latin and Greek':'拉丁语／古希腊语','Greek/Latin':'古希腊语／拉丁语','Latin, Greek':'拉丁语／古希腊语','Greek from Hebrew':'古希腊语 ← 希伯来语',
       'en':'英语','enm':'中古英语','ang':'古英语','la':'拉丁语','la-new':'新拉丁语','la-med':'中世纪拉丁语','grc':'古希腊语','fr':'法语','fro':'古法语','frm':'中古法语','de':'德语','gem-pro':'原始日耳曼语','gmw-pro':'原始西日耳曼语','ine-pro':'原始印欧语','non':'古诺尔斯语','nl':'荷兰语','it':'意大利语','es':'西班牙语','ar':'阿拉伯语','ota':'奥斯曼土耳其语','ja':'日语','zh':'汉语','hi':'印地语','sa':'梵语','fa':'波斯语','he':'希伯来语','pt':'葡萄牙语','itc-pro':'原始意大利语','el':'现代希腊语'}
@@ -204,6 +205,10 @@ def main():
     if (CACHE/'examples-index.json').exists():CORPUS=json.loads((CACHE/'examples-index.json').read_text())
     roots=json.loads((CACHE/'catalog.json').read_text());lex=load_lexicon()
     lessons,lesson_words=load_lessons()
+    reading_relations=make_relations(lesson_words,lex)
+    previous_path=OUT/'data/条目清单.json'
+    previous={r['id']:r for r in json.loads(previous_path.read_text())} if previous_path.exists() else {}
+    reading_order={}
     # Apply the reading preference to every derived view; retain the source
     # catalog so hyphenated vocabulary can be restored in a later edition.
     for r in roots:
@@ -221,6 +226,19 @@ def main():
         import math
         rates=[10**(zipf_frequency(word,'en')-9) for word in r['family'] if re.fullmatch('[a-z]+',word)][:20]
         r['score']=round(math.log10(sum(rates))+9,3) if rates else 0
+        if r['id'] in lessons:
+            # Preserve existing bookmarks while changing the displayed sequence.
+            old=previous.get(r['id'],{})
+            anchors=old.get('word_anchors',{w:i for i,w in enumerate(old.get('family',r['family']),1)})
+            next_anchor=max(anchors.values(),default=0)+1
+            for word in r['family']:
+                if word not in anchors:
+                    anchors[word]=next_anchor
+                    next_anchor+=1
+            r['word_anchors']={w:anchors[w] for w in r['family']}
+            ordered,groups,parents=order_family(r['family'],reading_relations)
+            r['family']={w:r['family'][w] for w in ordered}
+            reading_order[r['id']]={'groups':groups,'reading_links':parents}
     roots.sort(key=lambda r:(-r['score'],r['root'],r['id']))
     for rank,r in enumerate(roots,1):
         r['rank']=rank
@@ -313,6 +331,7 @@ def main():
     stats=dict(entries=len(roots),groups=dict(collections.Counter(r['group'] for r in roots)),unique_words=len(all_words),word_occurrences=sum(len(r['family']) for r in roots),field_occurrences=dict(occurrence),field_unique={k:len(v) for k,v in unique_has.items()},empty_entries=sum(not r['family'] for r in roots),source_rows=1680,manual_root_notes=len(notes),wordfreq_version=importlib.metadata.version('wordfreq'),date='2026-10-21')
     write('data/统计.json',json.dumps(stats,ensure_ascii=False,indent=2))
     write('data/条目清单.json',json.dumps(roots,ensure_ascii=False,indent=2))
+    write('data/精讲词族顺序.json',json.dumps({'note':'学习分组，不代替正文中的真实词源链。基础形式在前，同组扩展连续；组间优先常用词。','roots':reading_order},ensure_ascii=False,indent=2))
     write('data/原始词根清单.json',(CACHE/'classical-roots.json').read_text())
     for name,rows in [('覆盖明细.csv',quality)]:
         with (OUT/'data'/name).open('w',newline='') as f:

@@ -765,7 +765,7 @@ E('superstition','英 /ˌsuːpəˈstɪʃən/；美 /ˌsuːpərˈstɪʃən/','迷
 '经法语来自拉丁语 superstitio，形式与 super-（在上、越过）+ stāre 有关；从“站在上面、存留”到迷信的具体义变没有公认的唯一解释。',SUPER,
 '可以记住词形中的“站”，但别编成“站在神上面所以迷信”等故事。现代用法抓住不合理的吉凶因果联想，更容易实际理解。',
 'a common superstition；out of superstition；superstition about numbers。',
-'tradition 是传统，不必包含超自然因果；superstition 通常带说话者认为根据不足的评价。',
+'tradition 是传统，不必包含超自然因果；superstition 通常带说话者认为根据不足的评价。\n\n举头三尺有神明，我是这么理解的，神就在那里站着。',
 ('She dismissed the idea that the number brings bad luck as superstition.','她认为那个数字会带来厄运的说法只是迷信。'),('The book records local superstitions about the sea.','这本书记载了当地与大海有关的迷信。'),sources=['https://www.etymonline.com/word/superstition','https://en.wiktionary.org/wiki/superstition#English']),
 E('superstitious','英 /ˌsuːpəˈstɪʃəs/；美 /ˌsuːpərˈstɪʃəs/','迷信的；出于迷信的',
 '一个人因某种“会带来坏运”的说法而不敢做事，可以说他 superstitious；那种举动也可这样描述。',

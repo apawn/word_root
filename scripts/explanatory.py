@@ -138,10 +138,10 @@ def draw_root(r,lesson):
             svg.append(f'<text class="note" x="{x}" y="{y+len(labels)*34+6+j*26}" text-anchor="middle" font-size="19">{html.escape(line)}</text>')
     svg.append('</svg>');(OUT/'assets'/f'{r["id"]}.svg').write_text('\n'.join(svg))
 
-def word_markdown(w,index):
+def word_markdown(w,index,anchor=None):
     if not images_paused():draw_history(w['word'],w['history'])
     evolution=[f'![{w["word"]} 的词源演化](../assets/evolution/{history_filename(w["word"])})'] if word_has_image(w) else ['\n\n↓\n\n'.join(f'**{plain_markdown(label)}**  \n{plain_markdown(meaning)}' for label,meaning in w['history'])]
-    lines=[f'<a id="w-{index}"></a>','',f'### {index}. {w["word"]} — {w["meaning"]}','',
+    lines=[f'<a id="w-{anchor if anchor is not None else index}"></a>','',f'### {index}. {w["word"]} — {w["meaning"]}','',
            f'**音标**：{w["ipa"]}','', '**先抓住这个画面**','',w['sense'],'',
            '**怎么拆**','',w['split'],'', '**怎么变成今天的意思**','',
            *evolution,'',w['explanation'],'',
@@ -160,11 +160,14 @@ def render_root(r,lesson,words):
            '## 核心词根与来源','',lesson['intro'],'',
            *overview,'',
            '## 词形与演化规律','',lesson['forms'],'',
-           '## 单词速览（常用到不常用）','', '| 单词 | 音标 | 核心意思 |','|---|---|---|']
+           '## 单词速览（按词族由简到繁）','',
+           '同一基础词的相关扩展放在一起，先读基础形式，再读扩展；各组之间优先读常用的。具体词源关系见各词讲解。','',
+           '| 单词 | 音标 | 核心意思 |','|---|---|---|']
     for i,name in enumerate(r['family'],1):
-        w=words[name];lines.append(f'| [{name}](#w-{i}) | {w["ipa"]} | {w["meaning"]} |')
+        anchor=r.get('word_anchors',{}).get(name,i)
+        w=words[name];lines.append(f'| [{name}](#w-{anchor}) | {w["ipa"]} | {w["meaning"]} |')
     lines+=['','## 逐词讲解','']
-    for i,name in enumerate(r['family'],1):lines+=word_markdown(words[name],i)
+    for i,name in enumerate(r['family'],1):lines+=word_markdown(words[name],i,r.get('word_anchors',{}).get(name,i))
     if lesson.get('contrasts'):lines+=['## 这一组要分清什么','',lesson['contrasts'],'']
     if lesson.get('practice'):lines+=['## 串起来练习','',lesson['practice'],'']
     (OUT/r['file']).write_text('\n'.join(lines))
@@ -173,7 +176,7 @@ def finish(roots,lessons,words):
     completed=[r for r in roots if r['id'] in lessons]
     used={w for r in completed for w in r['family']}
     lines=['# 逐词精讲目录','',
-           '这里的词根页已逐词写成中文讲解，每个单词都有来源演化、构词分析、搭配、双语例句和辨析。按全库学习顺序排列。新增部分先用文字箭头记录演化，图片以后统一补。','',
+           '这里的词根页已逐词写成中文讲解，每个单词都有来源演化、构词分析、搭配、双语例句和辨析。词根页按全库学习顺序排列；页内把同一基础词的扩展放在一起，从基础形式读到复杂形式。新增部分先用文字箭头记录演化，图片以后统一补。','',
            '[按单词查精讲](00_精讲单词反查.md) · [阅读方法](阅读方法.md) · [待补图清单](待补图清单.md)','',
            '| 词根 | 核心意象 | 逐词讲解数 |','|---|---|---:|']
     for r in completed:lines.append(f'| [{r["root"]}]({r["file"]}) | {lessons[r["id"]]["meaning"]} | {len(r["family"])} |')
@@ -188,7 +191,8 @@ def finish(roots,lessons,words):
     reverse=collections.defaultdict(list)
     for r in completed:
         for i,word in enumerate(r['family'],1):
-            reverse[word].append(f'[{r["root"]}]({r["file"]}#w-{i})')
+            anchor=r.get('word_anchors',{}).get(word,i)
+            reverse[word].append(f'[{r["root"]}]({r["file"]}#w-{anchor})')
     word_index=['# 精讲单词反查','', '[按词根学习](00_逐词精讲目录.md)','',
                 '这里只列已逐词完成精讲的单词。点击词根可直接跳到该单词的讲解。','',
                 '| 单词 | 核心意思 | 进入讲解 |','|---|---|---|']

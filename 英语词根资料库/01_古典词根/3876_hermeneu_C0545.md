@@ -16,65 +16,20 @@
 
 hermeneutic 接希腊形容词及拉丁化学术形式；hermeneutics 是相应学科形式。与 Hermes 的联系只是旧有解释，远源仍不确定。
 
-## 单词速览（常用到不常用）
+## 单词速览（按词族由简到繁）
+
+同一基础词的相关扩展放在一起，先读基础形式，再读扩展；各组之间优先读常用的。具体词源关系见各词讲解。
 
 | 单词 | 音标 | 核心意思 |
 |---|---|---|
-| [hermeneutics](#w-1) | 英 /ˌhɜːməˈnjuːtɪks/；美 /ˌhɜːrməˈnuːtɪks/ | 解释学；诠释学 |
 | [hermeneutic](#w-2) | 英 /ˌhɜːməˈnjuːtɪk/；美 /ˌhɜːrməˈnuːtɪk/ | 解释的、诠释的；一种解释方法或原则 |
+| [hermeneutics](#w-1) | 英 /ˌhɜːməˈnjuːtɪks/；美 /ˌhɜːrməˈnuːtɪks/ | 解释学；诠释学 |
 
 ## 逐词讲解
 
-<a id="w-1"></a>
-
-### 1. hermeneutics — 解释学；诠释学
-
-**音标**：英 /ˌhɜːməˈnjuːtɪks/；美 /ˌhɜːrməˈnuːtɪks/
-
-**先抓住这个画面**
-
-读一封几百年前的信，字都认得，却未必知道对方真正想表达什么。hermeneutics 研究的，就是我们怎样借语言、背景和上下文理解意义。
-
-**怎么拆**
-
-英语与 hermeneutic“解释的”及学科词尾 -ics 相连，远接希腊 hermēneuein“解释、翻译”和 hermēneutikos“用于解释的”。它曾与神话人物 Hermes 联系起来，但这种远源并未得到确证，不应画成确定祖先。
-
-**怎么变成今天的意思**
-
-**希腊 hermēneuein → hermēneutikos**  
-解释、翻译 → 用于解释的
-
-↓
-
-**拉丁化学术形式 → 英语 hermeneutic**  
-解释的、诠释的
-
-↓
-
-**英语学科形式 hermeneutics**  
-研究解释的原则、过程与条件
-
-它不只是把外语逐字换成母语，还会问：作者所处时代怎样？读者带来了什么预设？整篇文章怎样帮助理解其中一句？历史上常用于圣经等文本，后来也广泛用于哲学与人文研究。
-
-**常见搭配与例句**
-
-biblical hermeneutics；philosophical hermeneutics；the study of hermeneutics。指学科时常配单数动词：hermeneutics is…。
-
-> The course introduces hermeneutics through the interpretation of historical letters.
-
-课程通过解读历史书信来介绍解释学。
-
-> Hermeneutics asks how context shapes our understanding of a text.
-
-解释学探讨上下文如何影响我们对文本的理解。
-
-**别混淆**
-
-translation 是翻译这个活动；hermeneutics 进一步研究怎样理解、凭什么这样理解。它也不意味着任何解释都一样有根据。
-
 <a id="w-2"></a>
 
-### 2. hermeneutic — 解释的、诠释的；一种解释方法或原则
+### 1. hermeneutic — 解释的、诠释的；一种解释方法或原则
 
 **音标**：英 /ˌhɜːməˈnjuːtɪk/；美 /ˌhɜːrməˈnuːtɪk/
 
@@ -118,6 +73,53 @@ a hermeneutic approach；the hermeneutic circle；a hermeneutic of suspicion。�
 **别混淆**
 
 hermeneutics 常指解释学这门研究；a hermeneutic 可指某一种解释原则。hermetic“密封的、封闭的”是另一条词源和用法。
+
+<a id="w-1"></a>
+
+### 2. hermeneutics — 解释学；诠释学
+
+**音标**：英 /ˌhɜːməˈnjuːtɪks/；美 /ˌhɜːrməˈnuːtɪks/
+
+**先抓住这个画面**
+
+读一封几百年前的信，字都认得，却未必知道对方真正想表达什么。hermeneutics 研究的，就是我们怎样借语言、背景和上下文理解意义。
+
+**怎么拆**
+
+英语与 hermeneutic“解释的”及学科词尾 -ics 相连，远接希腊 hermēneuein“解释、翻译”和 hermēneutikos“用于解释的”。它曾与神话人物 Hermes 联系起来，但这种远源并未得到确证，不应画成确定祖先。
+
+**怎么变成今天的意思**
+
+**希腊 hermēneuein → hermēneutikos**  
+解释、翻译 → 用于解释的
+
+↓
+
+**拉丁化学术形式 → 英语 hermeneutic**  
+解释的、诠释的
+
+↓
+
+**英语学科形式 hermeneutics**  
+研究解释的原则、过程与条件
+
+它不只是把外语逐字换成母语，还会问：作者所处时代怎样？读者带来了什么预设？整篇文章怎样帮助理解其中一句？历史上常用于圣经等文本，后来也广泛用于哲学与人文研究。
+
+**常见搭配与例句**
+
+biblical hermeneutics；philosophical hermeneutics；the study of hermeneutics。指学科时常配单数动词：hermeneutics is…。
+
+> The course introduces hermeneutics through the interpretation of historical letters.
+
+课程通过解读历史书信来介绍解释学。
+
+> Hermeneutics asks how context shapes our understanding of a text.
+
+解释学探讨上下文如何影响我们对文本的理解。
+
+**别混淆**
+
+translation 是翻译这个活动；hermeneutics 进一步研究怎样理解、凭什么这样理解。它也不意味着任何解释都一样有根据。
 
 ## 这一组要分清什么
 

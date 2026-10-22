@@ -17,7 +17,9 @@
 
 ignorant、ignorance 是历史上分别借入的同族词，不要都画成英语 ignore 现场加后缀。ignored 是 ignore 的过去式与过去分词，ignoring 是 -ing 形式；ignorantly 则是 ignorant + -ly。
 
-## 单词速览（常用到不常用）
+## 单词速览（按词族由简到繁）
+
+同一基础词的相关扩展放在一起，先读基础形式，再读扩展；各组之间优先读常用的。具体词源关系见各词讲解。
 
 | 单词 | 音标 | 核心意思 |
 |---|---|---|
@@ -25,8 +27,8 @@ ignorant、ignorance 是历史上分别借入的同族词，不要都画成英�
 | [ignored](#w-2) | 英 /ɪɡˈnɔːd/；美 /ɪɡˈnɔːrd/ | 忽视了；被忽略的、不受理会的 |
 | [ignorant](#w-3) | 英、美 /ˈɪɡnərənt/ | 不了解的；无知的；粗鲁无礼的〔口语〕 |
 | [ignorance](#w-4) | /ˈɪɡnərəns/ | 无知；不了解、不知情 |
-| [ignoring](#w-5) | 英 /ɪɡˈnɔːrɪŋ/；美 /ɪɡˈnɔːrɪŋ/ | 正在忽视；不理会这一行为 |
 | [ignorantly](#w-6) | 英、美 /ˈɪɡnərəntli/ | 无知地；因不了解而 |
+| [ignoring](#w-5) | 英 /ɪɡˈnɔːrɪŋ/；美 /ɪɡˈnɔːrɪŋ/ | 正在忽视；不理会这一行为 |
 
 ## 逐词讲解
 
@@ -208,56 +210,9 @@ ignorance of；in ignorance；admit ignorance；out of ignorance。
 
 ignorance 主要是“不知道”；ignoring 是“不理会”的行为。两者同源，现代含义却不能当成一个动作与其名词的简单对应。
 
-<a id="w-5"></a>
-
-### 5. ignoring — 正在忽视；不理会这一行为
-
-**音标**：英 /ɪɡˈnɔːrɪŋ/；美 /ɪɡˈnɔːrɪŋ/
-
-**先抓住这个画面**
-
-事情摆在面前，注意力却从它旁边绕过去。
-
-**怎么拆**
-
-ignore 去末尾不发音 e 加 -ing；可作现在分词或动名词。即使英音 ignore 末尾不发 r，接元音词尾时这里的 r 仍读出来。
-
-**怎么变成今天的意思**
-
-**拉丁 in- + gnarus → ignarus／ignorare**  
-不 + 知道 → 不知道；不理会
-
-↓
-
-**法语 ignorer → 英语 ignore**  
-最初有不知道义，现代常指不予理会
-
-↓
-
-**英语 ignore + -ing → ignoring**  
-不理会的持续动作或这一行为
-
-Are you ignoring me? 问的是“你是不是不理我”，不是“你是不是不认识我”。Ignoring the problem won’t help 里整个 -ing 短语作主语，表示“不去处理问题”这种做法。
-
-**常见搭配与例句**
-
-keep ignoring；stop ignoring；ignoring the problem。
-
-> Ignoring the leak will only make the damage worse.
-
-不管漏水问题，只会让损坏更严重。
-
-> She was not ignoring you; she could not hear the question.
-
-她不是不理你，而是没听见问题。
-
-**别混淆**
-
-ignoring 指行为，ignorant 指不了解的状态；He is ignoring the warning 与 He is ignorant of the warning 讲的是不同情况。
-
 <a id="w-6"></a>
 
-### 6. ignorantly — 无知地；因不了解而
+### 5. ignorantly — 无知地；因不了解而
 
 **音标**：英、美 /ˈɪɡnərəntli/
 
@@ -306,6 +261,53 @@ speak ignorantly；act ignorantly。
 **别混淆**
 
 deliberately 是故意地；ignorantly 指缺少知识，即使结果相同，动机也不同。
+
+<a id="w-5"></a>
+
+### 6. ignoring — 正在忽视；不理会这一行为
+
+**音标**：英 /ɪɡˈnɔːrɪŋ/；美 /ɪɡˈnɔːrɪŋ/
+
+**先抓住这个画面**
+
+事情摆在面前，注意力却从它旁边绕过去。
+
+**怎么拆**
+
+ignore 去末尾不发音 e 加 -ing；可作现在分词或动名词。即使英音 ignore 末尾不发 r，接元音词尾时这里的 r 仍读出来。
+
+**怎么变成今天的意思**
+
+**拉丁 in- + gnarus → ignarus／ignorare**  
+不 + 知道 → 不知道；不理会
+
+↓
+
+**法语 ignorer → 英语 ignore**  
+最初有不知道义，现代常指不予理会
+
+↓
+
+**英语 ignore + -ing → ignoring**  
+不理会的持续动作或这一行为
+
+Are you ignoring me? 问的是“你是不是不理我”，不是“你是不是不认识我”。Ignoring the problem won’t help 里整个 -ing 短语作主语，表示“不去处理问题”这种做法。
+
+**常见搭配与例句**
+
+keep ignoring；stop ignoring；ignoring the problem。
+
+> Ignoring the leak will only make the damage worse.
+
+不管漏水问题，只会让损坏更严重。
+
+> She was not ignoring you; she could not hear the question.
+
+她不是不理你，而是没听见问题。
+
+**别混淆**
+
+ignoring 指行为，ignorant 指不了解的状态；He is ignoring the warning 与 He is ignorant of the warning 讲的是不同情况。
 
 ## 这一组要分清什么
 

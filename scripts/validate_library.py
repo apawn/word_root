@@ -32,6 +32,8 @@ hyphens=set('-\u00ad\u2010\u2011\u2012\u2013\u2014\u2212\ufe63\uff0d')
 check(not any(set(w)&hyphens for r in R for w in r['family']),'Hyphenated vocabulary is still present')
 lessons,authored=load_lessons()
 P=json.loads((O/'data/精讲进度.json').read_text())
+reading_order=json.loads((O/'data/精讲词族顺序.json').read_text())['roots']
+check(set(reading_order)==set(lessons),'Reading order does not cover all lessons')
 expected_digest=hashlib.sha256(json.dumps({'roots':lessons,'words':authored},ensure_ascii=False,sort_keys=True).encode()).hexdigest()
 check(P.get('authored_sha256')==expected_digest,'Rendered lessons are stale relative to authored content')
 used={w for r in R if r['id'] in lessons for w in r['family']}
@@ -42,6 +44,21 @@ check(P['examples']==sum(len(authored[w]['examples']) for w in used),'Authored e
 for rid,lesson in lessons.items():
     r=byid[rid];body=(O/r['file']).read_text()
     check(set(r['family'])==set(lesson['words']),f'Lesson family mismatch: {rid}')
+    order=list(r['family'])
+    groups=reading_order[rid]['groups']
+    check([w for group in groups for w in group]==order,f'Noncontiguous reading groups: {rid}')
+    positions={w:i for i,w in enumerate(order)}
+    for child,link in reading_order[rid]['reading_links'].items():
+        check(positions[link['base']]<positions[child],f'Extension precedes its reading base: {rid}/{child}')
+    headings=re.findall(r'^### (\d+)\. (.*?) — ',body,re.M)
+    check([w for _,w in headings]==order,f'Word headings do not follow family order: {rid}')
+    check([int(i) for i,_ in headings]==list(range(1,len(order)+1)),f'Word numbering is not sequential: {rid}')
+    overview=re.findall(r'^\| \[([^\]]+)\]\(#w-(\d+)\) \|',body,re.M)
+    check([w for w,_ in overview]==order,f'Overview order differs from word explanations: {rid}')
+    anchors={w:int(i) for w,i in overview}
+    check(anchors==r['word_anchors'],f'Overview does not use stable word anchors: {rid}')
+    targets={w:int(i) for i,w in re.findall(r'<a id="w-(\d+)"></a>\n\n### \d+\. (.*?) — ',body)}
+    check(targets==anchors,f'Word anchors point to the wrong explanations: {rid}')
     check(len(re.findall(r'^### \d+\. ',body,re.M))==len(r['family']),f'Missing word explanations: {rid}')
     check(body.count('**先抓住这个画面**')==len(r['family']),f'Missing word mental picture: {rid}')
     check(body.count('../assets/evolution/')==sum(word_has_image(authored[w]) for w in r['family']),f'Word diagram availability mismatch: {rid}')
