@@ -106,7 +106,7 @@ E('impartially','英 /ɪmˈpɑːʃəli/；美 /ɪmˈpɑːrʃəli/','公正地；
 ('All applications will be assessed impartially.','所有申请都会受到公正评估。'),('She listened impartially to both sides of the dispute.','她不偏不倚地听取了争议双方的陈述。')),
 E('particle','英 /ˈpɑːtɪkəl/；美 /ˈpɑːrtəkəl/','微粒；粒子；语法小品词',
 '把一大块东西继续分小，眼前只剩下一粒。这是 particle 最容易抓住的画面。',
-'拉丁语 particula 是 pars“部分”的指小形式，经法语及拉丁语来源进入英语。',PARTIC,
+'可以按词源记成 part（部分）+ -icle（表示“小”的后缀）：一小部分 → 微粒。-icle 对应拉丁语的指小词尾 -icula；“指小”就是把原来的东西说小一点。历史上先有拉丁语 pars（词干 part-）的指小形式 particula“小部分”，再经法语及拉丁语来源进入英语，并不是英语里临时把 part 和 -icle 拼起来。',PARTIC,
 '物理和日常语境指很小的单位，未必都肉眼可见。语法里的 particle 则是一类短小、通常不变化的词，如某些短语动词中的 up。',
 'dust particles；a particle of sand；particle physics。',
 'particle 不等于 atom：粒子范围很广，尘粒远大于一个原子；物理学中还可指电子等。',
