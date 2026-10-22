@@ -1,0 +1,76 @@
+[
+  {
+    "id": "C0289",
+    "meaning": "跑；流动；沿路线发展",
+    "core": "CURR / CURS = RUN",
+    "image": "沿路线往前跑；跑回来、一起跑、跑入某事，会产生不同词义",
+    "intro": "**curr-/curs-** 来自拉丁语 **currere**“跑”，相关形式有 **cursus**。水流在跑是 current，钱在人群中流通是 currency，学习沿路线推进是 course、curriculum。再加方向：recur 跑回来，incur 跑进一笔负担，concur 跑到同一个判断上。",
+    "forms": "**curr-** 常见于 occur、recur、current；**curs-** 常见于 cursor、cursive、recursion。它们属于拉丁语同一词族的不同形式。法语音变又留下 course、courier 等。**cur-**“照料”是另一条词根，不能因为拼写相像就把 cure、curious 全拉进来。",
+    "branches": [
+      [
+        "路线与学习进程",
+        "course · coursework · curriculum"
+      ],
+      [
+        "流动与通行",
+        "current · currency · undercurrent"
+      ],
+      [
+        "发生与复现",
+        "occur · occurrence · recur"
+      ],
+      [
+        "汇合与同时推进",
+        "concur · concurrent · concurrency"
+      ],
+      [
+        "跑向各处",
+        "incur · excursion · discourse"
+      ],
+      [
+        "跑动的笔尖和标记",
+        "cursor · cursive · cursory"
+      ],
+      [
+        "规则回到自身",
+        "recursion · recursive · recursively"
+      ]
+    ],
+    "contrasts": "**occur / incur / recur**：事情发生 / 某人招致负担 / 事情再次发生。\n\n**concurrent / consecutive**：时间重叠 / 接连先后。\n\n**cursive / cursory**：连笔书写 / 草草看过；认真写连笔字完全可以。\n\n**recurrence / recursion**：事件复现 / 规则或过程自我引用，不是同一个“重复”。",
+    "practice": "**The error occurred during two concurrent tasks; we changed the process to prevent its recurrence.**\n\n错误在两项并发任务进行时出现；我们修改了流程，防止它再次发生。occur 是出现，concurrent 是一起进行，recurrence 是再次出现。",
+    "words": [
+      "course",
+      "current",
+      "currently",
+      "currency",
+      "cryptocurrency",
+      "occur",
+      "occurrence",
+      "incur",
+      "recur",
+      "recurrent",
+      "recurrence",
+      "concur",
+      "concurrent",
+      "concurrently",
+      "concurrency",
+      "corridor",
+      "courier",
+      "discourse",
+      "precursor",
+      "excursion",
+      "cursor",
+      "cursory",
+      "cursive",
+      "coursework",
+      "racecourse",
+      "undercurrent",
+      "watercourse",
+      "recursion",
+      "recursive",
+      "recursively",
+      "curriculum",
+      "extracurricular"
+    ]
+  }
+]

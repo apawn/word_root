@@ -1,0 +1,81 @@
+[
+  {
+    "id": "C1308",
+    "meaning": "感觉到；察觉；由感受进入判断与意见",
+    "core": "SENT / SENS = FEEL, PERCEIVE",
+    "image": "信息进来引起感受，再形成理解、态度和判断",
+    "intro": "**sent-/sens-** 来自拉丁语 **sentīre**“感到、察觉、认为”。它不只管五官：感受到是 sense，容易受触动是 sensitive，能作实际判断是 sensible。大家想法一致是 consent、consensus；想法分开则是 dissent。",
+    "forms": "**sent-** 见 sentient、sentence、sentiment；**sens-** 与拉丁语 sēnsus 等形式有关，见 sense、sensation。经法语变化还有 scent、resent。**scent** 的 c 是后加的拼写，不能当成一个额外词根。send 的过去式 sent 虽同形，不从这条拉丁语路径来。",
+    "branches": [
+      [
+        "感知与设备",
+        "sense · sensory · sensor · scent"
+      ],
+      [
+        "敏锐与明智分开",
+        "sensitive · sensible · sensibility"
+      ],
+      [
+        "强烈感受与轰动",
+        "sensation · sensational"
+      ],
+      [
+        "想法合拢或分开",
+        "consent · consensus · assent · dissent"
+      ],
+      [
+        "内心情绪与态度",
+        "sentiment · sentimental · resentment"
+      ],
+      [
+        "感受与判断的特殊去向",
+        "sentient · sentence · antisense"
+      ]
+    ],
+    "contrasts": "**sensible / sensitive / sensory**：明智的 / 敏感或体贴的 / 与感官相关的。\n\n**sentimental / sentimentality**：有感情，不代表一定过度煽情。sentimental value 通常是温和的感情价值，sentimentality 常批评过度感伤。\n\n**consent / consensus / assent**：当事人同意或许可 / 群体共识 / 对观点或提议表示认可。\n\n**sensation / sentiment**：一次直接感受或轰动 / 更持续的情绪、态度与看法。",
+    "practice": "**A sensible reply can also be sensitive: acknowledge the concern without making a sensational claim.**\n\n明智的回复也可以很体贴：承认对方的顾虑，同时不作耸动断言。sensible 是判断合理，sensitive 是顾及感受，sensational 是制造强烈反应。",
+    "words": [
+      "sense",
+      "sentence",
+      "sensitive",
+      "sensitivity",
+      "sensitively",
+      "insensitive",
+      "insensitivity",
+      "hypersensitive",
+      "oversensitive",
+      "photosensitive",
+      "sensitize",
+      "sensitization",
+      "sensible",
+      "sensibly",
+      "sensibility",
+      "sensation",
+      "sensational",
+      "sensationalism",
+      "sensationalist",
+      "sensor",
+      "sensory",
+      "somatosensory",
+      "scent",
+      "nonsense",
+      "senseless",
+      "consent",
+      "consensus",
+      "consensual",
+      "assent",
+      "dissent",
+      "dissenter",
+      "resent",
+      "resentment",
+      "resentful",
+      "sentiment",
+      "sentimental",
+      "sentimentality",
+      "unsentimental",
+      "sentient",
+      "sentience",
+      "antisense"
+    ]
+  }
+]

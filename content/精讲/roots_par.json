@@ -1,0 +1,110 @@
+[
+  {
+    "id": "C0958",
+    "meaning": "准备、备办、安排；修复、分开与命令支线",
+    "core": "PAR：把事情安排到位，把东西备好",
+    "image": "出发前把工具摆好；坏了重新弄好；把混在一起的东西分开安置",
+    "intro": "从**出发前把东西一件件备好**开始理解。拉丁语 parāre 表示准备、安排、置办。prepare 是预先备好；repair 把损坏的东西重新恢复到可用状态；separate 则沿着“分开安排”发展成分离。imperāre 走向安排、命令，由它又有统治权 imperium 和帝国 empire。学这一族，抓住“备好、安排”的动作，再分别看它在哪条历史路线上变化。",
+    "forms": "本页的 **par- 来自拉丁 parāre（词典第一人称 parō）**，不是见到 par 就能套用。“生育”的 **parere（pariō）** 是另一个拉丁动词；即使讨论更远的词源联系，也不能把两者当成同一现代词根用法。“相等”的 **par** 也另有一族。**imper- / emper-** 反映 imperāre、imperium 及法语传播的变化；**sever-** 经法语 sevrer 发展，已经看不见原来的 par。**repair to**“前往”另走 patria“家乡”一路；**parison** 的修辞义另来自希腊语。本页在相应单词中分别画清。",
+    "branches": [
+      [
+        "先把所需的备好",
+        "prepare · prepared · preparation · preparatory"
+      ],
+      [
+        "重新恢复到可用",
+        "repair · reparable · reparation · disrepair"
+      ],
+      [
+        "分开安置、各自独立",
+        "separate · separation · several · inseparable"
+      ],
+      [
+        "把原来的联系切断",
+        "sever · severance · dissever"
+      ],
+      [
+        "从安排到命令、统治",
+        "imperative · emperor · empire · imperial"
+      ],
+      [
+        "备好器具、整理外观",
+        "apparatus · apparat · pare · parure"
+      ],
+      [
+        "展示、格挡、准备坯料",
+        "parade · parry · parison"
+      ],
+      [
+        "提出过失、猛烈责斥",
+        "vituperate · vituperation · vituperative"
+      ]
+    ],
+    "contrasts": "**prepare / repair**：预先备好 / 损坏后恢复；repair to a place 的“前往”是另一个来源。\n\n**separate / sever / several**：分开 / 切断 / 几个、若干。several 的“各自”旧义仍可在 their several ways 中见到。severe“严厉”不属于这条词源线。\n\n**reparable / repairable / irreparable**：可弥补或修复 / 可修理 / 无法挽回。reparable 重音在开头，repairable 随 repair 后重。\n\n**imperial / imperious / imperative**：帝国、皇帝相关 / 专横的 / 必须做的，或语法上的命令式。不要把三个词都记成“帝国的”。\n\n**disparate / separate**：性质很不一样 / 彼此分开。disparate 的历史还受到 dispar“不同等”的影响；不能因此把它和所有 par“相等”词族合并。\n\n**separation / separatism / separatist**：分开的事实 / 主张分开的立场 / 支持这种立场的人，或相关形容词。\n\n**apparatus / apparat**：一套器具或机构 / 更带政治历史色彩的党政机器。",
+    "practice": "**We prepared several examples separately and repaired the damaged model before the parade.**\n\n我们分别准备了几个例子，并在游行前修好了损坏的模型。prepared 是事先备好，several 表示若干，separately 表示分开处理，repaired 是恢复可用，parade 是公开的列队展示。相同远源已经发展成不同用途，理解画面后仍要按各词的现代搭配来用。",
+    "words": [
+      "several",
+      "separate",
+      "prepared",
+      "prepare",
+      "empire",
+      "repair",
+      "preparation",
+      "emperor",
+      "imperial",
+      "parade",
+      "separation",
+      "separately",
+      "prep",
+      "apparatus",
+      "imperative",
+      "empress",
+      "parry",
+      "preparatory",
+      "imperialism",
+      "preparedness",
+      "unprepared",
+      "disparate",
+      "severance",
+      "sever",
+      "imperialist",
+      "inseparable",
+      "separatist",
+      "separator",
+      "irreparable",
+      "disrepair",
+      "pare",
+      "separatism",
+      "imperious",
+      "reparation",
+      "separable",
+      "irreparably",
+      "imperator",
+      "preparer",
+      "repairable",
+      "severally",
+      "reparative",
+      "inseparably",
+      "severable",
+      "severability",
+      "imperiously",
+      "vituperative",
+      "separability",
+      "preparative",
+      "apparat",
+      "parison",
+      "vituperation",
+      "parure",
+      "reparable",
+      "comprador",
+      "separative",
+      "empery",
+      "dissever",
+      "disseverance",
+      "imperant",
+      "separatory",
+      "separatrix",
+      "vituperate"
+    ]
+  }
+]

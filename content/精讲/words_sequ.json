@@ -1,0 +1,1177 @@
+[
+  {
+    "word": "second",
+    "ipa": "/ˈsekənd/；借调义动词英 /sɪˈkɒnd/",
+    "meaning": "第二；秒；附议；另有借调义",
+    "sense": "第一个走在前面，紧跟着的就是 second。“秒”也保留第二的概念，只是指把时间再次六十分割后的那一份。",
+    "split": "拉丁语 secundus“跟在后面的”经法语进入英语。时间单位来自中世纪拉丁语 secunda pars minuta“第二次细分的一份”。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：secundus",
+        "跟在后面的；第二"
+      ],
+      [
+        "古法语：second",
+        "第二"
+      ],
+      [
+        "英语：second",
+        "第二；经第二层细分命名的秒"
+      ]
+    ],
+    "explanation": "一小时先分成六十份得到分钟，再把一分钟分成六十份得到秒。动词 second a motion 是跟进支持一项提议；借调义读音另有变化。",
+    "usage": "the second floor；a second chance；wait a second；second a motion。",
+    "contrast": "second 的第二义与 two 的数量义不同。second a motion 是附议，不是把提议重复第二遍。",
+    "examples": [
+      [
+        "She finished second in the race.",
+        "她在比赛中获得第二名。"
+      ],
+      [
+        "Wait a second while I find the key.",
+        "等一下，我找找钥匙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/second#English",
+      "https://www.etymonline.com/word/second"
+    ]
+  },
+  {
+    "word": "sequence",
+    "ipa": "/ˈsiːkwəns/",
+    "meaning": "顺序；序列；一连串",
+    "sense": "把几件事按“谁跟着谁”排成一条队，这条队和它的排列方式都可以叫 sequence。",
+    "split": "拉丁语 sequēns“跟着的”形成 sequentia，经古法语进入英语。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：sequēns → sequentia",
+        "跟着的 → 接续"
+      ],
+      [
+        "古法语：sequence",
+        "接连的一组"
+      ],
+      [
+        "英语：sequence",
+        "顺序；序列"
+      ]
+    ],
+    "explanation": "数字、镜头、操作步骤都能形成 sequence。它不一定表示因果，只说明存在次序或连续安排。",
+    "usage": "in sequence；a sequence of events；the correct sequence；sequence data。",
+    "contrast": "sequence 是排列；consequence 是由前面引出的结果。先后顺序本身不能证明因果。",
+    "examples": [
+      [
+        "Put the pictures in the correct sequence.",
+        "把图片按正确顺序排列。"
+      ],
+      [
+        "The film opens with a long sequence set in a railway station.",
+        "电影以一段发生在火车站的较长连续场景开场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sequence#English"
+    ]
+  },
+  {
+    "word": "sequential",
+    "ipa": "/sɪˈkwenʃəl/",
+    "meaning": "按顺序的；依次发生的",
+    "sense": "第一步走完再接第二步，步骤按预定次序排开，这种安排是 sequential。",
+    "split": "拉丁语 sequentia“接续”词族加 -al 形成；现代与 sequence 对应，词中发音变为 /kwenʃ/。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：sequēns → sequentia",
+        "跟着的 → 接续"
+      ],
+      [
+        "英语：sequential",
+        "按先后顺序排列的"
+      ]
+    ],
+    "explanation": "常用来描述编号、步骤、阅读或处理方式。强调有序推进，不一定每两个事件之间完全没有间隔。",
+    "usage": "sequential steps；sequential numbering；sequential processing。",
+    "contrast": "sequential 说按顺序；simultaneous 说同时发生。consecutive 更强调连续、没有跳过中间项。",
+    "examples": [
+      [
+        "The instructions describe five sequential steps.",
+        "说明书列出了五个依次进行的步骤。"
+      ],
+      [
+        "Each page is given a sequential number.",
+        "每页都有一个连续编号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sequential#English"
+    ]
+  },
+  {
+    "word": "sequencer",
+    "ipa": "英 /ˈsiːkwənsə/；美 /ˈsiːkwənsər/",
+    "meaning": "音序器；测序仪；顺序控制装置",
+    "sense": "有的设备替你安排“先放哪个音、再放哪个音”；有的设备读取分子里的排列顺序。它们都围绕 sequence 工作。",
+    "split": "sequence + -er，表示处理、生成或读取序列的设备、工具。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：sequēns → sequentia",
+        "跟着的 → 接续"
+      ],
+      [
+        "古法语：sequence",
+        "接连的一组"
+      ],
+      [
+        "英语：sequence",
+        "顺序；序列"
+      ],
+      [
+        "英语：sequencer",
+        "处理或确定顺序的工具"
+      ]
+    ],
+    "explanation": "音乐里的 sequencer 编排音符或事件；生物学里的 sequencer 测定分子序列。不能看见相同后缀就认定是同一种机器。",
+    "usage": "a music sequencer；a DNA sequencer；a software sequencer。",
+    "contrast": "sequencer 是设备或软件；sequence 是它处理的顺序或序列。测序仪不是“排序人员”。",
+    "examples": [
+      [
+        "She programmed the drum pattern with a sequencer.",
+        "她用音序器编排了鼓点。"
+      ],
+      [
+        "The laboratory installed a new DNA sequencer.",
+        "实验室安装了一台新的 DNA 测序仪。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sequencer#English"
+    ]
+  },
+  {
+    "word": "subsequent",
+    "ipa": "/ˈsʌbsɪkwənt/",
+    "meaning": "随后的；之后发生的",
+    "sense": "先在时间线上标出一件事，再看它后面发生的事，这些后来的事就是 subsequent events。",
+    "split": "拉丁语 sub- 在这里有随后、紧跟的意味，与 sequī 组成 subsequī，再经法语传入。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：subsequī → subsequēns",
+        "在后面跟随 → 随后的"
+      ],
+      [
+        "法语：subséquent",
+        "随后的"
+      ],
+      [
+        "英语：subsequent",
+        "之后出现的"
+      ]
+    ],
+    "explanation": "重点是相对于某个已说出的时间点更晚，不必紧贴下一秒，也不一定由前面的事导致。",
+    "usage": "subsequent events；subsequent changes；subsequent to。",
+    "contrast": "subsequent 只说后来的；consequent 常说由此前事情产生的。两件事先后发生，不代表后者是前者的后果。",
+    "examples": [
+      [
+        "The first test failed, but subsequent tests were successful.",
+        "第一次测试失败了，但后来的测试都成功了。"
+      ],
+      [
+        "The report includes subsequent changes to the plan.",
+        "报告包括之后对计划作出的修改。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subsequent#English"
+    ]
+  },
+  {
+    "word": "subsequently",
+    "ipa": "/ˈsʌbsɪkwəntli/",
+    "meaning": "随后；后来",
+    "sense": "叙述先往前走了一步，subsequently 再把你带到更晚的时候。",
+    "split": "subsequent + -ly。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：subsequī → subsequēns",
+        "在后面跟随 → 随后的"
+      ],
+      [
+        "法语：subséquent",
+        "随后的"
+      ],
+      [
+        "英语：subsequent",
+        "之后出现的"
+      ],
+      [
+        "英语：subsequently",
+        "在之后的时间"
+      ]
+    ],
+    "explanation": "常用于较正式的事件叙述。说后来改了名、后来发现问题，只交代时间推进，不自动说明为什么。",
+    "usage": "subsequently discovered；subsequently became；was subsequently changed。",
+    "contrast": "subsequently 是后来；consequently 是因此。这个差别在解释事件时很关键。",
+    "examples": [
+      [
+        "The building was subsequently converted into a library.",
+        "这栋建筑后来被改成了图书馆。"
+      ],
+      [
+        "She applied for the post and was subsequently invited for an interview.",
+        "她申请了这个职位，随后获邀参加面试。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subsequently#English"
+    ]
+  },
+  {
+    "word": "consecutive",
+    "ipa": "/kənˈsekjətɪv/",
+    "meaning": "连续的；接连的",
+    "sense": "编号 1、2、3、4 一个跟着一个，中间不跳号；连续四天，也不能中途漏掉一天。",
+    "split": "拉丁语 cōnsequī“跟随”的相关形式 cōnsecūtus 形成 cōnsecūtīvus，经法语 consécutif 进入英语。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：cōnsecūtus → cōnsecūtīvus",
+        "跟随 → 接连的"
+      ],
+      [
+        "法语：consécutif",
+        "连续的"
+      ],
+      [
+        "英语：consecutive",
+        "一个紧接一个的"
+      ]
+    ],
+    "explanation": "它强调中间没有打断序列。three consecutive wins 是连续赢三次，不是总共赢过三次。",
+    "usage": "three consecutive days；consecutive wins；consecutive numbers。",
+    "contrast": "consecutive 是一个接一个；concurrent 是同一时段重叠进行。",
+    "examples": [
+      [
+        "It rained for five consecutive days.",
+        "雨连续下了五天。"
+      ],
+      [
+        "The team won its third consecutive match.",
+        "球队取得了第三场连胜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consecutive#English"
+    ]
+  },
+  {
+    "word": "consecutively",
+    "ipa": "/kənˈsekjətɪvli/",
+    "meaning": "连续地；依次不断地",
+    "sense": "看一次行动之后是否紧接同系列的下一次，中间没有插入别的结果或漏掉一项。",
+    "split": "consecutive + -ly。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：cōnsecūtus → cōnsecūtīvus",
+        "跟随 → 接连的"
+      ],
+      [
+        "法语：consécutif",
+        "连续的"
+      ],
+      [
+        "英语：consecutive",
+        "一个紧接一个的"
+      ],
+      [
+        "英语：consecutively",
+        "按连续次序进行"
+      ]
+    ],
+    "explanation": "可以说比赛连胜，也可以说页码连续编排。它强调持续排列方式，不强调速度。",
+    "usage": "number consecutively；win consecutively；run consecutively。",
+    "contrast": "consecutively 不是 constantly：后者常说持续不变或反复，前者要有可依次排列的一系列项目。",
+    "examples": [
+      [
+        "Number the pages consecutively from one to twenty.",
+        "把页面从一到二十连续编号。"
+      ],
+      [
+        "She won the award three years consecutively.",
+        "她连续三年获得了这个奖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consecutively#English"
+    ]
+  },
+  {
+    "word": "consequence",
+    "ipa": "英 /ˈkɒnsɪkwəns/；美 /ˈkɑːnsəkwəns/",
+    "meaning": "结果；后果；重要性",
+    "sense": "把一块多米诺骨牌推倒，后面跟着倒下的那些，就是前一步带来的 consequences。",
+    "split": "拉丁语 cōnsequī“跟随”产生 consequentia，经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：cōnsequī → consequentia",
+        "跟随 → 随之而来的结果"
+      ],
+      [
+        "古法语：consequence",
+        "结果"
+      ],
+      [
+        "英语：consequence",
+        "后果；重要性"
+      ]
+    ],
+    "explanation": "“跟在后面的事”发展成因行动而来的结果。常谈不好的后果，但也能有 positive consequences。of consequence 则是有分量、有重要性。",
+    "usage": "as a consequence；face the consequences；unintended consequences；of little consequence。",
+    "contrast": "result 比较中性；consequence 常提醒你承担后续影响，但它并不天然等于惩罚。",
+    "examples": [
+      [
+        "Every choice has consequences.",
+        "每个选择都会带来后果。"
+      ],
+      [
+        "The delay had little consequence for the final result.",
+        "这次延误对最终结果影响不大。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consequence#English",
+      "https://www.etymonline.com/word/consequence"
+    ]
+  },
+  {
+    "word": "consequent",
+    "ipa": "英 /ˈkɒnsɪkwənt/；美 /ˈkɑːnsəkwənt/",
+    "meaning": "随之产生的；由此导致的",
+    "sense": "不是只排在后面，而是前面的事情把它带了出来：停电以及随之而来的中断。",
+    "split": "经法语来自拉丁语 cōnsequēns“跟随的”，是 cōnsequī 的相关形式。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：cōnsequī → cōnsequēns",
+        "跟随 → 随之产生的"
+      ],
+      [
+        "法语：conséquent",
+        "由前面事情引出的"
+      ],
+      [
+        "英语：consequent",
+        "随之发生的"
+      ]
+    ],
+    "explanation": "形容某个变化是前面情况的结果，常见较正式书面语。名词在逻辑里也可指条件命题的后件。",
+    "usage": "the consequent delay；consequent upon；the consequent loss。",
+    "contrast": "subsequent 只说时间在后；consequent 往往还建立因果或逻辑关系。",
+    "examples": [
+      [
+        "The storm and the consequent power cuts disrupted the event.",
+        "暴风雨及其引起的停电打乱了活动。"
+      ],
+      [
+        "The report describes changes consequent upon the merger.",
+        "报告描述了合并后由此带来的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consequent#English"
+    ]
+  },
+  {
+    "word": "consequently",
+    "ipa": "英 /ˈkɒnsɪkwəntli/；美 /ˈkɑːnsəkwəntli/",
+    "meaning": "因此；所以",
+    "sense": "前一句是推动骨牌的原因，后一句说跟着倒下的结果，consequently 就放在这两步之间。",
+    "split": "consequent + -ly。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：cōnsequī → cōnsequēns",
+        "跟随 → 随之产生的"
+      ],
+      [
+        "法语：conséquent",
+        "由前面事情引出的"
+      ],
+      [
+        "英语：consequent",
+        "随之发生的"
+      ],
+      [
+        "英语：consequently",
+        "作为结果；因此"
+      ]
+    ],
+    "explanation": "用于明确因果关系，语气较正式。它并非只是“后来”，作者是在说前面的事造成后面的事。",
+    "usage": "and consequently…；consequently, …；consequently unable to…。",
+    "contrast": "consequently 是因此；subsequently 是随后。下雨后停电，只说先后时用 subsequently；已知因暴雨停电才适合 consequently。",
+    "examples": [
+      [
+        "The road was flooded; consequently, the bus took another route.",
+        "道路被水淹了，因此公交车改走了另一条路。"
+      ],
+      [
+        "She missed the deadline and consequently lost her place.",
+        "她错过了截止日期，因此失去了名额。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consequently#English"
+    ]
+  },
+  {
+    "word": "consequential",
+    "ipa": "英 /ˌkɒnsɪˈkwenʃəl/；美 /ˌkɑːnsəˈkwenʃəl/",
+    "meaning": "影响重大的；随之产生的",
+    "sense": "一个看似小的决定能把后面许多事情一起带动，它就是 consequential：后果有分量。",
+    "split": "consequent + -ial，构成描述性质的形容词。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：cōnsequī → cōnsequēns",
+        "跟随 → 随之产生的"
+      ],
+      [
+        "法语：conséquent",
+        "由前面事情引出的"
+      ],
+      [
+        "英语：consequent",
+        "随之发生的"
+      ],
+      [
+        "英语：consequential",
+        "带来重要后果的"
+      ]
+    ],
+    "explanation": "重要义来自“会产生重要后果”。专业文字中也可直接表示由前事引起的，比如 consequential changes。",
+    "usage": "a consequential decision；a consequential change；consequential effects。",
+    "contrast": "consequent 通常说随之而来的；consequential 很常强调影响重大。confidential“保密的”则完全不同。",
+    "examples": [
+      [
+        "Choosing the site was a consequential decision.",
+        "选址是一个影响重大的决定。"
+      ],
+      [
+        "The report overlooks several consequential changes.",
+        "报告忽略了几项影响重大的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consequential#English"
+    ]
+  },
+  {
+    "word": "inconsequential",
+    "ipa": "英 /ɪnˌkɒnsɪˈkwenʃəl/；美 /ɪnˌkɑːnsəˈkwenʃəl/",
+    "meaning": "无关紧要的；影响很小的",
+    "sense": "从整体中拿掉这个小细节，事情基本照样进行；它没有带来值得在意的后果。",
+    "split": "in-（不）+ consequential（影响重大的）。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：cōnsequī → cōnsequēns",
+        "跟随 → 随之产生的"
+      ],
+      [
+        "法语：conséquent",
+        "由前面事情引出的"
+      ],
+      [
+        "英语：consequent",
+        "随之发生的"
+      ],
+      [
+        "英语：consequential",
+        "带来重要后果的"
+      ],
+      [
+        "英语：inconsequential",
+        "影响小得无关紧要的"
+      ]
+    ],
+    "explanation": "常评价细节、差异或评论，说明它不影响主要问题。不是说事情绝对没有任何结果。",
+    "usage": "an inconsequential detail；an inconsequential difference；seem inconsequential。",
+    "contrast": "inconsistent 是前后不一致；inconsequential 是不重要。一个细节可以完全一致却仍无关紧要。",
+    "examples": [
+      [
+        "The spelling difference is inconsequential in this discussion.",
+        "在这次讨论中，这个拼写差别无关紧要。"
+      ],
+      [
+        "He worried about an inconsequential detail.",
+        "他为一个不重要的细节担心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inconsequential#English"
+    ]
+  },
+  {
+    "word": "sequel",
+    "ipa": "/ˈsiːkwəl/",
+    "meaning": "续集；后续事件",
+    "sense": "故事还没走完，后面再跟上一部，继续同一个世界或情节，这一部就是 sequel。",
+    "split": "拉丁语 sequēla“跟随、随后的事”经法语 sequele 进入英语。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：sequēla",
+        "跟随而来的事"
+      ],
+      [
+        "法语：sequele",
+        "后续；结果"
+      ],
+      [
+        "英语：sequel",
+        "续集；后续事件"
+      ]
+    ],
+    "explanation": "早期可泛指后续或结果，现代最常见于电影、小说等的续作。不是任何第二部作品都自动是第一部的 sequel。",
+    "usage": "a sequel to the film；write a sequel；the long-awaited sequel。",
+    "contrast": "sequel 接续先前故事；remake 是重新拍同一个故事；prequel 则讲发生在原作之前的故事。",
+    "examples": [
+      [
+        "The author is writing a sequel to her first novel.",
+        "这位作者正在写首部小说的续集。"
+      ],
+      [
+        "The sequel follows the characters ten years later.",
+        "续集讲述这些人物十年后的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sequel#English"
+    ]
+  },
+  {
+    "word": "pursue",
+    "ipa": "英 /pəˈsjuː/；美 /pərˈsuː/",
+    "meaning": "追赶；追求；继续从事",
+    "sense": "目标在前面，你把脚步、注意力或努力持续跟上去：追人、追梦想、追问一条线索都能用 pursue。",
+    "split": "经盎格鲁诺曼语来自拉丁语 prōsequī，并受 persequī 影响；与 prosecute 是不同传入路线的亲戚。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：prōsequī / persequī",
+        "向前跟随；追踪到底"
+      ],
+      [
+        "盎格鲁诺曼语：pursure / poursuire",
+        "追赶；追求"
+      ],
+      [
+        "英语：pursue",
+        "追求；继续从事；追赶"
+      ]
+    ],
+    "explanation": "实体追逐扩展为长期追求事业、学习或目标，也可说继续推进某项调查。不是每次都带攻击意味。",
+    "usage": "pursue a career；pursue a goal；pursue a line of inquiry；pursue further study。",
+    "contrast": "follow 可以只跟在后面；pursue 通常更有目标感和持续投入。拼写里不要漏掉末尾 e。",
+    "examples": [
+      [
+        "She moved to the city to pursue a career in music.",
+        "她搬到这座城市，追求音乐事业。"
+      ],
+      [
+        "The detective pursued a new line of inquiry.",
+        "侦探沿着一条新的思路继续调查。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pursue#English"
+    ]
+  },
+  {
+    "word": "pursuit",
+    "ipa": "英 /pəˈsjuːt/；美 /pərˈsuːt/",
+    "meaning": "追求；追赶；业余爱好",
+    "sense": "pursue 是你往目标走；pursuit 把一路跟进的活动变成名词，既能是追捕，也能是持续投入的兴趣。",
+    "split": "来自古法语 poursuite，是追赶动词词族的名词形式。不是英语 pursue 简单加 t 的规则。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：prōsequī / persequī",
+        "向前跟随；追踪到底"
+      ],
+      [
+        "古法语：poursuite",
+        "追随；追赶"
+      ],
+      [
+        "英语：pursuit",
+        "追求过程；投入的活动"
+      ]
+    ],
+    "explanation": "in pursuit of 常接目标；复数 leisure pursuits 则是闲暇投入的各种爱好。",
+    "usage": "in pursuit of happiness；in hot pursuit；leisure pursuits。",
+    "contrast": "pursuit 指活动或追求过程；goal 是目标本身。不是每个 pursuit 都有一个能完成打钩的终点。",
+    "examples": [
+      [
+        "He travelled widely in pursuit of new ideas.",
+        "他为寻找新想法而四处旅行。"
+      ],
+      [
+        "Her favourite leisure pursuits are gardening and painting.",
+        "她最喜欢的业余爱好是园艺和绘画。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pursuit#English"
+    ]
+  },
+  {
+    "word": "pursuer",
+    "ipa": "英 /pəˈsjuːə/；美 /pərˈsuːər/",
+    "meaning": "追赶者；追求者",
+    "sense": "前面有人或目标，后面紧跟不放的那一方就是 pursuer。",
+    "split": "pursue + -er，去掉末尾不发音 e 后加 -er。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：prōsequī / persequī",
+        "向前跟随；追踪到底"
+      ],
+      [
+        "盎格鲁诺曼语：pursure / poursuire",
+        "追赶；追求"
+      ],
+      [
+        "英语：pursue",
+        "追求；继续从事；追赶"
+      ],
+      [
+        "英语：pursuer",
+        "追着某人或目标的人"
+      ]
+    ],
+    "explanation": "可以是具体追赶的人，也可在较正式文字里指某种目标的追求者。含义是否负面取决于追的是什么。",
+    "usage": "escape a pursuer；shake off pursuers；a pursuer of knowledge。",
+    "contrast": "pursuer 比 follower 更突出主动追踪；follower 也可能只是追随某人观点或订阅其账号。",
+    "examples": [
+      [
+        "She turned into a side street to escape her pursuers.",
+        "她拐进一条小街，想摆脱追赶者。"
+      ],
+      [
+        "The essay describes him as a tireless pursuer of knowledge.",
+        "文章把他描述为孜孜不倦的求知者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pursuer#English"
+    ]
+  },
+  {
+    "word": "pursuance",
+    "ipa": "英 /pəˈsjuːəns/；美 /pərˈsuːəns/",
+    "meaning": "执行；落实；追求的过程",
+    "sense": "文件里说 in pursuance of a plan，就是照着计划继续做，把纸上的目标往前落实。",
+    "split": "pursue + -ance，形成行为名词。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：prōsequī / persequī",
+        "向前跟随；追踪到底"
+      ],
+      [
+        "盎格鲁诺曼语：pursure / poursuire",
+        "追赶；追求"
+      ],
+      [
+        "英语：pursue",
+        "追求；继续从事；追赶"
+      ],
+      [
+        "英语：pursuance",
+        "持续推进、执行某事"
+      ]
+    ],
+    "explanation": "多用于正式文件，尤其 in pursuance of。日常表达常可改成 carrying out 或 following。",
+    "usage": "in pursuance of a policy；in pursuance of an agreement。",
+    "contrast": "pursuit 范围更广，可说追赶或兴趣；pursuance 常偏执行某计划、职责或安排。",
+    "examples": [
+      [
+        "The committee met in pursuance of the agreement.",
+        "委员会为落实协议而举行了会议。"
+      ],
+      [
+        "The report describes work done in pursuance of the plan.",
+        "报告说明了为执行计划而开展的工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pursuance#English"
+    ]
+  },
+  {
+    "word": "prosecute",
+    "ipa": "英 /ˈprɒsɪkjuːt/；美 /ˈprɑːsəkjuːt/",
+    "meaning": "起诉；进行公诉；持续推进",
+    "sense": "把一件案件沿程序往前跟进，让指控进入审理，这就是 prosecute 最常见的现代画面。",
+    "split": "来自拉丁语 prōsequī“往前跟随”的相关形式 prōsecūtus。与 pursue 同源，但法律意义更集中。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：prōsequī → prōsecūtus",
+        "继续跟进；追求"
+      ],
+      [
+        "英语：prosecute",
+        "推进某事 → 提起、进行公诉"
+      ]
+    ],
+    "explanation": "它不等于已经判定有罪，只说提出或推进指控。旧式、正式用法中还可说 prosecute a war，表示继续进行战争。",
+    "usage": "prosecute someone for an offence；prosecute a case；decide to prosecute。",
+    "contrast": "prosecute 是法律程序中的起诉；persecute 是迫害。两词拼写接近，伦理评价和实际含义不能互换。",
+    "examples": [
+      [
+        "The authorities decided to prosecute the case.",
+        "有关部门决定就此案提起公诉。"
+      ],
+      [
+        "He was prosecuted for damaging public property.",
+        "他因损坏公共财物受到起诉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prosecute#English"
+    ]
+  },
+  {
+    "word": "prosecution",
+    "ipa": "英 /ˌprɒsɪˈkjuːʃən/；美 /ˌprɑːsəˈkjuːʃən/",
+    "meaning": "起诉；公诉；控方",
+    "sense": "它既可以指把案件往前推进的过程，也可以把负责这一边的人统称为 the prosecution。",
+    "split": "晚期拉丁语 prōsecutiō 经法语进入英语；与 prosecute 同族，名词并非仅由现代英语动词现场加后缀。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：prōsequī → prōsecūtus",
+        "继续跟进；追求"
+      ],
+      [
+        "晚期拉丁语：prōsecutiō → 法语 prosecution",
+        "持续跟进；诉讼"
+      ],
+      [
+        "英语：prosecution",
+        "起诉过程；控方"
+      ]
+    ],
+    "explanation": "the prosecution 对应诉讼中提出指控的一方；a prosecution 可指一次起诉。是否胜诉是另一件事。",
+    "usage": "face prosecution；the prosecution’s case；a prosecution witness。",
+    "contrast": "prosecution 与 conviction 不同：前者是起诉或控方，后者是定罪。",
+    "examples": [
+      [
+        "The prosecution called three witnesses.",
+        "控方传唤了三名证人。"
+      ],
+      [
+        "The article traces the prosecution of the case.",
+        "文章梳理了这起案件的起诉过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prosecution#English"
+    ]
+  },
+  {
+    "word": "prosecutor",
+    "ipa": "英 /ˈprɒsɪkjuːtə/；美 /ˈprɑːsəkjuːtər/",
+    "meaning": "检察官；公诉人；起诉方人员",
+    "sense": "在庭审中代表控方提出指控、展示证据的人，常称 prosecutor。",
+    "split": "来自中世纪拉丁语 prōsecūtor，现代可以联系 prosecute + -or，-or 表示相关执行者。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：prōsequī → prōsecūtus",
+        "继续跟进；追求"
+      ],
+      [
+        "中世纪拉丁语：prōsecūtor",
+        "继续追诉的人"
+      ],
+      [
+        "英语：prosecutor",
+        "进行公诉的人"
+      ]
+    ],
+    "explanation": "它是案件中的职责角色，不是审判者。具体职称和任职方式随制度而异，理解时先抓住“控方工作”。",
+    "usage": "a public prosecutor；the lead prosecutor；a prosecutor’s office。",
+    "contrast": "prosecutor 提出、推进指控；judge 负责审判。不要把两者都译成法官。",
+    "examples": [
+      [
+        "The prosecutor presented the evidence to the court.",
+        "公诉人向法庭出示了证据。"
+      ],
+      [
+        "The prosecutor questioned the witness about the timeline.",
+        "检察官就时间经过询问了证人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prosecutor#English"
+    ]
+  },
+  {
+    "word": "prosecutorial",
+    "ipa": "英 /ˌprɒsɪkjuːˈtɔːriəl/；美 /ˌprɑːsəkjuːˈtɔːriəl/",
+    "meaning": "检察工作的；公诉方的",
+    "sense": "把镜头从“谁起诉”转到“这是谁的职责、权限或行为”：与公诉工作相关，就是 prosecutorial。",
+    "split": "prosecutor + -ial，形成相关性质的形容词。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：prōsequī → prōsecūtus",
+        "继续跟进；追求"
+      ],
+      [
+        "中世纪拉丁语／英语：prosecutor",
+        "负责起诉的人"
+      ],
+      [
+        "英语：prosecutorial",
+        "与公诉职责有关的"
+      ]
+    ],
+    "explanation": "常见于讨论权力、判断和职业行为的正式文字。它描述职能来源，不自行评价行为好坏。",
+    "usage": "prosecutorial decisions；prosecutorial discretion；prosecutorial conduct。",
+    "contrast": "judicial 是司法、审判相关的更宽词或特指法官职责；prosecutorial 明确指公诉方工作。",
+    "examples": [
+      [
+        "The report reviews prosecutorial decisions in several cases.",
+        "报告审视了几起案件中的公诉决定。"
+      ],
+      [
+        "The course includes a discussion of prosecutorial ethics.",
+        "课程包含对检察职业伦理的讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prosecutorial#English"
+    ]
+  },
+  {
+    "word": "persecute",
+    "ipa": "英 /ˈpɜːsɪkjuːt/；美 /ˈpɜːrsəkjuːt/",
+    "meaning": "迫害；持续骚扰",
+    "sense": "不是一次不愉快，而是盯住某个人或群体，反复压迫、伤害、让其无法正常生活。",
+    "split": "拉丁语 per-（贯穿、彻底）+ sequī（跟随）形成 persequī“紧追到底”，经法语及拉丁语借入。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：persequī → persecūtus",
+        "一路追赶；紧追不放"
+      ],
+      [
+        "法语：persécuter",
+        "追逼；折磨"
+      ],
+      [
+        "英语：persecute",
+        "持续迫害；骚扰"
+      ]
+    ],
+    "explanation": "“追着不放”走向持续逼迫。现代常谈因信仰、身份或观点遭受迫害；这是描述伤害，不是中性的司法程序。",
+    "usage": "persecute someone for their beliefs；a persecuted minority。",
+    "contrast": "persecute 是迫害；prosecute 是起诉。遭起诉不自动等于被迫害，是否构成迫害要看事实。",
+    "examples": [
+      [
+        "The regime persecuted people for expressing dissent.",
+        "那个政权迫害表达异议的人。"
+      ],
+      [
+        "The novel follows a family persecuted for its beliefs.",
+        "小说讲述了一个因信仰而受迫害的家庭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/persecute#English",
+      "https://www.etymonline.com/word/persecute"
+    ]
+  },
+  {
+    "word": "persecution",
+    "ipa": "英 /ˌpɜːsɪˈkjuːʃən/；美 /ˌpɜːrsəˈkjuːʃən/",
+    "meaning": "迫害；持续压迫",
+    "sense": "把一连串追逼与伤害作为整体来看，就是 persecution。重点是持续受到不公正的针对。",
+    "split": "教会拉丁语 persecūtiō 经法语进入英语，来自 persequī“追赶、紧追”。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：persequī → persecūtus",
+        "一路追赶；紧追不放"
+      ],
+      [
+        "拉丁语：persecūtiō → 古法语 persecucion",
+        "追逼；迫害"
+      ],
+      [
+        "英语：persecution",
+        "持续的迫害"
+      ]
+    ],
+    "explanation": "它把迫害行为作为社会现象或个人遭遇来谈。比一般 disagreement“意见不合”或 criticism“批评”严重得多。",
+    "usage": "religious persecution；escape persecution；fear of persecution。",
+    "contrast": "prosecution 是起诉；persecution 是迫害。多出来的 er 不能在拼写时忽略。",
+    "examples": [
+      [
+        "The family fled the country to escape persecution.",
+        "这个家庭为躲避迫害逃离了国家。"
+      ],
+      [
+        "The museum documents the persecution of minority communities.",
+        "博物馆记录了少数群体遭受迫害的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/persecution#English"
+    ]
+  },
+  {
+    "word": "persecutor",
+    "ipa": "英 /ˈpɜːsɪkjuːtə/；美 /ˈpɜːrsəkjuːtər/",
+    "meaning": "迫害者",
+    "sense": "受迫害的人被追逼，站在持续伤害那一边、实施迫害的人就是 persecutor。",
+    "split": "拉丁语 persecūtor 经古法语进入英语；现代词形与 persecute + -or 对应。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：persequī → persecūtus",
+        "一路追赶；紧追不放"
+      ],
+      [
+        "拉丁语：persecūtor → 古法语 persecutor",
+        "追逼、迫害的人"
+      ],
+      [
+        "英语：persecutor",
+        "实施迫害的人"
+      ]
+    ],
+    "explanation": "它强调施害者身份，常用于历史、文学或受害经历的叙述。这个词不只是“态度严格的人”。",
+    "usage": "escape a persecutor；identify the persecutors；victims and persecutors。",
+    "contrast": "persecutor 迫害人；prosecutor 负责起诉，不能只凭相近声音混淆。",
+    "examples": [
+      [
+        "The survivors identified several of their persecutors.",
+        "幸存者辨认出了几名迫害者。"
+      ],
+      [
+        "The story is told from the victim’s viewpoint, not the persecutor’s.",
+        "故事从受害者的视角讲述，而非迫害者的视角。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/persecutor#English"
+    ]
+  },
+  {
+    "word": "ensue",
+    "ipa": "英 /ɪnˈsjuː/；美 /ɪnˈsuː/",
+    "meaning": "接着发生；随之而来",
+    "sense": "前一件事像拉开闸门，后面的局面跟着涌来：争论随之爆发，沉默接着出现。",
+    "split": "拉丁语 in- 与 sequī 形成 insequī“紧随”，经古法语 ensuivre 的词干 ensu- 进入英语。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：insequī",
+        "紧跟；接着到来"
+      ],
+      [
+        "古法语：ensuivre，词干 ensu-",
+        "随之发生"
+      ],
+      [
+        "英语：ensue",
+        "接着发生"
+      ]
+    ],
+    "explanation": "常用于叙述前事之后出现的结果或局面。它是不及物动词，后面直接出现的事件通常作主语。",
+    "usage": "a debate ensued；chaos ensued；ensue from。",
+    "contrast": "ensure 是确保，需要有人去保证；ensue 是后面的事情发生。一个字母 r 就改变了整个意思。",
+    "examples": [
+      [
+        "A long silence ensued after the announcement.",
+        "公告之后出现了长时间的沉默。"
+      ],
+      [
+        "The argument that ensued lasted for hours.",
+        "随之而来的争论持续了几个小时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ensue#English"
+    ]
+  },
+  {
+    "word": "non sequitur",
+    "ipa": "英 /ˌnɒn ˈsekwɪtə/；美 /ˌnɑːn ˈsekwɪtər/",
+    "meaning": "不合逻辑的推论；突兀、不相干的话",
+    "sense": "前面铺了 A，后面突然跳到一个接不上的 B；逻辑链断了，这一步就是 non sequitur。",
+    "split": "直接借拉丁短语 nōn sequitur，字面是“它并不跟随”。nōn 是否定，sequitur 是 sequī 的动词形式。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁短语：nōn sequitur",
+        "它并不由此前内容推出"
+      ],
+      [
+        "英语：non sequitur",
+        "不相干的话；推不出的结论"
+      ]
+    ],
+    "explanation": "它可以严格指结论不能从前提推出，也可以在日常对话里说答非所问、突然跳题。不是只要自己不同意，就能叫它 non sequitur。",
+    "usage": "a complete non sequitur；respond with a non sequitur。",
+    "contrast": "a false statement 可能只是事实错；non sequitur 重点在前后推理接不上，结论甚至可能碰巧是真的。",
+    "examples": [
+      [
+        "His comment about the weather was a complete non sequitur.",
+        "他那句谈天气的话完全与话题无关。"
+      ],
+      [
+        "Saying that a product is popular does not prove it is safe; that conclusion is a non sequitur.",
+        "说产品受欢迎并不能证明它安全；这个结论推不出来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/non%20sequitur#English"
+    ]
+  },
+  {
+    "word": "obsequious",
+    "ipa": "/əbˈsiːkwiəs/",
+    "meaning": "谄媚的；过分顺从的",
+    "sense": "别人稍一动，你就急着跟上；他还没说完，你已经点头讨好。这种过头的顺从是 obsequious。",
+    "split": "拉丁语 ob-（朝向）+ sequī（跟随）形成 obsequī“顺从”，再由 obsequium、obsequiōsus 发展成英语词。",
+    "history": [
+      [
+        "拉丁语：sequī（词典形式 sequor）",
+        "跟随"
+      ],
+      [
+        "拉丁语：obsequī → obsequium",
+        "跟从、顺从 → 顺从行为"
+      ],
+      [
+        "拉丁语：obsequiōsus",
+        "十分顺从的"
+      ],
+      [
+        "英语：obsequious",
+        "讨好到过分顺从的"
+      ]
+    ],
+    "explanation": "跟随本来未必不好，但这个词的现代语气明显负面，常暗示为了讨好有权势者而丢掉自己的判断。",
+    "usage": "an obsequious manner；an obsequious smile；obsequious flattery。",
+    "contrast": "polite 是礼貌；obsequious 是过分讨好。对人尊重并不需要 obsequious。",
+    "examples": [
+      [
+        "His obsequious manner made the guests uncomfortable.",
+        "他那副过分讨好的样子让客人感到不自在。"
+      ],
+      [
+        "She disliked the obsequious praise surrounding the manager.",
+        "她不喜欢经理身边那些谄媚的赞美。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obsequious#English"
+    ]
+  }
+]

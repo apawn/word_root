@@ -1,0 +1,135 @@
+[
+  {
+    "id": "C0153",
+    "meaning": "落下、倒下；从落到某处，发展到发生、机会、衰落和脱落",
+    "core": "CAD / CID / CAS = FALL",
+    "image": "先看一片叶子落下，再看一件事落到自己头上：一个是下落，一个是发生",
+    "intro": "**先记“落下”，再记“事情落到头上”。** 拉丁语 cadere 的基本动作是落下、倒下。向下落、越来越坏，是 decay“腐败、衰退”；落到某个人身上，就能说 accident“意外”或 incident“事件”；两件事落到同一时点，是 coincide“同时发生”。词根不是给单词硬套一个中文标签，而是帮你看见这些意思之间怎样走得通。",
+    "forms": "cad- 是较直观的样子；加前缀的拉丁复合词常把 a 变成 i，于是出现 cid-，如 in + cadere → incidere。cas- 可见于 cāsus“落下、发生的事”，因此 case、casual 虽没有 d，仍在这一族。经过法语，chance、chute、cheat 的字形变化更大。图中带 * 的古形式是语言学重建。另有 caedere“切”的 cid-/cis-，如 decide、incision，与本组的“落”不是一条线。",
+    "branches": [
+      [
+        "事情落到头上 → 发生",
+        "accident · incident · incidence"
+      ],
+      [
+        "落成某种情况 → 个案",
+        "case · casuist · casuistry"
+      ],
+      [
+        "结果未定 → 偶然、机会",
+        "chance · chancy · occasion"
+      ],
+      [
+        "偶然、临时 → 不郑重",
+        "casual · casually"
+      ],
+      [
+        "不幸事件 → 受损者",
+        "casualty"
+      ],
+      [
+        "一起落在同处 → 重合",
+        "coincide · coincidence"
+      ],
+      [
+        "逐渐下落 → 衰败",
+        "decay · decadence · decadent"
+      ],
+      [
+        "水往下落；防护下落",
+        "cascade · chute · parachute"
+      ],
+      [
+        "声音落定 → 节奏、收束",
+        "cadence · cadenza · cadential"
+      ],
+      [
+        "到了阶段落掉",
+        "deciduous · decidua · caducous"
+      ],
+      [
+        "财产落回去 → 旧法律分支",
+        "escheat · escheator · cheat"
+      ],
+      [
+        "又落回原状 → 重犯、复发",
+        "recidivist · recidivism · recidivous"
+      ],
+      [
+        "太阳落下的一方 → 西方",
+        "occident · occidental"
+      ]
+    ],
+    "contrasts": "**accident / incident / incidence**：意外事故；发生的一件事；这类事的发生情况或发生率。\n\n**accidental / incidental / coincidental**：不是有意发生的；主要事情之外附带的；两个事实出于巧合地对上。\n\n**case 的两条来源**：情况、案件、实例来自 cāsus“发生的事”；盒子、套子来自 capsa。两组同形，不该画成同一条故事。\n\n**deciduous / decide**：会脱落的；作决定。前者来自 cadere“落”，后者来自 caedere“切”，不要只见 cid 就合并。\n\n**cadence / cadenza**：节奏、终止式；华彩乐段。共同的“落定”背景，长出了不同的音乐用途。\n\n**cadaver 的联系有保留**：拉丁语 cadāver“尸体”可能来自 cadere，但更深一步未完全确定；相关图从已确定的 cadāver 开始。",
+    "practice": "By **chance**, our visit **coincided** with a special **occasion**. A **casual** conversation led to an **accidental** discovery: a hidden **cascade** behind the **deciduous** trees.\n\n碰巧，我们到访时正赶上一个特殊日子。一次随意交谈带来一个意外发现：落叶树后藏着一道小瀑布。\n\n结果碰巧落在一起 → chance、coincide；某次场合 → occasion；不郑重 → casual；并非计划中的发现 → accidental；水落下 → cascade；叶子按季节落下 → deciduous。",
+    "words": [
+      "case",
+      "chance",
+      "chancy",
+      "accident",
+      "accidental",
+      "accidentally",
+      "nonaccidental",
+      "postaccident",
+      "incident",
+      "incidence",
+      "incidental",
+      "incidentally",
+      "nonincidental",
+      "coincide",
+      "coincidence",
+      "coincident",
+      "coincidental",
+      "coincidentally",
+      "casual",
+      "casually",
+      "casualty",
+      "occasion",
+      "occasional",
+      "occasionally",
+      "decay",
+      "decaying",
+      "decadence",
+      "decadent",
+      "cascade",
+      "chute",
+      "parachute",
+      "parachuting",
+      "parachutist",
+      "cadence",
+      "cadenza",
+      "cadential",
+      "cadent",
+      "cadency",
+      "demicadence",
+      "cadaver",
+      "cadaverous",
+      "cadaverine",
+      "caducous",
+      "caducity",
+      "deciduous",
+      "nondeciduous",
+      "decidua",
+      "decidual",
+      "deciduate",
+      "deciduation",
+      "procidentia",
+      "escheat",
+      "escheator",
+      "escheatable",
+      "escheatage",
+      "escheatment",
+      "cheat",
+      "cheater",
+      "recidivist",
+      "recidivism",
+      "recidivous",
+      "casuist",
+      "casuistry",
+      "occident",
+      "occidental",
+      "accidence",
+      "semelincident"
+    ]
+  }
+]

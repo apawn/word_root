@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+W=[E('adenocarcinoma','美 /ˌædənoʊˌkɑːrsəˈnoʊmə/','腺癌','名称点出的是癌细胞具有腺上皮来源或特征。','adeno-“腺” + carcinoma“癌”。现代可这样拆；历史上英语有借德语 Adenocarcinome 的路线，不宜把它说成只在英语里首次拼成。Carcinoma 远源接希腊 karkinos“蟹、癌”。',[['希腊 adēn〔腺〕；karkinos → karkinoma → 拉丁 carcinoma','腺的名称与由蟹形象形成的癌名，是并列构词材料'],['现代 adeno- + carcinoma → 德语 Adenocarcinome','腺 + 癌'],['英语 adenocarcinoma','腺癌']],'腺上皮能制造、分泌某些物质。Adenocarcinoma 是按组织类型分出的癌，不是只指某一个固定器官，所以文章中可能看到肺腺癌、结肠腺癌等不同部位。','lung adenocarcinoma；adenocarcinoma of the colon；a diagnosis of adenocarcinoma。','cancer 是广义癌症；carcinoma 指上皮来源的癌；adenocarcinoma 再具体到腺性这一类。',('The pathology report identified the tumour as an adenocarcinoma.','病理报告把这个肿瘤确定为腺癌。'),('The review compares studies of lung adenocarcinoma.','这篇综述比较了有关肺腺癌的研究。'),sources=['https://www.merriam-webster.com/dictionary/adenocarcinoma','https://www.cancer.gov/publications/dictionaries/cancer-terms/def/adenocarcinoma','https://www.etymonline.com/word/carcinoma'])]
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(x for x in m['roots']if x['id']=='C0175');c=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text())if x['id']=='C0175');keep={w['word']for w in W}|{'carcinoma','carcinogenic','carcinogen'};excluded={w:'按用户当前范围暂略：更细分癌症术语或少用派生词。'for w in(set(r['family'])|set(c['family'])|set(c.get('unmatched',[])))-keep}
+ROOT=[dict(id='C0175',meaning='蟹；癌',core='carcin- 从“蟹”的古代比喻，进入癌的医学名称。',image='古代医生把某些肿瘤及周围血管的外观联想到蟹；后来词根成为医学命名材料。',intro='今天最有用的是分清：carcinoma 是癌的一个组织类别，carcinogen 是致癌物或因子，carcinogenic 是“有致癌性的”。名字的古代形象不是现代病因解释。',forms='希腊 karkinos“蟹、癌” → karkinoma → 拉丁 carcinoma；现代英语用 carcin-/carcino- 参与构词。',branches=[['肿瘤类别','carcinoma、adenocarcinoma'],['致癌因子与性质','carcinogen、carcinogenic']],contrasts='致癌因子不是已经形成的癌；carcinoma 也不能涵盖所有 cancer 类型。-oma 是肿瘤命名成分，不保证所有带它的词都指恶性。',practice='用一个句子区别 carcinogen 和 carcinoma，再说明 adeno- 给 carcinoma 增加了哪一层分类信息。',words=list(dict.fromkeys([w for w in r['family']if w in keep]+['carcinogen'])),exclude=excluded,sources=['https://www.etymonline.com/word/carcinoma','https://www.cancer.gov/publications/dictionaries/cancer-terms/def/adenocarcinoma'])]
+assert all(w['word']in m['owned_words']for w in W)
+assert not(set(c['family'])|set(c.get('unmatched',[])))-set(ROOT[0]['words'])-set(excluded)
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history'])
+for k,d in [('roots',ROOT),('words',W)]: (OUT/f'{k}_batch200_spec_224_carcin.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print('C0175',len(W),'new, 3 shared')

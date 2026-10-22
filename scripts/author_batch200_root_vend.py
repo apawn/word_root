@@ -1,0 +1,14 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+B=[['拉丁 venum dare → vendere','交付出售 → 卖']]
+W=[
+E('vendor','英 /ˈvendə/；美 /ˈvendər/','卖方；商贩；供应商','从交易的这一边看过去：你付钱，对方提供商品或服务，对方就是 vendor。','经盎格鲁法语 vendor 等形式借入，源头为拉丁 vendere 出售。英语里可与 vend 联想，但 vendor 比英语 vend 的常见记录更早，不应把历史只写成英语 vend + -or。',B+[['拉丁卖者名称 → 盎格鲁法语 vendor','卖东西的人'],['英语 vendor','卖方；商贩；供应商']],'street vendor 是街头商贩，software vendor 是软件供应商。同一个词可说小摊，也可说大公司，核心是交易中卖的一方，不是规模大小。','a street vendor；a software vendor；select a vendor。','vendor 不必是制造商，可能销售别家生产的东西。supplier 强调供应关系；vendor 更明确地站在销售这一侧，实际用法常有重叠。',('We bought fresh fruit from a street vendor.','我们从街头摊贩那里买了新鲜水果。'),('The company compared three software vendors.','公司比较了三家软件供应商。'),sources=['https://www.etymonline.com/word/vendor','https://en.wiktionary.org/wiki/vendor']),
+E('vend','英美 /vend/','出售；售卖','把商品拿出来，收到钱后交给购买者。','最终来自拉丁 vendere 卖，收缩自 venum dare 交付出售。英语可按拉丁借入解释，也有资料认为是受法语影响，从更早的 vendor 等形式逆构。',B+[['拉丁／法语卖的词族；英语早期相关名词','出售；卖方'],['英语 vend','出售，借入或逆构分析']],'比 sell 更正式、也更少单独用于日常对话；在售货设备或商业描述里较容易见到。This machine vends tickets 是这台机器售票，而不是免费发票。','vend goods；vend tickets；vend through a machine。','sell 是普通说法，vend 常见于较正式或设备售卖语境。不要把所有表示发放的 dispense 都改成 vend，因为发放不一定收钱。',('The machine vends tickets for local buses.','这台机器出售当地公交车票。'),('Several stalls vend snacks near the station.','车站附近有几个摊位卖小吃。'),sources=['https://www.etymonline.com/word/vend','https://en.wiktionary.org/wiki/vend']),
+E('vending','英美 /ˈvendɪŋ/','售卖；用于售货的','让售卖变成一种持续的活动，或成为机器的用途。','vend + -ing，是动词的现在分词，也可作活动名称或用于名词前说明用途。',B+[['英语 vend + -ing → vending','卖 → 售卖活动、售卖中的']],'最常遇到 vending machine 自动售货机；也可说 street vending 街头售卖。vending 的核心是售卖，不是“自动”：自动来自整个 vending machine 的常见设备语境。','a vending machine；street vending；the vending business。','vending 与 vendor 一个指活动，一个指卖方。机器能售卖，也可以只是发放物品；是否涉及销售要看具体语境。',('There is a vending machine beside the lift.','电梯旁边有一台自动售货机。'),('The report describes street vending in the city.','报告介绍了这座城市的街头售卖活动。'),sources=['https://en.wiktionary.org/wiki/vending','https://www.etymonline.com/word/vend'])
+]
+ROOT=dict(id='C1615',meaning='卖；出售',core='VEND = SELL',image='顾客交钱，卖方交货。卖方可以站在摊位后面，也可以是一家卖软件的公司。',intro='拉丁 vendere 表示出售，更早可分析为把东西交付出售。这个词族先抓 vendor 和 vending 两个常见形式，再认识比较正式的动词 vend。',forms='vendor 是借入的卖者名称，不宜把全部历史简化成英语 vend 加 -or。vending 则可以直接按现代英语 vend + -ing 理解。',branches=[['谁在卖','vendor'],['卖这个动作与用途','vend、vending']],contrasts='vendor 不等于制造商，也不一定是街头小贩。vending 自身不等于自动；street vending 就是人进行的街头售卖。',practice='The vendor supplies drinks for the vending machines.\n\n这家供应商为自动售货机供应饮料。',words=[x['word'] for x in W],exclude={})
+if __name__=='__main__':
+ for name,data in [('roots_vend',[ROOT]),('words_vend',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

@@ -1,0 +1,8 @@
+# coding: utf-8
+import json
+from pathlib import Path
+R=[dict(id='C1016',meaning='惊逃；恐惧',core='PHOB = FEAR / AVOIDANCE',image='受到惊吓想躲开；材料学借用这种回避的画面来描述不易亲近水的表面。',intro='希腊 phobos 有惊逃、恐惧的背景，进入英语复合词的 -phobia 一系。phobia 后来从这些复合词中抽出，不能倒过来说所有古老的 -phobia 词都由独立英语 phobia 造出。',forms='phobos → -phobia；phobia 与 phobic 是现代名词、形容词对应。hydrophobia 的借入历史较早，hydrophobic 后来还发展出材料学的疏水义。',branches=[['人的恐惧与相关性质','phobia；phobic'],['水相关的两种语境','hydrophobia；hydrophobic']],contrasts='人的恐水症状与材料疏水性质不能混作一种心理状态。材料不会害怕；词源比喻只是命名画面，解释现代用法时要切换语境。',practice='A hydrophobic surface does not experience a phobia; the word describes how it interacts with water.\n\n疏水表面不会产生恐惧；这个词描述它与水的相互作用。',words=['phobia','phobic','hydrophobia','hydrophobic'],exclude={w:'较少见的具体恐惧症术语，先掌握 phobia 与 phobic 的基本用法。' for w in ['autophobia','panphobia','phobophobia']}),
+dict(id='C1136',meaning='朝向；加到……上',core='PROS = TO / TOWARD / IN ADDITION',image='把一部分加到原有东西上，补上原来缺少的部分。',intro='希腊 pros 表示朝向、对着，在 prostithenai 中是加到……上的方向成分，与 tithenai 放置结合。prosthesis 的添加义先用于语法添音，后来用于身体的人工替代部件。',forms='pros + tithenai → prostithenai 添加；prosthesis 是名词路线，prosthetikos 是形容词路线，分别形成英语 prosthesis、prosthetic。',branches=[['人工替代部件','prosthesis'],['描述相关装置或技术','prosthetic']],contrasts='prosthesis 不是 pro 赞成加 thesis 论文。它与 prosthetic 也不能简单画成英语名词先加后缀造出形容词，两条古典借入路线各有对应形式。',practice='A prosthesis is an artificial body part; prosthetic describes such a device or related work.\n\nprosthesis 指人工替代身体部分的装置；prosthetic 用来描述这类装置或相关工作。',words=['prosthesis','prosthetic'],exclude={'prosenchyma':'冷门植物组织名称，本轮略过。','prosthion':'冷门颅面测量定位点，本轮略过。'})]
+if __name__=='__main__':
+ Path('.cache/batch200/drafts/root/roots_phob_pros.json').write_text(json.dumps(R,ensure_ascii=False,indent=2))
+ print(len(R),'roots, shared words only')

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>ostensibly：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：tendere（tendō）</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">伸展；拉紧；朝某处用力</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：obs- + tendere → ostendere</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">摆到眼前；展示</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">拉丁语：ostensus；法语 ostensible</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">被展示的 → 表露在外的</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：ostensible</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">表面声称的</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：ostensibly</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">按表面呈现的情况</text>
+</svg>

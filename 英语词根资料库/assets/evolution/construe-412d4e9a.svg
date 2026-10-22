@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="462" viewBox="0 0 1000 462" role="img">
+<title>construe：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="460" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：struere；分词 structus</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">堆叠、排列，把材料搭起来</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：con- + struere → construere</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">把各部分搭到一起；建造</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">后期拉丁语：construere</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">把词在语法上联系起来；解释</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">中古英语 construen → 英语 construe</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">分析、解释；把……理解为</text>
+</svg>

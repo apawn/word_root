@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+"""C0538 hept: seven events and seven angles."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[
+E('heptathlon','/hepˈtæθlən/〔也有末尾 /lɒn/、/lɑːn/ 的读法〕','七项全能','同一个运动员接连比七个项目，把各项成绩折成积分，再加起来比总分。不是七个人分工完成，也不要求每一项都拿第一。','现代按 decathlon 等项目名的模式，用希腊来源 hepta-“七”加 -athlon“竞赛”构词。材料古老，但英语这一现代比赛名称不是从古希腊原封不动借来的。',[['希腊 hepta；athlon','七；竞赛——并列构词材料'],['现代体育 hepta- + -athlon','仿全能比赛名称的模式构词'],['英语 heptathlon','综合七项成绩的全能项目']],'常见的女子室外七项包括短跑、跨栏、跳跃和投掷等，通常分两天进行；男子也有室内七项，项目组合不同。词根只保证“七”，不能据此推成男女各场景完全相同的项目表。','compete in the heptathlon；heptathlon points；the women’s heptathlon；an indoor heptathlon。','heptathlon 七项，decathlon 十项，pentathlon 五项；这些前半部分先告诉你项目数量，具体比赛内容仍需看项目规则。',('She improved her overall score in the heptathlon.','她提高了七项全能的总分。'),('The heptathlon tests running, jumping, and throwing skills.','七项全能考查跑、跳和投掷等能力。'),sources=['https://www.oxfordlearnersdictionaries.com/definition/english/heptathlon','https://www.merriam-webster.com/dictionary/heptathlon','https://worldathletics.org/disciplines/combined/heptathlon']),
+E('heptathlete','/hepˈtæθliːt/','七项全能运动员','一个人既要跑得快，也要会跳、会投。heptathlete 是参加七项全能的运动员，强调综合多个项目的能力。','英语把 heptathlon“七项全能”和 athlete“运动员”融合形成；表面也容易看成 hepta-“七”加 athlete。历史说明的重点是与已经存在的项目名配套，不是“七名运动员”的合称。',[['英语 heptathlon；athlete','七项全能；运动员'],['融合构词 heptathlete','用项目名与运动员名组合'],['英语 heptathlete','参加七项全能的人']],'一个优秀的 heptathlete 可以有特别强的单项，但名次通常由综合积分决定。“全能”也不是说此人任何体育项目都擅长，而是专指这项比赛的七个项目。','a talented heptathlete；an Olympic heptathlete；train as a heptathlete。','heptathlon 是比赛项目，heptathlete 是人；athlete 单独用时范围大得多。',('The heptathlete practised the high jump in the morning.','这位七项全能运动员上午练习了跳高。'),('A heptathlete must balance training across several different disciplines.','七项全能运动员必须平衡多个不同项目的训练。'),sources=['https://www.merriam-webster.com/dictionary/heptathlete','https://www.oxfordlearnersdictionaries.com/definition/english/heptathlete','https://worldathletics.org/disciplines/combined/heptathlon']),
+E('heptagon','英 /ˈheptəɡən/；美 /ˈheptəɡɑːn/','七边形','沿一个平面图形的边数一圈，共有七条直边、七个角，它就是 heptagon。名字按“七个角”说，中文则按“七条边”说。','接希腊 hepta“七”与 gōnia“角”，形成 heptagōnos“七角的”，其中性名词形式 heptagōnon 用作图形名称，经法语等古典数学词汇传入英语。',[['希腊 hepta；gōnia','七；角'],['希腊 heptagōnon → 法语 heptagon','七角的图形'],['英语 heptagon','七边形']],'普通七边形的边长和角度可以不一样；regular heptagon 才是各边相等、各角相等的正七边形。只看到七条边，不足以补上“正”字。','a regular heptagon；an irregular heptagon；the sides of a heptagon。','hexagon 六边形，heptagon 七边形，octagon 八边形；-gon 说角的数量，不是立体的面数。',('The students counted seven sides on the heptagon.','学生们数出这个七边形有七条边。'),('Not every heptagon is a regular heptagon.','并不是每个七边形都是正七边形。'),sources=['https://www.etymonline.com/word/heptagon','https://www.oxfordlearnersdictionaries.com/definition/english/heptagon']),
+]
+m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());names=[x['word'] for x in W]
+cat=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text()) if x['id']=='C0538')
+EX={w:'较冷门的音乐、诗律、宗教书卷、几何细分或电子管术语，按当前通用阅读范围暂略。' for w in cat['family'] if w not in names}
+ROOT=dict(id='C0538',meaning='七',core='hept-／hepta- 接希腊“七”。后面接竞赛，就是七项；接角，就是七角、七边的图形。',image='七 + 竞赛 → heptathlon → heptathlete；七 + 角 → heptagon。',intro='先学体育新闻里的七项全能，再用七边形巩固数字含义。词根告诉你数量，具体对象和规则由后半部分及语境决定。',forms='heptathlon 是现代仿古典体育名称的构词；heptathlete 融合项目名和 athlete；heptagon 则接古希腊数学词，经法语等传播。',branches=[['七项比赛及运动员','heptathlon, heptathlete'],['七角的平面图形','heptagon']],contrasts='七项全能不是七个人的接力，七边形也不一定是正七边形。认出数量只是第一步。',practice='先区分 heptathlon 项目与 heptathlete 人，再画想象中的七边形，检查是否需要加 regular。',words=names,exclude=EX)
+if __name__=='__main__':
+ assert {e['word'] for e in W}<=set(m['owned_words'])
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_213.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('hept:',len(W),'words;',sum(len(e['examples']) for e in W),'examples')

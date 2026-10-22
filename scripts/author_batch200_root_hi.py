@@ -1,0 +1,9 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+W=[E('hiatus','/haɪˈeɪtəs/','暂停；中断；间隙','原本连着的一段活动，中间张开了一个空档。','来自拉丁 hiatus 开口、间隙，关联 hiare 张开、打呵欠；空间中的缺口后来用来比喻时间和活动中的中断。',[['拉丁 hiare → hiatus','张开 → 开口、空隙'],['英语 hiatus','间隙；活动或一系列事件中的中断']],'a band is on hiatus 常指乐队暂停活动，未必已经解散。after a long hiatus 表示隔了一段时间后恢复。它通常比几分钟的小歇更正式，常见于演出、出版、职业或项目的停顿；词本身并不保证一定会重启。','be on hiatus；take a hiatus from something；return after a hiatus。','break 是普通的休息或中断，hiatus 更突出连续过程中的空档。cancellation 是取消，不能把节目 on hiatus 直接译成节目永久取消。',('The band returned to touring after a long hiatus.','这支乐队在长期暂停后恢复了巡演。'),('The podcast is on hiatus while the host works on a book.','主持人写书期间，这档播客暂时停更。'),sources=['https://www.etymonline.com/word/hiatus','https://www.oxfordlearnersdictionaries.com/definition/english/hiatus'])]
+ROOT=dict(id='C0551',meaning='张开；开口；出现空隙',core='HI = GAPE / OPEN',image='原本连接的东西张开一道口子；放到时间线上，就是活动中间空了一段。',intro='拉丁 hiare 表示张开，hiatus 是开口、间隙。英语最实用的 hiatus 把空间缺口借到时间上，表示暂停或中断。词根写成 hi-，与英语打招呼的 hi 没有这种派生关系。',forms='hiatus 借自拉丁名词，不是英语 hi 加一个后缀 atus。先记开口、间隙这条完整历史线，比按现代字母硬拆更有用。',branches=[['活动中的空档','hiatus']],contrasts='hiatus 常表示暂时中断，但没有保证必定恢复；它也不自动等于取消或终止。on hiatus 是很常见的搭配。',practice='A hiatus leaves a gap in an activity; it does not necessarily mark its end.\n\n暂停让一项活动中间空出一段，但不一定标志着它结束。',words=['hiatus'],exclude={w:'较专门的医学、植物学或低频词，按用户要求暂略' for w in ['dehiscence','hiatal','dehiscent','indehiscent','dehisce','indehiscence','inhiation']})
+if __name__=='__main__':
+ for name,data in [('roots_hi',[ROOT]),('words_hi',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

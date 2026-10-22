@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>designation：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：signum</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">让人认出、明白某事的标记；更早来源有争议</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：signāre</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">做记号、盖印、指明</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">拉丁语：dē- + signāre → dēsignāre</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">标出来、选定、构想</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">拉丁语 dēsignātiō；古法语 designacion</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">标明、指定的行为</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">中古英语 designacioun → 英语 designation</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">指定、任命；后来也指名称、称号</text>
+</svg>

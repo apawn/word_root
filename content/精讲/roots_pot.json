@@ -1,0 +1,130 @@
+[
+  {
+    "id": "C1108",
+    "meaning": "能力、力量、掌控；潜力与可能性",
+    "core": "POT：有能力做成事；有力量掌控事物",
+    "image": "手里有可以推动事情的力量：打开机器、作出决定、掌握物品；种子里则有尚未发挥的能力",
+    "intro": "先想象**你手里有一个能让事情发生的按钮**。拉丁语 potis 表示有能力、有支配力，posse 表示能够；它的分词 potens 留下了 potent-。**power** 是已经可以使用的力量或权力，**potential** 是还没有充分发挥的能力，**possible** 则说事情存在实现空间。**possess** 走向拥有、掌控：东西受你控制，强烈的情绪也可以反过来控制你。这几个词外形差异很大，历史上却能联系起来。",
+    "forms": "**pot- / potent- / poss-** 是拉丁词形变化和后续借词路线留下的不同外形，不是把英语字母随意换来换去。**power** 经法语传来，外形变化尤其明显；**potent、potential、possible、possession** 各有自己的借入链。**possess** 中还关联 sedere“坐”，可把“坐稳并掌握”当作记忆画面，别误拆成 pose。**despot** 是希腊语“主人”这一同源旁支，经别的路线进入英语，不能画成拉丁 potent 的后代。**powertrain、brainpower、empower** 等是在英语内部继续构词。星号标出的早期形式表示语言学重构，画面联想不冒充历史故事。",
+    "branches": [
+      [
+        "实际力量与作用",
+        "power · powerful · potent · potency"
+      ],
+      [
+        "潜力和潜在影响",
+        "potential · potentially · potentiality"
+      ],
+      [
+        "有无实现空间",
+        "possible · possibility · impossible · impossibility"
+      ],
+      [
+        "把自主权交给人或收走",
+        "empower · empowerment · disempower · disempowerment"
+      ],
+      [
+        "缺乏力量与压倒性的力量",
+        "powerless · impotence · overpower · overpowering"
+      ],
+      [
+        "掌握物品与占有欲",
+        "possess · possession · possessive · possessiveness"
+      ],
+      [
+        "收回、剥夺占有",
+        "repossess · repossession · dispossess · dispossession"
+      ],
+      [
+        "不同来源的动力",
+        "horsepower · hydropower · manpower · brainpower · willpower"
+      ],
+      [
+        "强大的个人、机构与国家",
+        "powerhouse · superpower · potentate"
+      ],
+      [
+        "希腊语同源旁支：主人与专制",
+        "despot · despotic · despotism"
+      ],
+      [
+        "全能与特定的分化能力",
+        "omnipotent · pluripotent · totipotent · multipotent"
+      ],
+      [
+        "增强作用与重复不再改变",
+        "potentiate · potentiation · idempotent · idempotence"
+      ]
+    ],
+    "contrasts": "**powerful / potent / potential**：有强大力量 / 产生作用的效力强 / 还有待发挥或尚未实现。a potent effect 与 a potential effect 的差别很大。\n\n**possible / probable**：有可能 / 比较可能。possible 本身不承诺高概率。\n\n**possess / possession / possessive**：拥有、掌控 / 持有这一状态或持有的物品 / 所有格的，或占有欲强的。财物 belongings 与占有欲 possessiveness 也别混淆。\n\n**empower / overpower**：让别人有权、有能力行动 / 用更大的力量把别人压住。\n\n**repossess / dispossess**：重新收回某物 / 使某人失去某物。dispossess someone of something 中，人是直接宾语。\n\n**pluripotent / multipotent / totipotent**：身体多种细胞类型的广泛潜能 / 限定谱系内的多向潜能 / 形成完整个体及相关发育组织的全能性；不要只按“多”这个字互换。\n\n**idempotent / deterministic**：重复作用于已有结果不再改变目标状态 / 给定相同输入得到相同输出。把开关设为关闭可以幂等；每次把开关状态翻转则不是。\n\n**despot / potentate**：现代多带专制、任性掌权的贬义 / 权势显赫的统治者，语气偏历史或书面。",
+    "practice": "**The training empowered the team to make decisions, but its full potential will take time to develop. Possessing information is only useful when people have the power to act on it.**\n\n培训让团队能够自主作决定，但充分发挥潜力还需要时间。掌握信息，只有在人们有权或有能力据此行动时才真正有用。empowered 是获得行动能力；potential 是待发挥的空间；possessing 是掌握；power 是能推动实际行动的力量。",
+    "words": [
+      "power",
+      "possible",
+      "potential",
+      "powerful",
+      "impossible",
+      "possibly",
+      "possibility",
+      "potentially",
+      "possession",
+      "possess",
+      "possessed",
+      "potent",
+      "empowered",
+      "empowerment",
+      "empower",
+      "horsepower",
+      "powerless",
+      "manpower",
+      "powerhouse",
+      "firepower",
+      "potency",
+      "superpower",
+      "possessive",
+      "powerfully",
+      "willpower",
+      "impossibility",
+      "impotent",
+      "overpowering",
+      "impossibly",
+      "impotence",
+      "hydropower",
+      "omnipotent",
+      "overpower",
+      "powerlifting",
+      "powerball",
+      "despot",
+      "powertrain",
+      "possessor",
+      "despotic",
+      "powerlessness",
+      "omnipotence",
+      "despotism",
+      "pluripotent",
+      "repossession",
+      "brainpower",
+      "airpower",
+      "dispossession",
+      "repossess",
+      "potentiality",
+      "powerboat",
+      "possessiveness",
+      "powerlifter",
+      "potentiation",
+      "powerbomb",
+      "dispossess",
+      "potentate",
+      "potentiate",
+      "idempotent",
+      "impotently",
+      "disempowerment",
+      "disempower",
+      "multipotent",
+      "possessively",
+      "overpoweringly",
+      "totipotent",
+      "idempotence"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="358" viewBox="0 0 1000 358" role="img">
+<title>subservient：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="356" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：servus → servīre</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">奴仆 → 服侍、效力</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：subservīre → subserviēns</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">在下面服事 → 从属、辅助的</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">英语：subservient</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">过分顺从的；从属于其他目标的</text>
+</svg>

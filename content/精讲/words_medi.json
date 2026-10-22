@@ -1,0 +1,942 @@
+[
+  {
+    "word": "mean",
+    "ipa": "/miːn/",
+    "meaning": "平均值；中间的；另有表示、打算及刻薄义",
+    "sense": "本页先抓“平均”这一支：把高低不同的数放到一条线上，用一个中间水平概括它们。mean 的其他常用意思来自另外的词源。",
+    "split": "平均义经古法语 meien 来自拉丁语 mediānus“在中间的”。动词 mean“表示、打算”来自古英语 mǣnan；刻薄义来自古英语表示“普通、低下”的词族。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：mediānus",
+        "居中的"
+      ],
+      [
+        "古法语：meien → 中古英语 meene",
+        "中间的；中等的"
+      ],
+      [
+        "英语：mean",
+        "平均值；平均的"
+      ]
+    ],
+    "explanation": "“中间水平”成为数学平均值。不能把 I mean it 或 a mean person 都讲成“在中间”：这些同形词走的是不同历史路线。",
+    "usage": "the mean temperature；calculate the mean；What do you mean?；mean to do something。",
+    "contrast": "mean 通常指加总后除以数量的算术平均值；median 是排序后居中的值。2、3、10 的 mean 是 5，median 是 3。",
+    "examples": [
+      [
+        "The mean of two, three and ten is five.",
+        "二、三和十的算术平均值是五。"
+      ],
+      [
+        "I did not mean to interrupt you.",
+        "我不是有意打断你的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mean#English"
+    ]
+  },
+  {
+    "word": "medium",
+    "ipa": "/ˈmiːdiəm/",
+    "meaning": "中等的；媒介；介质；灵媒",
+    "sense": "大小上站在两端中间，就是 medium；信息从这边传到那边，夹在中间承载它的东西，也是 medium。",
+    "split": "直接借自拉丁语 medium，是 medius“中间的”的相关名词用法。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：medium",
+        "中间；处于中间的东西"
+      ],
+      [
+        "英语：medium",
+        "中等的；媒介；介质"
+      ]
+    ],
+    "explanation": "“居中的”保留在 medium size；“起中间作用的东西”扩展为传播媒介、物理介质、绘画材料。灵媒义则指自称在生者与亡者之间传话的人。",
+    "usage": "medium size；a medium of communication；a storage medium；an artistic medium。",
+    "contrast": "medium 描述中等尺寸通常中性；mediocre 评价质量平庸，常带失望。衣服尺码 medium 不等于衣服品质差。",
+    "examples": [
+      [
+        "I usually wear a medium, but this jacket is too small.",
+        "我通常穿中号，但这件外套太小了。"
+      ],
+      [
+        "Clay is her favourite artistic medium.",
+        "黏土是她最喜欢的创作材料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medium#English"
+    ]
+  },
+  {
+    "word": "media",
+    "ipa": "/ˈmiːdiə/",
+    "meaning": "媒体；传播媒介；影音资料",
+    "sense": "不是只有一家报纸，而是把新闻、图像和声音送到人群面前的各种渠道与机构：这些合起来是 media。",
+    "split": "本页常见媒体义是 medium 的拉丁式复数 media；不是一个独立的 media 词根再加别的词尾。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：medium",
+        "中间；处于中间的东西"
+      ],
+      [
+        "英语：medium",
+        "中等的；媒介；介质"
+      ],
+      [
+        "英语：media",
+        "medium 的复数 → 大众传播媒体"
+      ]
+    ],
+    "explanation": "“承载传播的媒介”扩展为报刊、广播、平台及其行业。技术环境中的 media 还常指图像、声音、视频等内容。",
+    "usage": "social media；the news media；media coverage；media files。",
+    "contrast": "medium 是单个媒介；media 是复数来源，现代也常被当作整体。正式写作中可说 the media are；单个新闻机构直接说 outlet 更清楚。",
+    "examples": [
+      [
+        "The announcement attracted widespread media attention.",
+        "这项公告引起了媒体的广泛关注。"
+      ],
+      [
+        "Keep large media files on an external drive.",
+        "把体积较大的影音文件放在外接硬盘上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/media#English"
+    ]
+  },
+  {
+    "word": "multimedia",
+    "ipa": "/ˌmʌltiˈmiːdiə/",
+    "meaning": "多媒体；结合多种媒介的",
+    "sense": "同一段内容既有文字，又有图片、声音或视频，多种表达通道一起工作。",
+    "split": "multi-（多）+ media（媒介），是现代组合词。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：medium",
+        "中间；处于中间的东西"
+      ],
+      [
+        "英语：medium",
+        "中等的；媒介；介质"
+      ],
+      [
+        "英语：media",
+        "多种传播媒介"
+      ],
+      [
+        "英语：multi- + media → multimedia",
+        "结合多种媒介"
+      ]
+    ],
+    "explanation": "它看的是呈现手段不止一种，而不只是文件数量很多。十张纯文字页面未必值得称为 multimedia。",
+    "usage": "a multimedia presentation；multimedia content；multimedia software。",
+    "contrast": "audiovisual 特别强调声音与图像；multimedia 还可包括文字、互动等多种形式。",
+    "examples": [
+      [
+        "The museum created a multimedia exhibition with films and sound recordings.",
+        "博物馆制作了一场包含影片和录音的多媒体展览。"
+      ],
+      [
+        "Students prepared a multimedia presentation about their town.",
+        "学生们制作了介绍家乡的多媒体展示。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/multimedia#English"
+    ]
+  },
+  {
+    "word": "immediate",
+    "ipa": "/ɪˈmiːdiət/",
+    "meaning": "立即的；直接的；紧邻的",
+    "sense": "中间没有再隔一层：时间上不等，关系上不绕别人，空间上就在旁边。",
+    "split": "否定前缀 in- 在 m 前变成 im-，与“居中、间接”有关的 mediātus 组成 immediātus，再经法语传入。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "晚期拉丁语：immediātus",
+        "中间没有隔着东西的"
+      ],
+      [
+        "法语：immediat",
+        "直接的"
+      ],
+      [
+        "英语：immediate",
+        "立即的；直接的；紧邻的"
+      ]
+    ],
+    "explanation": "没有时间间隔就是 immediate action；没有中间级别是 immediate supervisor；没有别的地带隔开是 immediate surroundings。",
+    "usage": "immediate action；an immediate response；the immediate family；the immediate area。",
+    "contrast": "immediate 不只表示快。immediate family 指最亲近的家庭成员，具体范围随语境变化，不是“立即出现的家人”。",
+    "examples": [
+      [
+        "The problem requires immediate attention.",
+        "这个问题需要马上处理。"
+      ],
+      [
+        "Please report the issue to your immediate supervisor.",
+        "请把问题报告给你的直属主管。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/immediate#English"
+    ]
+  },
+  {
+    "word": "immediately",
+    "ipa": "/ɪˈmiːdiətli/",
+    "meaning": "立即；紧接着；紧邻",
+    "sense": "两个动作之间不给空档，或者两个位置之间不再隔别的东西。",
+    "split": "immediate + -ly，描述时间或位置关系。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "晚期拉丁语：immediātus",
+        "中间没有隔着东西的"
+      ],
+      [
+        "法语：immediat",
+        "直接的"
+      ],
+      [
+        "英语：immediate",
+        "立即的；直接的；紧邻的"
+      ],
+      [
+        "英语：immediately",
+        "不隔时间或空间地"
+      ]
+    ],
+    "explanation": "immediately after 是紧接在之后；immediately above 是就在正上方。中文并非所有地方都要翻成“马上”。",
+    "usage": "leave immediately；immediately after；immediately above；immediately available。",
+    "contrast": "soon 是不久后，仍可留一点时间；immediately 强调马上或紧挨着。",
+    "examples": [
+      [
+        "Please call me immediately if the plan changes.",
+        "如果计划有变，请立即给我打电话。"
+      ],
+      [
+        "Her office is immediately above mine.",
+        "她的办公室就在我的办公室正上方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/immediately#English"
+    ]
+  },
+  {
+    "word": "immediacy",
+    "ipa": "/ɪˈmiːdiəsi/",
+    "meaning": "直接感；即时性；迫切性",
+    "sense": "一段描述让你像亲临现场，中间仿佛没有隔着纸张或屏幕，这种贴近的感觉就是 immediacy。",
+    "split": "immediate 的词干 + -cy，将性质变成名词。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "晚期拉丁语：immediātus",
+        "中间没有隔着东西的"
+      ],
+      [
+        "法语：immediat",
+        "直接的"
+      ],
+      [
+        "英语：immediate",
+        "立即的；直接的；紧邻的"
+      ],
+      [
+        "英语：immediacy",
+        "直接、紧迫或仿佛身临其境的性质"
+      ]
+    ],
+    "explanation": "可以谈信息反馈的及时，也可以谈艺术表达带来的直接感。重点不是单纯速度，而是少了隔层或拖延。",
+    "usage": "a sense of immediacy；the immediacy of live performance；emotional immediacy。",
+    "contrast": "urgency 强调事情急迫；immediacy 还可强调体验直接鲜活，即使没有需要赶紧办的事。",
+    "examples": [
+      [
+        "The letters give the story a sense of immediacy.",
+        "这些信让故事有了仿佛就在眼前发生的感觉。"
+      ],
+      [
+        "Live theatre has an immediacy that recordings often lack.",
+        "现场戏剧有一种录影常常缺少的直接感染力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/immediacy#English"
+    ]
+  },
+  {
+    "word": "median",
+    "ipa": "/ˈmiːdiən/",
+    "meaning": "中位数；中间的；道路中央分隔带",
+    "sense": "让所有数从小到大排好队，站在队伍正中间的那个位置，就是 median 的画面。",
+    "split": "经法语来自拉丁语 mediānus“居中的”，与 mean 的平均义同源，但现代统计概念不同。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：mediānus",
+        "位于中间的"
+      ],
+      [
+        "法语：median",
+        "中央的"
+      ],
+      [
+        "英语：median",
+        "中位数；中央位置"
+      ]
+    ],
+    "explanation": "奇数个数取中间值，偶数个数通常取中间两个数的平均。道路 median 则是把两个行驶方向分开的中央地带。",
+    "usage": "median income；the median value；a highway median。",
+    "contrast": "mean 易被少数极大值拉高；median 只看排序后的中央位置。二者都能概括数据，但回答的问题不同。",
+    "examples": [
+      [
+        "The median of two, three and ten is three.",
+        "二、三和十的中位数是三。"
+      ],
+      [
+        "A row of trees runs along the highway median.",
+        "公路中央分隔带上种着一排树。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/median#English"
+    ]
+  },
+  {
+    "word": "mediate",
+    "ipa": "动词 /ˈmiːdieɪt/；形容词 /ˈmiːdiət/",
+    "meaning": "调解；居中传递；间接的",
+    "sense": "两边谈不拢，你站到中间，帮助他们听懂对方、找到能接受的方案。",
+    "split": "来自拉丁语 mediāre 的相关形式 mediātus，与 medius“中间”相连。英语先有相关形容词，后来有动词。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：mediāre → mediātus",
+        "在中间；居间干预"
+      ],
+      [
+        "英语：mediate",
+        "调解；通过中间环节传递"
+      ]
+    ],
+    "explanation": "调解义把“在中间”变成沟通角色；更宽的学术用法表示作用经过一个中间环节传递。它不自动表示替双方作出强制裁决。",
+    "usage": "mediate a dispute；mediate between two sides；be mediated by。",
+    "contrast": "mediate 是帮助双方达成安排；arbitrate 通常涉及由仲裁者作决定。词尾动词 -ate 读 /eɪt/。",
+    "examples": [
+      [
+        "A teacher offered to mediate between the two students.",
+        "一位老师提出帮助这两名学生调解矛盾。"
+      ],
+      [
+        "The talks were mediated by an independent organization.",
+        "会谈由一个独立组织居中协调。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mediate#English"
+    ]
+  },
+  {
+    "word": "mediation",
+    "ipa": "/ˌmiːdiˈeɪʃən/",
+    "meaning": "调解；居中协调的过程",
+    "sense": "双方先不直接对撞，而是在中间人的帮助下把问题谈开；这个过程就是 mediation。",
+    "split": "晚期拉丁语 mediātiō 经法语 mediacion 传入。现代能看出与 mediate 和 -ion 的对应，历史上名词有自己的借入路线。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：mediāre → mediātiō",
+        "居中协调 → 调解行为"
+      ],
+      [
+        "法语：mediacion",
+        "调解"
+      ],
+      [
+        "英语：mediation",
+        "调解过程"
+      ]
+    ],
+    "explanation": "它把调解当成一种解决分歧的安排。参与 mediation 不等于最后一定达成协议。",
+    "usage": "seek mediation；through mediation；a mediation session。",
+    "contrast": "mediation 是调解；meditation 是冥想，多一个 t，而且来源不同。",
+    "examples": [
+      [
+        "The neighbours resolved their disagreement through mediation.",
+        "邻居们通过调解解决了分歧。"
+      ],
+      [
+        "Both sides agreed to attend a mediation session.",
+        "双方同意参加一次调解会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mediation#English"
+    ]
+  },
+  {
+    "word": "mediator",
+    "ipa": "英 /ˈmiːdieɪtə/；美 /ˈmiːdieɪtər/",
+    "meaning": "调解人；居中传递者",
+    "sense": "mediator 是把两边重新接上话的人：不只是递话，还帮助双方理解分歧所在。",
+    "split": "来自拉丁语 mediātor，经法语或拉丁语借入；-or 表示从事相关行动的人。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：mediāre → mediātor",
+        "居中协调 → 协调者"
+      ],
+      [
+        "法语：mediateur / 英语：mediator",
+        "调解人"
+      ]
+    ],
+    "explanation": "人际场景里是调解者，科学讨论中也可指在过程中起中介作用的因素。具体作用要看领域。",
+    "usage": "an independent mediator；act as a mediator；appoint a mediator。",
+    "contrast": "mediator 强调帮助协调；intermediary 只要处在两端之间传递、交易，也可能成立，不一定处理争端。",
+    "examples": [
+      [
+        "The mediator asked each person to explain their concerns.",
+        "调解人请每个人说出自己的顾虑。"
+      ],
+      [
+        "They invited a neutral mediator to join the talks.",
+        "他们邀请一位中立调解人参与会谈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mediator#English"
+    ]
+  },
+  {
+    "word": "intermediary",
+    "ipa": "英 /ˌɪntəˈmiːdiəri/；美 /ˌɪntərˈmiːdieri/",
+    "meaning": "中间人；中介；居间的",
+    "sense": "甲不直接找乙，而是通过丙传话或交易；丙就是 intermediary。",
+    "split": "英语借自法语 intermédiaire；inter- 表示在……之间，medi- 是中间。不要把它解释成 immediate 加前缀。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语词族：intermedius",
+        "处在两者之间"
+      ],
+      [
+        "法语：intermédiaire",
+        "居间的；中间人"
+      ],
+      [
+        "英语：intermediary",
+        "中介人或机构"
+      ]
+    ],
+    "explanation": "它可以是个人，也可以是帮两端接触的机构。强调所处位置，不保证其公平、不收费或没有自身利益。",
+    "usage": "act as an intermediary；through an intermediary；a financial intermediary。",
+    "contrast": "intermediate 常形容中间阶段或水平；intermediary 常指承担居间角色的人、机构或事物。",
+    "examples": [
+      [
+        "We contacted the seller through an intermediary.",
+        "我们通过一位中间人联系了卖家。"
+      ],
+      [
+        "The agency acts as an intermediary between artists and clients.",
+        "这家机构在艺术家和客户之间起中介作用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intermediary#English"
+    ]
+  },
+  {
+    "word": "intermediate",
+    "ipa": "形容词 /ˌɪntəˈmiːdiət/；美 /ˌɪntərˈmiːdiət/",
+    "meaning": "中间的；中级的；中间阶段",
+    "sense": "从起点走到终点，中途还有一站；从初学到熟练，中间还有一个水平，这就是 intermediate。",
+    "split": "来自中世纪拉丁语 intermediātus，与 inter-（之间）和 medius（中间）相关。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：intermedius",
+        "在两者之间"
+      ],
+      [
+        "中世纪拉丁语：intermediātus",
+        "处于中间的"
+      ],
+      [
+        "英语：intermediate",
+        "中间阶段或中级的"
+      ]
+    ],
+    "explanation": "它不要求正好位于百分之五十处，只说明尚未到达两端。intermediate course 通常适合已有基础、还没到高级的学习者。",
+    "usage": "an intermediate level；an intermediate stage；intermediate results。",
+    "contrast": "intermediate 是阶段位置；mediocre 是质量评价。中级学习者不等于平庸学习者。",
+    "examples": [
+      [
+        "This course is designed for intermediate learners.",
+        "这门课是为中级学习者设计的。"
+      ],
+      [
+        "The team tested the product at each intermediate stage.",
+        "团队在每个中间阶段都测试了产品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intermediate#English"
+    ]
+  },
+  {
+    "word": "medieval",
+    "ipa": "英 /ˌmediˈiːvəl/；美 /ˌmiːdiˈiːvəl/",
+    "meaning": "中世纪的",
+    "sense": "这里的“中间”说历史分期：在欧洲传统分期里，古代与近代之间的时代。",
+    "split": "来自法语 médiéval，利用拉丁语 medium“中间”和 aevum“时代”构成。后半不是 evil“邪恶”。",
+    "history": [
+      [
+        "拉丁语：medium + aevum",
+        "中间 + 时代"
+      ],
+      [
+        "法语：médiéval",
+        "中世纪的"
+      ],
+      [
+        "英语：medieval",
+        "与中世纪有关的"
+      ]
+    ],
+    "explanation": "最基本是历史标签，可形容城堡、手稿、社会。口语里也有人拿它夸张形容落后残酷，但这不能代替严谨的历史评价。",
+    "usage": "a medieval castle；medieval history；a medieval manuscript。",
+    "contrast": "medieval 不是泛指一切古老事物；古埃及金字塔不能只因年代久远就叫 medieval。",
+    "examples": [
+      [
+        "The town is famous for its medieval castle.",
+        "这座城镇以其中世纪城堡闻名。"
+      ],
+      [
+        "She studies medieval manuscripts.",
+        "她研究中世纪手稿。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/medieval#English"
+    ]
+  },
+  {
+    "word": "Mediterranean",
+    "ipa": "/ˌmedɪtəˈreɪniən/",
+    "meaning": "地中海；地中海地区的",
+    "sense": "看地图：海被欧洲、非洲和亚洲的陆地围在周围，“陆地中间的海”就是名字背后的画面。",
+    "split": "来自拉丁语 mediterrāneus“内陆的”：medius（中间）+ terra（土地）及形容词词尾，再形成英语 Mediterranean。",
+    "history": [
+      [
+        "拉丁语：medius + terra",
+        "中间 + 陆地"
+      ],
+      [
+        "拉丁语：mediterrāneus",
+        "位于陆地之间、内陆的"
+      ],
+      [
+        "英语：Mediterranean",
+        "地中海；地中海地区的"
+      ]
+    ],
+    "explanation": "这里的中间是相对周围陆地而言，不是说地中海位于整个地球正中心。作海名常用 the Mediterranean。",
+    "usage": "the Mediterranean Sea；the Mediterranean coast；a Mediterranean climate。",
+    "contrast": "medieval 说时代；Mediterranean 说地理区域。两者开头相近，但后半成分分别是时代与土地。",
+    "examples": [
+      [
+        "They sailed across the Mediterranean in summer.",
+        "他们夏天乘船横渡地中海。"
+      ],
+      [
+        "The town has a warm Mediterranean climate.",
+        "这座城镇有温暖的地中海气候。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/Mediterranean#English"
+    ]
+  },
+  {
+    "word": "mediocre",
+    "ipa": "英 /ˌmiːdiˈəʊkə/；美 /ˌmiːdiˈoʊkər/",
+    "meaning": "平庸的；不出色的",
+    "sense": "期待爬上山顶，结果只到半山腰：还不算彻底失败，但远没有让人满意。这个画面能帮助记住 mediocre 的失望语气。",
+    "split": "法语 médiocre 来自拉丁语 mediocris，通常分析为 medius“中间”与 ocris“山峰”有关。英语里不能拆成 media 加某个 -ocre 后缀。",
+    "history": [
+      [
+        "拉丁语成分：medius + ocris",
+        "中间 + 山峰"
+      ],
+      [
+        "拉丁语：mediocris",
+        "中等的；普通的"
+      ],
+      [
+        "法语：médiocre",
+        "普通；不出色"
+      ],
+      [
+        "英语：mediocre",
+        "平庸；表现一般"
+      ]
+    ],
+    "explanation": "拉丁词已有中等、普通义；英语现代多用来评价质量或表现平平。“半山腰”是帮助理解词形的画面，不是在讲每次使用时都想到登山。",
+    "usage": "a mediocre performance；mediocre food；a mediocre result。",
+    "contrast": "average 可以只陈述平均水平；mediocre 通常含“不够好”的评价。夸人时不要用 mediocre。",
+    "examples": [
+      [
+        "The service was friendly, but the food was mediocre.",
+        "服务很友好，但饭菜很一般。"
+      ],
+      [
+        "She was disappointed by the team’s mediocre performance.",
+        "球队平平的表现让她失望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mediocre#English",
+      "https://www.etymonline.com/word/mediocre"
+    ]
+  },
+  {
+    "word": "mediocrity",
+    "ipa": "英 /ˌmiːdiˈɒkrəti/；美 /ˌmiːdiˈɑːkrəti/",
+    "meaning": "平庸；平庸的人或作品",
+    "sense": "mediocre 说这次表现一般；mediocrity 把“一直没有出色之处”的状态拿出来讨论。",
+    "split": "来自拉丁语 mediocritās，经法语等路径传入；现代与 mediocre + -ity 对应，重音移到后面的音节。",
+    "history": [
+      [
+        "拉丁语成分：medius + ocris",
+        "中间 + 山峰"
+      ],
+      [
+        "拉丁语：mediocris",
+        "中等的；普通的"
+      ],
+      [
+        "拉丁语：mediocritās → 法语 médiocrité",
+        "中等状态；平常水平"
+      ],
+      [
+        "英语：mediocrity",
+        "平庸状态；平庸者"
+      ]
+    ],
+    "explanation": "历史上可中性地表示适中，现代主要带贬义，常出现在不愿满足于平庸的语境。可数时也可指平庸的人或作品。",
+    "usage": "settle for mediocrity；rise above mediocrity；a culture of mediocrity。",
+    "contrast": "modesty 是谦虚或规模不大，并不等于 mediocrity“能力、成绩平庸”。",
+    "examples": [
+      [
+        "The coach refused to accept mediocrity.",
+        "教练不愿接受平庸的表现。"
+      ],
+      [
+        "The film never rises above mediocrity.",
+        "这部电影始终没有超出平庸水平。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mediocrity#English"
+    ]
+  },
+  {
+    "word": "moiety",
+    "ipa": "/ˈmɔɪəti/",
+    "meaning": "一半；一份；分子中的某一部分",
+    "sense": "在整体中划出一块来看，早期最直接是一半，后来也可以是特定的一份。",
+    "split": "拉丁语 medietās“中间、一半”经古法语 meitié、法语 moytié 进入英语。音变后已经看不出 medi- 的完整样子。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：medietās",
+        "中间；一半"
+      ],
+      [
+        "法语：meitié / moytié",
+        "一半"
+      ],
+      [
+        "英语：moiety",
+        "半份；特定部分"
+      ]
+    ],
+    "explanation": "普通文章里不常见；历史法律文本可说一半份额，化学中常指分子里的某个结构片段，那里不一定刚好占一半。",
+    "usage": "a moiety of the estate；a molecular moiety；a sugar moiety。",
+    "contrast": "half 明确是二分之一；现代 moiety 的某些专业用法只说一个特定片段，不能机械换成 half。",
+    "examples": [
+      [
+        "The old deed assigned a moiety of the estate to each heir.",
+        "旧契约把遗产的一半分给了每位继承人。"
+      ],
+      [
+        "The molecule contains a sugar moiety.",
+        "这个分子含有一个糖结构片段。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/moiety#English"
+    ]
+  },
+  {
+    "word": "mediumship",
+    "ipa": "/ˈmiːdiəmʃɪp/",
+    "meaning": "灵媒活动；充当灵媒的身份或能力主张",
+    "sense": "这里选用 medium 的灵媒义：有人声称自己处在生者与亡者之间，能替双方传话。",
+    "split": "medium（灵媒）+ -ship（身份、状态、活动），不是“中号船”。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：medium",
+        "中间；处于中间的东西"
+      ],
+      [
+        "英语：medium",
+        "中等的；媒介；介质"
+      ],
+      [
+        "英语：medium 的灵媒义",
+        "自称能够与亡者沟通的人"
+      ],
+      [
+        "英语：mediumship",
+        "充当灵媒的活动"
+      ]
+    ],
+    "explanation": "这个词用于描述相关信仰、声称的能力或表演活动。解释词义本身，并不等于确认这种能力真实存在。",
+    "usage": "claims of mediumship；the history of mediumship；practise mediumship。",
+    "contrast": "mediation 是调解，mediumship 是灵媒活动；两者都有“中间角色”的意象，实际领域不同。",
+    "examples": [
+      [
+        "The book examines mediumship in nineteenth-century Britain.",
+        "这本书研究十九世纪英国的灵媒活动。"
+      ],
+      [
+        "The investigator tested the woman’s claims of mediumship.",
+        "调查者检验了这名女子关于自己灵媒能力的说法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mediumship#English",
+      "https://dictionary.cambridge.org/dictionary/english/mediumship"
+    ]
+  },
+  {
+    "word": "dimidiation",
+    "ipa": "/dɪˌmɪdiˈeɪʃən/",
+    "meaning": "分成两半；纹章中的各取半幅合并",
+    "sense": "把完整图形沿中间分开，两边各是一半；在纹章里，还能各取两枚徽章的一半，拼成一枚。",
+    "split": "来自晚期拉丁语 dīmidiātiō，与 dīmidiāre“分半”和 medius“中间”相关。不是 di- 简单等于“二”再随意接词尾。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "拉丁语：dīmidius → dīmidiāre",
+        "一半的 → 分成两半"
+      ],
+      [
+        "晚期拉丁语：dīmidiātiō",
+        "分半的行为"
+      ],
+      [
+        "英语：dimidiation",
+        "分半；各取半幅拼合"
+      ]
+    ],
+    "explanation": "这是少见的专业词。纹章义把两个完整标志各截半幅再拼合，与把两枚完整徽章缩小并排放不同。",
+    "usage": "dimidiation of arms；heraldic dimidiation。",
+    "contrast": "division 只说划分，不限定两半；dimidiation 强调对半及相关专业方式。",
+    "examples": [
+      [
+        "The diagram illustrates the dimidiation of two coats of arms.",
+        "这张图展示了两幅纹章各取一半进行拼合的方式。"
+      ],
+      [
+        "Dimidiation can make the original symbols difficult to recognize.",
+        "这种半幅拼合可能让原来的图案难以辨认。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dimidiation#English"
+    ]
+  },
+  {
+    "word": "meridian",
+    "ipa": "/məˈrɪdiən/",
+    "meaning": "经线；子午线；正午相关的",
+    "sense": "名字先来自一天的中间——正午，后来与观察太阳过中天的方向相连，进入地图与天文学。",
+    "split": "medius（中间）与 diēs（一天）组合，发生音变形成 merīdiēs“正午”，再有 merīdiānus，经法语及拉丁语进入英语。",
+    "history": [
+      [
+        "拉丁语：medius + diēs",
+        "中间 + 一天"
+      ],
+      [
+        "拉丁语：merīdiēs → merīdiānus",
+        "正午 → 与正午有关的"
+      ],
+      [
+        "古法语：meridien → 英语 meridian",
+        "正午相关 → 子午线、经线"
+      ]
+    ],
+    "explanation": "现代地理里的 meridian 是连接南北两极的经线。它不是围绕地球中部一圈的赤道；“中间”在这里首先指时间。",
+    "usage": "the prime meridian；cross a meridian；the Greenwich meridian。",
+    "contrast": "meridian 是经线；parallel 是纬线。median 则是中位数或中央的，少了 r，不能互换。",
+    "examples": [
+      [
+        "The prime meridian passes through Greenwich.",
+        "本初子午线经过格林尼治。"
+      ],
+      [
+        "Every meridian runs from one pole to the other.",
+        "每条经线都从一个极点延伸到另一个极点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/meridian#English",
+      "https://www.etymonline.com/word/meridian"
+    ]
+  },
+  {
+    "word": "postmeridian",
+    "ipa": "英 /ˌpəʊstməˈrɪdiən/；美 /ˌpoʊstməˈrɪdiən/",
+    "meaning": "午后的；正午之后的",
+    "sense": "把一天从正午切开，post- 让你看后面这一段。它是少见、较正式的“午后”。",
+    "split": "拉丁语 post-（之后）+ merīdiānus（正午的）形成 postmerīdiānus；英语保留这个组合。",
+    "history": [
+      [
+        "拉丁语：medius + diēs",
+        "中间 + 一天"
+      ],
+      [
+        "拉丁语：merīdiēs → merīdiānus",
+        "正午 → 与正午有关的"
+      ],
+      [
+        "拉丁语：postmerīdiānus",
+        "正午之后的"
+      ],
+      [
+        "英语：postmeridian",
+        "午后的"
+      ]
+    ],
+    "explanation": "理解词时抓住 post + 正午。日常表达说 afternoon 更自然；钟表里的 p.m. 来自拉丁短语 post meridiem，不是这个英语形容词的简单缩写。",
+    "usage": "postmeridian hours；a postmeridian observation。",
+    "contrast": "postmeridian 是形容词，post meridiem 是拉丁短语。也不要把 meridian 理解成这里只谈跨过某条地理经线。",
+    "examples": [
+      [
+        "The old log lists separate morning and postmeridian observations.",
+        "旧日志分别列出了上午和午后的观测记录。"
+      ],
+      [
+        "The manuscript uses postmeridian to describe the hours after noon.",
+        "这份手稿用 postmeridian 描述正午之后的时段。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/postmeridian",
+      "https://www.collinsdictionary.com/dictionary/english/postmeridian"
+    ]
+  },
+  {
+    "word": "submediant",
+    "ipa": "/ˌsʌbˈmiːdiənt/",
+    "meaning": "下中音；音阶第六级",
+    "sense": "在大调或小调音阶里，submediant 指第六级。以 C 大调为例，它是 A；不要按中文“中”字去猜是第四级。",
+    "split": "sub-（下）+ mediant（中音），后者最终与拉丁语 medius“中间”相关，是音乐术语系统中的组合。",
+    "history": [
+      [
+        "拉丁语：medius",
+        "中间的"
+      ],
+      [
+        "音乐术语：mediant",
+        "中音；第三音级"
+      ],
+      [
+        "现代组合：sub- + mediant",
+        "下方对应的中音位置"
+      ],
+      [
+        "英语：submediant",
+        "第六音级；下中音"
+      ]
+    ],
+    "explanation": "它与 mediant 形成上下方向的对应：相对高一个八度的主音往下数三度，可到第六级。名称描述音级关系，不是音量高低。",
+    "usage": "the submediant of C major；a submediant chord。",
+    "contrast": "submediant 是第六级；subdominant 是第四级。二者都有 sub-，仍不能只凭前缀判断音高。",
+    "examples": [
+      [
+        "In C major, A is the submediant.",
+        "在 C 大调中，A 是下中音。"
+      ],
+      [
+        "The teacher asked us to identify the submediant in each scale.",
+        "老师让我们指出每个音阶里的下中音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/submediant#English",
+      "https://www.merriam-webster.com/dictionary/submediant"
+    ]
+  }
+]

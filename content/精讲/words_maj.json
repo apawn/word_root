@@ -1,0 +1,726 @@
+[
+  {
+    "word": "major",
+    "ipa": "英 /ˈmeɪdʒə/；美 /ˈmeɪdʒər/",
+    "meaning": "重大的；主要的；主修；专业；少校；大调的",
+    "sense": "把同类东西摆在一起，major 是分量更重、影响更大的一边。a major problem 是不能轻轻带过的大问题。",
+    "split": "来自拉丁语 maior“更大”，是 magnus“大”的比较级。英语形容词直接借入；军衔名词另经法语 major，是 sergent-major 的简化；大学专业义由“主要学习领域”发展。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "并行发展：重要性、军队等级、音乐音程",
+        "更重要；较高等级；较大的音程"
+      ],
+      [
+        "英语：major",
+        "重大；少校；大调；主修专业"
+      ]
+    ],
+    "explanation": "major in physics 是“主修物理”；a physics major 可以指物理专业学生。音乐里 major 指大调或大音程，不是说声音更响。几个意思共享“较大、较主要”的底色，专业义并不是从少校变来的。",
+    "usage": "a major concern；major in history；a biology major；C major。",
+    "contrast": "big 常说体积大；major 常说重要性高。major problem 对应 minor problem；major in 后接专业名称。",
+    "examples": [
+      [
+        "The storm caused major damage to the roof.",
+        "暴风雨严重损坏了屋顶。"
+      ],
+      [
+        "She majored in physics but now works in publishing.",
+        "她大学主修物理，现在从事出版工作。"
+      ],
+      [
+        "The piece begins in C major.",
+        "这首曲子从C大调开始。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/major",
+      "https://dictionary.cambridge.org/dictionary/english/major"
+    ]
+  },
+  {
+    "word": "majority",
+    "ipa": "英 /məˈdʒɒrəti/；美 /məˈdʒɔːrəti/",
+    "meaning": "多数；多数票；领先票数；成年身份",
+    "sense": "先把一群人分边，majority 是人数占优势的那边。严格说“过半数”时，100票里的51票才过线。",
+    "split": "经法语 majorité 来自中世纪拉丁语 māiōritās，根在 maior“更大”。现代可看出 major 与 -ity 的关系，但它不是英语临时拼出的名词。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "中世纪拉丁语 māiōritās → 法语 majorité",
+        "较大的地位、份额；成年"
+      ],
+      [
+        "英语：majority",
+        "多数；领先票数；成年身份"
+      ]
+    ],
+    "explanation": "a majority 常指过半数；英式选举报道里的 a majority of 20 votes 也会指比对手多20票。另一个常见搭配 age of majority 指法律上的成年年龄，具体年龄由相关制度规定。",
+    "usage": "a large majority；the majority of students；win by a narrow majority；reach majority。",
+    "contrast": "若票数是40、35、25，40最多，却没有过半；严格区分时，英语用 plurality 表示这种“相对最多”。不要把新闻中的领先票数和总得票比例混起来。",
+    "examples": [
+      [
+        "A majority of the members voted to keep the library open.",
+        "过半数成员投票支持让图书馆继续开放。"
+      ],
+      [
+        "The proposal passed by a narrow majority.",
+        "提案以微弱多数获得通过。"
+      ],
+      [
+        "The form asks whether the applicant has reached the age of majority.",
+        "表格询问申请人是否已达到法定成年年龄。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/majority",
+      "https://dictionary.cambridge.org/dictionary/english/majority"
+    ]
+  },
+  {
+    "word": "mayor",
+    "ipa": "英 /meə/；美 /ˈmeɪər/",
+    "meaning": "市长；城镇的行政或礼仪负责人",
+    "sense": "把一座城的事务交给一个居首的人，mayor 就是这个职位的名称。不同地方的市长，实际权力可能差很多。",
+    "split": "古法语 maire 来自后期拉丁语作名词用的 maior“较高者、负责人”。它和 major 同源，但走过法语这条路，拼写和发音变了。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "后期拉丁语 maior → 古法语 maire",
+        "地位较高的负责人 → 城镇长官"
+      ],
+      [
+        "中古英语 maire → 英语 mayor",
+        "市长"
+      ]
+    ],
+    "explanation": "日常直接说 the mayor 或 Mayor + 姓氏。mayor 本身不限定性别；不能靠“更大”的词根推断这个职位一定权力最大。",
+    "usage": "the mayor of a city；elect a mayor；the mayor’s office。",
+    "contrast": "mayor 是市长，major 可指少校；前者通常没有 /dʒ/ 音。词形接近，职位完全不同。",
+    "examples": [
+      [
+        "The mayor opened the new public library.",
+        "市长为新公共图书馆揭幕。"
+      ],
+      [
+        "Residents sent a letter to the mayor about the bus service.",
+        "居民们就公交服务给市长写了一封信。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mayor",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/mayor"
+    ]
+  },
+  {
+    "word": "majesty",
+    "ipa": "/ˈmædʒəsti/",
+    "meaning": "雄伟；庄严；陛下",
+    "sense": "站在雪山、宫殿或大瀑布前，你会觉得自己很小，眼前事物很有气势。majesty 就是这种令人肃然的宏大感。",
+    "split": "古法语 majesté 来自拉丁语 māiestās“伟大、尊严”，与 maior“更大”的词干相关。maj- 后面不是现代英语的独立小词。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "拉丁语 māiestās → 古法语 majesté",
+        "伟大、尊严、权威"
+      ],
+      [
+        "中古英语 majeste → 英语 majesty",
+        "庄严雄伟；对君主的尊称"
+      ]
+    ],
+    "explanation": "the majesty of the mountains 说群山的雄伟；Your Majesty 是当面对君主的尊称，His/Her Majesty 用于提及。它既能写景，也能用于礼仪。",
+    "usage": "natural majesty；the majesty of the sea；Your Majesty。",
+    "contrast": "majesty 说气势或尊号；majesty 的形容词是 majestic。size 只说尺寸，不自动带敬畏感。",
+    "examples": [
+      [
+        "We stopped to admire the majesty of the mountains.",
+        "我们停下来，欣赏群山的雄伟。"
+      ],
+      [
+        "The actor bowed and said, “Your Majesty.”",
+        "演员鞠躬说：“陛下。”"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/majesty",
+      "https://dictionary.cambridge.org/dictionary/english/majesty"
+    ]
+  },
+  {
+    "word": "majestic",
+    "ipa": "/məˈdʒestɪk/",
+    "meaning": "雄伟的；庄严壮丽的",
+    "sense": "大，而且有一种从容、庄重的气势。山峰、建筑，甚至一只缓缓走过的鹿，都可以 majestic。",
+    "split": "英语 majesty + -ic，换成形容词时词形与重音发生变化：MAJesty → maJEStic。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "拉丁语 māiestās → 古法语 majesté",
+        "伟大、尊严、权威"
+      ],
+      [
+        "中古英语 majeste → 英语 majesty",
+        "庄严雄伟；对君主的尊称"
+      ],
+      [
+        "英语：majesty → majestic",
+        "雄伟、尊严 → 具有这种气势的"
+      ]
+    ],
+    "explanation": "不是看到大东西就用 majestic。它强调大气、优美或威严，让人愿意停下来欣赏；一堆巨大垃圾通常只有 huge，没有这种赞美。",
+    "usage": "majestic mountains；a majestic building；a majestic animal。",
+    "contrast": "magnificent 泛指极出色、壮观；majestic 更集中在庄严的气势。",
+    "examples": [
+      [
+        "A majestic eagle glided above the valley.",
+        "一只雄鹰威风凛凛地滑翔过山谷上空。"
+      ],
+      [
+        "The hall looked majestic in the morning light.",
+        "大厅在晨光中显得庄严壮丽。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/majestic#English"
+    ]
+  },
+  {
+    "word": "majestically",
+    "ipa": "/məˈdʒestɪkli/",
+    "meaning": "庄严地；气势雄伟地",
+    "sense": "把 majestic 的气势放在动作上：缓缓升起、从容前行，或高高矗立。",
+    "split": "majestic + -ally；常见读法中 -ically 是 /ɪkli/，不必读成每个字母一个音节。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "拉丁语 māiestās → 古法语 majesté",
+        "伟大、尊严、权威"
+      ],
+      [
+        "中古英语 majeste → 英语 majesty",
+        "庄严雄伟；对君主的尊称"
+      ],
+      [
+        "英语：majestic → majestically",
+        "有庄严气势的 → 以这种姿态"
+      ]
+    ],
+    "explanation": "rise majestically 可以写山峰、建筑或徐徐升空的物体。它描述旁观者感受到的气势，不是速度单位。",
+    "usage": "rise majestically；move majestically；stand majestically。",
+    "contrast": "slowly 只是慢；majestically 常有从容感，但核心是庄严、壮观。",
+    "examples": [
+      [
+        "The castle rose majestically above the river.",
+        "城堡气势雄伟地矗立在河岸上方。"
+      ],
+      [
+        "The ship moved majestically out of the harbour.",
+        "大船气势非凡地驶出港口。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/majestically",
+      "https://en.wiktionary.org/wiki/majestically#English"
+    ]
+  },
+  {
+    "word": "mayoral",
+    "ipa": "英 /ˈmeərəl/；美 /ˈmeɪərəl/",
+    "meaning": "市长的；与市长职位有关的",
+    "sense": "在一个事情前贴上“这是市长那一层面的”标签：选市长的选举，就是 a mayoral election。",
+    "split": "这里讲常用英语形容词：mayor + -al。另有借自西班牙语的少见同形名词，不是这里的“市长的”。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "后期拉丁语 maior → 古法语 maire",
+        "地位较高的负责人 → 城镇长官"
+      ],
+      [
+        "中古英语 maire → 英语 mayor",
+        "市长"
+      ],
+      [
+        "英语：mayor + -al → mayoral",
+        "市长 → 与市长有关的"
+      ]
+    ],
+    "explanation": "通常放在名词前，修饰 election、candidate、office、duties。它说事情属于哪个职位，不表示“像市长一样威风”。",
+    "usage": "a mayoral candidate；mayoral duties；the mayoral election。",
+    "contrast": "mayor 是担任职位的人；mayoral 是形容词；mayoralty 是职位或任职时期。",
+    "examples": [
+      [
+        "Three mayoral candidates attended the debate.",
+        "三位市长候选人参加了辩论。"
+      ],
+      [
+        "She balanced her mayoral duties with family life.",
+        "她兼顾市长职责和家庭生活。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/mayoral",
+      "https://en.wiktionary.org/wiki/mayoral#English"
+    ]
+  },
+  {
+    "word": "mayoralty",
+    "ipa": "英 /ˈmeərəlti/；美 /ˈmeɪərəlti/",
+    "meaning": "市长职位；市长任期",
+    "sense": "把镜头从“那位市长”移到“他占据的职位或任职那段时间”。这就是 mayoralty。",
+    "split": "中古英语 mairaltee 经法语 mairalté 等形式借入，法语里已经有表示职位的名词；不能只把它当现代英语 mayor 拼上 -alty。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "古法语 maire → mairalté",
+        "市长 → 市长职位"
+      ],
+      [
+        "中古英语 mairaltee → 英语 mayoralty",
+        "职位；任职时期"
+      ]
+    ],
+    "explanation": "during her mayoralty 是“在她担任市长期间”。这个词比 time as mayor 正式，常见于历史介绍和政务报道。",
+    "usage": "win the mayoralty；during his mayoralty；seek the mayoralty。",
+    "contrast": "mayoral 是“市长的”；mayoralty 才能作为名词说一个职位或一段任期。",
+    "examples": [
+      [
+        "The museum opened during her mayoralty.",
+        "这家博物馆在她担任市长期间开放。"
+      ],
+      [
+        "He announced his intention to seek the mayoralty.",
+        "他宣布有意竞选市长。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/mayoralty",
+      "https://en.wiktionary.org/wiki/mayoralty#English"
+    ]
+  },
+  {
+    "word": "mayoress",
+    "ipa": "英 /meəˈres/；美 /ˈmeɪərəs/",
+    "meaning": "女市长；某些传统中的市长夫人或礼仪女伴",
+    "sense": "这是在 mayor 后加女性称呼的旧式做法。但看到 mayoress，先看上下文：她可能自己任职，也可能陪市长出席礼仪活动。",
+    "split": "mayor + -ess，-ess 是传统女性称呼后缀。早期可指市长妻子，后来也指女性市长；一些地方还保留陪同市长参加礼仪活动的称呼。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "后期拉丁语 maior → 古法语 maire",
+        "地位较高的负责人 → 城镇长官"
+      ],
+      [
+        "中古英语 maire → 英语 mayor",
+        "市长"
+      ],
+      [
+        "英语：mayor + -ess → mayoress",
+        "女性称呼；任职者或礼仪角色"
+      ]
+    ],
+    "explanation": "现在 mayor 本身可指任何性别。mayoress 仍会出现在历史文字或一些地方的礼仪称呼里，不能一律理解成“市长夫人”，也不能一律理解成实任市长。",
+    "usage": "a former mayoress；the mayor and mayoress。",
+    "contrast": "如果想明确说她本人是市长，用 mayor 即可；mayoress 的身份要从文章中判断。",
+    "examples": [
+      [
+        "The biography describes her election as mayoress in the 1930s.",
+        "这本传记写到她在20世纪30年代当选女市长。"
+      ],
+      [
+        "The programme listed the mayor and mayoress as guests of honour.",
+        "活动单把市长和市长礼仪女伴列为贵宾。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/mayor",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/mayoress",
+      "https://www.dictionary.com/browse/mayoress"
+    ]
+  },
+  {
+    "word": "majorly",
+    "ipa": "英 /ˈmeɪdʒəli/；美 /ˈmeɪdʒərli/",
+    "meaning": "非常；严重地；大大地〔口语〕",
+    "sense": "聊天时把程度旋钮拧高：majorly disappointed 就是“失望透了”，语气比正式文字更随意。",
+    "split": "major + -ly，由“程度很大”形成加强语气的副词。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "拉丁语 maior → 英语 major",
+        "更大、更重要；后来也指主修专业"
+      ],
+      [
+        "英语：major + -ly → majorly",
+        "大、重大 → 程度很高地"
+      ]
+    ],
+    "explanation": "主要学习非常、严重这个口语义，常见于美式英语。词典也收“主要地”的用法，但想清楚表达“主要”时，mainly 通常更自然。",
+    "usage": "majorly upset；majorly impressed；mess up majorly。",
+    "contrast": "majorly 是语气较随意的 very/extremely；不要把所有 mainly 都替换成 majorly。",
+    "examples": [
+      [
+        "I was majorly disappointed when the concert was cancelled.",
+        "演唱会取消时，我失望极了。"
+      ],
+      [
+        "We majorly underestimated how long the repairs would take.",
+        "我们严重低估了维修需要的时间。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/us/dictionary/english/majorly",
+      "https://en.wiktionary.org/wiki/majorly#English"
+    ]
+  },
+  {
+    "word": "majoritarian",
+    "ipa": "英 /məˌdʒɒrɪˈteəriən/；美 /məˌdʒɔːrɪˈteriən/",
+    "meaning": "多数决定的；主张多数统治的；多数派主义者",
+    "sense": "一群人意见不同，规则是“人数更多的一边说了算”。majoritarian 描述这种安排或主张。",
+    "split": "majorit(y) + -arian；先有 majority“多数”，再形成表示相关制度或主张的词。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "中世纪拉丁语 māiōritās → 法语 majorité",
+        "较大的地位、份额；成年"
+      ],
+      [
+        "英语：majority",
+        "多数；领先票数；成年身份"
+      ],
+      [
+        "英语：majority + -arian → majoritarian",
+        "多数 → 倾向由多数作决定的"
+      ]
+    ],
+    "explanation": "a majoritarian system 强调多数意见在作决定时的地位。它是制度描述，不等于说每一个多数决定都正确，也不自动说明少数权益怎样安排。",
+    "usage": "majoritarian rule；a majoritarian approach；majoritarian democracy。",
+    "contrast": "majority 是人数或票数；majoritarian 是对“如何作决定”的描述。",
+    "examples": [
+      [
+        "The club adopted a majoritarian approach to choosing its activities.",
+        "俱乐部决定由多数成员的意见来选择活动。"
+      ],
+      [
+        "The essay compares majoritarian rule with decision making by consensus.",
+        "这篇文章比较了多数决定和协商达成共识两种方式。"
+      ]
+    ],
+    "sources": [
+      "https://www.dictionary.com/browse/majoritarian",
+      "https://www.ahdictionary.com/word/search.html?q=majoritarian"
+    ]
+  },
+  {
+    "word": "majoritarianism",
+    "ipa": "英 /məˌdʒɒrɪˈteəriənɪzəm/；美 /məˌdʒɔːrɪˈteriənɪzəm/",
+    "meaning": "多数派主义；以多数决定为核心的主张",
+    "sense": "不只是这一次举手表决，而是把“多数人的决定应起主导作用”当成一套原则。",
+    "split": "majoritarian + -ism，-ism 把相关形容词或立场变成一种主张、制度观念的名字。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "中世纪拉丁语 māiōritās → 法语 majorité",
+        "较大的地位、份额；成年"
+      ],
+      [
+        "英语：majority",
+        "多数；领先票数；成年身份"
+      ],
+      [
+        "英语：majoritarian → majoritarianism",
+        "多数决定的 → 以此为原则的主张"
+      ]
+    ],
+    "explanation": "常见于政治和制度讨论。理解时问两件事：谁算多数，以及多数的权力受到哪些规则约束；这个单词本身并没有回答这两件事。",
+    "usage": "pure majoritarianism；a critique of majoritarianism；limits on majoritarianism。",
+    "contrast": "majority 指人数关系；majoritarianism 指如何让这种人数关系参与治理的理念。",
+    "examples": [
+      [
+        "The seminar examined the strengths and limits of majoritarianism.",
+        "研讨课讨论了多数派主义的优点和局限。"
+      ],
+      [
+        "Her essay asks how majoritarianism can coexist with protections for minorities.",
+        "她的文章探讨多数决定如何与保护少数群体并存。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/us/dictionary/english/majoritarianism",
+      "https://www.dictionary.com/browse/majoritarianism"
+    ]
+  },
+  {
+    "word": "supermajority",
+    "ipa": "英 /ˌsuːpəməˈdʒɒrəti/；美 /ˌsuːpərməˈdʒɔːrəti/",
+    "meaning": "超多数；达到较高门槛的多数票",
+    "sense": "普通过半就能通过的门槛被抬高了，例如要求三分之二同意。这种更高的多数就是 supermajority。",
+    "split": "super- 超过 + majority 多数，是现代英语合成。super- 不是在夸票数“超级棒”，而是在说门槛更高。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "中世纪拉丁语 māiōritās → 法语 majorité",
+        "较大的地位、份额；成年"
+      ],
+      [
+        "英语：majority",
+        "多数；领先票数；成年身份"
+      ],
+      [
+        "英语：super- + majority → supermajority",
+        "超过普通多数的较高门槛"
+      ]
+    ],
+    "explanation": "具体比例看相应规则，可以是三分之二、四分之三或其他高于简单多数的门槛。别把 supermajority 固定记成三分之二。",
+    "usage": "a supermajority requirement；a two-thirds supermajority；require a supermajority。",
+    "contrast": "51比49可能达到普通多数；若要求三分之二，51票还不够。supermajority 不是“领先第二名很多”的同义词。",
+    "examples": [
+      [
+        "Changing the club’s rules requires a two-thirds supermajority.",
+        "修改俱乐部规则，需要三分之二的超多数同意。"
+      ],
+      [
+        "The proposal won a majority but fell short of the required supermajority.",
+        "提案获得了多数支持，但没达到规定的超多数门槛。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/supermajority",
+      "https://en.wiktionary.org/wiki/supermajority#English"
+    ]
+  },
+  {
+    "word": "semimajor",
+    "ipa": "英 /ˌsemiˈmeɪdʒə/；美 /ˌsemiˈmeɪdʒər/",
+    "meaning": "半长轴的；较重要但未达主要级别的",
+    "sense": "最值得记的是 semimajor axis：在一个椭圆里，找到最长的那条直径，再取一半。",
+    "split": "semi- 一半 + major 较大的；在几何搭配中 major 修饰较长的轴。英语也偶尔用 semimajor 表示“有一定重要性，但还不算主要”。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "拉丁语 maior → 英语 major",
+        "更大、更重要；后来也指主修专业"
+      ],
+      [
+        "英语：semi- + major → semimajor",
+        "较长轴的一半；或部分达到主要程度"
+      ]
+    ],
+    "explanation": "椭圆长轴全长若是10厘米，半长轴就是5厘米。它从中心量到长轴端点，不是从焦点量；天文学也用它描述椭圆轨道的尺度。",
+    "usage": "the semimajor axis；a semimajor role〔较少见〕。",
+    "contrast": "semimajor axis 是半长轴，semiminor axis 是半短轴；两个 semi- 都指各自轴长的一半。",
+    "examples": [
+      [
+        "The ellipse has a semimajor axis of five centimetres.",
+        "这个椭圆的半长轴长五厘米。"
+      ],
+      [
+        "The diagram labels the semimajor axis with the letter a.",
+        "图中用字母a标出了半长轴。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/us/dictionary/english/semimajor-axis",
+      "https://en.wiktionary.org/wiki/semimajor#English"
+    ]
+  },
+  {
+    "word": "majuscule",
+    "ipa": "/ˈmædʒəskjuːl/；也读 /məˈdʒʌskjuːl/",
+    "meaning": "大写字母；大写体；大写体的",
+    "sense": "把 a 写成 A：你看到的是大写字母。majuscule 是书写和古文字研究里比较专业的叫法。",
+    "split": "法语 majuscule 来自拉丁语 māiuscula littera“稍大一些的字母”；māiusculus 是 maior 的指小形式，意思是“略大”，不是“比大写还小”。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "拉丁语：māiuscula littera",
+        "稍大一些的字母"
+      ],
+      [
+        "法语 majuscule → 英语 majuscule",
+        "大写字母；大写体"
+      ]
+    ],
+    "explanation": "在古抄本研究中，它也指整套大写体书写，不只是今天句首的那个大写字母。日常说 capital letter 或 uppercase letter 更常见。",
+    "usage": "a majuscule letter；majuscule script；written in majuscules。",
+    "contrast": "majuscule 与 minuscule 对应大写体与小写体；muscle“肌肉”与这个词没有这种拆分关系。",
+    "examples": [
+      [
+        "The inscription was written entirely in majuscules.",
+        "这段铭文全部用大写字母写成。"
+      ],
+      [
+        "The guide explains the difference between majuscule and minuscule scripts.",
+        "指南解释了大写体和小写体的区别。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/majuscule",
+      "https://www.collinsdictionary.com/dictionary/english/majuscule"
+    ]
+  },
+  {
+    "word": "majuscular",
+    "ipa": "英 /məˈdʒʌskjʊlə/；美 /məˈdʒʌskjələr/",
+    "meaning": "大写体的；用大写字母书写的〔专业〕",
+    "sense": "这是给一种书写样式贴标签：它用的是 majuscule 那套大写字形。",
+    "split": "majuscule 的形容词派生形式，以 majuscul- 词干接 -ar。属于文字研究用语，不是 major + muscular，更不表示肌肉发达。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "拉丁语 māiuscula → 法语、英语 majuscule",
+        "稍大的字母 → 大写字母"
+      ],
+      [
+        "英语：majuscul- + -ar → majuscular",
+        "大写体的"
+      ]
+    ],
+    "explanation": "可以修饰 script、lettering、forms。majuscule 本身也能作形容词，因此这个更长的形式不是必需；读古文字学材料时能认出即可。",
+    "usage": "majuscular script；majuscular lettering。",
+    "contrast": "majuscular 讲字形；muscular 才讲肌肉。不要因为末尾像，就想成“很有力量的”。",
+    "examples": [
+      [
+        "The catalogue describes the lettering as majuscular.",
+        "目录将这种字形描述为大写体。"
+      ],
+      [
+        "Students compared majuscular forms with later minuscule writing.",
+        "学生们把大写体字形与较晚的小写体作了比较。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/majuscule",
+      "https://en.wiktionary.org/wiki/majuscular#English"
+    ]
+  },
+  {
+    "word": "majordomo",
+    "ipa": "英 /ˌmeɪdʒəˈdəʊməʊ/；美 /ˌmeɪdʒərˈdoʊmoʊ/",
+    "meaning": "大管家；负责统筹事务的人",
+    "sense": "一座大宅里，很多人分别做饭、清洁、接待；majordomo 是把这些人和事务统筹起来的大管家。",
+    "split": "经意大利语 maggiordomo 或西班牙语 mayordomo，来自中世纪拉丁语 maior domūs：maior 居首者 + domūs 房子的。不是 major + 英语 dome“圆顶”。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "中世纪拉丁语：maior domūs",
+        "家宅中的主管"
+      ],
+      [
+        "意大利语 maggiordomo／西班牙语 mayordomo",
+        "大管家"
+      ],
+      [
+        "英语：majordomo",
+        "统管家务或其他事务的人"
+      ]
+    ],
+    "explanation": "常见于历史、小说或较正式的比喻。现代也可借指一个组织里负责协调具体事务的人，语气有时带一点戏谑。",
+    "usage": "the household majordomo；serve as majordomo。",
+    "contrast": "butler 常是宅邸管家；majordomo 更突出统管一整套人员和事务。具体职责仍取决于背景。",
+    "examples": [
+      [
+        "The majordomo arranged rooms for all the guests.",
+        "大管家为所有客人安排了房间。"
+      ],
+      [
+        "In the novel, the majordomo knows every secret in the house.",
+        "小说里，大管家知道这座宅子里的每个秘密。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/major-domo",
+      "https://dictionary.cambridge.org/pronunciation/english/majordomo"
+    ]
+  },
+  {
+    "word": "majorette",
+    "ipa": "英 /ˌmeɪdʒəˈret/；美 /ˌmeɪdʒəˈret/",
+    "meaning": "行进乐队的女领队或持杖舞表演者",
+    "sense": "想象游行乐队前面，一位表演者随着节奏转动指挥杖、做动作。majorette 常指这类传统上由女性担任的角色。",
+    "split": "英语 drum majorette 的缩短形式，由 drum major“鼓乐队领队”加传统女性后缀 -ette。词看着很法语，但英语这个用法不是直接从现代法语借来的。",
+    "history": [
+      [
+        "拉丁语：maior / maius",
+        "更大的；地位更高的；magnus 的比较级"
+      ],
+      [
+        "法语、英语军乐用语：major；drum major",
+        "军队等级 → 鼓乐队领队"
+      ],
+      [
+        "英语：drum majorette → majorette",
+        "女性领队；后来也指持杖表演者"
+      ]
+    ],
+    "explanation": "现在可以指与行进乐队一起或单独表演的持杖舞者；不一定真负责指挥全队。名词可数：a majorette、several majorettes。",
+    "usage": "a troupe of majorettes；a majorette routine。",
+    "contrast": "majorette 偏游行、持杖表演；cheerleader 偏为比赛助威。两者可有舞蹈动作，但不是同一个职位。",
+    "examples": [
+      [
+        "The majorettes practised their routine before the parade.",
+        "持杖舞表演者在游行前练习了整套动作。"
+      ],
+      [
+        "She joined the marching band as a majorette.",
+        "她加入行进乐队，担任持杖表演者。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/majorette",
+      "https://www.collinsdictionary.com/us/dictionary/english/majorette"
+    ]
+  }
+]

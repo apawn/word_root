@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+H=['希腊语 helix；属格 helikos','螺旋、卷曲的东西']
+W=[
+E('helicopter','英 /ˈhelɪkɒptə/；美 /ˈhelɪkɑːptər/','直升机','靠旋转的机翼，也就是旋翼，获得升力的飞行器。','借法语 hélicoptère，由希腊 helic-/heliko-“螺旋、旋转”与 pteron“翼”造出。历史切分是 helico- + -pter，不是先有 heli + copter；copter 是后来才独立使用的缩略形式。',[H,['19 世纪法语 hélicoptère','借希腊语材料组成的飞行器名称：螺旋／旋转之翼'],['英语 helicopter','直升机']],'普通飞机的机翼主要靠飞机向前飞行获得相对气流，直升机则让旋翼本身旋转。词名借用了早期螺旋飞行装置的想法；现代直升机的每片桨叶并不因此就是螺旋形。','a rescue helicopter；travel by helicopter；a helicopter pilot；a helicopter landing pad。','helicopter 能在空中悬停、垂直起降，词中 pter 的翼义仍有帮助。但 heli- 本身并不是这里最原始的完整词根。',('A rescue helicopter hovered above the mountain ridge.','一架救援直升机悬停在山脊上方。'),('The helicopter landed on a small platform near the hospital.','直升机降落在医院附近的一个小平台上。'),sources=['https://www.etymonline.com/word/helicopter','https://www.oxfordlearnersdictionaries.com/definition/english/helicopter']),
+E('helix','英美 /ˈhiːlɪks/','螺旋；螺旋结构','像弹簧一样，一边绕着轴转，一边沿轴延伸的形状。','借拉丁 helix，来自希腊 helix；希腊属格 helikos 露出 helic- 词干。英语早期也用于建筑卷饰，现代常用于几何、生物等领域。',[H,['拉丁语 helix → 16 世纪英语 helix','螺旋、卷曲结构；早期有建筑用法'],['现代英语 helix','几何螺旋、DNA 等结构']],'拿一根线绕着圆柱，一圈一圈向上走，就形成很直观的 helix。DNA 的 double helix 是两条链绕成的双螺旋，常用扭转的梯子来帮助想象。','a double helix；the DNA helix；form a helix；复数常用 helices /ˈhiːlɪsiːz/。','spiral 可以指画在平面上不断向外绕的线；几何里的 helix 通常突出绕轴同时向前延伸的三维形状。',('The wire is wound into a tight helix.','这根金属丝被绕成了紧密的螺旋。'),('The model shows the double helix of DNA.','这个模型展示了 DNA 的双螺旋结构。'),sources=['https://www.etymonline.com/word/helix','https://www.oxfordlearnersdictionaries.com/definition/english/helix']),
+E('helical','英美 /ˈhelɪkl/，也读 /ˈhiːlɪkl/','螺旋形的','形容一个结构像弹簧、螺纹那样绕轴延伸。','helic- 是希腊 helix、helikos 经拉丁 helix 保存下来的词干，再接形容词后缀 -al。现代可记成 helix 对应的形容词，x 与 c 的变化来自历史词干。',[H,['拉丁语 helix；词干 helic-','螺旋'],['英语 helic- + -al → helical','螺旋形的']],'helix 是一个螺旋，helical 则放在别的名词前描述形状。a helical spring 是螺旋弹簧，a helical thread 是绕在圆柱表面的螺纹，画面都能用“围着轴一圈圈前进”来抓住。','a helical spring；a helical structure；a helical staircase；a helical thread。','helical 描述形状，不保证这个东西正在旋转；一个静止的弹簧仍然可以是 helical。',('The mechanism uses a small helical spring.','这个机构使用了一根小螺旋弹簧。'),('A helical staircase rises around the central column.','一道螺旋楼梯绕着中央立柱向上延伸。'),sources=['https://www.etymonline.com/word/helix','https://www.oxfordlearnersdictionaries.com/definition/english/helical'])
+]
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(r for r in m['roots']if r['id']=='C0528');family=r['family'];keep={w['word']for w in W}
+excluded={w:'按用户范围暂略：冷门几何、解剖、生物或仪器术语。'for w in family if w not in keep};excluded.update({w:'按用户范围暂略：专门耳部解剖名称。'for w in r['unmatched']})
+ROOT=[dict(id='C0528',meaning='螺旋、卷曲',core='helic-：围着轴一圈圈绕开的形状。',image='一根线绕着圆柱向上走，形成一圈圈螺旋。',intro='希腊 helix 指螺旋或卷曲物，属格 helikos 显示出 helic- 词干。helix 是形状本身，helical 描述这种形状；helicopter 则是近代法语借这些希腊材料创造的名称。',forms='helix 的 x 在词干 helic- 中表现为 c。helicopter 的原始边界是 helico- 与 pter“翼”，后来才产生 copter 这个缩略词。',branches=[['螺旋形状','helix、helical'],['旋转翼的近代命名','helicopter']],contrasts='helical 不等于正在旋转；它可以只描述静止物体的形状。helicopter 的历史名称也不要求现代桨叶本身呈螺旋状。',practice='用弹簧解释 helix 与 helical 的词性区别，再把 helicopter 按其历史构词分成两部分。',words=[w for w in family if w in keep],exclude=excluded,sources=['https://www.etymonline.com/word/helix','https://www.etymonline.com/word/helicopter'])]
+assert keep==set(family)-set(excluded)
+assert all(w['word']in m['owned_words']for w in W)
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history']),w['word']
+for k,d in [('roots',ROOT),('words',W)]: (OUT/f'{k}_batch200_spec_121_helic.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print('C0528',len(W),'new',sum(len(w['examples'])for w in W),'examples')

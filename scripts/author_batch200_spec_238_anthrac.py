@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+A=[['希腊 anthrax，词干 anthrak-','炭、燃烧的炭块；也用于痈疮名称']]
+W=[E('anthrax','/ˈænθræks/','炭疽','病名里藏着一块炭的形象。','经拉丁 anthrax 接希腊 anthrax，古义有炭块和痈疮。英语早期可泛指严重疮疖，后来成为现代炭疽的特定名称；不能把古代病名与今天的病原分类直接画等号。',A+[['拉丁 anthrax → 英语早期 anthrax','严重疮疖的名称'],['现代英语 anthrax','由炭疽杆菌引起的特定传染病']],'现代 anthrax 是细菌性疾病，可发生在人和动物身上。皮肤炭疽可有黑色焦痂，便于理解炭块与病名之间的形象联系；但它并不只是皮肤病，也不是煤粉本身造成的病。','an anthrax outbreak；cases of anthrax；anthrax in livestock。作为病名通常不可数。','anthrax 是疾病；anthracite 是无烟煤。共同的炭意象不代表二者是同一种物质，也不是一条直接病因关系。',('The report describes an anthrax outbreak among livestock.','报告描述了牲畜中的一次炭疽暴发。'),('The public health team reviewed confirmed cases of anthrax.','公共卫生团队复核了已确诊的炭疽病例。'),sources=['https://www.etymonline.com/word/anthrax','https://www.merriam-webster.com/dictionary/anthrax','https://ndc.services.cdc.gov/case-definitions/cutaneous-anthrax/']),
+E('anthracite','/ˈænθrəsaɪt/','无烟煤','又硬又有光泽、含碳量很高的一类煤。','经拉丁 anthracites 接希腊 anthrakitēs“像炭的”，词干 anthrak- 来自 anthrax。英语较早还用这一名称指古书中的一种宝石，后来煤类意义固定下来；这是名称用法的变化，不是宝石变成煤。',A+[['希腊 anthrakitēs → 拉丁 anthracites','像炭的材料名称；古书也用于一种宝石'],['英语 anthracite','旧矿石名称 → 近代无烟煤名称']],'它是煤的一种等级，含碳量比褐煤、烟煤等更高。中文“无烟”提示燃烧时烟较少，却不能据此理解为没有任何排放。它也不是烧木头得到的木炭。','anthracite coal；an anthracite mine；anthracite deposits。也可用这种深灰黑色形容颜色。','coal 是煤的总称；anthracite 是其中一种。Charcoal 通常指木炭，形成方式和分类不同。',('The museum displays tools from a former anthracite mine.','博物馆展出了从前一座无烟煤矿使用的工具。'),('The geology class compared anthracite with other types of coal.','地质课比较了无烟煤与其他煤类。'),sources=['https://www.etymonline.com/word/anthracite','https://en.wiktionary.org/wiki/anthracite','https://www.eia.gov/energyexplained/coal/'])]
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(x for x in m['roots']if x['id']=='C0060');c=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text())if x['id']=='C0060');keep={w['word']for w in W};excluded={w:'按用户当前范围暂略：专门植物病名或药物类别。'for w in(set(r['family'])|set(c['family'])|set(c.get('unmatched',[])))-keep}
+ROOT=[dict(id='C0060',meaning='炭；炭块的形象',core='anthrac- 从炭块出发，一支命名矿物，一支联系到古代疮疖的形象。',image='炭块本身进入 anthracite；与炭块相关的皮损形象进入 anthrax 的历史病名。',intro='这组最值得先分清“煤”和“病”。同一个根能被不同领域借来命名，不代表这些东西有相同的物质来源。',forms='希腊 anthrax 的属格 anthrakos 提供 anthrac- 词干；末尾 x 与中间 c 的差别来自古典词形。',branches=[['疾病名称','anthrax'],['煤类名称','anthracite']],contrasts='anthrax 不等于煤尘病，anthracite 也不是一种病菌；名称中的共同形象不能当作病因。',practice='用“炭块”分别解释 anthrax 的历史命名和 anthracite 的矿物意义。',words=[w for w in r['family']if w in keep],exclude=excluded,sources=['https://www.etymonline.com/word/anthrax','https://www.etymonline.com/word/anthracite'])]
+assert all(w['word']in m['owned_words']for w in W)
+assert not(set(c['family'])|set(c.get('unmatched',[])))-set(ROOT[0]['words'])-set(excluded)
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history'])
+for k,d in [('roots',ROOT),('words',W)]: (OUT/f'{k}_batch200_spec_238_anthrac.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print('C0060',len(W),'new')

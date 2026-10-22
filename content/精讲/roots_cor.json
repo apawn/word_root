@@ -1,0 +1,69 @@
+[
+  {
+    "id": "C0254",
+    "meaning": "心；心意；由内心引申为勇气、记忆与一致",
+    "core": "COR / CORD = HEART",
+    "image": "心里有勇气，心意能相合，也能把事情记在心中",
+    "intro": "**cor-/cord-** 来自拉丁语 **cor**“心”，变化形式里出现 **cord-**。这里的心不仅是器官，也承载记忆、意志和情感：把事情放回心里是 record 的历史起点；给人勇气是 encourage；心意走到一起是 concord，分开则是 discord。",
+    "forms": "**cor** 的属格是 **cordis**，所以不是英语随意给 cor 加上 d。经法语的 corage 留下 courage，相关动词留下 encourage、discourage。**core** 的早期来源有争议，本页保留为辨析词，图从已知的中古英语开始，不能拿它证明所有 core 都来自 cor。\n\n心形词更直接：cordate 与 cordiform 描述心形；obcordate 则把与叶柄相接的方向倒过来。\n\n![cordate 与 obcordate：看叶柄接在哪一端](../assets/meaning/cordate-obcordate.svg)",
+    "branches": [
+      [
+        "记在心中",
+        "record"
+      ],
+      [
+        "勇气增减",
+        "courage · encourage · discourage"
+      ],
+      [
+        "心意相合",
+        "accord · concord · concordance"
+      ],
+      [
+        "心意不合",
+        "discord · discordant"
+      ],
+      [
+        "发自内心的友好",
+        "cordial · cordially · cordiality"
+      ],
+      [
+        "心的外形与怜悯",
+        "cordate · obcordate · misericord"
+      ]
+    ],
+    "contrasts": "**encourage / discourage**：给人信心或促进行为 / 使人泄气或劝阻。\n\n**accord / concord**：都与一致相连；accord 常指协议或符合，concord 更突出和睦、协调。\n\n**cordial / cordiality / cordiform**：热诚的 / 热诚 / 心形的。\n\n**record** 名词重音在前，动词重音在后。现代录音技术出现得晚，词本身的记忆历史很早。\n\n**core** 意义上像“中心、心脏”，但远源不确定；同形近义不等于已经证实同源。",
+    "practice": "**Her cordial words encouraged him to record the disagreement without creating discord.**\n\n她友好的话鼓励他把分歧记录下来，同时不制造不和。cordial 发自友好的心，encourage 给勇气，record 留下记忆，discord 是心意不合。",
+    "words": [
+      "record",
+      "core",
+      "courage",
+      "courageous",
+      "courageously",
+      "encourage",
+      "encouragement",
+      "encouraging",
+      "discourage",
+      "discouragement",
+      "discouraging",
+      "accord",
+      "accordance",
+      "accordant",
+      "concord",
+      "concordance",
+      "concordant",
+      "concordat",
+      "discord",
+      "discordant",
+      "discordance",
+      "cordial",
+      "cordially",
+      "cordiality",
+      "cordate",
+      "cordiform",
+      "obcordate",
+      "misericord",
+      "scordatura"
+    ]
+  }
+]

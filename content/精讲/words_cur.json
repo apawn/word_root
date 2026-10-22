@@ -1,0 +1,2767 @@
+[
+  {
+    "word": "sure",
+    "ipa": "英 /ʃɔː/、/ʃʊə/；美 /ʃʊr/",
+    "meaning": "确信的；确定的；当然",
+    "sense": "心里那块悬着的石头放下了，对事情有把握，便是 sure。回答请求时的 Sure. 则是爽快地说“当然可以”。",
+    "split": "经古法语 seür 来自拉丁语 sēcūrus，sē-（离开、没有）+ cūra（忧虑）；与 secure 同源。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "英语：sure",
+        "确信的；确定的"
+      ]
+    ],
+    "explanation": "从无需担忧到心里确定。be sure of 是对某事有把握；make sure 是主动确认，让结果靠得住。",
+    "usage": "be sure of…；be sure that…；make sure；Sure, I can help.。",
+    "contrast": "sure 描述确信；certain 语气常更正式。for sure 是确定地，不是表示目的的“为了确定”。",
+    "examples": [
+      [
+        "I am sure I left the keys on the table.",
+        "我确信把钥匙放在桌上了。"
+      ],
+      [
+        "Make sure the door is closed before you leave.",
+        "离开前确认门已经关好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sure#English"
+    ]
+  },
+  {
+    "word": "surely",
+    "ipa": "英 /ˈʃɔːli/；美 /ˈʃʊrli/",
+    "meaning": "想必；肯定；稳妥地",
+    "sense": "说 Surely you remember 时，像在说“你应该记得吧”：带有自己的把握，也往往期待对方认同。",
+    "split": "sure + -ly。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "英语：sure",
+        "确信的；确定的"
+      ],
+      [
+        "英语：surely",
+        "带着确信；稳妥地"
+      ]
+    ],
+    "explanation": "句首的 surely 常是有把握的推断或反问，不等于已经拿到绝对证据。slowly but surely 则说进度慢却稳。",
+    "usage": "Surely you…；will surely…；slowly but surely。",
+    "contrast": "Sure. 可直接答应请求；Surely. 通常不能直接替代这种口语回应。",
+    "examples": [
+      [
+        "Surely there is a simpler way to do this.",
+        "想必有更简单的办法吧。"
+      ],
+      [
+        "Slowly but surely, the garden began to recover.",
+        "虽然慢，但花园确实在逐渐恢复。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surely#English"
+    ]
+  },
+  {
+    "word": "unsure",
+    "ipa": "英 /ˌʌnˈʃɔː/；美 /ˌʌnˈʃʊr/",
+    "meaning": "不确定的；没把握的",
+    "sense": "两种可能都摆在眼前，自己还不能肯定是哪一种，就是 unsure。",
+    "split": "un-（不）+ sure（确定的）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "英语：sure",
+        "确信的；确定的"
+      ],
+      [
+        "英语：unsure",
+        "不能确信的"
+      ]
+    ],
+    "explanation": "可以是不知道事实，也可以是对自己能力缺乏把握。后面常接 whether、what、how 等说明不确定的内容。",
+    "usage": "be unsure about…；be unsure whether…；feel unsure of yourself。",
+    "contrast": "unsure 不必意味着危险；unsafe 才是“不安全”。不清楚路线也可以 unsure。",
+    "examples": [
+      [
+        "I am unsure whether the shop is open today.",
+        "我不确定商店今天是否营业。"
+      ],
+      [
+        "She felt unsure of herself during the first meeting.",
+        "第一次开会时，她感到有些没自信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsure#English"
+    ]
+  },
+  {
+    "word": "ensure",
+    "ipa": "英 /ɪnˈʃɔː/；美 /ɪnˈʃʊr/",
+    "meaning": "确保；保证实现",
+    "sense": "不是只说一句“放心”，而是把条件安排好，让目标能实现，ensure 强调结果。",
+    "split": "经盎格鲁诺曼语 enseurer 而来，含使成为的 en- 与 seür“确定、安全的”。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "英语：ensure",
+        "确保"
+      ]
+    ],
+    "explanation": "从使事情确定、安全，到现代的确保。常用 ensure that…；直接接人时，通常还要说明给他保障了什么。",
+    "usage": "ensure that…；ensure safety；ensure access to…。",
+    "contrast": "assure someone 是向某个人保证；ensure something 是确保一件事；insure 常用于保险。",
+    "examples": [
+      [
+        "Leave early to ensure that you arrive on time.",
+        "早点出发，以确保按时到达。"
+      ],
+      [
+        "The checklist helps ensure consistent quality.",
+        "这份检查表有助于保证质量一致。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ensure#English"
+    ]
+  },
+  {
+    "word": "assure",
+    "ipa": "英 /əˈʃɔː/；美 /əˈʃʊr/",
+    "meaning": "向……保证；使放心",
+    "sense": "对方心里没底，你用确定的话告诉他可以放心，assure 通常把这个“人”放在后面。",
+    "split": "古法语 asseürer 来自 ad- 与 sēcūrus“安全、放心的”相关构词。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "古法语：asseürer",
+        "使放心；保证"
+      ],
+      [
+        "英语：assure",
+        "向人保证；使确信"
+      ]
+    ],
+    "explanation": "核心是使人确信。I assure you 是郑重告诉你，不表示说话本身就能让所有结果自动实现。",
+    "usage": "assure someone that…；assure someone of…；I can assure you…。",
+    "contrast": "assure 常接人；ensure 常接事情或 that 从句。不要把 assure of 的 of 误写成 for。",
+    "examples": [
+      [
+        "She assured me that the documents were ready.",
+        "她向我保证文件已经准备好。"
+      ],
+      [
+        "The team assured us of its continued support.",
+        "团队向我们保证会继续提供支持。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assure#English"
+    ]
+  },
+  {
+    "word": "assurance",
+    "ipa": "英 /əˈʃɔːrəns/；美 /əˈʃʊrəns/",
+    "meaning": "保证；自信；保险",
+    "sense": "别人给你一个可以放心的承诺，是 assurance；一个人说话沉着、有把握，也表现出 assurance。",
+    "split": "经古法语 asseürance 传入，与 asseürer“使放心”对应；现代可看出 assure + -ance 的关系。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "古法语：asseürer",
+        "使放心；保证"
+      ],
+      [
+        "古法语：asseürance",
+        "保证；确信"
+      ],
+      [
+        "英语：assurance",
+        "保证；信心；保险"
+      ]
+    ],
+    "explanation": "从使人放心的行为转为保证内容，也转为本人内在的信心。某些英式保险名称保留 assurance，如 life assurance。",
+    "usage": "give an assurance；quality assurance；speak with assurance。",
+    "contrast": "assurance 可以是信心，不一定是保险。assurances 常指若干承诺或保证。",
+    "examples": [
+      [
+        "We received assurances that the work would be finished soon.",
+        "我们得到保证，工作很快会完成。"
+      ],
+      [
+        "She answered the questions with quiet assurance.",
+        "她沉着自信地回答了问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assurance#English"
+    ]
+  },
+  {
+    "word": "reassure",
+    "ipa": "英 /ˌriːəˈʃɔː/；美 /ˌriːəˈʃʊr/",
+    "meaning": "使安心；打消疑虑",
+    "sense": "对方原本担心，你解释情况或给予支持，让他的心重新安定下来，就是 reassure。",
+    "split": "经古法语 rasseürer 而来，re-（再次）+ asseürer（使确信）；现代对应 re- + assure。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "古法语：asseürer",
+        "使放心；保证"
+      ],
+      [
+        "古法语：rasseürer",
+        "再次使放心"
+      ],
+      [
+        "英语：reassure",
+        "打消担忧；使安心"
+      ]
+    ],
+    "explanation": "re- 带出恢复信心，但不要求之前已经保证过一次。看见熟悉的人、听见好消息也可以让人安心。",
+    "usage": "reassure someone that…；reassure someone about…；a reassuring smile。",
+    "contrast": "assure 偏郑重保证事实；reassure 更突出减轻担忧，动作可以不只靠说话。",
+    "examples": [
+      [
+        "The teacher reassured the nervous student.",
+        "老师安慰了那位紧张的学生。"
+      ],
+      [
+        "The clear explanation reassured us about the plan.",
+        "清楚的解释让我们对这个计划放了心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reassure#English"
+    ]
+  },
+  {
+    "word": "reassurance",
+    "ipa": "英 /ˌriːəˈʃɔːrəns/；美 /ˌriːəˈʃʊrəns/",
+    "meaning": "安慰；使安心的话或举动",
+    "sense": "心里没底时想听一句“我们会陪着你”，需要的这种安心感或安抚，就是 reassurance。",
+    "split": "re-（再次、恢复）+ assurance（保证、信心）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "古法语：asseürer",
+        "使放心；保证"
+      ],
+      [
+        "古法语：asseürance",
+        "保证；确信"
+      ],
+      [
+        "英语：assurance",
+        "保证；信心；保险"
+      ],
+      [
+        "英语：reassurance",
+        "恢复信心的安慰"
+      ]
+    ],
+    "explanation": "可指安抚行为，也可指产生安抚作用的内容。不是每一次 reassurance 都是对结果的正式保证。",
+    "usage": "need reassurance；offer reassurance；a word of reassurance。",
+    "contrast": "reassurance 常关心情绪上的安心；guarantee 更可能是明确的责任或结果承诺。",
+    "examples": [
+      [
+        "The child needed a little reassurance before entering the room.",
+        "孩子进房间前需要一点安慰。"
+      ],
+      [
+        "Her calm voice was a source of reassurance.",
+        "她平静的声音让人安心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reassurance#English"
+    ]
+  },
+  {
+    "word": "secure",
+    "ipa": "英 /sɪˈkjʊə/；美 /sɪˈkjʊr/",
+    "meaning": "安全的；牢固的；固定；获得",
+    "sense": "东西不会轻易掉、人不会轻易受损、结果不会轻易丢失，这些“靠得住”的状态都能用 secure。",
+    "split": "借自拉丁语 sēcūrus：sē-（没有、离开）+ cūra（忧虑）。与经法语变短的 sure 同源。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "英语：secure",
+        "安全稳固的；使安全；获得"
+      ]
+    ],
+    "explanation": "从不用担心发展出安全、稳固。动词 secure 可是把物件固定住，也可是设法获得职位、许可等，使其落定。",
+    "usage": "a secure connection；secure the door；secure a job；feel secure。",
+    "contrast": "safe 更普通地表示没有危险；secure 常强调有保护、不会松动或被夺走。",
+    "examples": [
+      [
+        "Make sure the ladder is secure before climbing.",
+        "攀爬前确认梯子稳固。"
+      ],
+      [
+        "She secured a place on the training course.",
+        "她获得了培训课程的一个名额。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/secure#English"
+    ]
+  },
+  {
+    "word": "security",
+    "ipa": "英 /sɪˈkjʊərəti/；美 /sɪˈkjʊrəti/",
+    "meaning": "安全；保障；保安；担保",
+    "sense": "有保护措施，有稳定依靠，心里不用一直担心，这种状态和保障可以叫 security。",
+    "split": "经法语 securité 来自拉丁语 sēcūritās，与 sēcūrus“无忧、安全的”对应。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "拉丁语：sēcūritās → 法语 securité",
+        "安全、放心"
+      ],
+      [
+        "英语：security",
+        "安全；保障；担保"
+      ]
+    ],
+    "explanation": "从安心状态扩展到保护措施、保安人员和担保。复数 securities 在金融语境另指证券，不能按普通复数译成几份安全。",
+    "usage": "airport security；job security；security measures；financial security。",
+    "contrast": "safety 多关注免受事故、伤害；security 常涉及防止侵入、失去或攻击。两者范围有重叠。",
+    "examples": [
+      [
+        "Passengers must pass through security before boarding.",
+        "乘客登机前必须通过安检。"
+      ],
+      [
+        "A permanent contract gave her greater job security.",
+        "长期合同让她的工作更有保障。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/security#English"
+    ]
+  },
+  {
+    "word": "securely",
+    "ipa": "英 /sɪˈkjʊəli/；美 /sɪˈkjʊrli/",
+    "meaning": "牢固地；安全地",
+    "sense": "绳子扎得不会松，文件存放得不容易被人拿走，securely 描述这种可靠的方式。",
+    "split": "secure + -ly。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "英语：secure",
+        "安全稳固的；使安全；获得"
+      ],
+      [
+        "英语：securely",
+        "以稳固、安全的方式"
+      ]
+    ],
+    "explanation": "既可谈物理固定，也可谈信息保存。它说明保护方式，不能只靠写上这个副词就证明某项技术绝对安全。",
+    "usage": "fasten securely；store securely；securely attached。",
+    "contrast": "firmly 强调紧、牢；securely 还可强调避免丢失、进入或损坏。",
+    "examples": [
+      [
+        "The lid must be fastened securely.",
+        "盖子必须扣牢。"
+      ],
+      [
+        "The records are stored securely.",
+        "这些记录得到安全保存。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/securely#English"
+    ]
+  },
+  {
+    "word": "insecure",
+    "ipa": "英 /ˌɪnsɪˈkjʊə/；美 /ˌɪnsɪˈkjʊr/",
+    "meaning": "不安全的；不牢靠的；缺乏自信的",
+    "sense": "外在保护不稳，或心里一直担心自己不够好，都可以是 insecure。",
+    "split": "in-（不）+ secure；也与中古拉丁语 insēcūrus 对应。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "英语：secure",
+        "安全稳固的；使安全；获得"
+      ],
+      [
+        "英语：insecure",
+        "没有可靠保障；内心没底"
+      ]
+    ],
+    "explanation": "一个是实际环境缺少保障，一个是人的安全感不足。两者相关，但心理不安并不证明外部真的危险。",
+    "usage": "an insecure job；feel insecure；insecure about your abilities。",
+    "contrast": "unsure 是对某件事不确定；insecure 常涉及更深的保障或自我价值感。",
+    "examples": [
+      [
+        "She felt insecure about speaking in front of the class.",
+        "她对在全班面前发言缺乏信心。"
+      ],
+      [
+        "The temporary job left him in an insecure position.",
+        "临时工作使他的处境缺少保障。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insecure#English"
+    ]
+  },
+  {
+    "word": "insecurity",
+    "ipa": "英 /ˌɪnsɪˈkjʊərəti/；美 /ˌɪnsɪˈkjʊrəti/",
+    "meaning": "不安全感；不稳定、缺乏保障",
+    "sense": "心里反复问“会不会失去、我够不够好”，这种不踏实是 insecurity；实际的食物或工作保障不足也可这样说。",
+    "split": "来自中古拉丁语 insēcūritās；现代与 insecure + -ity 对应。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "中古拉丁语：insēcūritās",
+        "缺少安全与保障"
+      ],
+      [
+        "英语：insecurity",
+        "不安全感；缺乏保障"
+      ]
+    ],
+    "explanation": "可指外部处境，也可指个人内心。复数 insecurities 常指几种具体的不自信或担忧。",
+    "usage": "job insecurity；food insecurity；personal insecurities。",
+    "contrast": "insecurity 不只是 timid“胆小”。勇于行动的人也可能有不安全感。",
+    "examples": [
+      [
+        "Frequent moves increased the children’s sense of insecurity.",
+        "频繁搬家加重了孩子们的不安全感。"
+      ],
+      [
+        "The report examines food insecurity in rural communities.",
+        "报告研究了农村社区的食物保障不足问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insecurity#English"
+    ]
+  },
+  {
+    "word": "unsecure",
+    "ipa": "英 /ˌʌnsɪˈkjʊə/；美 /ˌʌnsɪˈkjʊr/",
+    "meaning": "未固定的；不安全的；松开固定",
+    "sense": "锁没扣住、物件没有绑牢，可以用 unsecure；作动词则是把原先的固定解除。",
+    "split": "形容词 un- 是否定；动词 un- 是反向动作。都接 secure，但语法不同。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "英语：secure",
+        "安全稳固的；使安全；获得"
+      ],
+      [
+        "英语：unsecure",
+        "不安全的；解除固定"
+      ]
+    ],
+    "explanation": "现代一般更常用 insecure、unsecured 或具体的 unfasten。读到它时，要先看是在描述状态，还是命令松开。",
+    "usage": "an unsecure door；unsecure a latch；unsecure the load。",
+    "contrast": "insecure 可形容缺乏自信的人；unsecure 很少这样用于心理。别把词形近似当成所有用法相同。",
+    "examples": [
+      [
+        "The inspection found an unsecure latch.",
+        "检查发现一个没有扣牢的门闩。"
+      ],
+      [
+        "They unsecured the load before lifting it away.",
+        "他们先解开货物的固定装置，再把它吊走。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsecure#English"
+    ]
+  },
+  {
+    "word": "cybersecurity",
+    "ipa": "英 /ˌsaɪbəsɪˈkjʊərəti/；美 /ˌsaɪbərsɪˈkjʊrəti/",
+    "meaning": "网络安全；数字系统安全",
+    "sense": "给联网设备、软件和数据加上保护，让它们不轻易被偷看、篡改或破坏，这个领域叫 cybersecurity。",
+    "split": "cyber-（计算机、网络相关）+ security（安全防护）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "拉丁语：sēcūritās → 法语 securité",
+        "安全、放心"
+      ],
+      [
+        "英语：security",
+        "安全；保障；担保"
+      ],
+      [
+        "英语：cybersecurity",
+        "数字环境中的安全保护"
+      ]
+    ],
+    "explanation": "它涉及技术、流程和人的操作习惯，并不是安装一个程序就结束。词根里的“安心”在这里变成对数字系统的保护目标。",
+    "usage": "cybersecurity training；a cybersecurity team；cybersecurity risks。",
+    "contrast": "privacy 关注个人信息的使用与控制；cybersecurity 关注系统和信息的保护。两者相关但不完全相同。",
+    "examples": [
+      [
+        "The company provides cybersecurity training for new employees.",
+        "公司为新员工提供网络安全培训。"
+      ],
+      [
+        "The incident prompted a review of cybersecurity practices.",
+        "这次事件促使人们重新审查网络安全做法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cybersecurity#English"
+    ]
+  },
+  {
+    "word": "biosecurity",
+    "ipa": "英 /ˌbaɪəʊsɪˈkjʊərəti/；美 /ˌbaɪoʊsɪˈkjʊrəti/",
+    "meaning": "生物安全防护",
+    "sense": "防止病原体进入农场或在设施之间传播，或防止有害生物材料被滥用，相关保护叫 biosecurity。",
+    "split": "bio-（生命、生物）+ security（安全防护）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "拉丁语：sēcūritās → 法语 securité",
+        "安全、放心"
+      ],
+      [
+        "英语：security",
+        "安全；保障；担保"
+      ],
+      [
+        "英语：biosecurity",
+        "针对生物风险的防护"
+      ]
+    ],
+    "explanation": "不同领域的使用范围略有差别，农牧业常强调阻断引入和传播，实验室语境还可能强调防止丢失或滥用。",
+    "usage": "biosecurity measures；farm biosecurity；a biosecurity plan。",
+    "contrast": "biosafety 常强调防止意外暴露或释放；biosecurity 常关注进入、传播和有意滥用等防护，两者存在重叠。",
+    "examples": [
+      [
+        "Visitors must follow the farm’s biosecurity rules.",
+        "访客必须遵守农场的生物安全防护规定。"
+      ],
+      [
+        "The training explains the difference between biosafety and biosecurity.",
+        "培训解释了生物安全操作与生物安全防护之间的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/biosecurity#English",
+      "https://www.cdc.gov/safe-labs/php/echo-biosafety-2024/the-importance-of-biosecurity-in-biorisk-program-management.html"
+    ]
+  },
+  {
+    "word": "insure",
+    "ipa": "英 /ɪnˈʃɔː/；美 /ɪnˈʃʊr/",
+    "meaning": "为……投保；承保",
+    "sense": "先交保费，把约定范围内的损失风险交由保险安排分担，这时用 insure。",
+    "split": "原是 ensure 的历史变体，后来逐渐专门用于提供保险保障。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "中古英语：ensuren / insuren",
+        "使确定、提供保障"
+      ],
+      [
+        "英语：insure",
+        "投保；承保"
+      ]
+    ],
+    "explanation": "它从“使有保障”收窄到保险义。美式英语中也可表示 ensure 的确保义，但写作时区分有助于清楚表达。",
+    "usage": "insure a house；insure against loss；be insured for…。",
+    "contrast": "insure 常涉及保单和损失；ensure 强调确保结果。保险不代表任何损失都自动获赔，含义仍按约定。",
+    "examples": [
+      [
+        "They insured the house against fire.",
+        "他们为房屋投保了火灾险。"
+      ],
+      [
+        "The policy insures the equipment during transport.",
+        "这份保单为运输中的设备提供保险保障。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insure#English"
+    ]
+  },
+  {
+    "word": "insurance",
+    "ipa": "英 /ɪnˈʃɔːrəns/；美 /ɪnˈʃʊrəns/",
+    "meaning": "保险；防范措施",
+    "sense": "把可能发生的大损失，换成提前支付、按约定提供保障的安排，就是 insurance。也可比喻备用的防范措施。",
+    "split": "由较早 ensurance 等形式发展而来，现代形式对应 insure + -ance。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "中古英语：ensuren / insuren",
+        "使确定、提供保障"
+      ],
+      [
+        "英语：ensurance → insurance",
+        "提供保障 → 保险"
+      ]
+    ],
+    "explanation": "这个词把“让人有保障”固定在保险制度上。take a spare key as insurance 则比喻留个后手，并没有真正买保单。",
+    "usage": "travel insurance；an insurance policy；insurance against…。",
+    "contrast": "insurance 是保障安排；premium 是保费；insurer 是承保方。三个词不是同一件事。",
+    "examples": [
+      [
+        "The ticket price does not include travel insurance.",
+        "票价不包含旅行保险。"
+      ],
+      [
+        "I kept a backup copy as insurance against losing the file.",
+        "我保留了一份备份，以防文件丢失。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insurance#English"
+    ]
+  },
+  {
+    "word": "insurer",
+    "ipa": "英 /ɪnˈʃɔːrə/；美 /ɪnˈʃʊrər/",
+    "meaning": "保险公司；承保人",
+    "sense": "在保险关系里，承诺按约定承担赔付责任的一方是 insurer，通常是一家保险公司。",
+    "split": "insure + -er（执行该业务的人或机构）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "中古英语：ensuren / insuren",
+        "使确定、提供保障"
+      ],
+      [
+        "英语：insure",
+        "投保；承保"
+      ],
+      [
+        "英语：insurer",
+        "提供保险保障的一方"
+      ]
+    ],
+    "explanation": "后缀把投保或承保的动作连接到业务主体。这里不是买保险的人，而是承担保险责任的那一边。",
+    "usage": "an insurer；contact your insurer；the insurer’s decision。",
+    "contrast": "insured 是被保险人或受保的；insurer 是承保方。只差结尾，角色相反。",
+    "examples": [
+      [
+        "She contacted the insurer to update her address.",
+        "她联系保险公司更新地址。"
+      ],
+      [
+        "The insurer requested copies of the documents.",
+        "承保方要求提供文件副本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insurer#English"
+    ]
+  },
+  {
+    "word": "reinsure",
+    "ipa": "英 /ˌriːɪnˈʃɔː/；美 /ˌriːɪnˈʃʊr/",
+    "meaning": "再保险；分保",
+    "sense": "保险公司已经接下风险，再把其中一部分交给另一家保险机构分担，这叫 reinsure。",
+    "split": "re-（再次）+ insure（提供保险）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "中古英语：ensuren / insuren",
+        "使确定、提供保障"
+      ],
+      [
+        "英语：insure",
+        "投保；承保"
+      ],
+      [
+        "英语：reinsure",
+        "对已承担的保险风险再作保险安排"
+      ]
+    ],
+    "explanation": "常见专业义是保险机构之间的风险分担，不是同一个人重复买两份完全相同的保险这么简单。",
+    "usage": "reinsure a risk；reinsure part of a portfolio。",
+    "contrast": "renew insurance 是续保；reinsure 通常是再保险安排，两者不要混译。",
+    "examples": [
+      [
+        "The company chose to reinsure part of the risk.",
+        "公司选择把部分风险进行分保。"
+      ],
+      [
+        "The textbook explains why insurers reinsure large exposures.",
+        "教材解释了保险公司为什么会对较大的风险敞口安排再保险。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reinsure#English"
+    ]
+  },
+  {
+    "word": "reinsurance",
+    "ipa": "英 /ˌriːɪnˈʃɔːrəns/；美 /ˌriːɪnˈʃʊrəns/",
+    "meaning": "再保险；分保",
+    "sense": "可以把 reinsurance 看成“保险公司的保险”：原承保方把约定的风险交给其他保险机构分担。",
+    "split": "re-（再次）+ insurance（保险）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "中古英语：ensuren / insuren",
+        "使确定、提供保障"
+      ],
+      [
+        "英语：ensurance → insurance",
+        "提供保障 → 保险"
+      ],
+      [
+        "英语：reinsurance",
+        "对已承担保险风险的进一步保障"
+      ]
+    ],
+    "explanation": "这个比喻帮助理解层次，但具体再保险合同有自身规则，不等于复制个人保单。它是行业专业名词。",
+    "usage": "a reinsurance agreement；reinsurance coverage；the reinsurance market。",
+    "contrast": "coinsurance 是共担或共同保险安排；reinsurance 是原承保方把风险再分出去，层次不同。",
+    "examples": [
+      [
+        "The insurer entered into a reinsurance agreement.",
+        "这家保险公司签订了一份再保险协议。"
+      ],
+      [
+        "The course introduces the role of reinsurance in risk sharing.",
+        "课程介绍了再保险在风险分担中的作用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reinsurance#English"
+    ]
+  },
+  {
+    "word": "coinsurance",
+    "ipa": "英 /ˌkəʊɪnˈʃɔːrəns/；美 /ˌkoʊɪnˈʃʊrəns/",
+    "meaning": "共同保险；按比例共担费用",
+    "sense": "费用或风险不是由一方全包，而是按某种安排共同承担，coinsurance 的 co- 就强调“共同”。",
+    "split": "co-（共同）+ insurance（保险）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "中古英语：ensuren / insuren",
+        "使确定、提供保障"
+      ],
+      [
+        "英语：ensurance → insurance",
+        "提供保障 → 保险"
+      ],
+      [
+        "英语：coinsurance",
+        "共同承担的保险或费用安排"
+      ]
+    ],
+    "explanation": "美国医疗保险语境常指被保险人按比例承担约定费用；其他保险语境可指多方共同承保等。要看具体制度与合同。",
+    "usage": "a coinsurance rate；a coinsurance clause；coinsurance payments。",
+    "contrast": "copayment 常是固定金额，coinsurance 常是比例；不能忽略保单语境，把两者一律译成一样的费用。",
+    "examples": [
+      [
+        "The guide explains the plan’s coinsurance rate.",
+        "指南解释了该计划的费用共担比例。"
+      ],
+      [
+        "The two policies use different coinsurance arrangements.",
+        "这两份保单采用不同的共同承担安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coinsurance#English",
+      "https://www.healthcare.gov/glossary/co-insurance/"
+    ]
+  },
+  {
+    "word": "insurable",
+    "ipa": "英 /ɪnˈʃɔːrəbəl/；美 /ɪnˈʃʊrəbəl/",
+    "meaning": "可保的；可以承保的",
+    "sense": "某类风险符合保险安排的条件，能够被承保，可说它 insurable。",
+    "split": "insure + -able（可以被……的），去掉末尾 e。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "中古英语：ensuren / insuren",
+        "使确定、提供保障"
+      ],
+      [
+        "英语：insure",
+        "投保；承保"
+      ],
+      [
+        "英语：insurable",
+        "可以获得保险保障的"
+      ]
+    ],
+    "explanation": "它说的是可被保险处理的资格或特征，并不等于已经买好保险，也不等于任何机构都愿意承保。",
+    "usage": "an insurable risk；an insurable interest；be insurable。",
+    "contrast": "insured 是已投保或受保障；insurable 是具备可保性。",
+    "examples": [
+      [
+        "The textbook distinguishes insurable risks from other uncertainties.",
+        "教材把可保风险与其他不确定性区分开来。"
+      ],
+      [
+        "The broker asked whether the item was insurable.",
+        "经纪人询问这件物品是否可以承保。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insurable#English"
+    ]
+  },
+  {
+    "word": "insurability",
+    "ipa": "英 /ɪnˌʃɔːrəˈbɪləti/；美 /ɪnˌʃʊrəˈbɪləti/",
+    "meaning": "可保性；承保资格",
+    "sense": "从“可以承保吗”转为讨论“可被承保的程度或条件”，就会用 insurability。",
+    "split": "insure + -ability，或对照 insurable 的名词形式。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "无须操心；安全、放心"
+      ],
+      [
+        "古法语：seür",
+        "安心；确定"
+      ],
+      [
+        "盎格鲁诺曼语：enseurer",
+        "使确定、使安全"
+      ],
+      [
+        "中古英语：ensuren / insuren",
+        "使确定、提供保障"
+      ],
+      [
+        "英语：insure",
+        "投保；承保"
+      ],
+      [
+        "英语：insurable → insurability",
+        "可承保的 → 可保性"
+      ]
+    ],
+    "explanation": "这个抽象名词常出现在风险评估和保险讨论里；它并不单凭词义规定具体条件，条件由实际制度和产品决定。",
+    "usage": "assess insurability；evidence of insurability；affect insurability。",
+    "contrast": "insurability 是资格或性质；insurance coverage 是已经约定的保障范围。",
+    "examples": [
+      [
+        "The application asks for information relevant to insurability.",
+        "申请表要求填写与可保资格相关的信息。"
+      ],
+      [
+        "The seminar examined the insurability of emerging risks.",
+        "研讨会讨论了新兴风险的可保性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insurability#English"
+    ]
+  },
+  {
+    "word": "accurate",
+    "ipa": "/ˈækjərət/",
+    "meaning": "准确的；精确无误的",
+    "sense": "地图画的位置、记录写的数字，和实际能对得上，就是 accurate。",
+    "split": "来自拉丁语 accūrātus“认真处理好的”，ad- 在 c 前同化为 ac-，后接 cūrāre“照料、用心处理”。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：accūrāre → accūrātus",
+        "仔细照料 → 认真做好的"
+      ],
+      [
+        "英语：accurate",
+        "准确的；符合实际的"
+      ]
+    ],
+    "explanation": "仔细做事容易做得正确，词义于是从认真细致转向结果准确。它评价的是与事实或目标符合，不是仅看小数点很多。",
+    "usage": "accurate information；an accurate description；accurate measurements。",
+    "contrast": "precise 强调细致、精密或重复一致；accurate 强调对得准。测量数值很细，也可能整体偏离真实值。",
+    "examples": [
+      [
+        "The map gives an accurate picture of the coastline.",
+        "这张地图准确地描绘了海岸线。"
+      ],
+      [
+        "We need accurate figures before making a decision.",
+        "作决定前，我们需要准确的数字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accurate#English"
+    ]
+  },
+  {
+    "word": "accuracy",
+    "ipa": "/ˈækjərəsi/",
+    "meaning": "准确性；准确度",
+    "sense": "不是问说得多漂亮，而是问结果与真实值、原文或目标差多少，这个质量叫 accuracy。",
+    "split": "accurate + -cy；词尾调整后形成 accuracy。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：accūrāre → accūrātus",
+        "仔细照料 → 认真做好的"
+      ],
+      [
+        "英语：accurate",
+        "准确的；符合实际的"
+      ],
+      [
+        "英语：accuracy",
+        "准确这一性质"
+      ]
+    ],
+    "explanation": "它把具体“准不准”变成可比较的指标。翻译、射击、记录、测量都能谈 accuracy，但衡量方式不同。",
+    "usage": "check for accuracy；improve accuracy；the accuracy of a report。",
+    "contrast": "accuracy 不等于 detail“细节多”。内容很详细，仍可能处处不准。",
+    "examples": [
+      [
+        "The editor checked the names for accuracy.",
+        "编辑核查了姓名是否准确。"
+      ],
+      [
+        "Practice improved the accuracy of her throws.",
+        "练习提高了她投掷的准确度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accuracy#English"
+    ]
+  },
+  {
+    "word": "accurately",
+    "ipa": "/ˈækjərətli/",
+    "meaning": "准确地；如实地",
+    "sense": "把原来的内容传过去时不走样，或者把目标判断得很准，便是在做事时 accurately。",
+    "split": "accurate + -ly。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：accūrāre → accūrātus",
+        "仔细照料 → 认真做好的"
+      ],
+      [
+        "英语：accurate",
+        "准确的；符合实际的"
+      ],
+      [
+        "英语：accurately",
+        "以符合事实或目标的方式"
+      ]
+    ],
+    "explanation": "常描述记录、测量、预测、翻译等动作。它强调结果匹配，不只是态度认真。",
+    "usage": "measure accurately；report accurately；predict accurately。",
+    "contrast": "carefully 是认真小心地做；accurately 是做出来准确。认真能帮助准确，却不能保证准确。",
+    "examples": [
+      [
+        "Please record the temperature accurately.",
+        "请准确记录温度。"
+      ],
+      [
+        "The subtitle accurately conveys the speaker’s meaning.",
+        "字幕准确传达了说话者的意思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accurately#English"
+    ]
+  },
+  {
+    "word": "inaccurate",
+    "ipa": "/ɪnˈækjərət/",
+    "meaning": "不准确的；与事实不符的",
+    "sense": "说法看起来像那么回事，但对照原始资料发现位置、数字或细节对不上，就是 inaccurate。",
+    "split": "in-（不）+ accurate（准确的）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：accūrāre → accūrātus",
+        "仔细照料 → 认真做好的"
+      ],
+      [
+        "英语：accurate",
+        "准确的；符合实际的"
+      ],
+      [
+        "英语：inaccurate",
+        "未能符合事实或目标的"
+      ]
+    ],
+    "explanation": "可以是部分出错，也可以整体偏差。它并不自动表示说话者故意欺骗。",
+    "usage": "inaccurate information；an inaccurate estimate；factually inaccurate。",
+    "contrast": "false 常直接说内容不实；inaccurate 也可表示不够精确、局部有误，范围需看语境。",
+    "examples": [
+      [
+        "The article contains an inaccurate date.",
+        "文章里有一个日期不准确。"
+      ],
+      [
+        "The old map is inaccurate in several places.",
+        "这张旧地图有几处画得不准确。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inaccurate#English"
+    ]
+  },
+  {
+    "word": "inaccuracy",
+    "ipa": "/ɪnˈækjərəsi/",
+    "meaning": "不准确；错误之处",
+    "sense": "数据没有对准实际，这种问题整体叫 inaccuracy；一处具体错误也可以是 an inaccuracy。",
+    "split": "in-（不）+ accuracy（准确性）。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：accūrāre → accūrātus",
+        "仔细照料 → 认真做好的"
+      ],
+      [
+        "英语：accurate",
+        "准确的；符合实际的"
+      ],
+      [
+        "英语：accuracy → inaccuracy",
+        "准确性 → 不准确或具体误差"
+      ]
+    ],
+    "explanation": "既可不可数地谈质量，也可数出若干处错误。a few inaccuracies 是几处内容不准，不必意味着整篇完全无用。",
+    "usage": "correct an inaccuracy；factual inaccuracies；measurement inaccuracy。",
+    "contrast": "error 范围广，操作错误也算；inaccuracy 更强调内容或测量与真实情况不符。",
+    "examples": [
+      [
+        "The author corrected several inaccuracies in the second edition.",
+        "作者在第二版中纠正了几处错误。"
+      ],
+      [
+        "The test revealed a small inaccuracy in the sensor.",
+        "测试发现传感器存在一个小误差。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inaccuracy#English"
+    ]
+  },
+  {
+    "word": "inaccurately",
+    "ipa": "/ɪnˈækjərətli/",
+    "meaning": "不准确地；错误地",
+    "sense": "传话、测量或描述时发生了偏差，inaccurately 说明动作所得结果没有对准事实。",
+    "split": "inaccurate + -ly，也可看出 in- 对 accurately 的否定。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：accūrāre → accūrātus",
+        "仔细照料 → 认真做好的"
+      ],
+      [
+        "英语：accurate",
+        "准确的；符合实际的"
+      ],
+      [
+        "英语：inaccurate → inaccurately",
+        "不准确的 → 不准确地"
+      ]
+    ],
+    "explanation": "它用来修饰动词，不是给某个人永久贴上不可靠的标签。",
+    "usage": "report inaccurately；describe inaccurately；measure inaccurately。",
+    "contrast": "incorrectly 更广泛地说做错；inaccurately 特别适合描述信息、数值或判断的偏差。",
+    "examples": [
+      [
+        "The location was inaccurately marked on the map.",
+        "地图把这个位置标错了。"
+      ],
+      [
+        "The article inaccurately described her as the founder.",
+        "文章不准确地把她称为创始人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inaccurately#English"
+    ]
+  },
+  {
+    "word": "curious",
+    "ipa": "英 /ˈkjʊəriəs/；美 /ˈkjʊriəs/",
+    "meaning": "好奇的；奇特的",
+    "sense": "注意力被一件事勾住，忍不住想弄清楚，是 curious；那件让人忍不住多看一眼的怪事，也可以 curious。",
+    "split": "拉丁语 cūriōsus 与 cūra“用心、关切”有关，经古法语 curius 进入。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：cūriōsus",
+        "用心的；想探究的"
+      ],
+      [
+        "古法语：curius",
+        "好奇的；精细的"
+      ],
+      [
+        "英语：curious",
+        "好奇的；奇特的"
+      ]
+    ],
+    "explanation": "对事情用心关注发展为想知道；再转向能引人探究的奇特事物。人的好奇与物的古怪，是同一词的两种观察角度。",
+    "usage": "be curious about…；curious to know…；a curious coincidence。",
+    "contrast": "curious about 是想了解；nosy 常批评爱打听隐私。a curious noise 是奇怪的声音，不是声音在好奇。",
+    "examples": [
+      [
+        "I am curious about how the machine works.",
+        "我很好奇这台机器怎样运作。"
+      ],
+      [
+        "There was a curious smell in the room.",
+        "房间里有一股奇怪的气味。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curious#English"
+    ]
+  },
+  {
+    "word": "curiosity",
+    "ipa": "英 /ˌkjʊəriˈɒsəti/；美 /ˌkjʊriˈɑːsəti/",
+    "meaning": "好奇心；稀奇事物",
+    "sense": "心里那个“为什么、怎么回事”的小钩子，是 curiosity；能钩住这种兴趣的奇物，也可叫 a curiosity。",
+    "split": "来自拉丁语 cūriōsitās，经盎格鲁诺曼语 curiouseté 等形式传入；现代对应 curious 与 -ity 的关系。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：cūriōsus",
+        "用心的；想探究的"
+      ],
+      [
+        "拉丁语：cūriōsitās → 法语 curiouseté",
+        "求知、好奇"
+      ],
+      [
+        "英语：curiosity",
+        "好奇心；奇物"
+      ]
+    ],
+    "explanation": "抽象的求知心转向引起好奇的对象。out of curiosity 是出于好奇，不代表已经决定采取进一步行动。",
+    "usage": "out of curiosity；arouse curiosity；satisfy your curiosity；a historical curiosity。",
+    "contrast": "interest 是广义兴趣；curiosity 更强调想知道未知内容。curiosity 可不可数，也可指一件奇物。",
+    "examples": [
+      [
+        "Out of curiosity, I opened the old notebook.",
+        "出于好奇，我打开了那本旧笔记本。"
+      ],
+      [
+        "The device is now a historical curiosity.",
+        "这个装置如今已是一件历史奇物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curiosity#English"
+    ]
+  },
+  {
+    "word": "curiously",
+    "ipa": "英 /ˈkjʊəriəsli/；美 /ˈkjʊriəsli/",
+    "meaning": "好奇地；奇怪的是",
+    "sense": "孩子探头想看清楚，是 looking curiously；叙述者发现反常之处，则会说 Curiously,…。",
+    "split": "curious + -ly，两种主要义项都可以带到副词中。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：cūriōsus",
+        "用心的；想探究的"
+      ],
+      [
+        "古法语：curius",
+        "好奇的；精细的"
+      ],
+      [
+        "英语：curious",
+        "好奇的；奇特的"
+      ],
+      [
+        "英语：curiously",
+        "带着好奇；令人感到奇怪地"
+      ]
+    ],
+    "explanation": "句中修饰动作时常表示好奇的态度，句首评论整件事时常表示“奇怪的是”。位置和语境能帮助判断。",
+    "usage": "look curiously at…；curiously enough；curiously similar。",
+    "contrast": "curiously 不总是“好奇地”。Curiously, nobody complained 是奇怪的是没人抱怨。",
+    "examples": [
+      [
+        "The child looked curiously at the telescope.",
+        "孩子好奇地看着望远镜。"
+      ],
+      [
+        "Curiously, both letters arrived on the same day.",
+        "奇怪的是，两封信在同一天到了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curiously#English"
+    ]
+  },
+  {
+    "word": "curio",
+    "ipa": "英 /ˈkjʊəriəʊ/；美 /ˈkjʊrioʊ/",
+    "meaning": "古玩；小奇物；珍奇物件",
+    "sense": "逛旧货店时看到一件小巧又特别、让人想拿起来端详的东西，可以叫 curio。",
+    "split": "由 curiosity“奇物”截短而来；不是独立的拉丁语词根直接变成物品名称。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：cūriōsus",
+        "用心的；想探究的"
+      ],
+      [
+        "拉丁语：cūriōsitās → 法语 curiouseté",
+        "求知、好奇"
+      ],
+      [
+        "英语：curiosity",
+        "好奇心；奇物"
+      ],
+      [
+        "英语：curio",
+        "curiosity 的缩略形式；奇物"
+      ]
+    ],
+    "explanation": "好奇的对象变成专门的收藏小物名称。它不保证年代很久，也不保证价格昂贵。",
+    "usage": "a curio shop；a cabinet of curios；an antique curio。",
+    "contrast": "antique 强调年代与收藏性质；curio 强调有趣、奇特。纪念小物也可能只是 curio。",
+    "examples": [
+      [
+        "The shelf was crowded with curios from her travels.",
+        "架子上摆满了她旅行带回来的小奇物。"
+      ],
+      [
+        "We spent an hour browsing a tiny curio shop.",
+        "我们在一家小古玩店逛了一个小时。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curio#English"
+    ]
+  },
+  {
+    "word": "cure",
+    "ipa": "英 /kjʊə/；美 /kjʊr/",
+    "meaning": "治愈；疗法；解决办法；使材料固化或食品腌制",
+    "sense": "照料一件出了问题的东西，使它恢复到可用、正常的状态，这是 cure 最好记的画面。",
+    "split": "名词经古法语 cure 来自拉丁语 cūra“照料、医治”；动词经 curer 来自 cūrāre。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "古法语：cure / curer",
+        "照护、医治；照料、清理"
+      ],
+      [
+        "英语：cure",
+        "治愈；解决；使固化"
+      ]
+    ],
+    "explanation": "医治义发展为消除问题；食品、材料中的 cure 则是通过处理使其达到保存或使用状态。这些专业用法不等于把材料“治病”。",
+    "usage": "a cure for…；cure a disease；cure a problem；cured meat；cure concrete。",
+    "contrast": "cure 强调治好；treat 是治疗，未必治好。heal 常说伤口愈合或身体恢复。",
+    "examples": [
+      [
+        "Researchers are still looking for a cure for the condition.",
+        "研究人员仍在寻找治愈这种疾病的方法。"
+      ],
+      [
+        "The coating needs time to cure before it can be used.",
+        "这种涂层需要一段时间固化后才能使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cure#English"
+    ]
+  },
+  {
+    "word": "curable",
+    "ipa": "英 /ˈkjʊərəbəl/；美 /ˈkjʊrəbəl/",
+    "meaning": "可以治愈的；可解决的",
+    "sense": "问题不是只能一直忍受，而是有可能被治好或纠正，可以形容为 curable。",
+    "split": "经古法语 curable 传入；现代可分析 cure + -able。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "古法语：cure / curer",
+        "照护、医治；照料、清理"
+      ],
+      [
+        "古法语：curable",
+        "可以医治的"
+      ],
+      [
+        "英语：curable",
+        "可治愈的"
+      ]
+    ],
+    "explanation": "它表达可治愈的性质，不保证某个人在任何条件下都一定恢复。比喻用法也可谈能改正的缺点。",
+    "usage": "a curable disease；a curable condition；a curable defect。",
+    "contrast": "curable 是可治愈；treatable 是可治疗或可控制。能接受治疗不一定等于能彻底治愈。",
+    "examples": [
+      [
+        "The article distinguishes curable illnesses from manageable ones.",
+        "文章区分了可治愈的疾病与可控制的疾病。"
+      ],
+      [
+        "The engineer regarded the flaw as curable.",
+        "工程师认为这个缺陷可以修正。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curable#English"
+    ]
+  },
+  {
+    "word": "incurable",
+    "ipa": "英 /ɪnˈkjʊərəbəl/；美 /ɪnˈkjʊrəbəl/",
+    "meaning": "无法治愈的；改不了的",
+    "sense": "找不到能彻底消除问题的办法，是 incurable；说 an incurable optimist 则半开玩笑地说这个人乐观得改不了。",
+    "split": "经古法语 incurable 来自晚期拉丁语 incurābilis，in- 否定“可治愈”。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "晚期拉丁语：incurābilis",
+        "不可治愈的"
+      ],
+      [
+        "古法语：incurable",
+        "不能治愈的"
+      ],
+      [
+        "英语：incurable",
+        "无法治愈；难改的"
+      ]
+    ],
+    "explanation": "字面义谈治疗能力的边界；比喻义谈顽固的习性。不可治愈并不等于无法治疗、缓解或提供支持。",
+    "usage": "an incurable condition；an incurable romantic；an incurable optimist。",
+    "contrast": "incurable 与 untreatable 不完全等同；前者说无法治愈，后者说无法治疗。",
+    "examples": [
+      [
+        "The novel’s hero is an incurable romantic.",
+        "小说的主人公是个改不了的浪漫主义者。"
+      ],
+      [
+        "The passage explains the difference between an incurable condition and an untreatable one.",
+        "这段文字解释了不可治愈与无法治疗的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incurable#English"
+    ]
+  },
+  {
+    "word": "curative",
+    "ipa": "英 /ˈkjʊərətɪv/；美 /ˈkjʊrətɪv/",
+    "meaning": "治疗性的；以治愈为目的的",
+    "sense": "措施的目标是把已经出现的问题治好，curative 就把这个方向点出来。",
+    "split": "借自中古法语 curatif，更早属于拉丁语 cūrāre 的照料、医治词族。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "法语：curatif",
+        "具有医治作用的"
+      ],
+      [
+        "英语：curative",
+        "治疗性的；以治愈为目标的"
+      ]
+    ],
+    "explanation": "常与 preventive“预防性的”对照。词本身说明目标或性质，并不替某种具体疗法保证效果。",
+    "usage": "curative treatment；curative intent；curative measures。",
+    "contrast": "preventive 是防止问题出现；curative 是针对已经出现的问题求治愈。",
+    "examples": [
+      [
+        "The course compares preventive and curative approaches.",
+        "课程比较预防性与治疗性方法。"
+      ],
+      [
+        "The plan described the treatment as curative in intent.",
+        "计划将该治疗描述为以治愈为目的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curative#English"
+    ]
+  },
+  {
+    "word": "curability",
+    "ipa": "英 /ˌkjʊərəˈbɪləti/；美 /ˌkjʊrəˈbɪləti/",
+    "meaning": "可治愈性",
+    "sense": "把“这种病能不能治好”作为一个性质来研究，所谈的就是 curability。",
+    "split": "cure + -ability；也可对照 curable 的名词形式。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "古法语：cure / curer",
+        "照护、医治；照料、清理"
+      ],
+      [
+        "英语：cure",
+        "治愈；解决；使固化"
+      ],
+      [
+        "英语：curable → curability",
+        "可治愈的 → 可治愈性"
+      ]
+    ],
+    "explanation": "这是较专业的抽象名词，讨论时需结合具体疾病和条件。它不是一份对个体结果的保证。",
+    "usage": "assess curability；the curability of a disease；evidence of curability。",
+    "contrast": "curability 讨论治好的可能；severity 讨论病情严重程度，二者不是同一个尺度。",
+    "examples": [
+      [
+        "The review discusses the curability of several conditions.",
+        "综述讨论了几种疾病的可治愈性。"
+      ],
+      [
+        "The lecturer separated questions of severity from questions of curability.",
+        "讲师把严重程度问题与可治愈性问题分开讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curability#English",
+      "https://www.collinsdictionary.com/dictionary/english/curability"
+    ]
+  },
+  {
+    "word": "curator",
+    "ipa": "英 /kjʊəˈreɪtə/；美 /kjʊˈreɪtər/",
+    "meaning": "馆藏管理人；策展人",
+    "sense": "不是把物品随便摆出来，而是有人负责挑选、研究、照管，再安排怎样展示给观众，这个人常是 curator。",
+    "split": "借自拉丁语 cūrātor“照管者、管理人”，来自 cūrāre。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：cūrātor",
+        "照管者；管理人"
+      ],
+      [
+        "英语：curator",
+        "馆藏管理人；策展人"
+      ]
+    ],
+    "explanation": "古代的广义管理者，在现代常落实到博物馆、展览与收藏。数字内容也借用这个词，强调有判断的选择和组织。",
+    "usage": "a museum curator；an exhibition curator；a curator of photographs。",
+    "contrast": "collector 是收藏者，curator 是照管、研究和组织藏品或展览的人；一个人可以兼任两种角色。",
+    "examples": [
+      [
+        "The curator selected photographs that showed the city’s changing streets.",
+        "策展人挑选了反映城市街道变化的照片。"
+      ],
+      [
+        "A curator explained how the fragile objects are stored.",
+        "馆藏管理人解释了这些易损物件如何保存。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curator#English"
+    ]
+  },
+  {
+    "word": "curate",
+    "ipa": "动词 /kjʊˈreɪt/；名词 /ˈkjʊərət/",
+    "meaning": "策划展览；精选整理；助理牧师",
+    "sense": "动词 curate 像为观众认真挑出一组东西，再安排观看顺序。名词 a curate 则是教会中负责照顾教区事务的牧师职位。",
+    "split": "动词是从 curator 逆构出来的；名词独立借自教会拉丁语 cūrātus。两种词性不能画成一条从牧师到策展的直线。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：cūrātor",
+        "照管者；管理人"
+      ],
+      [
+        "英语：curator",
+        "馆藏管理人；策展人"
+      ],
+      [
+        "英语：curate（动词）",
+        "从 curator 逆构；策展、精选整理"
+      ]
+    ],
+    "explanation": "动词保留照管、挑选的责任感。名词在英国教会语境常指助理牧师，重音也不同；不是策展人的另一个常规称呼。",
+    "usage": "curate an exhibition；curate a collection；a parish curate。",
+    "contrast": "curate 不只是 collect“收集”：它往往还包括筛选和组织。名词 curate 与 curator 的职业意义不同。",
+    "examples": [
+      [
+        "She curated an exhibition of local photography.",
+        "她策划了一场本地摄影展。"
+      ],
+      [
+        "The young curate helped organize the parish event.",
+        "这位年轻助理牧师协助组织了教区活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curate#English"
+    ]
+  },
+  {
+    "word": "curatorial",
+    "ipa": "英 /ˌkjʊərəˈtɔːriəl/；美 /ˌkjʊrəˈtɔːriəl/",
+    "meaning": "策展的；馆藏管理的",
+    "sense": "展品怎么选、故事怎么讲、藏品怎么照管，这些专业判断属于 curatorial work。",
+    "split": "curator + -ial，形成“与馆藏管理或策展有关的”形容词。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：cūrātor",
+        "照管者；管理人"
+      ],
+      [
+        "英语：curator",
+        "馆藏管理人；策展人"
+      ],
+      [
+        "英语：curatorial",
+        "与策展人职责相关的"
+      ]
+    ],
+    "explanation": "它可描述团队、决策和实践。不是展览里每一件搬运或售票工作都自动叫 curatorial。",
+    "usage": "a curatorial team；curatorial decisions；curatorial practice。",
+    "contrast": "curatorial 侧重藏品与展示内容的专业管理；administrative 更一般地指行政事务。",
+    "examples": [
+      [
+        "The curatorial team chose a chronological arrangement.",
+        "策展团队选择按时间顺序布展。"
+      ],
+      [
+        "The archive records the curator’s early curatorial decisions.",
+        "档案记录了这位策展人早期的策展决策。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curatorial#English"
+    ]
+  },
+  {
+    "word": "curacy",
+    "ipa": "英 /ˈkjʊərəsi/；美 /ˈkjʊrəsi/",
+    "meaning": "助理牧师职位；牧师任期",
+    "sense": "一个人担任 curate 的职位或那段任职经历，叫 curacy。它说岗位，不说展览。",
+    "split": "curate（牧师）取 cur- 加 -acy（职位、状态）；不是 curatorial 的缩写。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "教会拉丁语：cūrātus → 英语 curate",
+        "受托照顾教区的人 → 牧师职位"
+      ],
+      [
+        "英语：curacy",
+        "该职位或任职时期"
+      ]
+    ],
+    "explanation": "这里 cūra 的照料是对教区居民的宗教关怀。这个词通常在教会历史、人物传记和职位介绍中遇见。",
+    "usage": "serve a curacy；a parish curacy；during his curacy。",
+    "contrast": "curacy 与 curatorship 不同：前者是牧师职位，后者是策展或馆藏管理职位。",
+    "examples": [
+      [
+        "He served his curacy in a small rural parish.",
+        "他在一个小型乡村教区担任助理牧师。"
+      ],
+      [
+        "The biography describes her first curacy.",
+        "传记介绍了她第一次担任助理牧师的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curacy#English"
+    ]
+  },
+  {
+    "word": "manicure",
+    "ipa": "英 /ˈmænɪkjʊə/；美 /ˈmænɪkjʊr/",
+    "meaning": "修甲；手部指甲护理",
+    "sense": "把手部指甲修整干净、整理形状，常还包括上色，这种护理叫 manicure。",
+    "split": "经法语 manucure，由拉丁语 manus（手）与 cūra（照料）组成。",
+    "history": [
+      [
+        "拉丁语成分：manus + cūra",
+        "手 + 照料"
+      ],
+      [
+        "法语：manucure",
+        "手部、指甲护理"
+      ],
+      [
+        "英语：manicure",
+        "修甲；美甲护理"
+      ]
+    ],
+    "explanation": "名字直接点出护理部位。现代还可作动词，表示给手指甲做护理；manicured lawn 则借来形容草坪修剪得精细。",
+    "usage": "get a manicure；a manicure kit；manicured nails。",
+    "contrast": "manicure 护理手部指甲；pedicure 护理脚部。nail polish 只是指甲油，不是整个护理过程。",
+    "examples": [
+      [
+        "She booked a manicure before the wedding.",
+        "她在婚礼前预约了美甲护理。"
+      ],
+      [
+        "The kit contains the basic tools for a manicure.",
+        "套装里包含修甲的基本工具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/manicure#English"
+    ]
+  },
+  {
+    "word": "pedicure",
+    "ipa": "英 /ˈpedɪkjʊə/；美 /ˈpedɪkjʊr/",
+    "meaning": "足部护理；修脚趾甲",
+    "sense": "把护理对象从手换成脚，整理脚趾甲和足部外观，就是 pedicure。",
+    "split": "借自法语 pédicure；拉丁语 pēs、ped-（脚）+ cūra（照料）。",
+    "history": [
+      [
+        "拉丁语成分：ped- + cūra",
+        "脚 + 照料"
+      ],
+      [
+        "法语：pédicure",
+        "足部护理"
+      ],
+      [
+        "英语：pedicure",
+        "修脚趾甲；足部美容护理"
+      ]
+    ],
+    "explanation": "构词把部位与动作组合起来。通常指美容护理服务，并不能据此把任何医学足病治疗都叫 pedicure。",
+    "usage": "get a pedicure；a pedicure appointment；a pedicure chair。",
+    "contrast": "podiatry 是足病专业领域；pedicure 常是足部美容护理。两者不等同。",
+    "examples": [
+      [
+        "She chose a simple pedicure without colored polish.",
+        "她选择了不涂彩色甲油的简单足部护理。"
+      ],
+      [
+        "The salon offers both manicures and pedicures.",
+        "这家美容店同时提供手部美甲和足部护理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pedicure#English"
+    ]
+  },
+  {
+    "word": "curette",
+    "ipa": "/kjʊˈret/",
+    "meaning": "刮匙；用刮匙处理",
+    "sense": "一种带有小勺形或环形工作端的器械，用来刮取或清除组织等材料，叫 curette。",
+    "split": "借自法语 curette，与 curer“清理、刮净”相关；更早是 cūrāre 的照管、处理词族。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "法语：curer → curette",
+        "清理、刮净 → 小刮器"
+      ],
+      [
+        "英语：curette",
+        "医疗或牙科等领域的刮匙"
+      ]
+    ],
+    "explanation": "词源重点是清理工具，不是英语 cure“治愈”后随意加一个尾巴。器械具体形状和用途依专业而定。",
+    "usage": "a surgical curette；a dental curette；a curette handle。",
+    "contrast": "curette 是器械；curettage 是使用这类器械进行刮除的操作名称。",
+    "examples": [
+      [
+        "The diagram labels the handle and tip of the curette.",
+        "图中标出了刮匙的柄和工作端。"
+      ],
+      [
+        "The dental student learned the names of several curettes.",
+        "这名牙科学生学习了几种刮匙的名称。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curette#English"
+    ]
+  },
+  {
+    "word": "curettage",
+    "ipa": "英 /kjʊəˈretɪdʒ/；美 /ˌkjʊrəˈtɑːʒ/",
+    "meaning": "刮除术；刮取操作",
+    "sense": "用刮匙清除或取出组织等材料，这个操作名称叫 curettage；它不是器械本身。",
+    "split": "借自法语 curettage，curette 词族加表示行为的 -age。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "法语：curer → curette → curettage",
+        "清理 → 刮匙 → 刮除操作"
+      ],
+      [
+        "英语：curettage",
+        "刮除术"
+      ]
+    ],
+    "explanation": "这个词出现在不同医学专业中，不能仅凭名称判断具体部位、目的或适应情形。这里只需记住“工具动作变成操作名”。",
+    "usage": "a curettage procedure；a description of curettage；surgical curettage。",
+    "contrast": "curettage 不是所有手术的统称，也不是 cure“治愈”的同义词。名称描述操作，不保证结果。",
+    "examples": [
+      [
+        "The leaflet explains the purpose of curettage.",
+        "说明页解释了刮除术的目的。"
+      ],
+      [
+        "The textbook includes a diagram of the instruments used in curettage.",
+        "教材包含了刮除术所用器械的示意图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/curettage#English",
+      "https://www.collinsdictionary.com/us/dictionary/english/curettage"
+    ]
+  },
+  {
+    "word": "procure",
+    "ipa": "英 /prəˈkjʊə/；美 /prəˈkjʊr/",
+    "meaning": "设法取得；采购",
+    "sense": "需要某样东西，就去找渠道、安排手续，把它弄到手；procure 比 get 更显得经过一番办理。",
+    "split": "拉丁语 prō-（代为、为……）+ cūrāre（照管）→ prōcūrāre，经法语进入。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "古法语：procurer",
+        "安排；取得"
+      ],
+      [
+        "英语：procure",
+        "设法获得；采购"
+      ]
+    ],
+    "explanation": "从为某事操办，到安排取得所需之物。正式采购是常见用法；特定语境也可指为他人拉皮条，要靠宾语判断。",
+    "usage": "procure supplies；procure equipment；procure something from…。",
+    "contrast": "get 最普通；procure 常强调通过安排或努力取得，日常买杯咖啡通常不用它。",
+    "examples": [
+      [
+        "The team procured the equipment from a local supplier.",
+        "团队从本地供应商那里采购了设备。"
+      ],
+      [
+        "She managed to procure a copy of the rare book.",
+        "她设法弄到了一本稀有书的副本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/procure#English"
+    ]
+  },
+  {
+    "word": "procurement",
+    "ipa": "英 /prəˈkjʊəmənt/；美 /prəˈkjʊrmənt/",
+    "meaning": "采购；取得物资的过程",
+    "sense": "机构不是随手买一件东西，而是确定需求、找供应、安排购买；这一整套取得所需物资的工作叫 procurement。",
+    "split": "经古法语 procurement 进入英语，与 procurer“安排、取得”相连；现代形式对应 procure + -ment。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "古法语：procurer",
+        "安排；取得"
+      ],
+      [
+        "古法语：procurement",
+        "操办、取得"
+      ],
+      [
+        "英语：procurement",
+        "采购；取得物资的安排"
+      ]
+    ],
+    "explanation": "它常用于组织或公共部门，包含取得货物和服务的过程。也可借指负责这项工作的部门。",
+    "usage": "a procurement team；procurement of equipment；a procurement process。",
+    "contrast": "purchasing 常聚焦购买，procurement 常涵盖需求、供应商选择和安排等更完整流程；具体机构用法会有重叠。",
+    "examples": [
+      [
+        "The procurement team compared three suppliers.",
+        "采购团队比较了三家供应商。"
+      ],
+      [
+        "The project was delayed by problems with equipment procurement.",
+        "设备采购问题使项目延误了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/procurement#English"
+    ]
+  },
+  {
+    "word": "procurable",
+    "ipa": "英 /prəˈkjʊərəbəl/；美 /prəˈkjʊrəbəl/",
+    "meaning": "可取得的；能采购到的",
+    "sense": "东西不是完全找不到，只要通过相应渠道就能弄到，可以说 procurable。",
+    "split": "procure + -able，去掉结尾 e。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "古法语：procurer",
+        "安排；取得"
+      ],
+      [
+        "英语：procure",
+        "设法获得；采购"
+      ],
+      [
+        "英语：procurable",
+        "可以取得或采购的"
+      ]
+    ],
+    "explanation": "这是较正式、少见的表达。常强调有没有渠道或条件取得，不一定强调现货就在眼前。",
+    "usage": "readily procurable；locally procurable；procurable from…。",
+    "contrast": "available 更常用、更宽泛；procurable 特别强调可以设法获得。",
+    "examples": [
+      [
+        "The replacement parts are readily procurable.",
+        "这些替换零件很容易买到。"
+      ],
+      [
+        "The materials must be procurable from local suppliers.",
+        "这些材料必须能从本地供应商处采购到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/procurable#English"
+    ]
+  },
+  {
+    "word": "procurator",
+    "ipa": "英 /ˌprɒkjəˈreɪtə/；美 /ˈprɑːkjəˌreɪtər/",
+    "meaning": "代理人；检察官；古罗马财务或行政官",
+    "sense": "有人受托代别人照管事务，procurator 的历史核心就是这位办理人；不同制度把它用作不同官职。",
+    "split": "拉丁语 prōcūrātor“管理、代理的人”，经法语与中古英语传入。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "拉丁语：prōcūrātor",
+        "代为管理事务者"
+      ],
+      [
+        "盎格鲁诺曼语：procuratour",
+        "代理人"
+      ],
+      [
+        "英语：procurator",
+        "代理人；特定法律或历史官职"
+      ]
+    ],
+    "explanation": "古罗马可指管理税务等的官员，某些现代制度中译作检察官。不能把不同国家、时期的职责都视为完全一样。",
+    "usage": "a Roman procurator；a public procurator；act as procurator。",
+    "contrast": "proctor 是同源词缩短后的形式，但现代常指监考员；procurator 不适合随意替换所有 lawyer。",
+    "examples": [
+      [
+        "The historian described the duties of a Roman procurator.",
+        "历史学家介绍了古罗马行省财务官的职责。"
+      ],
+      [
+        "The text uses procurator as the title of a legal official.",
+        "文本用 procurator 作为一种司法官员的称号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/procurator#English"
+    ]
+  },
+  {
+    "word": "procuration",
+    "ipa": "英 /ˌprɒkjəˈreɪʃən/；美 /ˌprɑːkjəˈreɪʃən/",
+    "meaning": "代理管理；代理授权；取得",
+    "sense": "人不能亲自办理，就授予别人替自己处理事务的权力，procuration 可以指这种代理安排。",
+    "split": "来自拉丁语 prōcūrātiō，经法语传入；现代可见 procure + -ation 的关系。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "拉丁语：prōcūrātiō",
+        "代为管理；办理事务"
+      ],
+      [
+        "法语：procuration",
+        "代理；授权"
+      ],
+      [
+        "英语：procuration",
+        "代理管理；办理事务的权限"
+      ]
+    ],
+    "explanation": "它可指代办的行为、权限或授权文书，也保留较一般的取得义。是正式或历史用语，不能仅按结尾理解为采购单。",
+    "usage": "by procuration；a letter of procuration；powers of procuration。",
+    "contrast": "procurement 现代多说采购；procuration 更容易出现在代理、授权的正式语境。",
+    "examples": [
+      [
+        "The document authorized him to act by procuration.",
+        "文件授权他以代理身份行事。"
+      ],
+      [
+        "The archive preserves a letter of procuration.",
+        "档案馆保存着一封代理授权书。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/procuration#English"
+    ]
+  },
+  {
+    "word": "procuracy",
+    "ipa": "英 /ˈprɒkjərəsi/；美 /ˈprɑːkjərəsi/",
+    "meaning": "代理官职位；检察机关",
+    "sense": "procurator 所担任的职位，或由这类官员组成的机关，可以称 procuracy。",
+    "split": "经盎格鲁诺曼语 procuracie 来自拉丁语相关官职词形；与 proxy 是同源异形词。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "拉丁语相关形式：prōcūrātia",
+        "代理管理的职位"
+      ],
+      [
+        "盎格鲁诺曼语：procuracie",
+        "代理职务"
+      ],
+      [
+        "英语：procuracy",
+        "代理官职；某些制度中的检察机关"
+      ]
+    ],
+    "explanation": "从个人办理事务扩展到制度性的岗位或机构。现代讨论某些司法制度时，它常对应检察机关，但名称不能替代具体职权说明。",
+    "usage": "a regional procuracy；the office of the procuracy；a procuracy official。",
+    "contrast": "procurator 是官员或代理人；procuracy 是职位、机构。proxy 是更常见的代理或替代者。",
+    "examples": [
+      [
+        "The chapter describes the structure of the procuracy.",
+        "这一章介绍了检察机关的组织结构。"
+      ],
+      [
+        "The records trace the history of the procuracy in that region.",
+        "这些记录追溯了该地区代理官职的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/procuracy#English"
+    ]
+  },
+  {
+    "word": "proxy",
+    "ipa": "英 /ˈprɒksi/；美 /ˈprɑːksi/",
+    "meaning": "代理人；代理权；替代指标；代理服务器",
+    "sense": "你不能直接到场，就让别人替你；不能直接测某件事，就拿一个相关指标替它。这种“代为出面”是 proxy。",
+    "split": "中古英语 procuracie 经缩短形成 procucie、proxy，更早来自代办事务的 prōcūrātiō 词族。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "拉丁语 prōcūrātiō／相关形式 → 法语 procuracie",
+        "代办事务；代理权"
+      ],
+      [
+        "中古英语：procuracie → procucie",
+        "缩短的词形"
+      ],
+      [
+        "英语：proxy",
+        "代理；作为替代的对象"
+      ]
+    ],
+    "explanation": "人与权限的代理关系扩展到数据指标和网络中转。收入可作某种情况的 proxy，但替代指标与真实目标仍可能有偏差。",
+    "usage": "vote by proxy；a proxy for…；a proxy server。",
+    "contrast": "proxy 强调代替某个对象发挥作用；representative 更通常指代表者。指标作为 proxy 不意味着完全等同于目标。",
+    "examples": [
+      [
+        "She voted by proxy because she was abroad.",
+        "她当时在国外，因此委托代理人投票。"
+      ],
+      [
+        "The study used travel time as a proxy for accessibility.",
+        "研究用出行时间作为衡量可达性的替代指标。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proxy#English"
+    ]
+  },
+  {
+    "word": "proctor",
+    "ipa": "英 /ˈprɒktə/；美 /ˈprɑːktər/",
+    "meaning": "监考员；学监；监考",
+    "sense": "考试现场有人发卷、看时间、维护秩序，在美式英语里，这个人通常叫 proctor。",
+    "split": "从中古英语 procuratour 缩短为 procatour、procutour，来源与 procurator 相同。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "拉丁语：prōcūrātor → 中古英语 procuratour",
+        "受托办理事务者"
+      ],
+      [
+        "中古英语：procatour / procutour",
+        "缩短后的形式"
+      ],
+      [
+        "英语：proctor",
+        "监考员；学监等管理职位"
+      ]
+    ],
+    "explanation": "代人管理事务的官员称号，在大学制度中发展出具体管理职责。现代美国监考义很常见，英国一些学校的 proctor 则是学监职位。",
+    "usage": "an exam proctor；proctor an exam；a university proctor。",
+    "contrast": "英式监考员常叫 invigilator。不要只按同源关系把 proctor 译成任何语境的检察官。",
+    "examples": [
+      [
+        "The proctor asked everyone to put their phones away.",
+        "监考员要求大家收起手机。"
+      ],
+      [
+        "She volunteered to proctor the morning exam.",
+        "她自愿为上午的考试监考。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proctor#English"
+    ]
+  },
+  {
+    "word": "proctorial",
+    "ipa": "英 /prɒkˈtɔːriəl/；美 /prɑːkˈtɔːriəl/",
+    "meaning": "学监的；监考或监督职务的",
+    "sense": "与 proctor 的监督职责有关的规则、权力或事务，就可用 proctorial 修饰。",
+    "split": "proctor + -ial，重音随派生转到后部。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "拉丁语：prōcūrātor → 中古英语 procuratour",
+        "受托办理事务者"
+      ],
+      [
+        "中古英语：procatour / procutour",
+        "缩短后的形式"
+      ],
+      [
+        "英语：proctor",
+        "监考员；学监等管理职位"
+      ],
+      [
+        "英语：proctorial",
+        "与 proctor 的职位或职责有关的"
+      ]
+    ],
+    "explanation": "主要见于大学制度和正式管理文件。具体是学生纪律还是考试监督，要看该机构对 proctor 的定义。",
+    "usage": "proctorial duties；proctorial authority；a proctorial office。",
+    "contrast": "proctorial 不是 prosecutorial“检察官的”。两者拼写相近，职业职能却可能差很远。",
+    "examples": [
+      [
+        "The handbook lists the university’s proctorial duties.",
+        "手册列出了大学学监的职责。"
+      ],
+      [
+        "The dispute concerned the limits of proctorial authority.",
+        "争议涉及学监权限的边界。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proctorial#English"
+    ]
+  },
+  {
+    "word": "proctorage",
+    "ipa": "英 /ˈprɒktərɪdʒ/；美 /ˈprɑːktərɪdʒ/",
+    "meaning": "学监或代理人的监督职责（旧词）",
+    "sense": "把 proctor 的管理、监督工作整体当作一项职务来称呼，就是 proctorage。这个词如今很少使用。",
+    "split": "proctor + -age，构成与职位、活动有关的名词。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：prōcūrāre",
+        "代为照管、安排"
+      ],
+      [
+        "拉丁语：prōcūrātor → 中古英语 procuratour",
+        "受托办理事务者"
+      ],
+      [
+        "中古英语：procatour / procutour",
+        "缩短后的形式"
+      ],
+      [
+        "英语：proctor",
+        "监考员；学监等管理职位"
+      ],
+      [
+        "英语：proctorage",
+        "由 proctor 承担的管理监督"
+      ]
+    ],
+    "explanation": "旧文中可能涉及代理人管理或大学监督。现代一般直接说 duties、supervision 或 office of the proctor。",
+    "usage": "duties of proctorage；under proctorage（旧式）。",
+    "contrast": "proctorage 不是 storage“储存”。不要把相似结尾当成同一词根。",
+    "examples": [
+      [
+        "The old charter describes the duties of proctorage.",
+        "这份旧章程描述了学监的监督职责。"
+      ],
+      [
+        "The historian explains how proctorage operated at the college.",
+        "历史学家解释了该学院的学监管理如何运作。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/proctorage",
+      "https://en.wiktionary.org/wiki/proctorage#English"
+    ]
+  },
+  {
+    "word": "surety",
+    "ipa": "英 /ˈʃʊərəti/；美 /ˈʃʊrəti/",
+    "meaning": "担保；保证人",
+    "sense": "如果原本应履行的人没做到，另一个人承诺接上责任，这种担保或保证人可以叫 surety。",
+    "split": "经古法语 seurté 来自拉丁语 sēcūritās；与 security 是沿不同路线传入的同源词。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "拉丁语：sēcūritās → 古法语 seurté",
+        "安全、保证"
+      ],
+      [
+        "英语：surety",
+        "担保；提供保证的人"
+      ]
+    ],
+    "explanation": "从使人放心的保障，具体化为承担保证责任的人或安排。通常是正式法律、金融用语，而不是随便表示“我很确定”。",
+    "usage": "act as surety；stand surety for…；a surety bond。",
+    "contrast": "surety 可指保证人，security 常可指担保物或保障；具体责任必须看实际文件，词形不能替代条款。",
+    "examples": [
+      [
+        "The agreement named a separate surety.",
+        "协议另行指定了一名保证人。"
+      ],
+      [
+        "The textbook explains the role of a surety in a hypothetical contract.",
+        "教材通过一份假设合同解释保证人的角色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surety#English"
+    ]
+  },
+  {
+    "word": "sinecure",
+    "ipa": "英 /ˈsaɪnɪkjʊə/；美 /ˈsaɪnəkjʊr/",
+    "meaning": "有俸禄的闲职；轻松肥缺",
+    "sense": "工资照领，实际要操心、要做的事却很少，这种职位叫 sinecure，通常带批评意味。",
+    "split": "教会拉丁语 sine cūrā“无照管职责”，是 beneficium sine cūrā 的缩略；sine 是“没有”，不是英语 sin。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "教会拉丁语：beneficium sine cūrā",
+        "无须承担照顾教民职责的圣职俸禄"
+      ],
+      [
+        "英语：sinecure",
+        "有报酬而少有实际工作的职位"
+      ]
+    ],
+    "explanation": "原来特指不需承担照顾教民职责的圣职收益，后来泛指待遇好而责任轻的工作。",
+    "usage": "a lucrative sinecure；regard a post as a sinecure；no sinecure。",
+    "contrast": "a job is no sinecure 表示这份工作并不轻松。sinecure 不是普通的休假或退休。",
+    "examples": [
+      [
+        "Critics described the position as a well-paid sinecure.",
+        "批评者把这个职位称为高薪闲职。"
+      ],
+      [
+        "Running the archive is no sinecure.",
+        "管理档案馆可不是一份轻松闲差。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sinecure#English"
+    ]
+  },
+  {
+    "word": "sinecural",
+    "ipa": "/ˌsaɪnɪˈkjʊərəl/",
+    "meaning": "闲职性质的；与有俸闲职有关的",
+    "sense": "一个职位名义上有职责，实际工作却很少，可以用这个罕见形容词指出它的闲职性质。",
+    "split": "sinecure + -al，词尾 e 去掉；对应“与 sinecure 有关的”。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "教会拉丁语：beneficium sine cūrā",
+        "无须承担照顾教民职责的圣职俸禄"
+      ],
+      [
+        "英语：sinecure",
+        "有报酬而少有实际工作的职位"
+      ],
+      [
+        "英语：sinecural",
+        "有俸闲职性质的"
+      ]
+    ],
+    "explanation": "这是正式、罕见的评论用词。现代通常直接说 a sinecure 或 a largely ceremonial post，具体是否批评要看语境。",
+    "usage": "a sinecural office；sinecural appointments；a sinecural position。",
+    "contrast": "ceremonial 说礼仪性，不必等于没有价值；sinecural 更容易强调责任轻、拿报酬。",
+    "examples": [
+      [
+        "The essay criticizes sinecural appointments in the old administration.",
+        "文章批评旧行政体系中的闲职任命。"
+      ],
+      [
+        "He argued that the office had become largely sinecural.",
+        "他认为这个职位已经基本变成了有俸闲职。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sinecural#English",
+      "https://www.finedictionary.com/Sinecural"
+    ]
+  },
+  {
+    "word": "assecure",
+    "ipa": "/ˌæsɪˈkjʊə/（旧词）",
+    "meaning": "使安全；使确定；保证",
+    "sense": "在旧英语文章中，作者用 assecure 表示让某事安全、确定；现代通常直接说 secure 或 assure。",
+    "split": "借自晚期拉丁语 assecurāre，与 ad- + sēcūrus 的构词有关，是 assure 的同源异形词。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "拉丁语：sēcūrus",
+        "没有忧虑；安全的"
+      ],
+      [
+        "晚期拉丁语：assecurāre",
+        "使安全；使放心"
+      ],
+      [
+        "英语旧词：assecure",
+        "保证；使确定"
+      ]
+    ],
+    "explanation": "字形保留了更多拉丁语痕迹，而 assure 经过法语变化后更短。不要误当成现代 assure 的拼写错误，更不要在日常邮件里刻意使用。",
+    "usage": "assecure a right；assecure a position（旧式表达）。",
+    "contrast": "assure 是现代常用词，assecure 已过时。相同的历史来源不代表今天可自由替换。",
+    "examples": [
+      [
+        "The old text uses assecure to mean make safe.",
+        "这篇旧文用 assecure 表示使安全。"
+      ],
+      [
+        "In this passage, the ruler seeks to assecure his position.",
+        "在这一段中，统治者试图稳固自己的地位。"
+      ]
+    ],
+    "sources": [
+      "https://1828.mshaffer.com/d/word/assecure",
+      "https://en.wiktionary.org/wiki/assecure#English"
+    ]
+  },
+  {
+    "word": "pococurante",
+    "ipa": "英 /ˌpəʊkəʊkjʊəˈrænti/；美 /ˌpoʊkoʊkjuːˈrɑːnti/",
+    "meaning": "漠不关心的；满不在乎的人",
+    "sense": "别人觉得重要或精彩，他却淡淡地说“就这样吧”，懒得关心。这种冷淡的姿态可以叫 pococurante。",
+    "split": "意大利语 poco（少）+ curante（关心的），经伏尔泰《老实人》中人物 Pococurante 的名字传播到英语。",
+    "history": [
+      [
+        "意大利语成分：poco + curante",
+        "很少 + 关心；curante 属于 cūrāre 词族"
+      ],
+      [
+        "法语文学人物：Pococurante",
+        "《老实人》中漠然的贵族"
+      ],
+      [
+        "英语：pococurante",
+        "满不在乎的；漠然的人"
+      ]
+    ],
+    "explanation": "人物名字把态度直接写了出来，后来成为形容词和普通名词。它是文学色彩浓的罕词，日常通常用 indifferent 或 unconcerned。",
+    "usage": "a pococurante attitude；a pococurante observer。",
+    "contrast": "calm 是平静，不必是不关心；pococurante 强调投入和关切很少。",
+    "examples": [
+      [
+        "The critic adopted a pococurante attitude toward the fashionable exhibition.",
+        "这位评论家对那场时髦展览采取了满不在乎的态度。"
+      ],
+      [
+        "The novel portrays him as a cultivated pococurante.",
+        "小说把他描写成一个有修养却漠然的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pococurante#English",
+      "https://www.collinsdictionary.com/us/dictionary/english/pococurante"
+    ]
+  },
+  {
+    "word": "scour",
+    "ipa": "英 /ˈskaʊə/；美 /ˈskaʊr/",
+    "meaning": "用力擦洗；冲刷；四处搜寻",
+    "sense": "清洗时来回用力擦，是 scour；寻找时把一片地方翻遍，也叫 scour。但这两个常见义不宜硬画成一条确定词源。",
+    "split": "清洗义大概经荷兰语或法语追溯到拉丁语 excūrāre“彻底照管、清理”；搜寻义另有北欧语来源解释，后来两支互相影响。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "晚期拉丁语：excūrāre",
+        "彻底照管、清理"
+      ],
+      [
+        "法语 escurer／中古荷兰语 scuren",
+        "擦净、擦亮（具体借入路径有讨论）"
+      ],
+      [
+        "英语：scour（清洗义）",
+        "用力擦洗；冲刷"
+      ]
+    ],
+    "explanation": "本页图画清洗一支。现代理解搜寻义时，可以用“像刷地一样把区域扫遍”作记忆图景，但这不等于证明搜寻义历史上就是从擦洗直接产生。",
+    "usage": "scour a pan；scour the area for…；water scours the riverbed。",
+    "contrast": "scrub 强调用力刷洗；scour 除擦洗还常说彻底搜寻。scourge“祸害、鞭笞”不是这个词。",
+    "examples": [
+      [
+        "She scoured the burnt pan until it was clean.",
+        "她用力擦洗烧焦的锅，直到洗干净。"
+      ],
+      [
+        "We scoured the house for the missing keys.",
+        "我们把屋子翻了个遍，寻找丢失的钥匙。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/scour",
+      "https://en.wiktionary.org/wiki/scour#English"
+    ]
+  },
+  {
+    "word": "scourage",
+    "ipa": "/ˈskaʊrɪdʒ/（按 scour + -age 读）",
+    "meaning": "冲洗后的污水；侦察（罕用旧义）",
+    "sense": "清理时把脏东西冲下来，留下的废水，在罕见旧用法里可叫 scourage；另有与搜寻一支相关的侦察义。",
+    "split": "scour + -age。要先判断使用的是清洗还是搜寻义，不能把两支都强行归到 cūra。",
+    "history": [
+      [
+        "拉丁语：cūra / cūrāre",
+        "关心、照料；操心"
+      ],
+      [
+        "晚期拉丁语：excūrāre",
+        "彻底照管、清理"
+      ],
+      [
+        "法语 escurer／中古荷兰语 scuren",
+        "擦净、擦亮（具体借入路径有讨论）"
+      ],
+      [
+        "英语：scour（清洗义）",
+        "用力擦洗；冲刷"
+      ],
+      [
+        "英语：scourage",
+        "清洗的废水；另有侦察旧义"
+      ]
+    ],
+    "explanation": "本页与词根相关的是清洗废水义。这个词极少见，现代通常直接说 wash water、wastewater 或 scouting，按实际意思选词。",
+    "usage": "scourage from washing（旧式）；scourage of an area（侦察旧义）。",
+    "contrast": "scourage 不是 scourge“灾祸”。网络上把这两个词混写的解释不少，读旧文本时要核对拼写。",
+    "examples": [
+      [
+        "The old manual calls the dirty wash water scourage.",
+        "这本旧手册把清洗后的脏水称为 scourage。"
+      ],
+      [
+        "The glossary lists scouting as another old meaning of scourage.",
+        "词汇表把侦察列为 scourage 的另一个旧义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scourage#English"
+    ]
+  }
+]

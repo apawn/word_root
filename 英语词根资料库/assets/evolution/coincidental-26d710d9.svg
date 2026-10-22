@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="670" viewBox="0 0 1000 670" role="img">
+<title>coincidental：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="668" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：cadere</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">落下；倒下；发生</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：incidere → incidēns</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">in- + cadere；落在……上；发生</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">中世纪拉丁语：coincidere</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">一起发生；落在同一点</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">中世纪拉丁语：coincidēns / coincident-</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">共同发生、相合的</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">法语：coïncident → 英语 coincident</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">同时发生、重合的</text>
+<text class="note" x="500" y="533" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="562" text-anchor="middle" font-size="25" font-weight="600">英语：coincidental</text>
+<text class="note" x="500" y="598" text-anchor="middle" font-size="20">出于巧合的</text>
+</svg>

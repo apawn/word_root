@@ -1,0 +1,121 @@
+[
+  {
+    "id": "C0096",
+    "meaning": "听；听见；由听取形成的检查与评选",
+    "core": "AUD = HEAR",
+    "image": "声音进入耳朵；听者接收、理解，有时还要判断",
+    "intro": "**aud-** 来自拉丁语 **audīre**“听”。audible 说声音能被听到，audience 是接收表达的人群，auditorium 是供大家听讲的空间。再往前走：听取账目并核查，成为 audit；让评选者听、看表演，成为 audition。两个词不能只靠拼写互相套。",
+    "forms": "**audi-、audit-** 来自同一拉丁词族的不同形式，如 audiō、audītus。现代组合形式 **audio-** 常用来造音频、听觉相关词，audiobook 是声音与书结合，audiology 是听觉与学科成分结合。这里没有“aud 一定只能说耳朵、不许说观众”的限制；词义会随实际用途扩展。",
+    "branches": [
+      [
+        "声音能否听见",
+        "audible · inaudible · audibly"
+      ],
+      [
+        "听与看的受众、场所",
+        "audience · auditorium"
+      ],
+      [
+        "声音内容与设备",
+        "audio · audiobook · audiotape · audiovisual"
+      ],
+      [
+        "听觉研究与人员",
+        "auditory · audiology · audiologist"
+      ],
+      [
+        "听取后核查或评选",
+        "audit · auditor · audition"
+      ]
+    ],
+    "contrasts": "**audible / auditory**：听得见 / 与听觉有关。一个评价声音能否被感知，一个说明属于什么领域。\n\n**audience / auditorium**：前者是接收表演或信息的人，后者是容纳听众、观众的空间。\n\n**audit / audition**：audit 的审计义与早期口头检查账目有关；audition 从听取发展成表演试选。二者同源，但 audition 不是拿“审计”加后缀就能解释。",
+    "practice": "**The audience sat in the auditorium, but the speaker was barely audible.**\n\n听众坐在礼堂里，却几乎听不到演讲者的声音。audience 是人，auditorium 是场所，audible 是声音能否被听见。",
+    "words": [
+      "audience",
+      "audio",
+      "audiobook",
+      "audiovisual",
+      "audiotape",
+      "audible",
+      "inaudible",
+      "audibly",
+      "auditory",
+      "auditorium",
+      "audition",
+      "audit",
+      "auditor",
+      "audiology",
+      "audiologist"
+    ]
+  },
+  {
+    "id": "C0269",
+    "meaning": "相信；信任；给予认可与信用",
+    "core": "CRED = BELIEVE, TRUST",
+    "image": "把信任交出去；再看凭什么值得相信、怎样获得认可",
+    "intro": "**cred-** 来自拉丁语 **crēdere**“相信、信任、托付”。相信能还钱，形成 credit 的信贷义；相信一个说法，评价它是否 credible；一个人太容易相信别人，就叫 credulous。许多近似词要分清：是谁在相信，谁被相信，谁拿到了正式认可。",
+    "forms": "**crēdere** 的相关形式包括 **crēditus、crēditum**，留下 credit；**crēdibilis** 留下 credible；**crēdulus** 留下 credulous。**crēdō** 是“我相信”，形成 credo，并经古英语一路形成 creed。另一些词经法语 creire / croire 音变，才有 miscreant、recreant；看不到完整 cred 也仍能同源。",
+    "branches": [
+      [
+        "信用与认可",
+        "credit · creditor · creditable · credited"
+      ],
+      [
+        "值得相信",
+        "credible · credibility · credibly"
+      ],
+      [
+        "惊人到不敢信",
+        "incredible · incredibly"
+      ],
+      [
+        "轻信与怀疑的反应",
+        "credulous · credulity · incredulous · incredulity"
+      ],
+      [
+        "信念与信条",
+        "credence · creed · credo"
+      ],
+      [
+        "凭据与正式认可",
+        "credential · credentials · accredit · accreditation"
+      ],
+      [
+        "信任被损害",
+        "discredit · discredited"
+      ]
+    ],
+    "contrasts": "**credible / creditable / credulous**：说法可信 / 表现值得称赞 / 人容易轻信。\n\n**incredible / incredulous**：事情惊人、难以相信 / 人表现出怀疑或不敢相信。对应副词 incredibly 常表程度，incredulously 常表人的反应。\n\n**credited / accredited**：前者常是获得功劳、署名或入账；后者常是获得正式资格认可。\n\n**miscreant / recreant** 的 cre- 经法语来自“相信”，不是 create“创造”。miscreant 的早期宗教贬义需要按历史立场理解，不能把不同信仰与作恶画等号。",
+    "practice": "**A credible source can earn our trust without making us credulous.**\n\n可信的来源可以赢得信任，但我们仍不必变得轻信。credible 评价来源值得相信，credulous 评价听者太容易相信。",
+    "words": [
+      "credit",
+      "creditor",
+      "creditable",
+      "credited",
+      "creditworthiness",
+      "microcredit",
+      "credible",
+      "credibility",
+      "credibly",
+      "incredible",
+      "incredibly",
+      "credulous",
+      "credulity",
+      "incredulous",
+      "incredulity",
+      "incredulously",
+      "credence",
+      "creed",
+      "credo",
+      "credentials",
+      "credential",
+      "accredit",
+      "accreditation",
+      "accredited",
+      "discredit",
+      "discredited",
+      "miscreant",
+      "recreant"
+    ]
+  }
+]

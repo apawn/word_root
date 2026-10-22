@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>collectable：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：legere（legō）</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">挑选；收集；阅读</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：colligere → collēctus / collēcta</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">聚到一起 → 收集物</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">中世纪拉丁语及法语：collectāre / collecter</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">收取、收集</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：collect</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">收集；领取</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：collectable</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">可收集、可收取的；收藏品</text>
+</svg>

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "C1325",
+    "meaning": "服侍、效力；另一支是看守、保全",
+    "core": "SERV = SERVE / KEEP",
+    "image": "替人办事是一支，把东西守住、留好是另一支",
+    "intro": "**serv-** 在这里分两条拉丁语路线：**servus → servīre** 是奴仆、服侍，留下 serve、servant；**servāre** 是看守、保全，留下 preserve、reserve、observe。更早的联系有不同分析，学习时先把这两条可靠路线分清。",
+    "forms": "**serve / service / servant** 经过法语进入英语，所以拼写尾部不必都当成现代英语随意加的后缀。**serf** 和 **sergeant** 虽然不再明显写出 serv，仍能追到这条服侍词族。\n\n另一支中，**preserve** 是保全，**reserve** 是留下备用，**conserve** 是保存、节约；**observe** 既有留心看，也有把规定守住的意思。**deserve** 的 de- 是加强效劳，**dessert** 的 des- 则是撤去餐食，不能把两个前缀功能一概而论。",
+    "branches": [
+      [
+        "提供与效力",
+        "serve · service · server"
+      ],
+      [
+        "服侍与从属",
+        "servant · servile · subservient"
+      ],
+      [
+        "服务支线的变化",
+        "deserve · dessert · sergeant"
+      ],
+      [
+        "保存与预留",
+        "preserve · reserve · reservation"
+      ],
+      [
+        "节约与保持",
+        "conserve · conservation · conservative"
+      ],
+      [
+        "留心与遵守",
+        "observe · observation · observance"
+      ]
+    ],
+    "contrasts": "**preserve / reserve / conserve**：完好保存 / 留作特定用途或以后使用 / 妥善保护并节约资源。\n\n**observation / observance**：观察或评论 / 遵守、纪念活动。\n\n**observant / observable**：人善于观察 / 事物可被观察。\n\n**conservatory / observatory**：暖房或音乐学院 / 天文台等观测场所。\n\n**serviceable / servile**：东西实用 / 人卑躬屈膝。不要把工作服务和奴性混为一谈。",
+    "practice": "**Observant volunteers help conserve the wetland, preserve its records, and reserve space for nesting birds.**\n\n细心的志愿者帮助保护湿地、保存记录，并为筑巢的鸟预留空间。observe 留心看，conserve 妥善保护，preserve 保存完好，reserve 留出备用。",
+    "words": [
+      "serve",
+      "service",
+      "server",
+      "serving",
+      "servant",
+      "manservant",
+      "maidservant",
+      "serf",
+      "sergeant",
+      "deserve",
+      "dessert",
+      "servile",
+      "servitude",
+      "subservient",
+      "subservience",
+      "serviceable",
+      "disservice",
+      "reserve",
+      "reservation",
+      "reserved",
+      "reservist",
+      "preserve",
+      "preservation",
+      "preserver",
+      "preservative",
+      "conserve",
+      "conservation",
+      "conservative",
+      "conservator",
+      "conservatory",
+      "conservancy",
+      "observe",
+      "observation",
+      "observer",
+      "observatory",
+      "observable",
+      "observant",
+      "observational",
+      "observance"
+    ]
+  }
+]

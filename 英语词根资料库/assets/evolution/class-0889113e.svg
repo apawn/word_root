@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="254" viewBox="0 0 1000 254" role="img">
+<title>class：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="252" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：classis</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">分组、等级；军队、舰队。传统上联系“召集”，深层词源并非完全确定</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">法语 classe → 英语 class</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">一组人或事物；班级、类别、阶层</text>
+</svg>

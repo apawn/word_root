@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+"""C0923 oryza: rice and risotto, no speculative Asian source chain."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+def K(w):return 'https://en.wiktionary.org/wiki/'+w
+def S(w):return 'https://www.etymonline.com/word/'+w
+def M(w):return 'https://www.merriam-webster.com/dictionary/'+w
+def O(w):return 'https://www.oxfordlearnersdictionaries.com/definition/english/'+w
+B=[['希腊 oryza','稻、米；更早的亚洲语言路线存在不同分析'],['拉丁 oryza／oriza → 意大利 riso','米；欧洲语言中的传播支线']]
+W=[
+E('rice','/raɪs/','稻；大米；米饭；把食材弄成米粒状','中文把田里的稻、袋里的米、碗里的饭分成不同词；英语在合适语境里都能用 rice，重点由句子补出来。','经中古英语 rys、古法语 ris，追到意大利 riso、拉丁 oryza 和希腊 oryza。希腊词更早的亚洲来源有多种分析，这里不把其中一条猜测写成唯一确定链。动词“弄成米粒状”由名词发展。',B+[['古法语 ris → 中古英语 rys／ris → 英语 rice','稻、米、米饭'],['英语名词转作动词 rice','把食材加工成米粒般的小颗粒']],'grow rice 是种水稻，a bag of rice 是一袋大米，serve rice 是端上米饭。一般食物义不可数：一粒是 a grain of rice。riced cauliflower 则是米粒状花椰菜，不保证含有大米。','grow rice；cook rice；a bowl of rice；a grain of rice；riced cauliflower。','rice 不等于所有谷物；grain 范围更广。通常不说 three rices 来数三粒米；餐饮语境按份数或品种计数是另外的用法。',('The family grows rice in fields near the river.','这家人在河边的田里种水稻。'),('We served the curry with rice and a cucumber salad.','我们把咖喱配米饭和黄瓜沙拉一起端上桌。'),('The recipe uses cauliflower that has been riced into small pieces.','这道菜用的是加工成米粒状小颗粒的花椰菜。'),sources=[S('rice'),K('rice'),M('rice')]),
+E('risotto','英 /rɪˈzɒtəʊ/；美 /rɪˈzoʊtoʊ/','意式烩饭、意大利炖饭','米粒吸收汤汁，形成浓稠润滑的整体，而不是粒粒分散的普通米饭。名称来自意大利语里的米 riso。','英语整词借意大利 risotto；意大利语由 riso“米”加 -otto 形成。它与 rice 是走不同借入路线的亲戚，不是英语 rice 变音再加一个英语 -otto。',B+[['意大利 riso + -otto → risotto','一种以米为核心、用汤汁烹制的菜'],['英语 risotto','意式烩饭；菜名借入']],'mushroom risotto 是蘑菇烩饭；seafood risotto 是海鲜烩饭。可以说 some risotto，也可以说 two risottos 表示两份或两种。具体配料可变，并非一定有肉或奶油。','mushroom risotto；seafood risotto；a bowl of risotto；order two risottos。','rice 是原料或一般米饭；risotto 是具体菜式。它的绵润口感不意味着定义上必须加入奶油。',('I ordered a mushroom risotto for lunch.','午饭我点了一份蘑菇意式烩饭。'),('The menu offers two risottos, one with vegetables and one with seafood.','菜单上有两种意式烩饭，一种配蔬菜，另一种配海鲜。'),sources=[S('risotto'),K('risotto'),O('risotto')]),
+]
+EXCLUDE={'Oryza':'按用户要求暂略稻属学名；保留日常 rice。','Oryzomys':'按用户要求暂略稻鼠属分类学名称。'}
+ROOT=dict(id='C0923',meaning='稻；米',core='希腊 oryza 指稻和米。名称随食物和语言交流传播，经拉丁、意大利、法语等路线，留下 rice 与 risotto 两个日常词。',image='希腊 oryza → 拉丁 oryza／oriza → 意大利 riso；一路经法语到 rice，另一路组成 risotto 后直接借入英语。',intro='这组重点看同一种食材如何在不同语言里改了外形。rice 涵盖稻、米、饭，risotto 则是具体菜式；不需要为学会这两个词扩列许多分类学名。',forms='oryza、oriza、riso、ris、rice 是不同阶段的形式，不是英语里可以自由拆装的前后缀。希腊词更早的亚洲来源尚有分析差异，演化链从可靠的希腊记录起。',branches=[['原料、作物与米饭','rice'],['意大利菜名','risotto']],contrasts='rice 常不可数，一粒米说 a grain of rice；risotto 可按食物整体说，也可按份或菜式计数。rice 的罕见“枝条”旧义来自古英语另一词源，与本页的米无关。',practice='Rice is the main ingredient in risotto. 米是意式烩饭的主要原料。再用 grow rice、cook rice、eat rice 对照田里、锅里和碗里的不同语境。',words=[],exclude=EXCLUDE)
+if __name__=='__main__':
+ m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());r=next(x for x in m['roots'] if x['id']==ROOT['id']);ROOT['words']=[w for w in r['family'] if '-' not in w and w not in EXCLUDE]
+ assert set(ROOT['words'])&set(m['owned_words'])=={e['word'] for e in W}
+ assert all(len(e['examples'])>=2 and len(e['history'])>=2 for e in W)
+ OUT.mkdir(parents=True,exist_ok=True)
+ (OUT/'roots_batch200_vid_60.json').write_text(json.dumps([ROOT],ensure_ascii=False,indent=2));(OUT/'words_batch200_vid_60.json').write_text(json.dumps(W,ensure_ascii=False,indent=2))
+ print('oryz:',len(W),'words;',sum(len(e['examples']) for e in W),'examples;',len(ROOT['words']),'references')

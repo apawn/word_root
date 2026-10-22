@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+"""C0164 can: dogs, canine teeth, and a disputed island-name branch."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+def S(w):return 'https://www.etymonline.com/word/'+w
+def O(w):return 'https://www.oxfordlearnersdictionaries.com/definition/english/'+w
+W=[
+E('canine','英美 /ˈkeɪnaɪn/','犬的、狗的；犬齿；狗','狗最显眼的特征之一是尖牙，所以“狗的”这个形容词也成了尖牙的名称。人嘴里的犬齿也沿用这个名字。','接拉丁形容词 caninus“犬的”，来自 canis“狗”；英语有经法语的借入路线。canine tooth 是犬齿，名词 canine 可省去 tooth。英语记录中牙齿义很早，不能照今天的词频硬编“英语先有狗这个名词，再有牙齿名词”的顺序。',[['拉丁 canis → caninus','狗 → 犬的、像狗的'],['法语及拉丁词形 → 中古英语 canine','早期英语已有犬齿名称'],['英语 canine 的形容词和名词用法','犬的；犬齿；也可把狗称为 a canine']],'a canine companion 是狗伙伴；a canine tooth 是靠近门牙的尖牙。名词 a canine 在牙科里往往是一颗犬齿，在谈动物时则可能是一只狗。先看它处在牙齿还是动物的语境。','canine behaviour；a canine companion；canine teeth；an upper canine。','canine 比 dog 更正式，也用于动物或牙齿分类。人有 canine teeth 不代表人的牙齿属于狗，而是借狗的尖牙来命名这种牙齿。',('The hotel welcomes guests and their canine companions.','这家酒店欢迎客人带着自己的狗入住。'),('She chipped an upper canine when she fell.','她摔倒时磕掉了一颗上犬齿的一小块。'),sources=[S('canine'),O('canine_1'),O('canine_2')]),
+E('canary','英 /kəˈneəri/；美 /kəˈneri/','金丝雀；也用于表示危险的早期信号','先记住一只小小的、叫声悦耳的笼养鸟。它因加那利群岛得名；后来，煤矿中用鸟预警危险的旧做法又给它添了“早期警报”的比喻。','英语来自 Canary bird 的缩短形式，与法语 canari／canarie、西班牙语 canario“加那利群岛的”相连。岛名常被解释为接拉丁 canis“狗”，但有关岛上大狗的故事可能是民间词源，也有与古代族名相关的解释；不能把“狗→岛→鸟”当作毫无争议的事实。',[['古地名 Insula Canaria／加那利群岛','传统把地名接到“狗”，这一命名解释仍有争议'],['西班牙语 canario；法语 canari／canarie','来自该群岛的；相应鸟名'],['英语 Canary bird → canary','加那利群岛的鸟 → 金丝雀'],['后来的比喻用法','像旧时矿井中的金丝雀一样，较早发出危险信号']],'canary 本身是鸟，不是“狗的一种”。a canary in the coal mine 常出现在新闻、商业和环境讨论中，指一个比大问题更早出现的警讯。canary yellow 则借常见笼养金丝雀的黄色来描述颜色。','keep a canary；a singing canary；canary yellow；a canary in the coal mine。复数 canaries。','canary 的直接命名依据是群岛名称，而不是外形像狗。比喻中的 canary 是预警信号，不一定真的指一只鸟。',('A canary was singing beside the kitchen window.','一只金丝雀在厨房窗边鸣叫。'),('The drop in small orders may be a canary in the coal mine for the wider industry.','小额订单的减少，可能是在给整个行业提前敲响警钟。'),sources=[S('canary'),O('canary')]),
+E('canid','美 /ˈkænəd/，也读 /ˈkeɪnəd/','犬科动物','把狗放进一张更大的动物家谱：狼、狐狸、郊狼等也在犬科里。canid 说的是这整个家族的成员。','来自新拉丁分类名 Canidae“犬科”，该名称以属名 Canis 为基础，再接表示动物科的 -idae；Canis 接拉丁 canis“狗”。英语 canid 是科成员的称呼，不等于把所有犬科动物都归进 Canis 这一个属。',[['拉丁 canis → 分类属名 Canis','狗 → 犬属的名称'],['新拉丁 Canidae','以 Canis 为基础形成的犬科名称'],['英语 canid','犬科中的一个动物成员']],'在自然纪录片、动物园说明里，a wild canid 可以指野生犬科动物。狐狸是犬科成员，但并不因此属于犬属；“科”比“属”范围更大。这个词比日常 dog 更适合讲动物亲缘分类。','wild canids；a canid species；the canid family。可数名词，复数 canids。','canid 指犬科成员；canine 在普通语言里常只说狗或犬齿。狐狸可以是 a canid，却不能不看语境就译成一只狗。',('Foxes and wolves are both canids.','狐狸和狼都属于犬科动物。'),('The exhibition compares the hunting habits of several wild canids.','展览比较了几种野生犬科动物的捕猎习性。'),sources=['https://www.merriam-webster.com/dictionary/canid','https://www.collinsdictionary.com/dictionary/english/canid']),
+]
+SH=set();EX={w:'较冷门的旧词、天气词或牙齿定位术语，本轮按通用阅读优先暂略。' for w in ['canaille','canicular','canicule','postcanine']};EX.update({'Canis':'拉丁分类属名，已在 canid 中解释，不另列普通英语词头。','Canis Major':'星座拉丁专名，本轮不展开专名词条。'})
+ROOT=dict(id='C0164',meaning='狗、犬',core='从狗出发，一条路讲与狗有关的事物和尖牙，另一条路讲犬科这一动物家族。金丝雀是经地名接进来的旁支，最早的地名解释仍有争议。',image='canis 狗 → caninus 犬的 → canine；Canis 属名 → Canidae 犬科 → canid。加那利地名 → canary，地名是否确定来自“狗”须保留争议。',intro='先分清两个层次：canine 常说狗的、犬齿；canid 是动物分类中的犬科成员。不要看见 can- 就把每个词硬解释成一条狗。',forms='拉丁 canis 是狗，caninus 是相应形容词。Canidae 是后来的动物科名。canary 的直接来源是加那利群岛名称，这条地名的“狗”解释并不确定。',branches=[['狗及尖牙','canine'],['动物家族','canid'],['经地名而来的鸟名','canary']],contrasts='英语 can“能”和罐子 can 不属于这组。canary 也不是犬科动物；它和“狗”的关系即使采用传统说法，也隔着地名这一层。',practice='A fox is a canid, and it has canine teeth. 狐狸是犬科动物，也有犬齿：canid 归类整只动物，canine teeth 指一种牙齿。',words=[],exclude=EX)
+if __name__=='__main__':
+ m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());r=next(x for x in m['roots'] if x['id']==ROOT['id']);ROOT['words']=[w for w in r['family'] if '-' not in w and w not in EX];ROOT['words']+=sorted(SH-set(ROOT['words']))
+ assert set(ROOT['words'])=={e['word'] for e in W}|SH
+ assert {e['word'] for e in W}<=set(m['owned_words'])
+ assert all(len(e['examples'])>=2 and len(e['history'])>=2 for e in W)
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_131.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('can:',len(W),'words;',sum(len(e['examples']) for e in W),'examples;',len(ROOT['words']),'references')

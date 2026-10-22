@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>subscript：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：scrībere</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">写；刻写；记录</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：scrīptum</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">写出来的东西</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">古法语：escrit</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">文字；书面文稿</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：script</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">文字形式；剧本；脚本</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：sub- + script → subscript</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">写在较低位置的字符</text>
+</svg>

@@ -1,0 +1,1707 @@
+[
+  {
+    "word": "sense",
+    "ipa": "/sens/",
+    "meaning": "感觉；意义；判断力；察觉",
+    "sense": "外界信息进来，你不只接收到，还开始理解：闻到气味、感觉不对、听懂一句话，sense 都能参与。",
+    "split": "主要经法语 sens 来自拉丁语 sēnsus，与 sentīre“感受”相连；法语词义还受到日耳曼语“理解、方向”词族影响。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → 古法语 sens",
+        "感受；理解；意义"
+      ],
+      [
+        "英语：sense",
+        "感觉；意义；判断力"
+      ]
+    ],
+    "explanation": "“感受到”扩展为理解和判断，因此 make sense 是说得通，common sense 是常识判断。不要每次都只译成感官感觉。",
+    "usage": "a sense of smell；make sense；common sense；sense danger。",
+    "contrast": "sensation 更像一次具体感受；sense 还可以是能力、意义或理智判断。",
+    "examples": [
+      [
+        "This explanation makes sense to me.",
+        "这个解释我能理解，也觉得说得通。"
+      ],
+      [
+        "She sensed that something was wrong.",
+        "她察觉到有些不对劲。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sense#English"
+    ]
+  },
+  {
+    "word": "sentence",
+    "ipa": "/ˈsentəns/",
+    "meaning": "句子；判决；判处",
+    "sense": "一句话把想法表达完整；法官把判断正式说出，则形成判决。两条意思都能追到“表达出来的看法”。",
+    "split": "拉丁语 sententia“想法、意见、判断”来自 sentīre 的相关形式，经法语进入英语。与 send 的过去式 sent 无关。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sententia",
+        "意见；判断；表达出的思想"
+      ],
+      [
+        "古法语：sentence",
+        "判定；意义；有权威的话"
+      ],
+      [
+        "英语：sentence",
+        "完整表达的句子；判决"
+      ]
+    ],
+    "explanation": "英语早期有权威判断义，后来语法用法把一段完整表达称为 sentence。动词 sentence 则专门说作出刑罚判决。",
+    "usage": "write a sentence；a complete sentence；pass sentence；sentence someone to…。",
+    "contrast": "verdict 常是有罪与否等裁断；sentence 常说处罚判决。语法的 sentence 不一定是陈述，也可以是问题或命令。",
+    "examples": [
+      [
+        "Rewrite the idea in one clear sentence.",
+        "把这个想法改写成一句清楚的话。"
+      ],
+      [
+        "The judge sentenced him to two years in prison.",
+        "法官判处他两年监禁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentence#English",
+      "https://www.etymonline.com/word/sentence"
+    ]
+  },
+  {
+    "word": "sensitive",
+    "ipa": "/ˈsensətɪv/",
+    "meaning": "敏感的；体贴的；需谨慎处理的",
+    "sense": "一点变化就能感觉到，或一点刺激就会受到影响：仪器、皮肤、人心都可以 sensitive。",
+    "split": "来自中世纪拉丁语 sēnsitīvus，经法语 sensitif 传入，不是现代英语 sense 随便加 -tive。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ]
+    ],
+    "explanation": "感知细，能表示体贴；容易受触动，也可能表示易受伤。敏感信息或话题则是处理稍有不当就会造成影响。",
+    "usage": "sensitive to light；sensitive skin；a sensitive issue；sensitive to someone’s needs。",
+    "contrast": "sensitive 是敏感、体贴；sensible 是明智、合乎实际。a sensitive person 不一定总作出 sensible decisions。",
+    "examples": [
+      [
+        "The camera is sensitive to small changes in light.",
+        "这台相机能感知很小的光线变化。"
+      ],
+      [
+        "She was sensitive to the needs of the new students.",
+        "她很体贴新同学的需要。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensitive#English"
+    ]
+  },
+  {
+    "word": "sensitivity",
+    "ipa": "/ˌsensəˈtɪvəti/",
+    "meaning": "敏感程度；灵敏度；体贴",
+    "sense": "把“多小的变化就会有反应”当成一个可讨论的程度，这就是 sensitivity；对人也可谈体察他人感受的能力。",
+    "split": "sensitive + -ity，变成性质名词，重音随词尾变化。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：sensitivity",
+        "敏感、灵敏或体贴的程度"
+      ]
+    ],
+    "explanation": "可以评价传感器，也可以评价谈话方式。高 sensitivity 不自动等于总体性能或性格更好，要看讨论的是哪种反应。",
+    "usage": "light sensitivity；sensor sensitivity；show sensitivity；cultural sensitivity。",
+    "contrast": "sensibility 常偏感受和审美能力；sensitivity 也常是可测的灵敏度或对刺激的反应程度。",
+    "examples": [
+      [
+        "The technician adjusted the sensitivity of the sensor.",
+        "技术人员调整了传感器的灵敏度。"
+      ],
+      [
+        "The situation needs to be handled with sensitivity.",
+        "这种情况需要体贴、谨慎地处理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensitivity#English"
+    ]
+  },
+  {
+    "word": "sensitively",
+    "ipa": "/ˈsensətɪvli/",
+    "meaning": "体贴地；细腻地；敏感地",
+    "sense": "说话前先留意对方会怎样感受，处理时避开不必要的伤害，这样做就是 sensitively。",
+    "split": "sensitive + -ly。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：sensitively",
+        "细致感知、顾及感受地"
+      ]
+    ],
+    "explanation": "常描述谈话、表演、报道或处理问题的方式，不只是神经容易激动。",
+    "usage": "handle sensitively；respond sensitively；portray sensitively。",
+    "contrast": "sensibly 是明智、实际地；sensitively 是细腻、体贴地。一种处理可以同时具备二者。",
+    "examples": [
+      [
+        "The teacher handled the complaint sensitively.",
+        "老师体贴而谨慎地处理了这次投诉。"
+      ],
+      [
+        "The film portrays grief sensitively.",
+        "这部电影细腻地表现了悲痛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensitively#English"
+    ]
+  },
+  {
+    "word": "insensitive",
+    "ipa": "/ɪnˈsensətɪv/",
+    "meaning": "不体贴的；感觉不灵敏的；不受某因素影响的",
+    "sense": "该留意的变化或感受没有被接住：对人可能是说话不顾别人，对设备可能是对某种输入不作明显反应。",
+    "split": "in-（不）+ sensitive。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：insensitive",
+        "不敏感；不体贴"
+      ]
+    ],
+    "explanation": "人际义常含批评；技术义可以中性，甚至是需要的性质，例如测量不受温度变化影响。",
+    "usage": "insensitive remarks；insensitive to criticism；insensitive to temperature changes。",
+    "contrast": "insensitive 是缺少相应感受或顾及；senseless 则常是无意义、无理性，不能直接互换。",
+    "examples": [
+      [
+        "His joke sounded insensitive after what she had been through.",
+        "考虑到她经历的事，他的玩笑显得很不体贴。"
+      ],
+      [
+        "The instrument is relatively insensitive to changes in humidity.",
+        "这个仪器受湿度变化的影响相对较小。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insensitive#English"
+    ]
+  },
+  {
+    "word": "insensitivity",
+    "ipa": "/ɪnˌsensəˈtɪvəti/",
+    "meaning": "不体贴；不敏感；对某因素缺少反应",
+    "sense": "把没有接住别人的感受、或没有对刺激作反应的状态单独拿出来谈。",
+    "split": "in-（不）+ sensitivity，也可从 insensitive 对应的名词形式理解。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：sensitivity → insensitivity",
+        "敏感程度 → 缺少相应反应或体贴"
+      ]
+    ],
+    "explanation": "人际场景常批评漠视；技术场景只说明反应较弱。其好坏不能脱离后面的 to 什么。",
+    "usage": "insensitivity to others；show insensitivity；insensitivity to noise。",
+    "contrast": "indifference 是不关心；insensitivity 是不易察觉或不顾及。有时人想帮忙，却因缺少体察而表现出 insensitivity。",
+    "examples": [
+      [
+        "She was upset by his insensitivity to her concerns.",
+        "他不顾她的忧虑，让她很难过。"
+      ],
+      [
+        "The design’s insensitivity to electrical noise is useful.",
+        "这种设计不易受电噪声影响，这一点很有用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insensitivity#English"
+    ]
+  },
+  {
+    "word": "hypersensitive",
+    "ipa": "英 /ˌhaɪpəˈsensətɪv/；美 /ˌhaɪpərˈsensətɪv/",
+    "meaning": "高度敏感的；反应过强的",
+    "sense": "别人几乎没注意到的一点变化，在这里却引起很强反应；hyper- 把敏感程度往上推。",
+    "split": "hyper-（超过通常程度）+ sensitive。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：hyper- + sensitive",
+        "敏感程度很高或过强"
+      ]
+    ],
+    "explanation": "可说人对批评的反应，也可在技术、生理语境说对某种刺激特别敏感。是否属于异常要看具体语境。",
+    "usage": "hypersensitive to criticism；a hypersensitive detector；hypersensitive skin。",
+    "contrast": "sensitive 未必过头；hypersensitive 常强调程度异常高。不要把它当成夸人特别体贴的常规词。",
+    "examples": [
+      [
+        "He became hypersensitive to even mild criticism.",
+        "他变得连轻微批评也难以承受。"
+      ],
+      [
+        "The experiment required a hypersensitive detector.",
+        "这个实验需要一个高度灵敏的探测器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/hypersensitive#English"
+    ]
+  },
+  {
+    "word": "oversensitive",
+    "ipa": "英 /ˌəʊvəˈsensətɪv/；美 /ˌoʊvərˈsensətɪv/",
+    "meaning": "过于敏感的",
+    "sense": "反应超过说话人认为合适的程度，例如把一句普通提醒听成严重指责。",
+    "split": "over-（过度）+ sensitive。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：over- + sensitive",
+        "敏感得过头"
+      ]
+    ],
+    "explanation": "它包含评价，尤其形容人时可能显得在否定对方感受。理解词义时要看是谁认为“过度”。",
+    "usage": "be oversensitive about something；an oversensitive response。",
+    "contrast": "sensitive 可以是优点；oversensitive 明确带“太过”的判断，不能当作中性同义词。",
+    "examples": [
+      [
+        "He worries that he is oversensitive about his accent.",
+        "他担心自己对口音问题太敏感。"
+      ],
+      [
+        "The alarm is oversensitive and reacts to passing insects.",
+        "警报器过于敏感，连飞过的昆虫都会触发它。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/oversensitive#English"
+    ]
+  },
+  {
+    "word": "photosensitive",
+    "ipa": "英 /ˌfəʊtəʊˈsensətɪv/；美 /ˌfoʊtoʊˈsensətɪv/",
+    "meaning": "光敏的；对光产生反应的",
+    "sense": "把光照上去，材料或装置就发生反应；photo- 指定了它特别能感受到的东西是光。",
+    "split": "photo-（光）+ sensitive（敏感的）。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：photo- + sensitive",
+        "对光敏感"
+      ]
+    ],
+    "explanation": "可描述胶片、感光材料，也可在生理语境描述对光敏感。单看词不说明具体反应机制。",
+    "usage": "photosensitive material；a photosensitive layer；photosensitive paper。",
+    "contrast": "photogenic 是上镜好看；photosensitive 是对光反应，不能用它夸人的照片好看。",
+    "examples": [
+      [
+        "The paper has a photosensitive coating.",
+        "这种纸带有一层感光涂层。"
+      ],
+      [
+        "Keep the photosensitive material away from bright light.",
+        "把感光材料放在强光照不到的地方。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/photosensitive#English"
+    ]
+  },
+  {
+    "word": "sensitize",
+    "ipa": "英 /ˈsensətaɪz/；美 /ˈsensətaɪz/",
+    "meaning": "使敏感；使更能注意到",
+    "sense": "原来没注意到的变化，现在能察觉；原来不理解的处境，现在开始有感受，sensitize 就是让这根感受线更灵。",
+    "split": "sensitive 的词干 + -ize，构成使发生变化的动词；英式也常写 sensitise。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：sensitize",
+        "使更敏感；使意识到"
+      ]
+    ],
+    "explanation": "可以说培训让人更理解他人需求，也可在专业语境说材料或身体对刺激的反应改变。两种场景不能硬套同一机制。",
+    "usage": "sensitize someone to an issue；sensitize material to light。",
+    "contrast": "sensitive 是已有性质；sensitize 是改变性质的过程。desensitize 则朝降低反应的方向走。",
+    "examples": [
+      [
+        "The workshop aims to sensitize staff to accessibility barriers.",
+        "工作坊旨在让员工更能意识到无障碍方面的障碍。"
+      ],
+      [
+        "The process sensitizes the film to light.",
+        "这个过程使胶片具备感光能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensitize#English"
+    ]
+  },
+  {
+    "word": "sensitization",
+    "ipa": "英 /ˌsensətaɪˈzeɪʃən/；美 /ˌsensətəˈzeɪʃən/",
+    "meaning": "敏化；使反应增强或意识提高的过程",
+    "sense": "它把“越来越能感觉到、越来越容易起反应”当成一个变化过程。",
+    "split": "sensitize + -ation，去掉词尾 e 后构成名词；英式也写 sensitisation。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "中世纪拉丁语：sēnsitīvus",
+        "能感受的"
+      ],
+      [
+        "法语：sensitif",
+        "敏感的"
+      ],
+      [
+        "英语：sensitive",
+        "容易察觉或受到影响的"
+      ],
+      [
+        "英语：sensitize → sensitization",
+        "使敏感 → 敏化过程"
+      ]
+    ],
+    "explanation": "在材料、生理和社会教育语境可有不同专门含义。先看是什么对象对什么变得敏感，再翻译。",
+    "usage": "sensitization to light；a sensitization process；public sensitization。",
+    "contrast": "sensitivity 是当下敏感程度；sensitization 是敏感程度或意识发生变化的过程。",
+    "examples": [
+      [
+        "The paper describes the sensitization of the photographic material.",
+        "论文描述了这种照相材料的敏化过程。"
+      ],
+      [
+        "The training includes sensitization to cultural differences.",
+        "培训包含帮助学员认识文化差异的内容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensitization#English"
+    ]
+  },
+  {
+    "word": "sensible",
+    "ipa": "/ˈsensəbəl/",
+    "meaning": "明智的；合乎实际的；另有能感知的旧式义",
+    "sense": "有感受还不够，要能判断什么做法行得通。带伞、早点出门、量力而行，都可能是 sensible choices。",
+    "split": "来自拉丁语 sēnsibilis“能感知、能被感知的”，与 sentīre 相连，后来发展出有判断力的意思。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsibilis",
+        "能感知的；能被感知的"
+      ],
+      [
+        "英语：sensible",
+        "能理解判断 → 明智的"
+      ]
+    ],
+    "explanation": "从有感觉、能理解，转向能作合理判断。现代日常主要是“明智实际”，而不是“情绪敏感”。",
+    "usage": "a sensible decision；sensible shoes；It is sensible to…。",
+    "contrast": "sensible 明智；sensitive 敏感。sensible shoes 是适合实际穿用的鞋，不是能感觉到你脚步的鞋。",
+    "examples": [
+      [
+        "It would be sensible to leave before the traffic gets heavy.",
+        "在交通拥堵前出发比较明智。"
+      ],
+      [
+        "Wear sensible shoes for the long walk.",
+        "长途步行要穿合脚实用的鞋。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensible#English"
+    ]
+  },
+  {
+    "word": "sensibly",
+    "ipa": "/ˈsensəbli/",
+    "meaning": "明智地；合理地；合乎实际地",
+    "sense": "做决定时把现实情况放进来，不冲动、不做明显行不通的事。",
+    "split": "sensible + -ly，词尾 -le 改成 -ly。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsibilis",
+        "能感知的；能被感知的"
+      ],
+      [
+        "英语：sensible",
+        "能理解判断 → 明智的"
+      ],
+      [
+        "英语：sensibly",
+        "以合乎判断和实际的方式"
+      ]
+    ],
+    "explanation": "可描述花钱、安排时间、穿着和讨论方式，强调做法合理。",
+    "usage": "spend sensibly；dress sensibly；plan sensibly。",
+    "contrast": "sensibly 是明智地；sensitively 是体贴细腻地。回答问题可以很理智，却不够体贴。",
+    "examples": [
+      [
+        "She sensibly saved a copy before editing the file.",
+        "她编辑文件前先保存了副本，这很明智。"
+      ],
+      [
+        "We need to discuss the problem calmly and sensibly.",
+        "我们需要冷静、理智地讨论这个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensibly#English"
+    ]
+  },
+  {
+    "word": "sensibility",
+    "ipa": "/ˌsensəˈbɪləti/",
+    "meaning": "感受力；审美或情感上的敏锐；容易被触动的感情",
+    "sense": "同一幅画，有人只看见颜色，有人会细腻地感到气氛与情绪；这种感受方式和能力是 sensibility。",
+    "split": "晚期拉丁语 sēnsibilitās 经法语 sensibilité 进入英语，与 sēnsibilis 同族。现代虽与 sensible 对应，意思不只等于理智。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsibilis → sēnsibilitās",
+        "能感知的 → 感受能力"
+      ],
+      [
+        "法语：sensibilité",
+        "感受力；敏感"
+      ],
+      [
+        "英语：sensibility",
+        "情感、审美上的感受力"
+      ]
+    ],
+    "explanation": "单数可说一个人的艺术感受方式；复数 sensibilities 常说容易被冒犯或触动的感情与价值感。",
+    "usage": "an artistic sensibility；offend someone’s sensibilities；a modern sensibility。",
+    "contrast": "sensibility 不是 sensibleness“明智”简单替换词。小说标题 Sense and Sensibility 正利用理智与感性之间的张力。",
+    "examples": [
+      [
+        "The designer has a distinctive visual sensibility.",
+        "这位设计师有独特的视觉审美。"
+      ],
+      [
+        "The joke offended her sensibilities.",
+        "那个玩笑冒犯了她的感情和价值感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensibility#English"
+    ]
+  },
+  {
+    "word": "sensation",
+    "ipa": "/senˈseɪʃən/",
+    "meaning": "感觉；轰动；引起轰动的人或事",
+    "sense": "身体或心里收到一股鲜明感受；如果一个表演让许多人同时产生强烈反应，它也能成为 a sensation。",
+    "split": "来自中世纪拉丁语 sensātiō，经法语传入，与 sēnsus“感受”相关。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → 中世纪拉丁语 sensātiō",
+        "感受 → 感觉过程"
+      ],
+      [
+        "法语相关形式 → 英语 sensation",
+        "感觉；引起强烈反应的事件"
+      ]
+    ],
+    "explanation": "一支保留身体感受，如刺痛、温暖；另一支从强烈反应变成轰动及制造轰动的对象。",
+    "usage": "a warm sensation；a sensation of falling；cause a sensation；an overnight sensation。",
+    "contrast": "feeling 很广，可包括态度；sensation 常突出一次直接感受。a singing sensation 则是引起轰动的歌手。",
+    "examples": [
+      [
+        "I felt a strange sensation in my fingertips.",
+        "我的指尖有一种奇怪的感觉。"
+      ],
+      [
+        "Her first performance caused a sensation.",
+        "她的首场演出引起了轰动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensation#English"
+    ]
+  },
+  {
+    "word": "sensational",
+    "ipa": "/senˈseɪʃənəl/",
+    "meaning": "轰动的；耸人听闻的；极出色的",
+    "sense": "它能一下子抓住大家的感觉：可能是真的精彩，也可能故意夸张刺激，让人忍不住点进去。",
+    "split": "sensation + -al，表示会引起强烈感受或轰动的。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → 中世纪拉丁语 sensātiō",
+        "感受 → 感觉过程"
+      ],
+      [
+        "法语相关形式 → 英语 sensation",
+        "感觉；引起强烈反应的事件"
+      ],
+      [
+        "英语：sensational",
+        "引起轰动的；极出色的"
+      ]
+    ],
+    "explanation": "a sensational performance 常是称赞；a sensational headline 可能批评靠刺激吸引眼球。不能只背一个“耸人听闻”。",
+    "usage": "a sensational performance；sensational news；a sensational headline。",
+    "contrast": "sensational 的评价取决于对象；sensitive 则是接收刺激敏锐，不是制造轰动。",
+    "examples": [
+      [
+        "The singer gave a sensational performance.",
+        "这位歌手的演出精彩极了。"
+      ],
+      [
+        "The article used a sensational headline to attract readers.",
+        "文章用耸动的标题吸引读者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensational#English"
+    ]
+  },
+  {
+    "word": "sensationalism",
+    "ipa": "/senˈseɪʃənəlɪzəm/",
+    "meaning": "追求轰动；煽情、夸张的报道方式",
+    "sense": "本来可以平实地讲，偏要把最刺激的部分放大，让人震惊或愤怒；这种做法是 sensationalism。",
+    "split": "sensational + -ism，给一种表达倾向或做法命名。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → 中世纪拉丁语 sensātiō",
+        "感受 → 感觉过程"
+      ],
+      [
+        "法语相关形式 → 英语 sensation",
+        "感觉；引起强烈反应的事件"
+      ],
+      [
+        "英语：sensational",
+        "引起轰动的；极出色的"
+      ],
+      [
+        "英语：sensationalism",
+        "刻意追求强烈刺激与轰动"
+      ]
+    ],
+    "explanation": "常用于批评媒体为了吸引注意而夸张或选择性突出内容。它不要求每个细节都造假，也可能是呈现方式失衡。",
+    "usage": "media sensationalism；avoid sensationalism；accusations of sensationalism。",
+    "contrast": "an exciting report 可以事实充分又精彩；sensationalism 则通常批评把刺激性放在准确或分寸之前。",
+    "examples": [
+      [
+        "The editor wanted accurate reporting without sensationalism.",
+        "编辑希望报道准确，不刻意制造轰动。"
+      ],
+      [
+        "Critics accused the programme of sensationalism.",
+        "批评者指责这个节目刻意煽情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensationalism#English"
+    ]
+  },
+  {
+    "word": "sensationalist",
+    "ipa": "/senˈseɪʃənəlɪst/",
+    "meaning": "追求轰动者；煽情的",
+    "sense": "sensationalism 是做法，sensationalist 是采用这种做法的人，也能直接形容报道或标题。",
+    "split": "sensational + -ist，形成从事者或倾向名称。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → 中世纪拉丁语 sensātiō",
+        "感受 → 感觉过程"
+      ],
+      [
+        "法语相关形式 → 英语 sensation",
+        "感觉；引起强烈反应的事件"
+      ],
+      [
+        "英语：sensational",
+        "引起轰动的；极出色的"
+      ],
+      [
+        "英语：sensationalist",
+        "追求耸动效果的人或表达"
+      ]
+    ],
+    "explanation": "这个词通常带批评，不是“感觉特别敏锐的研究者”。新闻评论中常见 sensationalist coverage。",
+    "usage": "a sensationalist newspaper；sensationalist reporting；a sensationalist writer。",
+    "contrast": "sensational 可以单纯夸精彩；sensationalist 大多指刻意制造轰动，不是普通赞美。",
+    "examples": [
+      [
+        "She refused to work for a sensationalist newspaper.",
+        "她不愿为一家靠耸动报道吸引读者的报纸工作。"
+      ],
+      [
+        "The documentary was criticized for its sensationalist style.",
+        "这部纪录片因煽情的风格受到批评。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensationalist#English"
+    ]
+  },
+  {
+    "word": "sensor",
+    "ipa": "英 /ˈsensə/；美 /ˈsensər/",
+    "meaning": "传感器；感应装置",
+    "sense": "机器也需要“感觉器官”：把光、温度、运动等变化接进来，转换成可以处理的信号。",
+    "split": "现代利用拉丁语 sentīre、sēns- 词族和施事词尾形成，可联系 sense + -or。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语相关词干：sēns-",
+        "感知"
+      ],
+      [
+        "现代英语：sensor",
+        "探测并传递变化信息的装置"
+      ]
+    ],
+    "explanation": "一个 sensor 负责感知特定量，不一定同时解释它为什么变化；解释常由后续系统完成。",
+    "usage": "a temperature sensor；a motion sensor；sensor data。",
+    "contrast": "sensor 是设备；censor 是审查者或审查，读音接近但来源和含义不同。",
+    "examples": [
+      [
+        "A sensor turns on the light when someone enters.",
+        "有人进入时，感应器会打开灯。"
+      ],
+      [
+        "The temperature sensor sends a reading every minute.",
+        "温度传感器每分钟发送一次读数。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sensor#English"
+    ]
+  },
+  {
+    "word": "sensory",
+    "ipa": "英 /ˈsensəri/；美 /ˈsensəri/",
+    "meaning": "感官的；感觉系统的",
+    "sense": "这不是评价人聪不聪明，而是标记信息从感觉通道进入：看到、听到、摸到等。",
+    "split": "来自拉丁语 sēnsōrius，与 sēnsus“感觉”相连；现代可用 sense 与 -ory 帮助记忆，但英语 sense 不是这条借入链的必经祖先。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → sēnsōrius",
+        "感觉 → 感觉相关的"
+      ],
+      [
+        "英语：sensory",
+        "与感官接收信息有关的"
+      ]
+    ],
+    "explanation": "常修饰 information、experience、system。sensory experience 可把光线、声音、味道等一起考虑。",
+    "usage": "sensory information；sensory experience；sensory input。",
+    "contrast": "sensory 说明属于感官领域；sensitive 说明容易察觉或受到影响。sensory system 不等于这个系统一定特别灵敏。",
+    "examples": [
+      [
+        "The exhibition offers a rich sensory experience.",
+        "这场展览提供了丰富的感官体验。"
+      ],
+      [
+        "The brain combines sensory information from different sources.",
+        "大脑把不同来源的感觉信息结合起来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sensory",
+      "https://en.wiktionary.org/wiki/sensory#English"
+    ]
+  },
+  {
+    "word": "somatosensory",
+    "ipa": "英 /ˌsəʊmətəʊˈsensəri/；美 /ˌsoʊmətoʊˈsensəri/",
+    "meaning": "躯体感觉的",
+    "sense": "闭上眼仍知道手臂在哪里，也能感觉皮肤被碰到：身体表面和内部位置等传来的感觉属于这里。",
+    "split": "somato-（身体，来自希腊语 sōma）+ sensory（感觉的），现代术语组合。",
+    "history": [
+      [
+        "希腊语相关形式：somato-；英语：sensory",
+        "身体 + 感觉的"
+      ],
+      [
+        "英语：somatosensory",
+        "涉及触觉、身体位置等躯体感觉"
+      ]
+    ],
+    "explanation": "它特别关注触觉、温度、疼痛、位置等来自身体的感觉，而不是把视觉、听觉全部笼统塞进来。",
+    "usage": "the somatosensory system；somatosensory information；somatosensory cortex。",
+    "contrast": "sensory 范围广；somatosensory 给它加上“躯体”范围。motor 侧重运动输出，方向不同。",
+    "examples": [
+      [
+        "The diagram shows how somatosensory information reaches the brain.",
+        "图中展示了躯体感觉信息怎样到达大脑。"
+      ],
+      [
+        "The lesson compares visual and somatosensory signals.",
+        "这一课比较视觉信号与躯体感觉信号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/somatosensory#English"
+    ]
+  },
+  {
+    "word": "scent",
+    "ipa": "/sent/",
+    "meaning": "气味；香味；嗅出",
+    "sense": "空气里有一条鼻子能抓住的线索：花留下香气，人或动物也会留下可追踪的气味。",
+    "split": "古法语 sentir“感觉、闻到”来自拉丁语 sentīre。英语早期写 sent，字母 c 后来才加入，不代表多了一块词根。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "古法语：sentir",
+        "感觉；闻到"
+      ],
+      [
+        "中古英语：sent / senten",
+        "气味；嗅到"
+      ],
+      [
+        "英语：scent",
+        "后加 c 的气味词"
+      ]
+    ],
+    "explanation": "从广泛感知缩到嗅觉这一支。scent 不只说香水；狗追踪的气味也叫 scent。",
+    "usage": "the scent of flowers；follow a scent；scented soap；scent danger。",
+    "contrast": "scent、sent、cent 常同音，却分别是气味、send 的过去式、货币单位。不要靠读音判同源。",
+    "examples": [
+      [
+        "The garden was filled with the scent of roses.",
+        "花园里满是玫瑰香气。"
+      ],
+      [
+        "The dog picked up the scent near the gate.",
+        "狗在大门附近嗅到了踪迹。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scent#English"
+    ]
+  },
+  {
+    "word": "nonsense",
+    "ipa": "英 /ˈnɒnsəns/；美 /ˈnɑːnsens/",
+    "meaning": "胡说；无意义的话；荒唐事",
+    "sense": "话说了一大堆，却拼不成能成立的意思或理由，听者会把它判断为 nonsense。",
+    "split": "non-（无、不）+ sense（意义、道理）。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → 古法语 sens",
+        "感受；理解；意义"
+      ],
+      [
+        "英语：sense",
+        "感觉；意义；判断力"
+      ],
+      [
+        "英语：non- + sense → nonsense",
+        "缺少意义或道理"
+      ]
+    ],
+    "explanation": "可以批评荒唐说法，也可指故意玩语言的无意义文学。并不是所有含糊、暂时听不懂的话就一定没有意义。",
+    "usage": "talk nonsense；complete nonsense；nonsense verse；no more nonsense。",
+    "contrast": "nonsense 通常不可数；不说 a nonsense 来泛指一句胡话。a piece of nonsense 更合适。",
+    "examples": [
+      [
+        "That excuse is complete nonsense.",
+        "那个借口完全是胡说。"
+      ],
+      [
+        "The children enjoyed the playful nonsense poem.",
+        "孩子们很喜欢那首充满语言游戏的无意义诗。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonsense#English"
+    ]
+  },
+  {
+    "word": "senseless",
+    "ipa": "/ˈsensləs/",
+    "meaning": "无意义的；不明智的；失去知觉的",
+    "sense": "有两幅画面：行为找不到合理理由，或一个人暂时失去了感觉与知觉。",
+    "split": "sense + -less（没有），分别否定 sense 的道理义与知觉义。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → 古法语 sens",
+        "感受；理解；意义"
+      ],
+      [
+        "英语：sense",
+        "感觉；意义；判断力"
+      ],
+      [
+        "英语：sense + -less → senseless",
+        "没有道理；失去知觉"
+      ]
+    ],
+    "explanation": "senseless waste 说浪费没有意义；knocked senseless 则是被打得失去知觉。不要把后者解释成“变笨了”。",
+    "usage": "senseless violence；a senseless waste；knock someone senseless。",
+    "contrast": "insensitive 常是不顾别人感受；senseless 常是行为无道理或失去知觉，否定的对象不同。",
+    "examples": [
+      [
+        "The damage was a senseless waste of public resources.",
+        "这种破坏是对公共资源毫无意义的浪费。"
+      ],
+      [
+        "The blow knocked him senseless.",
+        "那一击把他打得失去了知觉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/senseless#English"
+    ]
+  },
+  {
+    "word": "consent",
+    "ipa": "/kənˈsent/",
+    "meaning": "同意；许可；表示同意",
+    "sense": "事情涉及你，别人不能只替你决定；你表达“我愿意、我允许”，就是 consent。",
+    "split": "拉丁语 con-（一起）+ sentīre（感到、认为）形成 cōnsentīre，经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：cōnsentīre",
+        "一起感受、认为 → 同意"
+      ],
+      [
+        "古法语：consentir",
+        "同意；允诺"
+      ],
+      [
+        "英语：consent",
+        "同意；许可"
+      ]
+    ],
+    "explanation": "从想法相合走向允许某事发生。名词常不可数，动词常接 to；具体什么算有效同意要看相应场景。",
+    "usage": "give consent；with someone’s consent；consent to a proposal；written consent。",
+    "contrast": "consent 常强调当事人的允许；consensus 是多人形成共识。群体有共识并不自动等于某个个人已经同意。",
+    "examples": [
+      [
+        "She consented to the interview.",
+        "她同意接受采访。"
+      ],
+      [
+        "Do not share the photograph without his consent.",
+        "未经他同意，不要分享这张照片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consent#English"
+    ]
+  },
+  {
+    "word": "consensus",
+    "ipa": "/kənˈsensəs/",
+    "meaning": "共识；普遍一致的意见",
+    "sense": "许多人的想法逐渐靠拢，形成大家大体能接受的一条意见。",
+    "split": "直接借自拉丁语 cōnsēnsus，与 cōnsentīre“共同认为”相关；不是英语 consent 加 us。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：cōnsentīre → cōnsēnsus",
+        "共同认为 → 一致意见"
+      ],
+      [
+        "英语：consensus",
+        "共识"
+      ]
+    ],
+    "explanation": "它强调群体的广泛一致。日常使用未必意味着每个人赞成每个细节；正式决策里的具体标准由规则决定。",
+    "usage": "reach a consensus；a broad consensus；consensus on an issue。",
+    "contrast": "unanimity 明确强调全体一致；consensus 更常是形成可共同接受的意见。不要用多数票的数量机械定义这个词。",
+    "examples": [
+      [
+        "The team reached a consensus on the main goal.",
+        "团队就主要目标达成了共识。"
+      ],
+      [
+        "There is a broad consensus that the process needs to change.",
+        "大家普遍认为这个流程需要改变。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/consensus#English"
+    ]
+  },
+  {
+    "word": "consensual",
+    "ipa": "/kənˈsenʃuəl/",
+    "meaning": "经各方同意的；基于共同认可的",
+    "sense": "相关各方不是被迫配合，而是对这项安排表达了共同认可。",
+    "split": "由拉丁语 cōnsēnsus“同意”的词干 cōnsēnsu- 加 -al 形成；它在英语中出现早于 consensus，不能画成英语 consensus 再生出 consensual。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：cōnsentīre → cōnsēnsus",
+        "共同认为 → 同意、一致"
+      ],
+      [
+        "拉丁词干 cōnsēnsu- + -al → 英语 consensual",
+        "基于同意的"
+      ]
+    ],
+    "explanation": "常形容决定、安排或关系，重点是同意这一基础。不能只因为没有公开争吵就自动称为 consensual。",
+    "usage": "a consensual decision；a consensual approach；a consensual arrangement。",
+    "contrast": "consensual 描述有同意基础；consensus 是共识本身。二者词性和所指对象不同。",
+    "examples": [
+      [
+        "The committee preferred a consensual decision.",
+        "委员会倾向于作出各方认可的决定。"
+      ],
+      [
+        "They reached a consensual arrangement about the shared space.",
+        "他们就共用空间达成了双方认可的安排。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/consensual",
+      "https://en.wiktionary.org/wiki/consensual#English"
+    ]
+  },
+  {
+    "word": "assent",
+    "ipa": "/əˈsent/",
+    "meaning": "赞同；认可；表示同意",
+    "sense": "听完一个观点或提议，你点头表示“这个我认可”，就是 assent。",
+    "split": "拉丁语 ad-（朝向）在 s 前变成 as-，与 sentīre 构成 assentīre，经法语传入。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：assentīre",
+        "想法朝向同一边；认可"
+      ],
+      [
+        "古法语：assentir / assent",
+        "赞同"
+      ],
+      [
+        "英语：assent",
+        "同意；赞同"
+      ]
+    ],
+    "explanation": "较正式，常强调对提议、说法的认可；既可作名词，也可作动词。",
+    "usage": "assent to a proposal；give assent；a nod of assent。",
+    "contrast": "assent 是赞同；ascent 是上升，两者同音但不同来源。consent 更常强调允许涉及自己的行动。",
+    "examples": [
+      [
+        "She nodded her assent.",
+        "她点头表示赞同。"
+      ],
+      [
+        "The members assented to the revised proposal.",
+        "成员们同意了修改后的提案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assent#English"
+    ]
+  },
+  {
+    "word": "dissent",
+    "ipa": "/dɪˈsent/",
+    "meaning": "异议；不赞同；表达不同意见",
+    "sense": "大家的想法朝一个方向走，你认为不对，清楚地走向另一个判断，这就是 dissent。",
+    "split": "拉丁语 dis-（分开）+ sentīre（认为）形成 dissentīre，进入英语。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：dissentīre",
+        "想法不同；不赞同"
+      ],
+      [
+        "英语：dissent",
+        "表达异议；不同意见"
+      ]
+    ],
+    "explanation": "可表示公开不同意某项观点、决定或权威意见。它不必表现为粗暴争吵；冷静写出理由也可以是 dissent。",
+    "usage": "express dissent；dissent from a view；a dissenting opinion。",
+    "contrast": "descent 是下降；dissent 是异议。两者常同音，但前者并非“思想往下掉”。",
+    "examples": [
+      [
+        "Several members expressed dissent during the meeting.",
+        "几位成员在会上表达了异议。"
+      ],
+      [
+        "She dissented from the committee’s conclusion.",
+        "她不赞同委员会的结论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dissent#English"
+    ]
+  },
+  {
+    "word": "dissenter",
+    "ipa": "英 /dɪˈsentə/；美 /dɪˈsentər/",
+    "meaning": "持异议者；历史上的不从国教者",
+    "sense": "在人群共同意见中，有人明确说“我不同意”，这个人就是 dissenter。",
+    "split": "dissent + -er。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：dissentīre",
+        "想法不同；不赞同"
+      ],
+      [
+        "英语：dissent",
+        "表达异议；不同意见"
+      ],
+      [
+        "英语：dissenter",
+        "持不同意见的人"
+      ]
+    ],
+    "explanation": "泛指异议者；英国历史中的大写 Dissenters 还可指不接受国教某些规定的宗教群体，需要按历史语境读。",
+    "usage": "a lone dissenter；listen to dissenters；religious dissenters。",
+    "contrast": "dissenter 不等于 troublemaker“惹事者”；一个人可以有充分理由提出异议。",
+    "examples": [
+      [
+        "Only one dissenter spoke against the proposal.",
+        "只有一位持异议者发言反对这项提案。"
+      ],
+      [
+        "The chapter discusses religious dissenters in early modern England.",
+        "这一章讨论近代早期英格兰不从国教的宗教群体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/dissenter#English"
+    ]
+  },
+  {
+    "word": "resent",
+    "ipa": "/rɪˈzent/",
+    "meaning": "怨恨；因觉得受了委屈而不满",
+    "sense": "不是单纯不喜欢，而是心里有一句“凭什么这样对我”：觉得待遇不公平，便生出不满。",
+    "split": "来自法语 ressentir，re- 在这里可能加强感受，sentir 是感觉；不能把现代怨恨义机械说成“再感觉一次”。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "古法语：resentir → 法语 ressentir",
+        "感到；强烈感受到"
+      ],
+      [
+        "英语：resent",
+        "对不公、冒犯等感到怨恨"
+      ]
+    ],
+    "explanation": "历史上可泛指强烈感受，甚至曾有感激义；现代集中到觉得受到伤害或冒犯的不满。resent 后直接接对象或动名词。",
+    "usage": "resent being ignored；resent someone’s success；resent the implication。",
+    "contrast": "resent 不一定 openly hate；不满可能压在心里。resent doing 常见，不说 resent to do。",
+    "examples": [
+      [
+        "She resented being left out of the discussion.",
+        "她对自己被排除在讨论之外感到不满。"
+      ],
+      [
+        "I resent the suggestion that I did not try.",
+        "暗示我没有努力，让我很不满。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resent#English",
+      "https://www.etymonline.com/word/resent"
+    ]
+  },
+  {
+    "word": "resentment",
+    "ipa": "/rɪˈzentmənt/",
+    "meaning": "怨恨；积在心里的不满",
+    "sense": "委屈没有消散，而是在心里留下了一笔账，这股持续的不满就是 resentment。",
+    "split": "与 resent + -ment 对应，并有法语 ressentiment 的历史影响；它有自己的借入与形成背景。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "古法语：resentir → 法语 ressentir",
+        "感到；强烈感受到"
+      ],
+      [
+        "法语：ressentiment",
+        "强烈感受；不满"
+      ],
+      [
+        "英语：resentment",
+        "因受委屈而积下的怨愤"
+      ]
+    ],
+    "explanation": "可以针对人、待遇或事件，常比一时生气更持久。不能靠词源判断一个人的不满是否合理。",
+    "usage": "resentment towards someone；deep resentment；feel resentment。",
+    "contrast": "anger 可以是突然爆发的愤怒；resentment 常强调被亏待后的持续不满。",
+    "examples": [
+      [
+        "The unequal workload caused resentment within the team.",
+        "工作量分配不均在团队内部引起了不满。"
+      ],
+      [
+        "He still felt resentment towards his former employer.",
+        "他对前雇主仍心存怨气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resentment#English"
+    ]
+  },
+  {
+    "word": "resentful",
+    "ipa": "/rɪˈzentfəl/",
+    "meaning": "心怀不满的；怨愤的",
+    "sense": "嘴上可能没有争吵，表情和语气却带着“我被亏待了”的不满。",
+    "split": "resent + -ful，表示充满相应情绪。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "古法语：resentir → 法语 ressentir",
+        "感到；强烈感受到"
+      ],
+      [
+        "英语：resent",
+        "对不公、冒犯等感到怨恨"
+      ],
+      [
+        "英语：resentful",
+        "带着怨恨与不满的"
+      ]
+    ],
+    "explanation": "形容人、目光、语气或态度。它指出情绪状态，不自动说明对方正在采取报复行动。",
+    "usage": "feel resentful；a resentful glance；resentful of someone。",
+    "contrast": "revengeful 更指想报复；resentful 可以只是心中怨愤而没有报复计划。",
+    "examples": [
+      [
+        "He sounded resentful about the extra work.",
+        "说起额外工作时，他的语气带着不满。"
+      ],
+      [
+        "She grew resentful of always having to apologize first.",
+        "总是要她先道歉，让她越来越不满。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resentful#English"
+    ]
+  },
+  {
+    "word": "sentiment",
+    "ipa": "/ˈsentɪmənt/",
+    "meaning": "感情；看法；情绪倾向；温情",
+    "sense": "不仅是冷冰冰地算事实，还包括人心里对这件事的态度和感受，这就是 sentiment。",
+    "split": "经古法语 sentement 来自拉丁语感受词族，相关形式 sentimentum。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语词族：sentimentum",
+        "感受；想法"
+      ],
+      [
+        "古法语：sentement",
+        "感情；看法"
+      ],
+      [
+        "英语：sentiment",
+        "情绪；观点；温情"
+      ]
+    ],
+    "explanation": "public sentiment 是社会情绪或倾向；I share your sentiments 是赞同你的想法；too much sentiment 则可批评温情太多。",
+    "usage": "public sentiment；market sentiment；share someone’s sentiments；sentiment towards…。",
+    "contrast": "sentiment 可以含观点与情绪；sensation 更偏直接感觉。不是每个 sentiment 都是伤感。",
+    "examples": [
+      [
+        "Public sentiment began to shift after the announcement.",
+        "公告之后，公众态度开始变化。"
+      ],
+      [
+        "I agree with the sentiment, but not with the wording.",
+        "我赞同这个意思，但不赞同这种措辞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentiment#English"
+    ]
+  },
+  {
+    "word": "sentimental",
+    "ipa": "/ˌsentɪˈmentəl/",
+    "meaning": "感伤的；怀旧的；感情用事的",
+    "sense": "一件旧东西本身不值钱，却把过去的人和事一下带回来，让你舍不得丢，这就是 sentimental 的典型场景。",
+    "split": "sentiment + -al。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语词族：sentimentum",
+        "感受；想法"
+      ],
+      [
+        "古法语：sentement",
+        "感情；看法"
+      ],
+      [
+        "英语：sentiment",
+        "情绪；观点；温情"
+      ],
+      [
+        "英语：sentimental",
+        "受温情、怀旧等感情影响的"
+      ]
+    ],
+    "explanation": "可温和地说有感情价值，也可批评作品或判断过分依赖温情。a sentimental person 并不表示身体感官特别灵敏。",
+    "usage": "sentimental value；feel sentimental；a sentimental story。",
+    "contrast": "emotional 广泛说有情绪或情绪强烈；sentimental 常偏温情、怀旧、感伤，有时带过度之意。",
+    "examples": [
+      [
+        "The watch has great sentimental value for me.",
+        "这只表对我有很大的感情价值。"
+      ],
+      [
+        "The film becomes too sentimental in its final scenes.",
+        "电影最后几场戏煽情过头了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentimental#English"
+    ]
+  },
+  {
+    "word": "sentimentality",
+    "ipa": "/ˌsentɪmenˈtæləti/",
+    "meaning": "多愁善感；过度感伤；煽情",
+    "sense": "情绪被铺得很满，甚至盖过了真实人物与事实，这种过分温情或感伤常被叫作 sentimentality。",
+    "split": "sentimental + -ity，将性质转成名词。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语词族：sentimentum",
+        "感受；想法"
+      ],
+      [
+        "古法语：sentement",
+        "感情；看法"
+      ],
+      [
+        "英语：sentiment",
+        "情绪；观点；温情"
+      ],
+      [
+        "英语：sentimental",
+        "受温情、怀旧等感情影响的"
+      ],
+      [
+        "英语：sentimentality",
+        "感伤、怀旧过多的倾向"
+      ]
+    ],
+    "explanation": "通常比 sentimental value 带更明显的批评，评价的是感情的处理方式，不是否定一切真诚情感。",
+    "usage": "avoid sentimentality；excessive sentimentality；without sentimentality。",
+    "contrast": "emotion 是感情本身；sentimentality 常暗示处理得过甜、过满或不够真实。",
+    "examples": [
+      [
+        "The novel describes loss without sentimentality.",
+        "这部小说描写失落，却不刻意煽情。"
+      ],
+      [
+        "The speech was weakened by excessive sentimentality.",
+        "演讲因过分感伤而削弱了力量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentimentality#English"
+    ]
+  },
+  {
+    "word": "unsentimental",
+    "ipa": "/ˌʌnsentɪˈmentəl/",
+    "meaning": "不感情用事的；不煽情的",
+    "sense": "看见事实的重量，不急着用温情把它包起来；仍可有感情，但表达或判断比较克制。",
+    "split": "un-（不）+ sentimental。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语词族：sentimentum",
+        "感受；想法"
+      ],
+      [
+        "古法语：sentement",
+        "感情；看法"
+      ],
+      [
+        "英语：sentiment",
+        "情绪；观点；温情"
+      ],
+      [
+        "英语：sentimental",
+        "受温情、怀旧等感情影响的"
+      ],
+      [
+        "英语：unsentimental",
+        "不受过分感伤左右的"
+      ]
+    ],
+    "explanation": "可以赞赏作品诚实、克制，也可以描述决策果断。它不必等于冷酷或缺乏同情。",
+    "usage": "an unsentimental account；an unsentimental view；an unsentimental decision。",
+    "contrast": "insensitive 是不顾别人感受；unsentimental 只是不过分感伤，一个人可以既体贴又冷静。",
+    "examples": [
+      [
+        "She gives an unsentimental account of her childhood.",
+        "她对童年的叙述很克制，没有刻意煽情。"
+      ],
+      [
+        "He took an unsentimental view of the business decision.",
+        "他冷静地看待这项商业决定，没有感情用事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsentimental#English"
+    ]
+  },
+  {
+    "word": "sentient",
+    "ipa": "常见 /ˈsenʃənt/，也读 /ˈsentiənt/",
+    "meaning": "有感知能力的；能有主观感受的",
+    "sense": "不只是对输入作出反应，而是讨论一个存在者能不能感受到痛苦、愉快等体验。",
+    "split": "来自拉丁语 sentiēns“正在感受的”，是 sentīre 的相关形式。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sentiēns",
+        "正在感觉、能感知的"
+      ],
+      [
+        "英语：sentient",
+        "能够感受和体验的"
+      ]
+    ],
+    "explanation": "哲学、伦理和动物讨论中常用。能执行复杂任务与是否有感受不是同一问题，不能只凭聪明表现就直接下结论。",
+    "usage": "a sentient being；sentient animals；the idea of sentient machines。",
+    "contrast": "intelligent 强调认知、解决问题的能力；sentient 重点是感知和体验。两者不能简单互换。",
+    "examples": [
+      [
+        "The debate concerns how we should treat sentient animals.",
+        "这场讨论关注我们应该怎样对待有感知能力的动物。"
+      ],
+      [
+        "The story imagines a sentient planet.",
+        "这个故事设想了一个有感知能力的星球。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentient#English"
+    ]
+  },
+  {
+    "word": "sentience",
+    "ipa": "常见 /ˈsenʃəns/，也读 /ˈsentiəns/",
+    "meaning": "感知能力；具有主观体验的能力",
+    "sense": "sentient 说某个存在者能感受；sentience 把“能不能有这种感受”本身拿出来讨论。",
+    "split": "sentient 对应的性质名词，词尾 -ent 变为 -ence。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sentiēns",
+        "正在感觉、能感知的"
+      ],
+      [
+        "英语：sentient",
+        "能够感受和体验的"
+      ],
+      [
+        "英语：sentience",
+        "能够感受的性质或能力"
+      ]
+    ],
+    "explanation": "常用于哲学与动物认知讨论，判断标准本身也可能有争论。这里的词义不等于简单探测信号。",
+    "usage": "animal sentience；evidence of sentience；questions about sentience。",
+    "contrast": "sensitivity 可以只是设备对输入灵敏；sentience 常涉及体验，传感器读数不等于体验证据。",
+    "examples": [
+      [
+        "The seminar explored different definitions of sentience.",
+        "研讨会探讨了感知能力的不同定义。"
+      ],
+      [
+        "The article distinguishes sentience from intelligence.",
+        "文章区分了感知能力与智力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sentience#English"
+    ]
+  },
+  {
+    "word": "antisense",
+    "ipa": "/ˌæntiˈsens/",
+    "meaning": "反义的；反义核酸序列",
+    "sense": "在核酸语境里，想象两条能按配对规则互相对应的序列；antisense 指相对于对应正义序列互补的那一条。",
+    "split": "anti-（相对、相反）+ sense；这里 sense 用的是遗传信息方向、编码关系的专业义。",
+    "history": [
+      [
+        "拉丁语：sentīre（sentiō）",
+        "感到；察觉；认为"
+      ],
+      [
+        "拉丁语：sēnsus → 古法语 sens",
+        "感受；理解；意义"
+      ],
+      [
+        "英语：sense",
+        "感觉；意义；判断力"
+      ],
+      [
+        "分子生物学：sense",
+        "核酸序列的信息、编码方向"
+      ],
+      [
+        "英语：antisense",
+        "与相应正义序列互补的"
+      ]
+    ],
+    "explanation": "这不是日常“反对常识”，也不是两个单词互为反义词。要结合具体链、RNA 和编码语境识别它指哪个互补对象。",
+    "usage": "antisense RNA；an antisense strand；an antisense sequence。",
+    "contrast": "antonym 是语言中的反义词；antisense 是分子生物学术语，不能互换。",
+    "examples": [
+      [
+        "The diagram labels the sense and antisense strands.",
+        "图中标出了正义链和反义链。"
+      ],
+      [
+        "The paper discusses how antisense RNA can pair with a complementary sequence.",
+        "论文讨论了反义 RNA 如何与互补序列配对。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/antisense#English"
+    ]
+  }
+]

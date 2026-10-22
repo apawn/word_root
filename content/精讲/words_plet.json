@@ -1,0 +1,2231 @@
+[
+  {
+    "word": "complete",
+    "ipa": "英、美 /kəmˈpliːt/",
+    "meaning": "完整的；全部的；彻底的；完成",
+    "sense": "想象拼图最后一块放进去：该有的部分都齐了。用作动词，就是把缺口补上、把事情做到终点。",
+    "split": "历史上是 com-〔这里可能加强语气〕 + plēre“填满” → complētus，经古法语或直接拉丁语借入。英语动词通常联系形容词转用，也可能受拉丁语影响。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "古法语 complet 或直接拉丁语 → 英语 complete",
+        "完整的；英语又发展出完成这一动词用法"
+      ]
+    ],
+    "explanation": "a complete set 是整套齐全；complete the form 是把表填好；a complete surprise 是完全出乎意料。完整不等于毫无错误，一份完整报告仍可能写错。",
+    "usage": "complete a task；a complete set；complete with…。",
+    "contrast": "finish 更偏把活动结束；complete 常让人想到达到所需的完整程度。perfect 才更接近无缺点。",
+    "examples": [
+      [
+        "Please complete all five sections of the form.",
+        "请把表格的五个部分全部填好。"
+      ],
+      [
+        "This box contains the complete collection of her letters.",
+        "这个盒子里装着她的全部信件。"
+      ],
+      [
+        "The invitation came as a complete surprise.",
+        "这份邀请完全出乎意料。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/complete",
+      "https://en.wiktionary.org/wiki/complete#English"
+    ]
+  },
+  {
+    "word": "completely",
+    "ipa": "英、美 /kəmˈpliːtli/",
+    "meaning": "完全地；彻底地",
+    "sense": "把程度推到头：没有剩下一点，没有留着半截。",
+    "split": "complete + -ly，在英语中把形容词变成副词。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "古法语 complet 或直接拉丁语 → 英语 complete",
+        "完整的；英语又发展出完成这一动词用法"
+      ],
+      [
+        "英语：complete + -ly → completely",
+        "达到完整、彻底的程度"
+      ]
+    ],
+    "explanation": "completely empty 是彻底空了；completely agree 是完全赞同。它常修饰一个可理解为有终点的状态，也常在口语中加强语气。",
+    "usage": "completely different；completely forget；completely agree。",
+    "contrast": "almost completely 仍留一点；completely 本身不表示大部分。",
+    "examples": [
+      [
+        "I completely forgot about the meeting.",
+        "我把开会的事忘得一干二净。"
+      ],
+      [
+        "The two keys look similar but work completely differently.",
+        "两把钥匙看起来相似，作用却完全不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/completely#English"
+    ]
+  },
+  {
+    "word": "completeness",
+    "ipa": "英、美 /kəmˈpliːtnəs/",
+    "meaning": "完整性；齐全程度",
+    "sense": "检查一套材料时，问的不是每一项好不好，而是“该交的都交齐了吗”。",
+    "split": "complete + -ness，表示完整这一性质或状态。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "古法语 complet 或直接拉丁语 → 英语 complete",
+        "完整的；英语又发展出完成这一动词用法"
+      ],
+      [
+        "英语：complete + -ness → completeness",
+        "完整、齐全的性质"
+      ]
+    ],
+    "explanation": "数据的 completeness 看该有的信息是否齐全；accuracy 看内容是否准确。for completeness 常表示为了交代完整，再补上一点。",
+    "usage": "check for completeness；data completeness；for completeness。",
+    "contrast": "completion 是完成的过程或时点；completeness 是已有东西是否完整。",
+    "examples": [
+      [
+        "The assistant checked the application for completeness.",
+        "助理检查了申请材料是否齐全。"
+      ],
+      [
+        "For completeness, the report includes the unsuccessful trials.",
+        "为完整呈现情况，报告也列入了失败的试验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/completeness#English"
+    ]
+  },
+  {
+    "word": "completion",
+    "ipa": "英、美 /kəmˈpliːʃən/",
+    "meaning": "完成；竣工；完成的时点",
+    "sense": "最后一道工序做完、最后一项打钩，整件事到达收尾处。",
+    "split": "借自中世纪拉丁语 complētiō，来自 complēre；现代与 complete 配套，但名词并非必然在英语里现场加 -ion 形成。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "中世纪拉丁语：complētiō",
+        "完成、履行"
+      ],
+      [
+        "英语：completion",
+        "完成这件事；完工时点"
+      ]
+    ],
+    "explanation": "on completion 是一完成就；near completion 是快完工。也可用于句子、代码的补全，具体看补的对象。",
+    "usage": "on completion；successful completion；near completion。",
+    "contrast": "completeness 看内容齐不齐；completion 看工作是否做完。",
+    "examples": [
+      [
+        "Payment is due on completion of the work.",
+        "工作完成时应支付款项。"
+      ],
+      [
+        "The bridge is nearing completion.",
+        "这座桥即将竣工。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/completion",
+      "https://en.wiktionary.org/wiki/completion#English"
+    ]
+  },
+  {
+    "word": "incomplete",
+    "ipa": "英、美 /ˌɪnkəmˈpliːt/",
+    "meaning": "不完整的；未完成的",
+    "sense": "已经有了一部分，但还缺几块：可能缺内容，也可能工作还没做完。",
+    "split": "后期拉丁语 incomplētus，in-“不” + complētus“完整的”，进入中古英语；现代可直观分析为 in- + complete。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "后期拉丁语：incomplētus",
+        "不完整、未完成的"
+      ],
+      [
+        "英语：incomplete",
+        "仍有缺失或尚未完成"
+      ]
+    ],
+    "explanation": "an incomplete address 可能缺门牌号；an incomplete task 是尚未做完的任务。它不等于错误，已有部分完全可能正确。",
+    "usage": "incomplete information；an incomplete record；remain incomplete。",
+    "contrast": "incorrect 是有错；incomplete 是有缺，两者可以分别出现。",
+    "examples": [
+      [
+        "The address is incomplete because the house number is missing.",
+        "地址不完整，因为缺了门牌号。"
+      ],
+      [
+        "The painting remained incomplete when the artist moved away.",
+        "画家搬走时，这幅画还没有完成。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incomplete#English"
+    ]
+  },
+  {
+    "word": "incompletely",
+    "ipa": "英、美 /ˌɪnkəmˈpliːtli/",
+    "meaning": "不完全地；未彻底地",
+    "sense": "动作做过了，却没有做到全覆盖或收尾。",
+    "split": "incomplete + -ly。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "后期拉丁语 incomplētus → 英语 incomplete",
+        "不完整的"
+      ],
+      [
+        "英语：incomplete + -ly → incompletely",
+        "未做到完整程度"
+      ]
+    ],
+    "explanation": "incompletely understood 是只了解一部分；incompletely filled 是尚未填满。偏书面，日常也可用 not fully。",
+    "usage": "incompletely understood；incompletely documented；incompletely filled。",
+    "contrast": "partly 只说部分；incompletely 更容易暗示本来需要完整，却还差一点。",
+    "examples": [
+      [
+        "The causes of the change are still incompletely understood.",
+        "人们对这一变化的原因仍只了解一部分。"
+      ],
+      [
+        "Several sections of the form were incompletely filled in.",
+        "表格的几个部分没有填写完整。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incompletely#English"
+    ]
+  },
+  {
+    "word": "incompleteness",
+    "ipa": "英、美 /ˌɪnkəmˈpliːtnəs/",
+    "meaning": "不完整；缺失的状态",
+    "sense": "把“缺一块”本身拿出来谈：资料的空白会怎样影响判断。",
+    "split": "incomplete + -ness。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "后期拉丁语 incomplētus → 英语 incomplete",
+        "不完整的"
+      ],
+      [
+        "英语：incomplete + -ness → incompleteness",
+        "存在缺失的状态"
+      ]
+    ],
+    "explanation": "可以说记录、说明或知识的不完整；这是抽象性质，通常不可数。数学中的 incompleteness 有专门定义，不等于某位作者漏写几行。",
+    "usage": "the incompleteness of the record；a sense of incompleteness。",
+    "contrast": "inaccuracy 是失准；incompleteness 是不全。缺页不一定意味着剩下的页写错了。",
+    "examples": [
+      [
+        "The incompleteness of the records makes comparison difficult.",
+        "记录不全，使比较变得困难。"
+      ],
+      [
+        "The final chapter leaves a deliberate sense of incompleteness.",
+        "最后一章刻意留下了一种未完的感觉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incompleteness#English"
+    ]
+  },
+  {
+    "word": "autocomplete",
+    "ipa": "英 /ˈɔːtəʊkəmˌpliːt/；美 /ˈɑːtoʊkəmˌpliːt/",
+    "meaning": "自动补全；自动完成输入",
+    "sense": "你只打出开头，软件就猜出后面的字，帮你把这一段接完。",
+    "split": "auto-“自动” + complete；现代英语技术构词，不是古代已有整个词。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "古法语 complet 或直接拉丁语 → 英语 complete",
+        "完整的；英语又发展出完成这一动词用法"
+      ],
+      [
+        "现代英语：auto- + complete → autocomplete",
+        "自动把输入补完整"
+      ]
+    ],
+    "explanation": "通常用作功能名，也能说 autocomplete an address“自动补全地址”。补出的词未必猜对，尤其姓名和地址要核对。",
+    "usage": "autocomplete a word；an autocomplete feature；turn off autocomplete。",
+    "contrast": "autocorrect 重点改错；autocomplete 重点补后续内容。",
+    "examples": [
+      [
+        "The search box can autocomplete common place names.",
+        "搜索框可以自动补全常见地名。"
+      ],
+      [
+        "I turned off autocomplete while entering unfamiliar surnames.",
+        "输入不熟悉的姓氏时，我关闭了自动补全。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/us/pronunciation/english/autocomplete",
+      "https://dictionary.cambridge.org/dictionary/english/autocomplete",
+      "https://en.wiktionary.org/wiki/autocomplete#English"
+    ]
+  },
+  {
+    "word": "compleat",
+    "ipa": "英、美 /kəmˈpliːt/",
+    "meaning": "完整的；全面精通的〔旧式或刻意仿古用法〕",
+    "sense": "像老书封面上郑重写着“全书”“通才”：带一点古风，强调样样通、样样全。",
+    "split": "complete 的历史拼写变体；不是 com- + pleat“褶皱”。现代常刻意保留在书名或有文艺色彩的表达中。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "古法语及拉丁语 → 英语 complete / compleat",
+        "同一个完整义的历史拼写"
+      ],
+      [
+        "现代英语：compleat",
+        "保留古风；常强调全面熟练"
+      ]
+    ],
+    "explanation": "读音和 complete 一样。普通邮件或作业里用 complete；compleat 常让人想到某领域知识、技艺俱全的人。",
+    "usage": "a compleat musician；the compleat guide。",
+    "contrast": "complete 是日常标准写法；compleat 带古旧或刻意修辞色彩，不是新的程度等级。",
+    "examples": [
+      [
+        "The review described her as a compleat musician, equally at home composing and performing.",
+        "评论称她是一位全能音乐家，作曲与演奏都得心应手。"
+      ],
+      [
+        "The old handbook used “compleat” on its title page.",
+        "那本旧手册的扉页使用了 compleat 这个旧拼法。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/compleat",
+      "https://www.merriam-webster.com/dictionary/compleat"
+    ]
+  },
+  {
+    "word": "complement",
+    "ipa": "名词：英 /ˈkɒmplɪmənt/，美 /ˈkɑːmplɪmənt/；动词：英 /ˈkɒmplɪment/，美 /ˈkɑːmplɪment/",
+    "meaning": "互补物；所需全数；补足、相配；补语〔语法〕",
+    "sense": "两样东西放在一起，恰好补上彼此欠的部分；像清爽的配菜让一顿浓重的饭更合适。",
+    "split": "拉丁语 complēmentum 来自 complēre“补满”；经法语及拉丁语借入。英语动词来自名词；它不是 complete + ment 的简单拼写。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complēmentum",
+        "填满、完成 → 补足整体的东西"
+      ],
+      [
+        "法语及拉丁语 → 英语 complement",
+        "补足物、完整数量；后来也作动词"
+      ]
+    ],
+    "explanation": "complement a dish 是与菜相配；a full complement of staff 是所需人员全部到齐。语法中 complement 为句子补足所需内容，如 She is happy 里的 happy。集合的 complement 是给定全集中没有落入原集合的部分。",
+    "usage": "complement each other；a complement to；a full complement of…。",
+    "contrast": "compliment 是称赞；complement 是补足或相配。两者同族，却不能因读音接近就混写。",
+    "examples": [
+      [
+        "Her practical experience complements his theoretical knowledge.",
+        "她的实践经验与他的理论知识相互补充。"
+      ],
+      [
+        "The ship sailed with a full complement of crew.",
+        "这艘船在船员配齐后启航了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/complement",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/complement_1",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/complement_2"
+    ]
+  },
+  {
+    "word": "complementary",
+    "ipa": "英 /ˌkɒmplɪˈmentəri/；美 /ˌkɑːmplɪˈmentəri/",
+    "meaning": "互补的；相配的；互余的〔角〕",
+    "sense": "各有长处，凑到一起正好：一个会设计，一个善于把东西做出来。",
+    "split": "complement + -ary；形容双方能补足彼此。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complēmentum",
+        "填满、完成 → 补足整体的东西"
+      ],
+      [
+        "法语及拉丁语 → 英语 complement",
+        "补足物、完整数量；后来也作动词"
+      ],
+      [
+        "英语：complement + -ary → complementary",
+        "补足另一部分的、互相配合的"
+      ]
+    ],
+    "explanation": "complementary skills 是互补技能，不必长得相像。几何中 complementary angles 两角之和为 90°，好像补成一个直角。",
+    "usage": "complementary skills；complementary roles；complementary angles。",
+    "contrast": "complimentary 可指称赞或免费赠送；complementary 强调互补。supplementary angles 合为 180°。",
+    "examples": [
+      [
+        "The two researchers bring complementary skills to the project.",
+        "两位研究者为项目带来了互补的技能。"
+      ],
+      [
+        "A thirty-degree angle and a sixty-degree angle are complementary.",
+        "三十度角和六十度角互为余角。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/complementary#English",
+      "https://www.mathsisfun.com/geometry/complementary-angles.html"
+    ]
+  },
+  {
+    "word": "complementarity",
+    "ipa": "英 /ˌkɒmplɪmenˈtærəti/；美 /ˌkɑːmplɪmenˈtærəti/",
+    "meaning": "互补性；互相补足的关系",
+    "sense": "把“两者搭在一起刚刚好”当作一种关系来研究，而不是只看各自有多强。",
+    "split": "complementary + -ity；词尾 -ary 对应 -arity，表示互补这一性质。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complēmentum",
+        "填满、完成 → 补足整体的东西"
+      ],
+      [
+        "法语及拉丁语 → 英语 complement",
+        "补足物、完整数量；后来也作动词"
+      ],
+      [
+        "英语：complementary → complementarity",
+        "互补的 → 互补性"
+      ]
+    ],
+    "explanation": "可以讨论技能、方法或资源的互补性。词较正式，常用于分析；具体领域还可能有更严格定义。",
+    "usage": "complementarity between methods；the complementarity of skills。",
+    "contrast": "similarity 是相像；complementarity 可能恰恰来自差异，因为差异让双方补上所缺。",
+    "examples": [
+      [
+        "The team’s strength lies in the complementarity of its members’ skills.",
+        "团队的优势在于成员技能彼此互补。"
+      ],
+      [
+        "The study explores complementarity between interviews and survey data.",
+        "研究探讨访谈与问卷数据之间的互补性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/complementarity#English"
+    ]
+  },
+  {
+    "word": "compliment",
+    "ipa": "名词：英 /ˈkɒmplɪmənt/，美 /ˈkɑːmplɪmənt/；动词：英 /ˈkɒmplɪment/，美 /ˈkɑːmplɪment/",
+    "meaning": "赞美；称赞；礼貌的致意〔compliments〕",
+    "sense": "把对方的一个优点说出来，让对方知道你看到了：“这件事你做得真好。”",
+    "split": "与 complēre“完成、履行”同族。罗曼语里的“履行礼节”发展成礼貌话；名词经法语 compliment 借入，更早联系意大利语 complimento，也有西班牙语影响的解释。动词经法语 complimenter。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语 complēre → 罗曼语相关词",
+        "完成、履行 → 履行礼节"
+      ],
+      [
+        "意大利语 complimento；法语 compliment / complimenter",
+        "礼貌话、致意；称赞"
+      ],
+      [
+        "英语：compliment〔名词、动词分别借入〕",
+        "礼貌致意；赞美、称赞"
+      ]
+    ],
+    "explanation": "compliment someone on something 是就某事称赞人；pay someone a compliment 是给一句赞美。with our compliments 常表示奉送、敬赠，并不是要求你回夸。",
+    "usage": "compliment someone on；pay a compliment；take it as a compliment。",
+    "contrast": "praise 可以正式表扬成就；compliment 常是一句针对优点的赞美。complaint“抱怨”来自另一个词族。",
+    "examples": [
+      [
+        "She complimented him on the clear presentation.",
+        "她称赞他的讲解很清楚。"
+      ],
+      [
+        "I took her question as a compliment to my work.",
+        "我把她的问题看作对自己工作的肯定。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/compliment",
+      "https://en.wiktionary.org/wiki/compliment#English"
+    ]
+  },
+  {
+    "word": "complimentary",
+    "ipa": "英 /ˌkɒmplɪˈmentəri/；美 /ˌkɑːmplɪˈmentəri/",
+    "meaning": "赞美的；免费赠送的",
+    "sense": "要么是送上一句好话，要么是送上一份礼遇；两种都保留了友好致意的感觉。",
+    "split": "compliment〔名词〕 + -ary；“敬赠”这层礼节义连到“免费提供”。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语 complēre → 罗曼语礼节用语",
+        "履行 → 履行礼节、致意"
+      ],
+      [
+        "法语 compliment → 英语 compliment",
+        "致意、赞美"
+      ],
+      [
+        "英语：compliment + -ary → complimentary",
+        "赞美的；作为礼遇赠送的"
+      ]
+    ],
+    "explanation": "a complimentary remark 是赞美话；complimentary breakfast 是免费早餐。后者不是“称赞早餐”，也不是 complementary“互补的早餐”。",
+    "usage": "complimentary about someone；complimentary tickets；complimentary breakfast。",
+    "contrast": "free 只说明不收费；complimentary 常带商家或主办方作为礼遇赠送的意味。",
+    "examples": [
+      [
+        "The reviewer was complimentary about the young actor’s performance.",
+        "评论者对这位年轻演员的表演赞赏有加。"
+      ],
+      [
+        "The hotel offers complimentary tea in the lobby.",
+        "酒店在大堂提供免费茶水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/complimentary#English"
+    ]
+  },
+  {
+    "word": "implement",
+    "ipa": "动词：英 /ˈɪmplɪment/，美 /ˈɪmpləment/；名词：英 /ˈɪmplɪmənt/，美 /ˈɪmpləmənt/",
+    "meaning": "实施；执行；工具、器具〔名词〕",
+    "sense": "计划写在纸上还不算：把它真正做起来，是 implement。作名词时，指干活所用的一件器具。",
+    "split": "拉丁语 in-“入” + plēre“填满” → implēre → implēmentum“补足、履行”，先借入英语作名词。工具义与后来“履行、实施”的动词义是相关支线，不宜编成“先用工具，再执行”的必然历史。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语 implēre → 后期拉丁语 implēmentum",
+        "填入、履行 → 补足、履行"
+      ],
+      [
+        "英语：implement〔早期名词〕",
+        "补足额；履行"
+      ],
+      [
+        "英语：implement〔两支〕",
+        "名词：所需工具；动词：履行、实施"
+      ]
+    ],
+    "explanation": "早期英语名词可指补足款项、履行；工具是做事所需的装备，动词则突出让要求落实。implement a policy 是实施政策；an agricultural implement 是农具。",
+    "usage": "implement a plan；implement changes；agricultural implements。",
+    "contrast": "design a system 是设计系统；implement it 是把方案实现出来。announce a policy 也不等于 implement it。",
+    "examples": [
+      [
+        "The school will implement the new timetable next term.",
+        "学校将在下学期实行新的课表。"
+      ],
+      [
+        "The museum displays wooden farming implements.",
+        "博物馆展示着木制农具。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/implement",
+      "https://dictionary.cambridge.org/pronunciation/english/implement"
+    ]
+  },
+  {
+    "word": "implementation",
+    "ipa": "英 /ˌɪmplɪmenˈteɪʃən/；美 /ˌɪmpləmenˈteɪʃən/",
+    "meaning": "实施；落实；实现方案〔尤其软件〕",
+    "sense": "从“我们准备这样做”走到“实际按这个办法运行”的整段工作。",
+    "split": "implement〔动词〕 + -ation；英语派生。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语 implēre → 后期拉丁语 implēmentum",
+        "填入、履行 → 补足、履行"
+      ],
+      [
+        "英语：implement〔早期名词〕",
+        "补足额；履行"
+      ],
+      [
+        "英语：implement〔两支〕",
+        "名词：所需工具；动词：履行、实施"
+      ],
+      [
+        "英语：implement + -ation → implementation",
+        "落实的过程；具体实现"
+      ]
+    ],
+    "explanation": "政策 implementation 可能包括培训、安排与检查；软件 an implementation 可以是按照某个思路写出的一套具体程序。同一算法能有多种实现。",
+    "usage": "policy implementation；successful implementation；an implementation of an algorithm。",
+    "contrast": "planning 是制定做法；implementation 是把做法落实。implementation 不自动意味着效果成功。",
+    "examples": [
+      [
+        "The policy is simple, but its implementation will require careful training.",
+        "政策本身很简单，落实时却需要细致的培训。"
+      ],
+      [
+        "This implementation uses less memory than the earlier version.",
+        "这个实现方案比早先版本占用的内存更少。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/implementation",
+      "https://dictionary.cambridge.org/dictionary/english/implementation"
+    ]
+  },
+  {
+    "word": "implementer",
+    "ipa": "英 /ˈɪmplɪmentə/；美 /ˈɪmpləmentər/",
+    "meaning": "实施者；执行机构；实现某方案的人",
+    "sense": "有人提出方案，还有人负责把它真正装上、推开、运行起来，后者就是 implementer。",
+    "split": "implement〔动词〕 + -er；也可拼作 implementor，核心意思相同。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语 implēre → 后期拉丁语 implēmentum",
+        "填入、履行 → 补足、履行"
+      ],
+      [
+        "英语：implement〔早期名词〕",
+        "补足额；履行"
+      ],
+      [
+        "英语：implement〔两支〕",
+        "名词：所需工具；动词：履行、实施"
+      ],
+      [
+        "英语：implement + -er → implementer",
+        "负责把方案落实的人或组织"
+      ]
+    ],
+    "explanation": "常用于项目、政策、技术工作，可以是一位工程师，也可以是承担执行工作的机构。并不暗示这个人没有参与设计。",
+    "usage": "a policy implementer；the main implementer；software implementers。",
+    "contrast": "designer 突出设计；implementer 突出实现和执行，同一个人可以兼任。",
+    "examples": [
+      [
+        "The implementers tested the plan in three schools before expanding it.",
+        "执行人员先在三所学校测试了方案，再扩大实施范围。"
+      ],
+      [
+        "The document gives implementers a clear description of the required behaviour.",
+        "文档向实现人员清楚说明了必须达到的功能表现。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/implement",
+      "https://en.wiktionary.org/wiki/implementer#English"
+    ]
+  },
+  {
+    "word": "replete",
+    "ipa": "英、美 /rɪˈpliːt/",
+    "meaning": "充满的；丰富具备的；吃饱的〔正式〕",
+    "sense": "往里看，到处都是这种东西：一本书满是细节，一个故事满是反转。",
+    "split": "拉丁语 replētus 来自 replēre，经古法语或直接借入。re- 在这里可能加强“填满”，不能强行把所有 replete 都译成“重新装满”。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：replēre → replētus",
+        "填满 → 已经充满的"
+      ],
+      [
+        "古法语 replet 或直接拉丁语 → 英语 replete",
+        "充满、饱足的"
+      ]
+    ],
+    "explanation": "常用 replete with。内容可以是优点也可以是错误；replete with errors 是满篇错误。饭后说 replete 是书面或略带幽默的“吃得很饱”。",
+    "usage": "replete with details；replete with errors；feel replete。",
+    "contrast": "complete 表示组成齐全；replete 表示充满某物，不保证整体无缺。",
+    "examples": [
+      [
+        "The diary is replete with vivid descriptions of village life.",
+        "日记里满是对乡村生活的生动描写。"
+      ],
+      [
+        "After the long lunch, we sat by the window, pleasantly replete.",
+        "吃过这顿悠长的午餐，我们饱足惬意地坐在窗边。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/replete",
+      "https://en.wiktionary.org/wiki/replete#English"
+    ]
+  },
+  {
+    "word": "repletion",
+    "ipa": "英、美 /rɪˈpliːʃən/",
+    "meaning": "充满；饱足；过饱〔正式〕",
+    "sense": "装满或吃饱之后的状态，尤其容易让人想到饭后“再也吃不下了”。",
+    "split": "后期拉丁语 replētiō 来自 replēre，经法语及拉丁语借入；不是英语 replete 后来才加出来的唯一历史。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：replēre → replētus",
+        "填满 → 已经充满的"
+      ],
+      [
+        "后期拉丁语 replētiō；古法语 repletion",
+        "填满；吃得太饱"
+      ],
+      [
+        "英语：repletion",
+        "充足、饱足的状态"
+      ]
+    ],
+    "explanation": "常见 eat to repletion，吃得很饱。医学文献也可用来表示把缺少的东西补足；日常谈食物更常用 fullness 或 feeling full。",
+    "usage": "eat to repletion；a feeling of repletion。",
+    "contrast": "replenishment 更常指补库存、补给的动作；repletion 往往着眼于补满、饱足这个状态。",
+    "examples": [
+      [
+        "The guests ate to repletion and lingered over their tea.",
+        "客人们吃得很饱，慢慢喝着茶不急着走。"
+      ],
+      [
+        "The novel describes the quiet repletion that follows a generous meal.",
+        "小说描写了丰盛一餐之后安静满足的饱足感。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/repletion",
+      "https://www.collinsdictionary.com/dictionary/english/repletion"
+    ]
+  },
+  {
+    "word": "deplete",
+    "ipa": "英、美 /dɪˈpliːt/",
+    "meaning": "大量消耗；使减少、趋于耗尽",
+    "sense": "原来有一桶储备，舀出去的比补进来的多，水位越来越低。",
+    "split": "最终来自拉丁语 dēplēre“排空”：de- 在这里反转“填满”。英语动词有从 depletion 反构的分析，也有直接联系拉丁语 dēplēt- 的解释，不能把名词一律放在动词之后。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：dēplēre → dēplēt-",
+        "使不再满 → 排空、减少"
+      ],
+      [
+        "英语较早的 depletion；拉丁语 dēplēt-",
+        "动词的反构或借入分析所联系的形式"
+      ],
+      [
+        "英语：deplete",
+        "大量减少储备、资源等"
+      ]
+    ],
+    "explanation": "deplete resources 可以还没有用光，只是明显变少。常见被动 depleted supplies“已经消耗了很多的物资”。最早的医学背景后来扩展到资源、钱、体力等。",
+    "usage": "deplete reserves；deplete resources；severely depleted。",
+    "contrast": "exhaust 强调用尽；deplete 常指大量消耗，并不每次都剩零。",
+    "examples": [
+      [
+        "Several expensive repairs depleted our savings.",
+        "几次昂贵的维修花掉了我们大部分积蓄。"
+      ],
+      [
+        "The long hike had depleted the group’s energy.",
+        "长途徒步消耗了队伍的大量体力。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/deplete",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/deplete"
+    ]
+  },
+  {
+    "word": "depletion",
+    "ipa": "英、美 /dɪˈpliːʃən/",
+    "meaning": "大量消耗；损耗；储量下降",
+    "sense": "从仓库原来满满，到剩下不多，这个不断变少的过程。",
+    "split": "来自后期拉丁语 dēplētiō，基于 dēplēre。英语名词早于现代 deplete 动词的常见记录，不能按现代词形倒写历史。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：dēplēre → dēplēt-",
+        "使不再满 → 排空、减少"
+      ],
+      [
+        "后期拉丁语：dēplētiō",
+        "排空；早期有放血的医学用法"
+      ],
+      [
+        "英语：depletion",
+        "排空、减少；扩展到各类资源损耗"
+      ]
+    ],
+    "explanation": "常用于报告中的 water depletion、resource depletion。词本身表示减少过程，不能据此判断是否已经耗光。",
+    "usage": "resource depletion；the depletion of reserves；rapid depletion。",
+    "contrast": "shortage 是不够用的状态；depletion 是存量被消耗、降低的过程，可能导致 shortage。",
+    "examples": [
+      [
+        "The report tracks the depletion of the region’s water reserves.",
+        "报告追踪了该地区水资源储量的下降。"
+      ],
+      [
+        "Repeated withdrawals led to a rapid depletion of the fund.",
+        "接连取款使这笔资金迅速减少。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/depletion",
+      "https://en.wiktionary.org/wiki/depletion#English"
+    ]
+  },
+  {
+    "word": "supply",
+    "ipa": "英、美 /səˈplaɪ/",
+    "meaning": "供应；提供；供应量；物资〔supplies〕",
+    "sense": "哪里缺东西，就把需要的东西送过去、补上去。名词则看你能提供多少，或者手边备了些什么。",
+    "split": "拉丁语 sub-“从下补上” + plēre → supplēre；sub- 的 b 遇 p 同化。经古法语及拉丁语进入中古英语 supplien，后来写作 supply；名词由动词发展。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "古法语及拉丁语 → 中古英语 supplien",
+        "补足缺少的部分"
+      ],
+      [
+        "英语：supply",
+        "供应；由动词发展出供应量、物资等名词义"
+      ]
+    ],
+    "explanation": "supply someone with something 与 supply something to someone 都常用。a supply of water 是一批或一定量的水；supplies 常指食物、设备等物资。另有罕见副词 supply /ˈsʌpli/ 来自 supple，本页不混入。",
+    "usage": "supply water to villages；supply someone with equipment；in short supply；school supplies。",
+    "contrast": "provide 更广，可提供理由、机会；supply 常突出把所需物品持续或按需送到。",
+    "examples": [
+      [
+        "The company supplies local cafés with fresh bread.",
+        "这家公司向本地咖啡馆供应新鲜面包。"
+      ],
+      [
+        "We packed enough supplies for three days.",
+        "我们打包了足够三天使用的物资。"
+      ],
+      [
+        "Clean water was in short supply after the storm.",
+        "风暴过后，干净的水供应不足。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/supply",
+      "https://en.wiktionary.org/wiki/supply#English"
+    ]
+  },
+  {
+    "word": "supplier",
+    "ipa": "英 /səˈplaɪə/；美 /səˈplaɪər/",
+    "meaning": "供应商；供货者",
+    "sense": "你需要材料或商品时，负责把它供给你的那个人或公司。",
+    "split": "supply + -er；拼写中 y 变 i。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "古法语及拉丁语 → 中古英语 supplien",
+        "补足缺少的部分"
+      ],
+      [
+        "英语：supply",
+        "供应；由动词发展出供应量、物资等名词义"
+      ],
+      [
+        "英语：supply + -er → supplier",
+        "从事供应的一方"
+      ]
+    ],
+    "explanation": "可以是零件供应商、食品供货商或能源供应商。supplier 不一定自己制造产品，也可能从别处进货再供应。",
+    "usage": "a reliable supplier；a local supplier；a supplier of components。",
+    "contrast": "manufacturer 是制造商；supplier 是供应方，可能制造，也可能只是供货。",
+    "examples": [
+      [
+        "We asked the supplier to confirm the delivery date.",
+        "我们请供应商确认交货日期。"
+      ],
+      [
+        "The restaurant buys most of its vegetables from local suppliers.",
+        "这家餐馆的大部分蔬菜来自本地供应商。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supplier#English"
+    ]
+  },
+  {
+    "word": "resupply",
+    "ipa": "动词：英、美 /ˌriːsəˈplaɪ/；名词：英 /ˌriːsəˈplaɪ/，美常 /ˈriːsəˌplaɪ/",
+    "meaning": "重新补给；补给行动",
+    "sense": "已经出发或用了一阵子，吃的、燃料、设备快少了，再送一批过去接上。",
+    "split": "re-“再一次” + supply；现代英语派生，可作动词，也可指一次补给。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "古法语及拉丁语 → 中古英语 supplien",
+        "补足缺少的部分"
+      ],
+      [
+        "英语：supply",
+        "供应；由动词发展出供应量、物资等名词义"
+      ],
+      [
+        "英语：re- + supply → resupply",
+        "再次供应；补充消耗后的物资"
+      ]
+    ],
+    "explanation": "常见于远行、基地和运输语境。resupply the camp with food 是给营地补食品；a resupply mission 是补给任务。",
+    "usage": "resupply a camp；a resupply mission；a resupply ship。",
+    "contrast": "replenish 更突出把存量补回来；resupply 常突出向某人、某地再次供应。",
+    "examples": [
+      [
+        "A small boat arrived to resupply the island station with food.",
+        "一艘小船到来，给岛上的站点补充食品。"
+      ],
+      [
+        "The team planned a resupply halfway through the expedition.",
+        "团队计划在探险中途进行一次补给。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/resupply",
+      "https://en.wiktionary.org/wiki/resupply#English"
+    ]
+  },
+  {
+    "word": "oversupply",
+    "ipa": "英 /ˌəʊvəsəˈplaɪ/；美 /ˌoʊvərsəˈplaɪ/",
+    "meaning": "供应过多；供给过剩；过量供应",
+    "sense": "需要十箱，却运来了二十箱：不只是东西多，而是超过了所需的量。",
+    "split": "over-“过度” + supply；英语名词与动词构词，名词记录较早。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "古法语及拉丁语 → 中古英语 supplien",
+        "补足缺少的部分"
+      ],
+      [
+        "英语：supply",
+        "供应；由动词发展出供应量、物资等名词义"
+      ],
+      [
+        "英语：over- + supply → oversupply",
+        "供应量超过需求；过量提供"
+      ]
+    ],
+    "explanation": "an oversupply of goods 是供过于求；be oversupplied with 是被提供了过多东西。过剩是相对需求而言，不等于这些东西永远没用。",
+    "usage": "an oversupply of housing；oversupply the market；be oversupplied with…。",
+    "contrast": "abundance 是丰富，可是好事；oversupply 明确带有超过需求、配置过量的意思。",
+    "examples": [
+      [
+        "An oversupply of tickets forced the organizers to lower the price.",
+        "门票供过于求，迫使主办方降价。"
+      ],
+      [
+        "The warehouse was oversupplied with boxes of the wrong size.",
+        "仓库里供应了过多尺寸不对的箱子。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/oversupply",
+      "https://dictionary.cambridge.org/dictionary/english/oversupply"
+    ]
+  },
+  {
+    "word": "undersupply",
+    "ipa": "英 /ˌʌndəsəˈplaɪ/",
+    "meaning": "供应不足；提供得不够",
+    "sense": "每个人都需要一份，送来的却只够一半：问题在于供来的量跟不上需要。",
+    "split": "under-“不足” + supply；可作名词与动词。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "古法语及拉丁语 → 中古英语 supplien",
+        "补足缺少的部分"
+      ],
+      [
+        "英语：supply",
+        "供应；由动词发展出供应量、物资等名词义"
+      ],
+      [
+        "英语：under- + supply → undersupply",
+        "提供的数量低于所需"
+      ]
+    ],
+    "explanation": "an undersupply of homes 是住房供应不足。与 oversupply 相对，常用于资源配置、市场供给分析。",
+    "usage": "an undersupply of housing；undersupply an area；chronic undersupply。",
+    "contrast": "shortage 可以有多种原因；undersupply 特别把注意力放在提供得不够这一面。",
+    "examples": [
+      [
+        "The town faces an undersupply of affordable homes.",
+        "这个镇面临可负担住房供应不足的问题。"
+      ],
+      [
+        "The planning error left several villages undersupplied with drinking water.",
+        "规划失误使几个村庄的饮用水供应不足。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/undersupply"
+    ]
+  },
+  {
+    "word": "supplement",
+    "ipa": "名词：英 /ˈsʌplɪmənt/，美 /ˈsʌpləmənt/；动词：英 /ˈsʌplɪment/，美 /ˈsʌpləment/",
+    "meaning": "补充物；增刊；补助；补充；另付的费用",
+    "sense": "主体已经在那里，再加一部分，让信息、收入或供应更够用。",
+    "split": "拉丁语 supplēmentum“补上不足的东西”来自 supplēre；先作名词借入，英语后来用作动词。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "拉丁语：supplēmentum",
+        "补上不足的东西"
+      ],
+      [
+        "英语：supplement〔先名词，后动词〕",
+        "补充物；补充"
+      ]
+    ],
+    "explanation": "a supplement to a report 是报告补充材料；supplement your income 是增加一笔收入。饮食中的 supplement 指补充剂。旅馆等场景 a supplement 还可能是额外收费，具体看说明。",
+    "usage": "supplement an income；a supplement to the report；a newspaper supplement。",
+    "contrast": "complement 侧重相配、合成完整整体；supplement 侧重额外补上一部分。两者有重叠，不能机械等同。",
+    "examples": [
+      [
+        "She supplements her income by teaching on Saturdays.",
+        "她通过周六授课增加收入。"
+      ],
+      [
+        "The book comes with a short supplement containing updated maps.",
+        "这本书附有一份简短的补充册，收录了更新的地图。"
+      ],
+      [
+        "A sea view is available for a small supplement.",
+        "付一小笔额外费用即可入住海景房。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/supplement",
+      "https://dictionary.cambridge.org/pronunciation/english/supplement",
+      "https://dictionary.cambridge.org/dictionary/english/supplement"
+    ]
+  },
+  {
+    "word": "supplemental",
+    "ipa": "英 /ˌsʌplɪˈmentəl/；美 /ˌsʌpləˈmentəl/",
+    "meaning": "补充的；额外提供的",
+    "sense": "主件之外再添一份，用来补不足或应付新增需要。",
+    "split": "supplement + -al；英语派生。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "拉丁语：supplēmentum",
+        "补上不足的东西"
+      ],
+      [
+        "英语：supplement〔先名词，后动词〕",
+        "补充物；补充"
+      ],
+      [
+        "英语：supplement + -al → supplemental",
+        "起补充作用的"
+      ]
+    ],
+    "explanation": "常见 supplemental funding、supplemental materials。与 supplementary 大量重叠，尤其在美式行政、教育语境常见，不能划出“一个必需、一个非必需”的硬界线。",
+    "usage": "supplemental funding；supplemental materials；supplemental information。",
+    "contrast": "additional 只说另外加的；supplemental 更说明加来的东西为原有部分作补充。",
+    "examples": [
+      [
+        "The project received supplemental funding for the final tests.",
+        "项目获得了一笔补充经费用于最后的测试。"
+      ],
+      [
+        "Supplemental reading materials are available online.",
+        "补充阅读材料可在网上获取。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supplemental#English"
+    ]
+  },
+  {
+    "word": "supplementary",
+    "ipa": "英 /ˌsʌplɪˈmentəri/；美 /ˌsʌpləˈmentəri/",
+    "meaning": "补充的；附加的；互补的〔两角和为180°〕",
+    "sense": "正文说完了，再给一张表或一段说明，把需要的内容补上。",
+    "split": "supplement + -ary；与法语 supplémentaire 对应。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "拉丁语：supplēmentum",
+        "补上不足的东西"
+      ],
+      [
+        "英语：supplement〔先名词，后动词〕",
+        "补充物；补充"
+      ],
+      [
+        "英语：supplement + -ary → supplementary",
+        "另外补充的"
+      ]
+    ],
+    "explanation": "supplementary information 是补充信息。几何中 supplementary angles 的和为 180°，补成平角；与和为 90° 的 complementary angles 分开记。",
+    "usage": "supplementary information；supplementary questions；supplementary angles。",
+    "contrast": "supplemental 与 supplementary 通常近义；数学角度术语固定用 supplementary。",
+    "examples": [
+      [
+        "Please attach any supplementary information to your application.",
+        "请在申请中附上其他补充信息。"
+      ],
+      [
+        "Angles of seventy and one hundred ten degrees are supplementary.",
+        "七十度角和一百一十度角互为补角。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supplementary#English",
+      "https://www.mathsisfun.com/geometry/supplementary-angles.html"
+    ]
+  },
+  {
+    "word": "supplementation",
+    "ipa": "英 /ˌsʌplɪmenˈteɪʃən/；美 /ˌsʌpləmenˈteɪʃən/",
+    "meaning": "补充；增补的过程",
+    "sense": "持续把缺的那一部分加进去，而不是另换一整套。",
+    "split": "supplement〔动词〕 + -ation。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "拉丁语：supplēmentum",
+        "补上不足的东西"
+      ],
+      [
+        "英语：supplement〔先名词，后动词〕",
+        "补充物；补充"
+      ],
+      [
+        "英语：supplement + -ation → supplementation",
+        "增添补充部分这一过程"
+      ]
+    ],
+    "explanation": "词较正式，营养研究中常见；也可谈数据、饲料等方面的补充。它只描述增加什么，不表示增加了就一定有益。",
+    "usage": "dietary supplementation；supplementation with additional data。",
+    "contrast": "supplement 是补充物或补充动作；supplementation 把补充作为过程来谈。",
+    "examples": [
+      [
+        "The report examines dietary supplementation among older adults.",
+        "报告考察了老年人使用膳食补充品的情况。"
+      ],
+      [
+        "Supplementation of the survey data with interviews revealed new concerns.",
+        "在问卷数据之外补入访谈材料，揭示了新的问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supplementation#English"
+    ]
+  },
+  {
+    "word": "suppletion",
+    "ipa": "英、美 /səˈpliːʃən/",
+    "meaning": "异干互补；用另一词根补足屈折变化〔语言学〕",
+    "sense": "一个词自己缺某个变化形式，就借另一个词族的形式来顶班：go 的过去式没有按常规长出来，而由 went 接上。",
+    "split": "中古英语已有 supplecioun“补充、补偿”，借自盎格鲁法语及中世纪拉丁语，更早可追到后期拉丁语 supplētiō；现代语言学专义也联系德语相关术语。根本画面仍是 supplēre“补足”，不是 supply 直接拼上 -tion。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "后期拉丁语：supplētiō；法语 suppletion",
+        "补充、补足"
+      ],
+      [
+        "英语：suppletion；现代语言学术语发展",
+        "由另一词干补上语法形式"
+      ]
+    ],
+    "explanation": "go 与 went、good 与 better 是典型例子；went 原是 wend 的过去式。不是所有不规则变化都叫 suppletion：sing、sang 的元音变化仍在同一个历史词族里。",
+    "usage": "an example of suppletion；suppletion in a verb paradigm。",
+    "contrast": "irregular 只说不遵循常规形式；suppletion 特指用另一词根的形式补位，范围更窄。",
+    "examples": [
+      [
+        "The pair go and went illustrates suppletion.",
+        "go 与 went 这一对体现了异干互补。"
+      ],
+      [
+        "The teacher used good and better to explain suppletion.",
+        "老师用 good 与 better 来解释异干互补。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/suppletion",
+      "https://www.etymonline.com/word/suppletion",
+      "https://en.wiktionary.org/wiki/suppletion#English",
+      "https://www.etymonline.com/word/went"
+    ]
+  },
+  {
+    "word": "suppletive",
+    "ipa": "美 /səˈpliːtɪv/，也读 /ˈsʌplɪtɪv/",
+    "meaning": "异干互补的；由另一词干补位的",
+    "sense": "给 went 这类“换了词根来顶班”的形式贴上标签：它是 suppletive。",
+    "split": "来自中世纪拉丁语 supplētīvus，与 supplēre 的分词词干 supplēt- 相连；现代与 suppletion 配套，但不宜只讲成英语名词随手换后缀。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：sub- + plēre → supplēre",
+        "从下补上 → 补足、提供"
+      ],
+      [
+        "拉丁语 supplēt- → 中世纪拉丁语 supplētīvus",
+        "补足的 → 起补充作用的"
+      ],
+      [
+        "英语：suppletive",
+        "在语法变化中用别的词干补位的"
+      ]
+    ],
+    "explanation": "a suppletive past tense 是用不同词根补出的过去式。学习时看词的历史关联，不只看两个词形外表差得有多远。",
+    "usage": "a suppletive form；a suppletive past tense；a suppletive paradigm。",
+    "contrast": "supplementary 是一般的附加、补充；suppletive 常是语言学里更专门的“异干补位”。",
+    "examples": [
+      [
+        "Went is the suppletive past tense of go.",
+        "went 是 go 的异干过去式。"
+      ],
+      [
+        "The lesson compares regular verb forms with suppletive forms.",
+        "这节课把规则动词形式与异干互补形式作了比较。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/us/dictionary/english/suppletive"
+    ]
+  },
+  {
+    "word": "comply",
+    "ipa": "英、美 /kəmˈplaɪ/",
+    "meaning": "遵守；按要求做；服从",
+    "sense": "别人给了一条要求，你照着做到位：不只是点头，而是行动符合要求。",
+    "split": "最终联系拉丁语 complēre“完成、履行”；中间可联系古法语 compli / complir，也有意大利语等罗曼语影响的解释。现代“遵从”义的发展不能凭拼写硬拆成 com- + ply“弯”。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre；罗曼语相关形式",
+        "完成、履行；具体中介有不同解释"
+      ],
+      [
+        "英语：comply",
+        "早期履行；后来常指按要求行事"
+      ]
+    ],
+    "explanation": "常用 comply with a rule / request。它是不及物动词，通常不能直接说 comply the rule。历史上的“履行”可以帮助理解今天的“把要求做到”。",
+    "usage": "comply with regulations；comply with a request；refuse to comply。",
+    "contrast": "agree 是同意；comply 是照办。心里不同意，也可能为了满足要求而 comply。",
+    "examples": [
+      [
+        "All entries must comply with the competition rules.",
+        "所有参赛作品都必须符合比赛规则。"
+      ],
+      [
+        "He was asked to lower his voice and immediately complied.",
+        "别人请他放低声音，他立刻照做了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/comply",
+      "https://en.wiktionary.org/wiki/comply#English"
+    ]
+  },
+  {
+    "word": "compliance",
+    "ipa": "英、美 /kəmˈplaɪəns/",
+    "meaning": "遵从；合规；顺从；顺应性〔技术〕",
+    "sense": "把“有没有照着要求做”作为一种状态来看；在工作中，常指流程和行为符合规定。",
+    "split": "comply + -ance；英语派生。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre；罗曼语相关形式",
+        "完成、履行；具体中介有不同解释"
+      ],
+      [
+        "英语：comply",
+        "早期履行；后来常指按要求行事"
+      ],
+      [
+        "英语：comply + -ance → compliance",
+        "遵从、符合要求的状态"
+      ]
+    ],
+    "explanation": "in compliance with 是按照、符合；a compliance check 是合规检查。工程等领域也用 compliance 表示受力时容易变形的程度，这不是说材料在心理上服从。",
+    "usage": "in compliance with；ensure compliance；a compliance check。",
+    "contrast": "obedience 偏服从某人；compliance 也可以说设备、流程符合标准，不只用于人。",
+    "examples": [
+      [
+        "The team checked the design for compliance with the new standard.",
+        "团队检查了设计是否符合新标准。"
+      ],
+      [
+        "Her quiet compliance surprised everyone who had expected an argument.",
+        "她安静地照做了，这让原本以为会有争论的人都很意外。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compliance#English"
+    ]
+  },
+  {
+    "word": "compliant",
+    "ipa": "英、美 /kəmˈplaɪənt/",
+    "meaning": "符合规定的；顺从的；易变形的〔技术〕",
+    "sense": "对要求能配合、对标准能达到。用在人身上可以是听话；用在产品上就是合乎规定。",
+    "split": "comply + -ant，形成形容词。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre；罗曼语相关形式",
+        "完成、履行；具体中介有不同解释"
+      ],
+      [
+        "英语：comply",
+        "早期履行；后来常指按要求行事"
+      ],
+      [
+        "英语：comply + -ant → compliant",
+        "会遵从的；符合要求的"
+      ]
+    ],
+    "explanation": "compliant with a standard 是符合标准。形容人时，有时带“太容易顺从”的评价；描述材料时还可指受力后较易变形。",
+    "usage": "compliant with standards；a compliant child；a compliant material。",
+    "contrast": "compatible 是能相容、能一起使用；compliant 是满足某项要求。能兼容不等于已经合规。",
+    "examples": [
+      [
+        "The new equipment is compliant with the published safety standard.",
+        "新设备符合公布的安全标准。"
+      ],
+      [
+        "She was cooperative without being blindly compliant.",
+        "她愿意配合，但不会盲目顺从。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/compliant#English"
+    ]
+  },
+  {
+    "word": "noncompliance",
+    "ipa": "英 /ˌnɒnkəmˈplaɪəns/；美 /ˌnɑːnkəmˈplaɪəns/",
+    "meaning": "不遵守；不符合要求",
+    "sense": "要求已经在那里，实际行为或材料却没有达到它。",
+    "split": "non-“不” + compliance；可连写，也常见带连字符拼法，此处收连写形式。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre；罗曼语相关形式",
+        "完成、履行；具体中介有不同解释"
+      ],
+      [
+        "英语：comply",
+        "早期履行；后来常指按要求行事"
+      ],
+      [
+        "英语：compliance → noncompliance",
+        "遵从 → 未遵从、不符合"
+      ]
+    ],
+    "explanation": "noncompliance with the rules 可以是故意不照办，也可能是理解错误或遗漏。词本身没有自动判定动机。",
+    "usage": "noncompliance with rules；instances of noncompliance；report noncompliance。",
+    "contrast": "defiance 突出公然反抗；noncompliance 只说没满足要求，不一定有反抗态度。",
+    "examples": [
+      [
+        "The review found three instances of noncompliance with the reporting rules.",
+        "审查发现了三处不符合报告规则的情况。"
+      ],
+      [
+        "Noncompliance may result from misunderstanding rather than deliberate refusal.",
+        "不遵守要求可能源于误解，而非故意拒绝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/noncompliance#English",
+      "https://dictionary.cambridge.org/dictionary/english/non-compliance"
+    ]
+  },
+  {
+    "word": "noncompliant",
+    "ipa": "英 /ˌnɒnkəmˈplaɪənt/；美 /ˌnɑːnkəmˈplaɪənt/",
+    "meaning": "不符合要求的；未遵守的",
+    "sense": "拿标准一对，发现有一项或几项没有达标。",
+    "split": "non- + compliant；是符合要求与否的否定构词。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre；罗曼语相关形式",
+        "完成、履行；具体中介有不同解释"
+      ],
+      [
+        "英语：comply",
+        "早期履行；后来常指按要求行事"
+      ],
+      [
+        "英语：compliant → noncompliant",
+        "符合、顺从的 → 不符合、不遵从的"
+      ]
+    ],
+    "explanation": "常形容设备、文件或做法。用来形容人时，最好说明对什么要求未遵从，不要把一次行为写成整个人的固定性格。",
+    "usage": "noncompliant with requirements；noncompliant equipment；a noncompliant application。",
+    "contrast": "noncompliant 说未达某标准；defective 说有缺陷。产品可能运转正常，却不符合指定格式。",
+    "examples": [
+      [
+        "The application was returned because it was noncompliant with the formatting rules.",
+        "申请因格式不合规定而被退回。"
+      ],
+      [
+        "The team replaced the noncompliant equipment before the inspection.",
+        "团队在检查前更换了不符合要求的设备。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/noncompliant",
+      "https://dictionary.cambridge.org/dictionary/english/non-compliant"
+    ]
+  },
+  {
+    "word": "accomplish",
+    "ipa": "英 /əˈkʌmplɪʃ/；美 /əˈkɑːmplɪʃ/",
+    "meaning": "完成；实现；办成",
+    "sense": "不只是忙过一阵子，而是真的把想办的事办成了。",
+    "split": "经古法语 acomplir 的扩展词干 acompliss- 借入，前身是联系拉丁语 complēre 的罗曼语构词。-ish 延续古法语词干变化，不是现代表示“有点儿”的后缀。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre；加前缀的罗曼语形式",
+        "完成、做圆满"
+      ],
+      [
+        "古法语：acomplir / acompliss-",
+        "完成、实现"
+      ],
+      [
+        "英语：accomplish",
+        "把事情做成"
+      ]
+    ],
+    "explanation": "accomplish a task 是完成任务；accomplish a goal 是实现目标；accomplish nothing 是折腾一场却没办成事。通常接事情或目标，不接 to do。",
+    "usage": "accomplish a task；accomplish a goal；accomplish a great deal。",
+    "contrast": "finish 可只是活动结束；accomplish 更突出取得预期结果，常带努力后的完成感。",
+    "examples": [
+      [
+        "We accomplished more in one morning than we expected.",
+        "一个上午我们办成的事情比预想的还多。"
+      ],
+      [
+        "Arguing about blame will accomplish nothing.",
+        "争论该怪谁不会解决任何事情。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/accomplish",
+      "https://en.wiktionary.org/wiki/accomplish#English"
+    ]
+  },
+  {
+    "word": "accomplishment",
+    "ipa": "英 /əˈkʌmplɪʃmənt/；美 /əˈkɑːmplɪʃmənt/",
+    "meaning": "成就；完成；娴熟技能〔常用复数〕",
+    "sense": "回头看见一件真的做成的事，心里有“我办到了”的实在感。",
+    "split": "accomplish + -ment；英语词源也联系法语 accomplissement，不能排除借入或法语影响。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语 complēre → 古法语 acomplir",
+        "完成、实现"
+      ],
+      [
+        "英语 accomplish + -ment；法语 accomplissement 也相关",
+        "英语派生与法语影响的不同分析"
+      ],
+      [
+        "英语：accomplishment",
+        "完成；做成的事、掌握的本领"
+      ]
+    ],
+    "explanation": "a sense of accomplishment 是完成后很踏实的成就感；a major accomplishment 是一项重要成果。旧式或正式语境 accomplishments 也指音乐、语言等练成的技能。",
+    "usage": "a sense of accomplishment；a remarkable accomplishment；the accomplishment of a task。",
+    "contrast": "achievement 与它常重叠；accomplishment 很适合谈做成某事后的满足感，也可指修习的才艺。",
+    "examples": [
+      [
+        "Finishing the first chapter gave her a sense of accomplishment.",
+        "写完第一章让她很有成就感。"
+      ],
+      [
+        "Restoring the damaged archive was a remarkable accomplishment.",
+        "修复受损档案是一项了不起的成就。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/accomplishment",
+      "https://en.wiktionary.org/wiki/accomplishment#English"
+    ]
+  },
+  {
+    "word": "accomplished",
+    "ipa": "英 /əˈkʌmplɪʃt/；美 /əˈkɑːmplɪʃt/",
+    "meaning": "技艺精湛的；有造诣的；完成了的",
+    "sense": "一个人经过训练，已经能把一门技艺做得很成熟，不再只是会一点。",
+    "split": "accomplish + -ed；既是过去分词，也发展为形容词。历史上 accomplish 还有通过教育使人完善、熟练的用法。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre；加前缀的罗曼语形式",
+        "完成、做圆满"
+      ],
+      [
+        "古法语：acomplir / acompliss-",
+        "完成、实现"
+      ],
+      [
+        "英语：accomplish",
+        "把事情做成"
+      ],
+      [
+        "英语：accomplish + -ed → accomplished",
+        "完成了的；训练完善 → 有造诣的"
+      ]
+    ],
+    "explanation": "an accomplished pianist 是熟练出色的钢琴家；mission accomplished 是任务完成。人物形容词不表示这个人的人生已经结束。",
+    "usage": "an accomplished musician；an accomplished writer；mission accomplished。",
+    "contrast": "talented 强调有天分；accomplished 强调已经展现出成熟的技艺。",
+    "examples": [
+      [
+        "She is an accomplished violinist as well as a careful teacher.",
+        "她既是技艺精湛的小提琴家，也是一位细心的老师。"
+      ],
+      [
+        "With the repairs finished, he could finally say, “Mission accomplished.”",
+        "维修结束后，他终于可以说：“任务完成。”"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/accomplished",
+      "https://en.wiktionary.org/wiki/accomplished#English"
+    ]
+  },
+  {
+    "word": "expletive",
+    "ipa": "英 /ɪkˈspliːtɪv/；美 /ˈeksplətɪv/",
+    "meaning": "咒骂语；脏话；填补句法位置的成分〔语法〕",
+    "sense": "日常听见它，多半是在说一句突然蹦出的骂人话；语法书里，它却可能只是把句子所需的位置占上。",
+    "split": "拉丁语 ex-“出、充分” + plēre → explēre“填满”，形成 explētīvus“起填充作用的”；经法语及拉丁语进入英语。填充句子、诗行的旧义后来又用于感叹、咒骂。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：explēre → explētīvus",
+        "填满 → 起填充作用的"
+      ],
+      [
+        "法语 explétif 及拉丁语 → 英语 expletive",
+        "填充句子、诗行的词；后也指咒骂语"
+      ]
+    ],
+    "explanation": "an expletive deleted 常是文字记录里表示脏话被删的标记。语法里的 expletive it，如 It is raining 的 it，不指某个具体东西，也绝不是脏话。",
+    "usage": "utter an expletive；a string of expletives；expletive it。",
+    "contrast": "insult 是侮辱内容；expletive 可只是愤怒时的一句咒骂，未必针对某个人。语法义需另看语境。",
+    "examples": [
+      [
+        "He muttered an expletive when the screen went blank.",
+        "屏幕突然黑掉时，他低声骂了一句。"
+      ],
+      [
+        "In “It is raining,” it is often described as an expletive subject.",
+        "在 It is raining 中，it 常被称为虚主语。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/expletive",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/expletive",
+      "https://en.wiktionary.org/wiki/expletive#English"
+    ]
+  },
+  {
+    "word": "compline",
+    "ipa": "英 /ˈkɒmplɪn/，也读 /ˈkɒmplaɪn/；美 /ˈkɑːmplən/",
+    "meaning": "寝前祷；终祷〔基督教礼仪〕",
+    "sense": "一天的礼仪走到最后，以一段夜间祷告收尾，像给这一天画上句点。",
+    "split": "来自古法语 complie，更早是中世纪拉丁语 completa〔hora〕，联系 complētus“完成的”；英语词中的 n 是后来出现的，不是另一个根。",
+    "history": [
+      [
+        "拉丁语：plēre",
+        "填满；常保存在带前缀的动词里"
+      ],
+      [
+        "拉丁语：complēre → complētus",
+        "填满、完成 → 完整的、完成了的"
+      ],
+      [
+        "中世纪拉丁语：completa〔hora〕",
+        "一天礼仪的收尾时辰"
+      ],
+      [
+        "古法语 complie → 英语 compline",
+        "夜间最后的祷告礼仪"
+      ]
+    ],
+    "explanation": "常见于教会礼仪与历史文章，可写作 Compline。它是特定的夜间礼仪名称，不能把每种 evening prayer 都自动叫 compline。",
+    "usage": "say compline；attend compline；a service of Compline。",
+    "contrast": "vespers 通常指晚祷；compline 是终祷，传统上更接近就寝前的一次收尾礼仪。",
+    "examples": [
+      [
+        "The community gathered in the chapel for compline.",
+        "众人聚集在小教堂里参加终祷。"
+      ],
+      [
+        "A short silence followed the final prayer of Compline.",
+        "终祷的最后一段祷词之后，大家静默了片刻。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/compline",
+      "https://www.collinsdictionary.com/dictionary/english/compline"
+    ]
+  },
+  {
+    "word": "plenty",
+    "ipa": "英、美 /ˈplenti/",
+    "meaning": "充足；大量；足够多；很、十分〔口语〕",
+    "sense": "不是勉强凑够，而是手边还有余量：“别急，时间多着呢。”",
+    "split": "拉丁语 plēnus“满的” → plēnitās“充满、丰富”，经古法语 plenté、中古英语 plentee 成为 plenty；末尾 -ty 不是现代英语自己接出的固定词尾。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "拉丁语 plēnitās → 古法语 plenté",
+        "满的状态 → 丰富、充足"
+      ],
+      [
+        "中古英语 plentee → 英语 plenty",
+        "足够多；大量"
+      ]
+    ],
+    "explanation": "plenty of 后可接复数名词或不可数名词，如 plenty of books、plenty of time。名词已明确时可单独说 There is plenty。美式口语 plenty good enough 是“完全够好了”。",
+    "usage": "plenty of time；plenty to do；plenty good enough。",
+    "contrast": "many 只配可数复数；plenty of 两类名词都能接，而且常带足够、不必担心的感觉。",
+    "examples": [
+      [
+        "We have plenty of time to catch the train.",
+        "我们有充足的时间赶上火车。"
+      ],
+      [
+        "Bring a friend; there will be plenty of chairs.",
+        "带个朋友来吧，椅子很充足。"
+      ],
+      [
+        "This old bag is plenty good enough for a short trip.",
+        "短途旅行用这个旧包完全够了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plenty",
+      "https://dictionary.cambridge.org/dictionary/english/plenty"
+    ]
+  },
+  {
+    "word": "plentiful",
+    "ipa": "英、美 /ˈplentɪfəl/",
+    "meaning": "大量存在的；充足的",
+    "sense": "需要的时候很容易找到，因为数量不少、供应充足。",
+    "split": "plenty + -ful，拼写 y 变 i；早在中古英语已有 plentiful。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "拉丁语 plēnitās → 古法语 plenté",
+        "满的状态 → 丰富、充足"
+      ],
+      [
+        "中古英语 plentee → 英语 plenty",
+        "足够多；大量"
+      ],
+      [
+        "英语：plenty + -ful → plentiful",
+        "数量丰富、供应充足的"
+      ]
+    ],
+    "explanation": "常形容 food、water、jobs、opportunities，也可说 something is plentiful。它不等于装在某个容器里已经满了，而是总体数量丰富。",
+    "usage": "a plentiful supply；plentiful food；opportunities are plentiful。",
+    "contrast": "full 常说某个容器或整体已满；plentiful 说某种东西数量多、容易获得。",
+    "examples": [
+      [
+        "Fresh fruit is plentiful here in summer.",
+        "这里夏天有大量新鲜水果。"
+      ],
+      [
+        "The village has a plentiful supply of clean water.",
+        "村里干净的水供应充足。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plentiful#English"
+    ]
+  },
+  {
+    "word": "plentifully",
+    "ipa": "英、美 /ˈplentɪfəli/",
+    "meaning": "大量地；充足地",
+    "sense": "让某种东西足足地到位：水浇得够，饭菜也给得足。",
+    "split": "plentiful + -ly；形容词转副词。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "拉丁语 plēnitās → 古法语 plenté",
+        "满的状态 → 丰富、充足"
+      ],
+      [
+        "中古英语 plentee → 英语 plenty",
+        "足够多；大量"
+      ],
+      [
+        "英语：plentiful → plentifully",
+        "充足的 → 以充足的数量"
+      ]
+    ],
+    "explanation": "比 plenty of 更书面，常搭配 supplied、provided、stocked。日常说“有很多水”，用 plenty of water 更自然。",
+    "usage": "plentifully supplied with；plentifully stocked。",
+    "contrast": "frequently 强调次数频繁；plentifully 强调数量丰富，不是“经常地”。",
+    "examples": [
+      [
+        "The hikers were plentifully supplied with food and water.",
+        "徒步者得到了充足的食物和水。"
+      ],
+      [
+        "The shelves were plentifully stocked with local produce.",
+        "货架上摆满了当地农产品。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/plentifully",
+      "https://en.wiktionary.org/wiki/plentifully#English"
+    ]
+  },
+  {
+    "word": "aplenty",
+    "ipa": "英、美 /əˈplenti/",
+    "meaning": "很多；充足〔常放在名词后〕",
+    "sense": "把“多着呢”放到名词后面：problems aplenty，就是问题一大堆。",
+    "split": "来自较早 a-plenty，a- + plenty；后来连写。不是把 a 当成单数冠词去修饰 plenty。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "拉丁语 plēnitās → 古法语 plenté",
+        "满的状态 → 丰富、充足"
+      ],
+      [
+        "中古英语 plentee → 英语 plenty",
+        "足够多；大量"
+      ],
+      [
+        "英语：a-plenty → aplenty",
+        "数量丰富、足够多"
+      ]
+    ],
+    "explanation": "通常放在名词后，如 opportunities aplenty。略有生动、修辞色彩，常用于报道、标题和叙述。",
+    "usage": "food aplenty；problems aplenty；opportunities aplenty。",
+    "contrast": "plenty of books 是名词前的常见表达；books aplenty 把强调放到后面，语气更鲜明。",
+    "examples": [
+      [
+        "There were mistakes aplenty in the first draft.",
+        "初稿里错误一大堆。"
+      ],
+      [
+        "The festival offered music, food, and entertainment aplenty.",
+        "节日上音乐、食物和娱乐活动都很丰富。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/aplenty#English"
+    ]
+  },
+  {
+    "word": "replenish",
+    "ipa": "英、美 /rɪˈplenɪʃ/",
+    "meaning": "补充；补满；恢复储备",
+    "sense": "杯里的水喝少了，货架的东西卖少了，再把空出来的部分补回来。",
+    "split": "来自古法语 replenir 的 repleniss- 词干；plenir 与 plein“满的”、拉丁语 plēnus 相连。早期 re- 可能加强“填满”，现代则常突出再次补回。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "古法语：plein → plenir → replenir / repleniss-",
+        "满的 → 填满"
+      ],
+      [
+        "英语：replenish",
+        "早期填满、供给；后来常指补回消耗掉的部分"
+      ]
+    ],
+    "explanation": "replenish stocks 是补库存；replenish your energy 是恢复精力。它不要求原先已经完全空了，只要存量下降就可补充。",
+    "usage": "replenish stocks；replenish supplies；replenish energy。",
+    "contrast": "replace 是换掉原有东西；replenish 是补回消耗掉的部分。",
+    "examples": [
+      [
+        "Staff replenish the shelves before the shop opens.",
+        "员工在开门营业前补满货架。"
+      ],
+      [
+        "A quiet weekend helped replenish her energy.",
+        "一个安静的周末帮助她恢复了精力。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/replenish",
+      "https://en.wiktionary.org/wiki/replenish#English"
+    ]
+  },
+  {
+    "word": "replenishment",
+    "ipa": "英、美 /rɪˈplenɪʃmənt/",
+    "meaning": "补充；补货；恢复储备的过程",
+    "sense": "库存下降后把货补回来，这件事需要安排时间、数量和运输。",
+    "split": "replenish + -ment；英语派生名词。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "古法语：plein → plenir → replenir / repleniss-",
+        "满的 → 填满"
+      ],
+      [
+        "英语：replenish",
+        "早期填满、供给；后来常指补回消耗掉的部分"
+      ],
+      [
+        "英语：replenish + -ment → replenishment",
+        "补回存量的过程"
+      ]
+    ],
+    "explanation": "常用于库存、仓储和自然资源恢复。补充可以靠人工，也可以是雨水等自然过程；不暗示每次都立刻补满。",
+    "usage": "stock replenishment；regular replenishment；a replenishment system。",
+    "contrast": "replacement 通常是替换；replenishment 通常是补数量。",
+    "examples": [
+      [
+        "The shop uses weekly replenishment for items that sell slowly.",
+        "对于卖得慢的商品，这家店每周补一次货。"
+      ],
+      [
+        "Heavy rain helped the replenishment of the reservoir.",
+        "大雨有助于水库恢复蓄水量。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/replenishment",
+      "https://en.wiktionary.org/wiki/replenishment#English"
+    ]
+  },
+  {
+    "word": "plenary",
+    "ipa": "英、美常 /ˈpliːnəri/；美也读 /ˈplenəri/",
+    "meaning": "全体参加的；完全的；全体会议",
+    "sense": "开会时不再分几个小组，而是把全体成员合到同一场；谈权力时，则是相关权限给足。",
+    "split": "拉丁语 plēnus“满的”形成 plēnārius“完整的”，经古法语及中世纪拉丁语进入英语。名词指全体会议，由形容词用法发展。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "拉丁语：plēnārius；古法语 plenier",
+        "完整、全部的"
+      ],
+      [
+        "英语：plenary",
+        "全体参加的；权限完全的；全体会议"
+      ]
+    ],
+    "explanation": "a plenary session 是全体会议；plenary powers 是全权。前者指会议面向全体成员，不表示现实中每个人一秒不差地都到场。",
+    "usage": "a plenary session；a plenary speaker；plenary powers。",
+    "contrast": "panel session 可是部分人专题讨论；plenary 把会议层级拉到全体。",
+    "examples": [
+      [
+        "All delegates returned to the hall for the plenary session.",
+        "所有代表回到大厅参加全体会议。"
+      ],
+      [
+        "The closing plenary reviewed the proposals from each group.",
+        "闭幕全会审议了各小组的提案。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plenary",
+      "https://en.wiktionary.org/wiki/plenary#English"
+    ]
+  },
+  {
+    "word": "plenitude",
+    "ipa": "英 /ˈplenɪtjuːd/；美 /ˈplenətuːd/",
+    "meaning": "丰富；充实；圆满〔书面〕",
+    "sense": "看见的不是几样零散东西，而是满满当当、很充足的一整片。",
+    "split": "拉丁语 plēnus → plēnitūdō“充满、完整”，经法语及拉丁语借入；不是英语 plenty 加 -tude。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "拉丁语：plēnitūdō",
+        "充足、完整的状态"
+      ],
+      [
+        "古法语 plenitude 或直接拉丁语 → 英语 plenitude",
+        "丰富；完整、充实"
+      ]
+    ],
+    "explanation": "a plenitude of something 是很多某物，语气比 plenty 庄重；也可描写生活的充实。注意拼作 plenitude，中间没有 plenty 的那个额外 t。",
+    "usage": "a plenitude of ideas；a sense of plenitude；the plenitude of life。",
+    "contrast": "plenty 是日常的足够多；plenitude 更书面，还能强调充实、圆满的整体感。",
+    "examples": [
+      [
+        "The archive offers a plenitude of material for future research.",
+        "这批档案为今后的研究提供了丰富材料。"
+      ],
+      [
+        "The poem celebrates the plenitude of ordinary life.",
+        "这首诗歌颂了平凡生活的丰盈。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plenitude",
+      "https://www.collinsdictionary.com/dictionary/english/plenitude"
+    ]
+  },
+  {
+    "word": "plenteous",
+    "ipa": "英 /ˈplentiəs/；美 /ˈplentiəs/",
+    "meaning": "丰富的；丰产的〔文学、旧式〕",
+    "sense": "像诗里说土地肥沃、收成丰饶，画面比日常的“很多”更有古典气息。",
+    "split": "借自古法语 plentivos / plentiveus，经 plentif、plenté 与拉丁语 plēnitās 相连；不是只有现代 plenty + -ous 这一构词解释。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "拉丁语 plēnitās → 古法语 plenté / plentif",
+        "丰富 → 丰富的"
+      ],
+      [
+        "古法语 plentivos / plentiveus → 英语 plenteous",
+        "丰产的；数量丰富的"
+      ]
+    ],
+    "explanation": "可见于诗歌、宗教文字或刻意庄重的描写，如 a plenteous harvest。普通聊天和说明文里 plentiful 更常用。",
+    "usage": "a plenteous harvest；plenteous rain；a plenteous supply。",
+    "contrast": "plentiful 与它意思很近；plenteous 的主要差别是文体，不是数量必然更多。",
+    "examples": [
+      [
+        "The poem gives thanks for a plenteous harvest.",
+        "诗中表达了对丰收的感恩。"
+      ],
+      [
+        "Plenteous rain turned the dry valley green.",
+        "充沛的雨水使干燥的山谷绿了起来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plenteous",
+      "https://www.collinsdictionary.com/dictionary/english/plenteous"
+    ]
+  },
+  {
+    "word": "plenum",
+    "ipa": "英、美 /ˈpliːnəm/；美也读 /ˈplenəm/",
+    "meaning": "全体会议；充满物质的空间；静压箱、空气分配空间〔技术〕",
+    "sense": "记住“满”：会场是全体聚齐，技术中则是容纳、分配空气的空间。具体意思要靠上下文分开。",
+    "split": "借自拉丁语 plēnum，是 plēnus 的中性形式，常联系 plēnum spatium“充满的空间”。全体会议和工程空间是英语的不同应用，不能画成会议先变成风箱。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "拉丁语：plēnum〔spatium〕",
+        "充满的空间"
+      ],
+      [
+        "英语：plenum〔不同应用〕",
+        "充满物质的空间；全体会议；空气分配空间"
+      ]
+    ],
+    "explanation": "政治或组织报道里的 plenum 是全会。通风里的 plenum 是用于接收、分配空气的空间；不应把每一处吊顶空隙都自动叫 plenum。复数可用 plenums 或 plena。",
+    "usage": "a committee plenum；an air plenum；a supply plenum。",
+    "contrast": "plenary 常作形容词修饰 session，也可作名词；plenum 本身是名词，另有空间技术义。",
+    "examples": [
+      [
+        "The committee approved the proposal at its annual plenum.",
+        "委员会在年度全会上通过了提案。"
+      ],
+      [
+        "The technician inspected the supply plenum for leaks.",
+        "技术人员检查了送风静压箱是否漏风。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plenum",
+      "https://www.collinsdictionary.com/dictionary/english/plenum"
+    ]
+  },
+  {
+    "word": "plenipotentiary",
+    "ipa": "英 /ˌplenɪpəˈtenʃəri/；美 /ˌplenɪpoʊˈtenʃieri/",
+    "meaning": "全权代表；有全权的〔尤指外交〕",
+    "sense": "这位代表不只是来传话，而是被正式授权，能代表派遣方处理谈判等事务。",
+    "split": "拉丁语 plēnus“完全的” + potēns“有力量的” → 后期拉丁语 plēnipotēns，再形成中世纪拉丁语 plēnipotentiārius；经法语或直接拉丁语借入。",
+    "history": [
+      [
+        "拉丁语：plēnus",
+        "满的、完整的、丰富的"
+      ],
+      [
+        "后期拉丁语：plēnipotēns",
+        "plēnus + potēns → 拥有全权的"
+      ],
+      [
+        "中世纪拉丁语 plēnipotentiārius；法语 plénipotentiaire",
+        "被赋予全权的代表"
+      ],
+      [
+        "英语：plenipotentiary",
+        "有全权的；全权代表"
+      ]
+    ],
+    "explanation": "主要见于外交称号、条约与历史文字。full powers 指所授事务范围内的充分授权，不是说这个人对世上任何事都有无限权力。",
+    "usage": "an ambassador plenipotentiary；a plenipotentiary representative。",
+    "contrast": "delegate 泛指代表；plenipotentiary 突出具有正式授予的充分处理权限。",
+    "examples": [
+      [
+        "The government sent a plenipotentiary to conduct the negotiations.",
+        "政府派了一位全权代表主持谈判。"
+      ],
+      [
+        "She was appointed ambassador extraordinary and plenipotentiary.",
+        "她被任命为特命全权大使。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plenipotentiary",
+      "https://www.collinsdictionary.com/dictionary/english/plenipotentiary",
+      "https://dictionary.cambridge.org/pl/pronunciation/english/plenipotentiary"
+    ]
+  }
+]

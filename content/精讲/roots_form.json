@@ -1,0 +1,95 @@
+[
+  {
+    "id": "C0443",
+    "meaning": "形状；形式；塑造成某种样子",
+    "core": "FORM = SHAPE / PATTERN",
+    "image": "把材料、规则或想法塑造成一种清楚的样子",
+    "intro": "**form-** 来自拉丁语 **fōrma**“形状、样式”，动词 **fōrmāre** 是塑形。它既能捏出物体，也能组织信息、行为和规则：form 是形成，conform 是按同样的样式，transform 是转成新样子，inform 最早还有塑造与教导的意思。",
+    "forms": "**forma → form** 保留得很清楚；**formula** 原是“小模子”，后来成为可反复套用的规则。借入的 formation、information、transformation 各有法语或拉丁语名词路线，图中不会都假装成现代英语临时加后缀。\n\n**perform 一组单独理解**：主要来自古法语 parfornir“办成、完成”，词形受 forme 影响。为了避免遇到这些常用词时误拆，本页保留 perform、performance 等辨析词，但不把它们说成 fōrma 的直接后代。",
+    "branches": [
+      [
+        "塑出形状",
+        "form · formation · deform"
+      ],
+      [
+        "转成新样子",
+        "reform · transform · preform"
+      ],
+      [
+        "统一与符合",
+        "uniform · conform · conformity"
+      ],
+      [
+        "规定形式",
+        "formal · format · formula"
+      ],
+      [
+        "让认识成形",
+        "inform · information · formulate"
+      ],
+      [
+        "另源：做出来",
+        "perform · performance · outperform"
+      ]
+    ],
+    "contrasts": "**form / format / formula**：形状或形式 / 内容的排列与编码方式 / 能套用的规则或配方。\n\n**formal / informal / formulaic**：正式 / 非正式 / 套路化。\n\n**informative / informed**：能给人知识的内容 / 已了解情况的人或决定。\n\n**misinformation / disinformation**：错误信息 / 通常指故意传播的误导信息。\n\n**preform / perform**：事先成形 / 执行或表演。不要被相似拼写带偏。",
+    "practice": "**An informative report helped us formulate a plan to transform the old building.**\n\n一份信息充实的报告帮助我们拟定了改造旧楼的计划。informative 把情况讲清楚，formulate 把想法组织好，transform 再把建筑变成新样子。",
+    "words": [
+      "form",
+      "formation",
+      "formal",
+      "informal",
+      "formally",
+      "formality",
+      "formalize",
+      "format",
+      "inform",
+      "information",
+      "informative",
+      "informant",
+      "informed",
+      "misinform",
+      "misinformation",
+      "disinformation",
+      "reform",
+      "reformer",
+      "reformist",
+      "reformation",
+      "conform",
+      "conformity",
+      "conformist",
+      "nonconformist",
+      "conformal",
+      "formula",
+      "formulate",
+      "formulation",
+      "reformulate",
+      "formulaic",
+      "deform",
+      "deformation",
+      "malformation",
+      "transform",
+      "transformation",
+      "preform",
+      "formless",
+      "waveform",
+      "formwork",
+      "landform",
+      "lifeform",
+      "isoform",
+      "perform",
+      "performance",
+      "performing",
+      "performer",
+      "outperform",
+      "underperform",
+      "performative",
+      "uniform",
+      "uniformly",
+      "uniformed",
+      "uniformity",
+      "nonuniform",
+      "nonuniformity"
+    ]
+  }
+]

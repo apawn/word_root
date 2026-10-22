@@ -1,0 +1,77 @@
+[
+  {
+    "id": "C0168",
+    "meaning": "抓住；拿到；容纳；在头脑中掌握",
+    "core": "CAP / CIP / CAPT / CEPT = TAKE",
+    "image": "伸手接住一个东西，也可以是在脑中抓住一个意思",
+    "intro": "这一组来自拉丁语 **capere / capiō**“拿、抓、容纳”。先想一只伸出去的手：接到自己这边是 receive，拿出去是 except，在中途截住是 intercept。手抓住实物，头脑也能“抓住”信息，于是又有 perceive、conceive。",
+    "forms": "**cap-、cip-、capt-、cept- 是同一词族的不同历史词干。** 拉丁语复合环境里的元音变化和分词构词，留下了这些形式；法语借入又让一部分词出现 -ceive。所以 receive / reception、conceive / conception 有联系，但不能把任意英语词的 -ceive 换成 -ception 来造词。\n\n现代派生如 receive → receiver、capable → capability，与古代词形变化是两回事。下图只画每个词实际有关的路径；“伸手抓东西”的画面帮助理解，不代替历史证据。",
+    "branches": [
+      [
+        "接到自己这边",
+        "receive · accept · reception"
+      ],
+      [
+        "拿出去／截住",
+        "except · intercept · capture"
+      ],
+      [
+        "脑子抓住信息",
+        "perceive · conceive · concept"
+      ],
+      [
+        "装得下／做得到",
+        "capable · capacity · capacious"
+      ],
+      [
+        "刚开始动手",
+        "incipient · inception"
+      ]
+    ],
+    "contrasts": "**receive / accept**：前者说收到，后者说接受或认可。\n\n**perception / conception**：前者偏察觉、解读；后者偏形成构想或观念。\n\n**misconception / preconception**：前者是想错了，后者是还没充分了解就先有了看法。\n\n**captive / captivate**：一个是被抓住走不了，一个是注意力被抓住、入了迷。\n\n**caption** 的现代图片说明义经历了法律文书标题这一环节，不能只编一个“抓住注意力”的词源故事。",
+    "practice": "**I received the offer, but I did not accept it.**\n\n我收到了提议，但没有接受。收到与认可不是一回事。\n\n**A common misconception can shape our perception.**\n\n一种常见的错误观念，会影响我们看待事情的方式。",
+    "words": [
+      "receive",
+      "accept",
+      "acceptance",
+      "acceptable",
+      "except",
+      "exception",
+      "perceive",
+      "perception",
+      "conceive",
+      "conception",
+      "concept",
+      "deceive",
+      "deception",
+      "capture",
+      "captive",
+      "captivate",
+      "capable",
+      "capability",
+      "incapable",
+      "capably",
+      "capacity",
+      "capacious",
+      "reception",
+      "receiver",
+      "recipient",
+      "receptionist",
+      "caption",
+      "intercept",
+      "interceptor",
+      "recapture",
+      "conceivable",
+      "misconception",
+      "misperception",
+      "preconception",
+      "perceivable",
+      "incipient",
+      "inception",
+      "proprioception",
+      "forceps",
+      "susceptible",
+      "recipe"
+    ]
+  }
+]

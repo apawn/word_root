@@ -1,0 +1,121 @@
+[
+  {
+    "id": "C0914",
+    "meaning": "次序、安排；各在其位",
+    "core": "ORDIN = ORDER / ARRANGE",
+    "image": "把一堆卡片排成行：有先后、有等级，也有共同遵守的安排。",
+    "intro": "ordin- 来自拉丁语 ōrdō“行列、次序、等级”，ōrdinis 和 ōrdinem 显出 ordin- 词干。先想一排安排好的卡片：沿同一排看，是次序；往上下看，是等级；要求按这套安排做，就是命令或规定。",
+    "forms": "order 经法语传入，ordinary 则有拉丁 ōrdinārius 的独立借入链。不是看到相同字母，就把所有词画成现代英语 order 逐个加后缀。\n\nōrdināre 表示安排、任命；其分词 ōrdinātus 接到 ordinate、coordinate、subordinate 等不同路线。coordination 与 ordination 都有较早的拉丁／法语名词形式。\n\ncoordinate 是共同安排，subordinate 是放在下级；inordinate 从不合秩序走到过度。ordinary 是平常安排之内，extraordinary 是常规之外。\n\nordnance 与 ordinance 历史上关系紧密，现代书写通常分别用于军械与条例。ornery 则是 ordinary 的美国方言缩短，意思后来变成倔强难相处。",
+    "branches": [
+      [
+        "排列与秩序",
+        "order, orderly, reorder"
+      ],
+      [
+        "失去秩序",
+        "disorder, disorderly"
+      ],
+      [
+        "平常与超常",
+        "ordinary, extraordinary, ornery"
+      ],
+      [
+        "共同配合",
+        "coordinate, coordination"
+      ],
+      [
+        "上下层级",
+        "subordinate, superordinate"
+      ],
+      [
+        "违抗与过度",
+        "insubordinate, inordinate"
+      ],
+      [
+        "正式任命",
+        "ordain, ordination, ordinand"
+      ],
+      [
+        "规定与军械",
+        "ordinance, ordnance"
+      ],
+      [
+        "提前安排或订购",
+        "preordain, preorder, backorder"
+      ],
+      [
+        "位置与关系",
+        "ordinal, ordinate, quasiorder"
+      ],
+      [
+        "分类的大小框",
+        "superorder, suborder, infraorder"
+      ]
+    ],
+    "contrasts": "ordinary 不是质量低；extraordinary 也不一定褒义。coordinate 是配合、并列，subordinate 是从属。\n\n序数 ordinal 回答第几；纵坐标 ordinate 定位点的一个方向；预序 preorder / quasiorder 是满足自反和传递的关系。不要因都有“序”就混成同一种概念。\n\n分类术语里的“上、下、大、小”说的是分类范围和层级，不代表生物更先进或身体更大。各方案也不一定采用全部中间等级。",
+    "practice": "用 order 描述排页码和点餐两件事，用 ordinary / extraordinary 对比一天的常态与例外，再用 coordinate 说明大家怎样配合。最后分清：条例 ordinance，军械 ordnance，授职 ordination。",
+    "words": [
+      "order",
+      "ordered",
+      "ordering",
+      "unordered",
+      "orderly",
+      "orderliness",
+      "disorder",
+      "disorderly",
+      "ordinary",
+      "ordinarily",
+      "ordinariness",
+      "extraordinary",
+      "extraordinarily",
+      "extraordinaire",
+      "ornery",
+      "coordinate",
+      "coordination",
+      "coordinator",
+      "coordinated",
+      "uncoordinated",
+      "incoordinate",
+      "incoordination",
+      "subordinate",
+      "subordination",
+      "insubordinate",
+      "insubordination",
+      "superordinate",
+      "superordination",
+      "inordinate",
+      "inordinately",
+      "inordination",
+      "ordain",
+      "ordination",
+      "ordainment",
+      "ordinand",
+      "preordain",
+      "preordained",
+      "preordination",
+      "ordinance",
+      "ordnance",
+      "ordinal",
+      "ordinate",
+      "ordinariate",
+      "ordinative",
+      "reordain",
+      "reordination",
+      "reorder",
+      "preorder",
+      "quasiorder",
+      "superorder",
+      "suborder",
+      "infraorder",
+      "parvorder",
+      "grandorder",
+      "mirorder",
+      "magnorder",
+      "subordinary",
+      "coordinal",
+      "backorder",
+      "foreordain",
+      "foreordination"
+    ]
+  }
+]

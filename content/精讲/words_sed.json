@@ -1,0 +1,2722 @@
+[
+  {
+    "word": "president",
+    "ipa": "/ˈprezɪdənt/",
+    "meaning": "总统；主席；总裁；大学校长",
+    "sense": "president 的老画面是坐在大家前面，主持会议、带领一个组织的人；今天具体头衔要看他负责的是什么。",
+    "split": "拉丁 prae-（在前）+ sedēre（坐）→ praesidēns“主持者”，经法语等路线进入英语；不是现代英语 preside 才加 -ent。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：prae- + sedēre → praesidēre",
+        "坐在前面；主持、统领"
+      ],
+      [
+        "拉丁语 praesidēns → 古法语 president",
+        "正在主持的人；负责人"
+      ],
+      [
+        "中古英语 president → 英语 president",
+        "主席、总裁、校长；总统等职位名称"
+      ]
+    ],
+    "explanation": "a club president 是俱乐部主席；a university president 是大学校长；国家语境中才可能是总统。不能见词就一律译总统。",
+    "usage": "the president of a club；a university president；elect a president。",
+    "contrast": "chair 常专指主持人或委员会主席；president 常是组织的正式领导头衔，职责依机构而定。",
+    "examples": [
+      [
+        "The club elected a new president.",
+        "俱乐部选出了一位新主席。"
+      ],
+      [
+        "The university president welcomed the incoming students.",
+        "大学校长欢迎新生入学。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/president#English"
+    ]
+  },
+  {
+    "word": "session",
+    "ipa": "/ˈseʃən/",
+    "meaning": "一场、一次活动；会议；会期；会话",
+    "sense": "session 像大家坐定，把一段时间专门留给某件事：开会、练习、录音，甚至一次在线连接。",
+    "split": "来自拉丁 sessiō“坐下”，经法语和中古英语而来；sess- 是 sedēre 的相关词干，不是随意换字母。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：sessiō",
+        "坐下；一段坐着办事的时间"
+      ],
+      [
+        "古法语 session → 中古英语 session",
+        "会议、开庭等一次集会"
+      ],
+      [
+        "英语：session",
+        "一段集中活动时间；会议、会期"
+      ]
+    ],
+    "explanation": "a training session 是一场训练；a recording session 是一段录音工作；a login session 是一次登录会话。session 通常有可辨认的起止。",
+    "usage": "a practice session；a recording session；in session；a browser session。",
+    "contrast": "meeting 一般有人开会；session 的范围更大，一次独自练习也能叫 session。",
+    "examples": [
+      [
+        "The training session lasted ninety minutes.",
+        "这场训练持续了九十分钟。"
+      ],
+      [
+        "The system ends the session after a period of inactivity.",
+        "一段时间没有操作后，系统会结束这次会话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/session#English"
+    ]
+  },
+  {
+    "word": "presidential",
+    "ipa": "/ˌprezɪˈdenʃəl/",
+    "meaning": "总统的；主席、总裁职位相关的；有总统风范的",
+    "sense": "presidential 把某项活动或表现连到 president 的职位上：选举、职责、办公室，或被认为适合这个职位的举止。",
+    "split": "现代可拆 president + -ial；词源也可追到中古拉丁 praesidentiālis，与 praesidentia“主持者职位”相连。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：prae- + sedēre → praesidēre",
+        "坐在前面；主持、统领"
+      ],
+      [
+        "拉丁语 praesidēns → 中古拉丁语 praesidentia / praesidentiālis",
+        "主持者 → 主持者的职位、职位相关的"
+      ],
+      [
+        "英语：presidential",
+        "与 president 相关；被认为适合这一职位的"
+      ]
+    ],
+    "explanation": "presidential election 多译总统选举；presidential manner 是被评价为有领导风范。后者是评价，不是证明某人实际担任总统。",
+    "usage": "a presidential election；presidential duties；look presidential。",
+    "contrast": "president 是人或职位称谓；presidential 是形容词，修饰与该职位相关的事物。",
+    "examples": [
+      [
+        "The museum displays documents from an early presidential election.",
+        "博物馆展出了早期总统选举的文件。"
+      ],
+      [
+        "The speech was praised for its calm, presidential tone.",
+        "这篇讲话因语气镇定、有总统风范而受到称赞。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/presidential",
+      "https://en.wiktionary.org/wiki/presidential#English"
+    ]
+  },
+  {
+    "word": "resident",
+    "ipa": "/ˈrezɪdənt/",
+    "meaning": "居民；住在某处的；住院医师",
+    "sense": "resident 是在某处住着、持续待在那里的人，像把生活的落脚点安在这里。",
+    "split": "拉丁 residēns 是 residēre“留下居住”的现在分词，经盎格鲁法语和中古英语借入；现代可对应 reside + -ent。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：re- + sedēre → residēre",
+        "坐下停留；留下、居住"
+      ],
+      [
+        "拉丁语 residēns → 盎格鲁法语 resident",
+        "留下、居住的人"
+      ],
+      [
+        "中古英语 resident → 英语 resident",
+        "居民；住在某处的；住院医师"
+      ]
+    ],
+    "explanation": "local residents 是当地居民；resident in a town 是居住在城里。医疗语境中 a resident 通常是接受毕业后临床培训的医生，历史名称与过去住在医院有关。",
+    "usage": "local residents；a permanent resident；resident in；a medical resident。",
+    "contrast": "visitor 是来访者；resident 是在此居住的人，是否永久居住要看修饰语和具体制度。",
+    "examples": [
+      [
+        "Local residents asked for a safer crossing.",
+        "当地居民要求设置更安全的过街通道。"
+      ],
+      [
+        "The resident discussed the case with a senior doctor.",
+        "这位住院医师与资深医生讨论了病例。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resident#English"
+    ]
+  },
+  {
+    "word": "residence",
+    "ipa": "/ˈrezɪdəns/",
+    "meaning": "住所；居住；驻留",
+    "sense": "residence 既能指落脚的那栋房子，也能指“在这里住着”这一状态。",
+    "split": "中古拉丁 residentia 经古法语 residence、中古英语 residence 而来；现代与 reside + -ence 对应，但名词有独立借入链。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：re- + sedēre → residēre",
+        "坐下停留；留下、居住"
+      ],
+      [
+        "拉丁语 residēns → 中古拉丁语 residentia",
+        "居住的 → 居住、住所"
+      ],
+      [
+        "古法语 residence → 中古英语 residence",
+        "居住、住处"
+      ],
+      [
+        "英语：residence",
+        "住所；居住状态"
+      ]
+    ],
+    "explanation": "a private residence 是私人住宅；take up residence 是开始居住；place of residence 是居住地。比 home 更正式。",
+    "usage": "a permanent residence；place of residence；take up residence。",
+    "contrast": "home 常有家的归属感；residence 偏正式地说明住处或居住状态。",
+    "examples": [
+      [
+        "The form asks for your current place of residence.",
+        "表格要求填写你目前的居住地。"
+      ],
+      [
+        "The building was once a private residence.",
+        "这栋建筑以前是私人住宅。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/residence#English"
+    ]
+  },
+  {
+    "word": "obsession",
+    "ipa": "/əbˈseʃən/",
+    "meaning": "挥之不去的念头；痴迷；过度关注的事物",
+    "sense": "obsession 像一个念头把脑海围住，别的事情都很难挤进去。",
+    "split": "来自拉丁 obsessiō“围困”，由 obsidēre“坐守、包围”而来；不要倒画成英语 obsess 先造出拉丁名词。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ob- + sedēre → obsidēre",
+        "坐守在前；围住、包围"
+      ],
+      [
+        "拉丁语：obsessiō",
+        "包围、围困"
+      ],
+      [
+        "英语：obsession",
+        "持续占据注意力的念头或事物"
+      ]
+    ],
+    "explanation": "口语的 an obsession with trains 可以说对火车极度着迷；心理健康语境的 obsession 可指反复闯入的困扰性念头，两者不能随意等同。",
+    "usage": "an obsession with；become an obsession；a growing obsession。",
+    "contrast": "interest 是兴趣；obsession 强调占据注意力的程度很强，有时让人难以摆脱。",
+    "examples": [
+      [
+        "What began as a hobby became an obsession.",
+        "一开始只是爱好，后来变成了难以放下的痴迷。"
+      ],
+      [
+        "His obsession with tiny details delayed the whole project.",
+        "他过度纠结细枝末节，拖慢了整个项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obsession#English"
+    ]
+  },
+  {
+    "word": "residency",
+    "ipa": "/ˈrezɪdənsi/",
+    "meaning": "居住资格或状态；驻留项目；住院医师培训期",
+    "sense": "residency 像被允许或安排在一个地方持续待上一段时间，可能为了生活，也可能为了培训或创作。",
+    "split": "英语 reside + -ency 或 resident + -cy 的派生分析；没有必要虚构一个后来的拉丁借入环节。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：re- + sedēre → residēre",
+        "坐下停留；留下、居住"
+      ],
+      [
+        "拉丁语 residēns → 盎格鲁法语 resident",
+        "留下、居住的人"
+      ],
+      [
+        "中古英语 resident → 英语 resident",
+        "居民；住在某处的；住院医师"
+      ],
+      [
+        "英语：residency",
+        "居住状态；住院培训或驻留安排"
+      ]
+    ],
+    "explanation": "medical residency 是医生毕业后的住院培训；an artist residency 是艺术家驻留项目。residency requirements 是关于居住资格的条件。",
+    "usage": "complete a residency；an artist residency；residency requirements。",
+    "contrast": "residence 可具体指住所；residency 更常说资格、状态或在机构中的一段驻留安排。",
+    "examples": [
+      [
+        "She completed her residency at a teaching hospital.",
+        "她在一家教学医院完成了住院医师培训。"
+      ],
+      [
+        "The writer spent three months on an artist residency.",
+        "这位作家参加了三个月的艺术家驻留项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/residency#English"
+    ]
+  },
+  {
+    "word": "reside",
+    "ipa": "/rɪˈzaɪd/",
+    "meaning": "居住；存在于；归属于",
+    "sense": "reside 像坐下来留在一个位置，持续住在这里；抽象地说，权力或价值也能“落在”某处。",
+    "split": "re-（回、留下）+ sedēre（坐）形成拉丁 residēre，再经法语等路线进入英语。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：re- + sedēre → residēre",
+        "坐下停留；留下、居住"
+      ],
+      [
+        "古法语 resider → 中古英语 residen",
+        "停留、居住"
+      ],
+      [
+        "英语：reside",
+        "居住；存在、归属于"
+      ]
+    ],
+    "explanation": "reside in a city 是住在城市；the power resides with the board 是权力归董事会。日常聊天说 live 往往更自然。",
+    "usage": "reside in；reside with；the value resides in。",
+    "contrast": "stay 可以是短暂停留；reside 较正式，通常强调住处或某种属性的所在。",
+    "examples": [
+      [
+        "They currently reside in a small coastal town.",
+        "他们目前住在一座沿海小镇。"
+      ],
+      [
+        "The final authority resides with the board.",
+        "最终决定权归董事会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reside#English"
+    ]
+  },
+  {
+    "word": "sediment",
+    "ipa": "/ˈsedɪmənt/",
+    "meaning": "沉积物；沉淀物",
+    "sense": "sediment 像把一杯浑水放着不动，细小颗粒慢慢落到底部，最后留下的一层东西。",
+    "split": "来自拉丁 sedimentum，与 sedēre“坐、落定”相连，经法语借入英语。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：sedimentum",
+        "沉下来留下的东西"
+      ],
+      [
+        "中古法语 sédiment → 英语 sediment",
+        "沉积物；沉淀物"
+      ]
+    ],
+    "explanation": "可以是瓶底沉淀，也可以是河流、湖泊等环境沉积下来的物质。它描述材料，不保证已固结成岩石。",
+    "usage": "fine sediment；river sediment；a layer of sediment。",
+    "contrast": "sediment 是沉积物；sedimentary rock 是沉积岩，二者不是同一阶段的东西。",
+    "examples": [
+      [
+        "A layer of sediment had collected at the bottom of the jar.",
+        "罐底积起了一层沉淀物。"
+      ],
+      [
+        "The river carries sediment towards the coast.",
+        "河流把泥沙沉积物带向海岸。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sediment#English"
+    ]
+  },
+  {
+    "word": "insidious",
+    "ipa": "/ɪnˈsɪdiəs/",
+    "meaning": "隐伏而有害的；阴险的",
+    "sense": "insidious 像问题悄悄躲在角落，开始不显眼，等你察觉时已经造成了影响。",
+    "split": "来自拉丁 insidiōsus，连到 insidiae“埋伏、圈套”，远源 in- + sedēre“坐在里面、占据”。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：in- + sedēre → insidēre；insidiae",
+        "坐在里面、占据；埋伏、圈套"
+      ],
+      [
+        "拉丁语 insidiōsus → 中古法语 insidieux",
+        "暗中设陷阱的、狡猾的"
+      ],
+      [
+        "英语：insidious",
+        "潜伏着造成危害的；阴险的"
+      ]
+    ],
+    "explanation": "可说一种缓慢侵蚀信任的习惯，也可说疾病发展方式。重点是隐蔽、渐进或难察觉的危害，不只是在骂人坏。",
+    "usage": "an insidious effect；an insidious problem；insidious damage。",
+    "contrast": "obvious 是明显可见；insidious 常意味着危害在不易觉察的情况下发生。",
+    "examples": [
+      [
+        "The constant interruptions had an insidious effect on her concentration.",
+        "不断的打断在不知不觉中损害了她的专注力。"
+      ],
+      [
+        "Small acts of dishonesty can cause insidious damage to trust.",
+        "小小的不诚实行为可能悄悄侵蚀信任。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insidious#English"
+    ]
+  },
+  {
+    "word": "sedentary",
+    "ipa": "英 /ˈsedəntəri/；美 /ˈsedənteri/",
+    "meaning": "久坐的；活动少的；定居的",
+    "sense": "sedentary 的画面是长时间坐在同一处，没有多少走动；在人群生活方式中也可以指固定居住。",
+    "split": "经法语 sédentaire 来自拉丁 sedentārius，联系 sedēre 的现在分词词干 sedent-。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：sedentārius",
+        "与坐着、停留有关的"
+      ],
+      [
+        "法语 sédentaire → 英语 sedentary",
+        "久坐的；定居、不常迁移的"
+      ]
+    ],
+    "explanation": "a sedentary job 是久坐工作；sedentary communities 可指固定居住的群体。它描述活动或居住方式，不是懒惰的人格判断。",
+    "usage": "a sedentary lifestyle；sedentary work；a sedentary population。",
+    "contrast": "inactive 泛指不活跃；sedentary 特别容易让人想到坐得多，或长期定居。",
+    "examples": [
+      [
+        "Her new job is more sedentary than her old one.",
+        "她的新工作比以前更需要长时间坐着。"
+      ],
+      [
+        "The chapter compares nomadic and sedentary communities.",
+        "这一章比较了游牧群体与定居群体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sedentary#English"
+    ]
+  },
+  {
+    "word": "sedimentary",
+    "ipa": "/ˌsedɪˈmentəri/",
+    "meaning": "沉积的；沉积形成的",
+    "sense": "sedimentary 像把一层层落下的材料保存成层次，常用来形容由沉积物形成的岩层。",
+    "split": "sediment + -ary，表示与沉积物或沉积形成过程有关。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：sedimentum",
+        "沉下来留下的东西"
+      ],
+      [
+        "中古法语 sédiment → 英语 sediment",
+        "沉积物；沉淀物"
+      ],
+      [
+        "英语：sedimentary",
+        "沉积相关；由沉积形成的"
+      ]
+    ],
+    "explanation": "sedimentary rock 是沉积岩；sedimentary layers 是沉积层。沉积岩形成还可能涉及压实、胶结或化学、生物过程，不能只理解成泥巴晾干。",
+    "usage": "sedimentary rock；sedimentary layers；a sedimentary basin。",
+    "contrast": "sedentary 指久坐、定居；sedimentary 谈沉积物和地层，虽同族但不能互换。",
+    "examples": [
+      [
+        "The cliff exposes several layers of sedimentary rock.",
+        "悬崖露出了几层沉积岩。"
+      ],
+      [
+        "The fossils were found in sedimentary deposits.",
+        "这些化石是在沉积层中发现的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sedimentary#English"
+    ]
+  },
+  {
+    "word": "preside",
+    "ipa": "/prɪˈzaɪd/",
+    "meaning": "主持；领导；负责某一时期的事务",
+    "sense": "preside 像坐在会议前方，掌握流程、让各方发言，使整个场面有序进行。",
+    "split": "拉丁 prae-（前）+ sedēre（坐）→ praesidēre，经法语进入英语。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：prae- + sedēre → praesidēre",
+        "坐在前面；主持、统领"
+      ],
+      [
+        "法语 presider → 英语 preside",
+        "主持；担任负责人"
+      ]
+    ],
+    "explanation": "最常见 preside over a meeting。preside over a change 也能说在任期间负责或经历某次变化，不一定亲手处理所有细节。",
+    "usage": "preside over a meeting；preside at a hearing；preside over change。",
+    "contrast": "attend 只是出席；preside 表示主持或处于负责位置。",
+    "examples": [
+      [
+        "She will preside over the meeting on Friday.",
+        "她将主持周五的会议。"
+      ],
+      [
+        "He presided over a period of major change at the museum.",
+        "在博物馆经历重大变革的时期，他担任负责人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preside#English"
+    ]
+  },
+  {
+    "word": "subside",
+    "ipa": "/səbˈsaɪd/",
+    "meaning": "减弱、平息；退落；下沉",
+    "sense": "subside 像高起来的水面慢慢降下去，喧闹或紧张也可以像水位一样逐渐退下。",
+    "split": "直接联系拉丁 subsīdere，sub- 向下 + sīdere“落定、坐下”；sīdere 与 sedēre 同源。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sīdere（sīdō）",
+        "坐下、落定；与 sedēre 同源的动词"
+      ],
+      [
+        "拉丁语：sub- + sīdere → subsīdere",
+        "沉下、平息；停留"
+      ],
+      [
+        "英语：subside",
+        "下沉、退落；逐渐平息"
+      ]
+    ],
+    "explanation": "floodwater subsides 是洪水退去；anger subsides 是怒气平息；ground subsides 是地面下沉。通常是不及物动词。",
+    "usage": "the noise subsided；floodwaters subside；gradually subside。",
+    "contrast": "stop 可以突然停下；subside 常有逐渐减弱、退落的过程感。",
+    "examples": [
+      [
+        "The noise subsided after the doors closed.",
+        "门关上后，嘈杂声逐渐平息。"
+      ],
+      [
+        "We waited for the floodwater to subside.",
+        "我们等洪水退下去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subside#English"
+    ]
+  },
+  {
+    "word": "subsidence",
+    "ipa": "英 /səbˈsaɪdəns/，也 /ˈsʌbsɪdəns/；美 /səbˈsaɪdəns/",
+    "meaning": "地面沉降；下陷；减退",
+    "sense": "subsidence 像地面下面的支撑变了，上面的地面随之往下落；它把注意力放在下沉这个过程上。",
+    "split": "联系拉丁 subsidēns / subsīdere 的词干；现代对应 subside + -ence，也有独立拉丁来源分析。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sīdere（sīdō）",
+        "坐下、落定；与 sedēre 同源的动词"
+      ],
+      [
+        "拉丁语：sub- + sīdere → subsīdere",
+        "沉下、平息；停留"
+      ],
+      [
+        "拉丁语：subsīdēns → subsīdentia",
+        "正在下沉的 → 下沉、沉降"
+      ],
+      [
+        "英语：subsidence",
+        "下沉、沉降；另有 subside + -ence 的派生分析"
+      ]
+    ],
+    "explanation": "最常见地质、建筑语境中的地面沉降，关注的是地面或地层位置下降这一现象。",
+    "usage": "ground subsidence；land subsidence；evidence of subsidence。",
+    "contrast": "erosion 是材料被侵蚀、带走；subsidence 是地面或地层位置下沉，两者可能有关但并非同义。",
+    "examples": [
+      [
+        "The survey recorded gradual subsidence near the old mine.",
+        "调查记录了旧矿区附近地面的逐渐沉降。"
+      ],
+      [
+        "The report examines the causes of land subsidence.",
+        "报告考察了地面沉降的原因。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subsidence#English",
+      "https://www.etymonline.com/word/subsidence"
+    ]
+  },
+  {
+    "word": "supersede",
+    "ipa": "英 /ˌsuːpəˈsiːd/；美 /ˌsuːpərˈsiːd/",
+    "meaning": "取代；替代并使旧的失效",
+    "sense": "supersede 的现代画面是新版本站到前台，旧版本因此不再适用；它的历史却先有“暂不做、搁下”的意思。",
+    "split": "拉丁 super-（在上）+ sedēre（坐）→ supersedēre；经法语进入英语。词尾是 -sede，不是来自 cēdere 的 -cede。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：supersedēre",
+        "坐在上方；不再继续、暂缓"
+      ],
+      [
+        "中古法语 superseder → 英语 supersede",
+        "推迟、搁置 → 后发展为取代"
+      ],
+      [
+        "现代英语：supersede",
+        "新事物取代旧事物、使其不再适用"
+      ]
+    ],
+    "explanation": "常用于规定、版本、技术。不要只用“坐在上面”就假装现代取代义从来没有变化，旧义到新义经历了扩展。",
+    "usage": "supersede an earlier version；be superseded by；supersede a rule。",
+    "contrast": "replace 很通用；supersede 常强调更新后旧物不再有效或不再需要。",
+    "examples": [
+      [
+        "This edition supersedes all previous versions of the guide.",
+        "这一版取代了指南的所有旧版本。"
+      ],
+      [
+        "The old system was eventually superseded by a simpler one.",
+        "旧系统最终被一个更简单的系统取代。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supersede#English"
+    ]
+  },
+  {
+    "word": "sedimentation",
+    "ipa": "/ˌsedɪmenˈteɪʃən/",
+    "meaning": "沉降；沉积作用",
+    "sense": "sedimentation 像静放浑水时颗粒慢慢落下的全过程，不只是最后留下的那层泥沙。",
+    "split": "sediment + -ation，形成过程名词。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：sedimentum",
+        "沉下来留下的东西"
+      ],
+      [
+        "中古法语 sédiment → 英语 sediment",
+        "沉积物；沉淀物"
+      ],
+      [
+        "英语：sedimentation",
+        "颗粒沉降、沉积的过程"
+      ]
+    ],
+    "explanation": "用于河湖地质过程，也用于处理悬浮颗粒的技术语境。具体机制随环境不同，不必一律理解成化学反应。",
+    "usage": "sedimentation rate；sedimentation in a lake；a sedimentation tank。",
+    "contrast": "sediment 是留下的物质；sedimentation 是形成沉积的过程。",
+    "examples": [
+      [
+        "The study measured sedimentation in the reservoir.",
+        "研究测量了水库中的沉积情况。"
+      ],
+      [
+        "Fine particles remained suspended longer, slowing sedimentation.",
+        "细颗粒悬浮得更久，使沉降变慢。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sedimentation#English"
+    ]
+  },
+  {
+    "word": "assiduously",
+    "ipa": "英 /əˈsɪdjuəsli/；美 /əˈsɪdʒuəsli/",
+    "meaning": "勤勉地；持续细心地",
+    "sense": "assiduously 像一个人不时回到桌前，一项项核对，长时间认真把同一件事做好。",
+    "split": "assiduous + -ly。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ad- + sedēre → assidēre",
+        "坐在旁边、持续守着"
+      ],
+      [
+        "拉丁语：assiduus",
+        "持续在场的；勤勉不懈的"
+      ],
+      [
+        "英语：assiduous",
+        "勤勉、细心而坚持的"
+      ],
+      [
+        "英语：assiduously",
+        "以持续细心、勤勉的方式"
+      ]
+    ],
+    "explanation": "常修饰 study、work、collect、cultivate 等有持续投入的行为，语气较书面。",
+    "usage": "work assiduously；study assiduously；assiduously collect。",
+    "contrast": "quickly 只说速度快；assiduously 说用心坚持，不保证速度快。",
+    "examples": [
+      [
+        "She worked assiduously to check every reference.",
+        "她勤勉细致地核对了每一条参考资料。"
+      ],
+      [
+        "He assiduously collected records from local archives.",
+        "他持续细心地从地方档案馆搜集记录。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assiduously#English"
+    ]
+  },
+  {
+    "word": "nonresident",
+    "ipa": "英 /ˌnɒnˈrezɪdənt/；美 /ˌnɑːnˈrezɪdənt/",
+    "meaning": "非本地居民；不在某处居住的",
+    "sense": "nonresident 是从某个指定地点的角度说“这个人不住在这里”，不是说他无家可归。",
+    "split": "non-（非）+ resident；这里收录不带连字符的拼法。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：re- + sedēre → residēre",
+        "坐下停留；留下、居住"
+      ],
+      [
+        "拉丁语 residēns → 盎格鲁法语 resident",
+        "留下、居住的人"
+      ],
+      [
+        "中古英语 resident → 英语 resident",
+        "居民；住在某处的；住院医师"
+      ],
+      [
+        "英语：nonresident",
+        "在指定地区或机构之外居住的"
+      ]
+    ],
+    "explanation": "常见于学校收费、会员资格或正式分类。是否算 nonresident，要看讨论对象所采用的居住范围和标准。",
+    "usage": "a nonresident student；nonresident visitors；nonresident membership。",
+    "contrast": "foreigner 说国籍关系；nonresident 说居住关系，本国人也可能不是本地居民。",
+    "examples": [
+      [
+        "The library charges a small fee for nonresident members.",
+        "图书馆向非本地会员收取少量费用。"
+      ],
+      [
+        "Nonresident students can use the campus shuttle.",
+        "不住校的学生可以乘坐校车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonresident#English"
+    ]
+  },
+  {
+    "word": "assiduous",
+    "ipa": "英 /əˈsɪdjuəs/；美 /əˈsɪdʒuəs/",
+    "meaning": "勤勉的；持续细心的",
+    "sense": "assiduous 像一直守在任务旁边，不轻易离开，细节也不随便放过。",
+    "split": "借自拉丁 assiduus，联系 assidēre“坐在旁边、持续在场”；ad- 遇 s 同化为 as-。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ad- + sedēre → assidēre",
+        "坐在旁边、持续守着"
+      ],
+      [
+        "拉丁语：assiduus",
+        "持续在场的；勤勉不懈的"
+      ],
+      [
+        "英语：assiduous",
+        "勤勉、细心而坚持的"
+      ]
+    ],
+    "explanation": "可以形容人，也可形容 attention、care、research。重点是持续而认真，不是只忙得很热闹。",
+    "usage": "assiduous research；an assiduous student；assiduous attention。",
+    "contrast": "busy 只是忙；assiduous 还强调勤勉、用心和持续投入。",
+    "examples": [
+      [
+        "Assiduous research uncovered the missing letters.",
+        "持续细致的研究找到了那些遗失的信件。"
+      ],
+      [
+        "She was an assiduous student of local history.",
+        "她是一位勤勉研究地方史的学生。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assiduous#English"
+    ]
+  },
+  {
+    "word": "insidiously",
+    "ipa": "/ɪnˈsɪdiəsli/",
+    "meaning": "隐蔽而有害地；不知不觉地侵蚀",
+    "sense": "insidiously 像漏水从墙缝里一点点渗进去，表面还平静，内部却在慢慢受损。",
+    "split": "insidious + -ly。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：in- + sedēre → insidēre；insidiae",
+        "坐在里面、占据；埋伏、圈套"
+      ],
+      [
+        "拉丁语 insidiōsus → 中古法语 insidieux",
+        "暗中设陷阱的、狡猾的"
+      ],
+      [
+        "英语：insidious",
+        "潜伏着造成危害的；阴险的"
+      ],
+      [
+        "英语：insidiously",
+        "以不易觉察却有害的方式"
+      ]
+    ],
+    "explanation": "常描述危害如何发展。它通常含负面后果，不是普通 secretly“秘密地”的中性替代。",
+    "usage": "spread insidiously；work insidiously；insidiously undermine。",
+    "contrast": "gradually 只说逐渐；insidiously 还说隐蔽且有害。",
+    "examples": [
+      [
+        "The habit insidiously undermined her confidence.",
+        "这个习惯在不知不觉中削弱了她的信心。"
+      ],
+      [
+        "Damp spread insidiously behind the wallpaper.",
+        "潮气在墙纸后面悄悄扩散。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/insidiously#English"
+    ]
+  },
+  {
+    "word": "sessional",
+    "ipa": "/ˈseʃənəl/",
+    "meaning": "某一会期的；按学期或授课时段聘用的",
+    "sense": "sessional 像把工作安排绑定到一个明确的学期或会期，强调这一段时间内的事务。",
+    "split": "session + -al，表示与某段会期、学期或活动时段有关。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：sessiō",
+        "坐下；一段坐着办事的时间"
+      ],
+      [
+        "古法语 session → 中古英语 session",
+        "会议、开庭等一次集会"
+      ],
+      [
+        "英语：session",
+        "一段集中活动时间；会议、会期"
+      ],
+      [
+        "英语：sessional",
+        "与会期、学期有关的"
+      ]
+    ],
+    "explanation": "sessional lecturer 在某些教育体系指按学期、课程聘用的讲师；sessional papers 可以是某届会期文件，具体依地区用法。",
+    "usage": "a sessional lecturer；sessional work；sessional papers。",
+    "contrast": "seasonal 是季节性的；sessional 是会期、学期或活动时段相关，不是把 season 拼错。",
+    "examples": [
+      [
+        "The department hired a sessional lecturer for the autumn course.",
+        "系里为秋季课程聘请了一位按期任教的讲师。"
+      ],
+      [
+        "The archive contains the sessional papers of the assembly.",
+        "档案馆保存了该议会的会期文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sessional#English"
+    ]
+  },
+  {
+    "word": "sedulity",
+    "ipa": "英 /səˈdjuːləti/；美 /səˈduːləti/",
+    "meaning": "勤勉；认真不懈",
+    "sense": "sedulity 是把持续认真当作一种品质来谈，像每次都踏踏实实补上该做的工作。",
+    "split": "借拉丁 sēdulitās，来自 sēdulus“勤勉的”；现代可联想 sedulous 与 -ity，但更早来源不能硬归到 sedēre“坐”。",
+    "history": [
+      [
+        "拉丁语：sēdulus → sēdulitās",
+        "勤勉的 → 勤勉这一品质"
+      ],
+      [
+        "英语：sedulity",
+        "勤勉；持续认真的用心"
+      ]
+    ],
+    "explanation": "这是较少见的正式词。与 assiduity 意义接近，但意义相近不证明词源一定相同。",
+    "usage": "remarkable sedulity；work with sedulity。",
+    "contrast": "diligence 是更常见的勤勉；sedulity 偏古雅、书面。",
+    "examples": [
+      [
+        "The editor praised the researcher’s sedulity.",
+        "编辑称赞了研究者的勤勉。"
+      ],
+      [
+        "She pursued the difficult task with quiet sedulity.",
+        "她默默而勤勉地推进这项艰巨任务。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sedulity",
+      "https://en.wiktionary.org/wiki/sedulity#English",
+      "https://dictionary.cambridge.org/dictionary/english/sedulity"
+    ]
+  },
+  {
+    "word": "sedulous",
+    "ipa": "英 /ˈsedjʊləs/，也 /ˈsedʒʊləs/；美 /ˈsedʒələs/",
+    "meaning": "勤勉的；持续用心的",
+    "sense": "sedulous 像一个人持续照看同一项工作，一遍遍检查、补足，而不是三分钟热度。",
+    "split": "来自拉丁 sēdulus；通常联系 sēdulō“真诚、认真地”，更早可能是 sē- + dolō“没有欺诈”。不能因为开头 sed 就解释成一直坐着。",
+    "history": [
+      [
+        "拉丁语：sēdulus",
+        "勤勉的；常联系 sēdulō“真诚、认真地”，更早或由“无欺诈”而来"
+      ],
+      [
+        "英语：sedulous",
+        "持续用心的、勤勉的；不能据 sed- 硬接“坐”"
+      ]
+    ],
+    "explanation": "这是与本族并列辨析的近形词。可以说 sedulous care 或 a sedulous researcher，现代语气较正式。",
+    "usage": "sedulous attention；sedulous care；a sedulous researcher。",
+    "contrast": "assiduous 确能追到“坐在旁边”；sedulous 的历史分析不同。两词都可说勤勉，记忆画面不能替代词源。",
+    "examples": [
+      [
+        "The restoration required sedulous attention to detail.",
+        "修复工作需要持续细心地关注细节。"
+      ],
+      [
+        "She became a sedulous collector of oral histories.",
+        "她成了一位勤勉搜集口述历史的人。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sedulous",
+      "https://en.wiktionary.org/wiki/sedulous#English",
+      "https://dictionary.cambridge.org/dictionary/english/sedulous"
+    ]
+  },
+  {
+    "word": "presidency",
+    "ipa": "/ˈprezɪdənsi/",
+    "meaning": "总统任期、职位；主席或总裁的职务",
+    "sense": "presidency 把 president 这个人换成他坐着的那把“职位椅子”：可以说职位本身，也可以说担任它的整段时间。",
+    "split": "来自中古拉丁 praesidentia，联系 praesidēns“主持者”；现代可分析 president + -cy。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：prae- + sedēre → praesidēre",
+        "坐在前面；主持、统领"
+      ],
+      [
+        "拉丁语 praesidēns → 中古拉丁语 praesidentia",
+        "主持者 → 主持者的职位"
+      ],
+      [
+        "英语：presidency",
+        "总统、主席等的职位或任期"
+      ]
+    ],
+    "explanation": "during her presidency 是在她任职期间；win the presidency 是赢得这一职位。它不只用于国家，也能用于大学、协会等组织。",
+    "usage": "during a presidency；seek the presidency；the presidency of a society。",
+    "contrast": "president 指任职的人；presidency 指他担任的职位或任期。",
+    "examples": [
+      [
+        "The society expanded its activities during her presidency.",
+        "在她担任协会主席期间，协会拓展了活动范围。"
+      ],
+      [
+        "The book examines the first year of his presidency.",
+        "这本书研究了他担任总统的第一年。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/presidency",
+      "https://en.wiktionary.org/wiki/presidency#English"
+    ]
+  },
+  {
+    "word": "residential",
+    "ipa": "/ˌrezɪˈdenʃəl/",
+    "meaning": "住宅的；居住的；提供住宿的",
+    "sense": "residential 像把地图上的一片区域标成“人们在这里生活”，也可指参加课程时就住在现场。",
+    "split": "resident + -ial，英语中派生出与居住、住宅有关的形容词。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：re- + sedēre → residēre",
+        "坐下停留；留下、居住"
+      ],
+      [
+        "拉丁语 residēns → 盎格鲁法语 resident",
+        "留下、居住的人"
+      ],
+      [
+        "中古英语 resident → 英语 resident",
+        "居民；住在某处的；住院医师"
+      ],
+      [
+        "英语：residential",
+        "供居住的；与住宅、住宿有关的"
+      ]
+    ],
+    "explanation": "a residential area 是住宅区；a residential course 是提供住宿的课程；residential care 是入住机构接受照护。",
+    "usage": "a residential area；residential buildings；a residential course。",
+    "contrast": "resident 可以指居民本人；residential 通常形容区域、建筑、服务或安排，不说 a residential person。",
+    "examples": [
+      [
+        "The factory has been converted into residential buildings.",
+        "工厂已改建成住宅楼。"
+      ],
+      [
+        "Participants can choose a residential course or attend during the day.",
+        "学员可以选择住宿课程，也可以只在白天参加。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/residential",
+      "https://en.wiktionary.org/wiki/residential#English"
+    ]
+  },
+  {
+    "word": "obsess",
+    "ipa": "/əbˈses/",
+    "meaning": "反复纠结；使某个念头占据心思",
+    "sense": "obsess 像一个问题一直在脑子门口围着不走，让你很难把注意力移开。",
+    "split": "拉丁 obsessus 是 obsidēre“围住”的分词；英语借来后逐渐发展出念头持续纠缠人的意思。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ob- + sedēre → obsidēre",
+        "坐守在前；围住、包围"
+      ],
+      [
+        "拉丁分词 obsessus → 英语 obsess",
+        "被围住 → 思想持续纠缠、占据"
+      ]
+    ],
+    "explanation": "obsess over a mistake 是反复纠结失误；a question obsesses someone 是一个问题让某人一直放不下。口语常用前一种句型。",
+    "usage": "obsess over details；obsess about a decision；be obsessed with。",
+    "contrast": "think about 是想到、思考；obsess over 强调反复占用心思，常超过合理需要。",
+    "examples": [
+      [
+        "Try not to obsess over one small mistake.",
+        "尽量别一直纠结一个小失误。"
+      ],
+      [
+        "The unanswered question continued to obsess him.",
+        "那个没有答案的问题继续占据着他的心思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obsess#English"
+    ]
+  },
+  {
+    "word": "obsessed",
+    "ipa": "/əbˈsest/",
+    "meaning": "着了迷的；满脑子想着的；被某事困扰的",
+    "sense": "obsessed 像脑海里贴满了同一种东西：你总想看它、研究它，或者摆脱不了它。",
+    "split": "obsess + -ed，过去分词常作形容词；这个词描述被某事牢牢占据注意力的状态。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ob- + sedēre → obsidēre",
+        "坐守在前；围住、包围"
+      ],
+      [
+        "拉丁分词 obsessus → 英语 obsess",
+        "被围住 → 思想持续纠缠、占据"
+      ],
+      [
+        "英语：obsessed",
+        "心思被某件事占据的"
+      ]
+    ],
+    "explanation": "be obsessed with something 很常见，既可夸张说热爱，也可批评过度关注。语气和情境决定是否负面。",
+    "usage": "obsessed with music；obsessed with winning；become obsessed。",
+    "contrast": "interested 是有兴趣；obsessed 通常程度更强，暗示几乎放不下。",
+    "examples": [
+      [
+        "She became obsessed with solving the old puzzle.",
+        "她着了迷似的想解开那个旧谜题。"
+      ],
+      [
+        "He was so obsessed with winning that he forgot to enjoy the game.",
+        "他一心只想着获胜，忘了享受比赛。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obsessed#English"
+    ]
+  },
+  {
+    "word": "obsessive",
+    "ipa": "/əbˈsesɪv/",
+    "meaning": "过分执着的；反复纠缠心思的；痴迷者",
+    "sense": "obsessive 像注意力被一个点牢牢吸住，反复回去检查、研究或担心。",
+    "split": "obsess + -ive，表示具有这种持续纠缠、过度投入的特点。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ob- + sedēre → obsidēre",
+        "坐守在前；围住、包围"
+      ],
+      [
+        "拉丁分词 obsessus → 英语 obsess",
+        "被围住 → 思想持续纠缠、占据"
+      ],
+      [
+        "英语：obsessive",
+        "表现出过度执着或反复纠缠特点的"
+      ]
+    ],
+    "explanation": "可形容 behaviour、attention、fear，也可作名词指痴迷者。日常说 obsessive about tidiness 并不等于给人作临床诊断。",
+    "usage": "obsessive attention to detail；obsessive behaviour；obsessive about。",
+    "contrast": "careful 是细心；obsessive 往往进一步暗示过头、难以停下来，临床术语另依具体语境。",
+    "examples": [
+      [
+        "His obsessive attention to detail slowed the editing process.",
+        "他对细节近乎执着的关注拖慢了编辑进度。"
+      ],
+      [
+        "The club attracts railway obsessives from across the country.",
+        "这个俱乐部吸引了全国各地的铁路迷。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obsessive#English"
+    ]
+  },
+  {
+    "word": "obsessively",
+    "ipa": "/əbˈsesɪvli/",
+    "meaning": "着迷似地；过分执着地；反复纠结地",
+    "sense": "obsessively 说的是动作怎样发生：做完一次仍放不下，接着又回去做。",
+    "split": "obsessive + -ly。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ob- + sedēre → obsidēre",
+        "坐守在前；围住、包围"
+      ],
+      [
+        "拉丁分词 obsessus → 英语 obsess",
+        "被围住 → 思想持续纠缠、占据"
+      ],
+      [
+        "英语：obsessive",
+        "过分执着的"
+      ],
+      [
+        "英语：obsessively",
+        "以过度执着、反复纠缠的方式"
+      ]
+    ],
+    "explanation": "常修饰 check、collect、think、worry。它不只是 often“经常”，而是注意力被占住的那种频繁。",
+    "usage": "check obsessively；think obsessively about；collect obsessively。",
+    "contrast": "regularly 是有规律地；obsessively 强调难以放下、投入过度的状态。",
+    "examples": [
+      [
+        "She checked the message obsessively throughout the afternoon.",
+        "整个下午她都忍不住反复查看那条消息。"
+      ],
+      [
+        "He collected old maps obsessively for several years.",
+        "好几年里，他都着迷似地收集旧地图。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obsessively#English"
+    ]
+  },
+  {
+    "word": "obsessiveness",
+    "ipa": "/əbˈsesɪvnəs/",
+    "meaning": "过分执着；容易陷入痴迷的倾向",
+    "sense": "obsessiveness 是把“总被一个点拽住不放”作为一种倾向来谈，不是某一次具体动作。",
+    "split": "obsessive + -ness；名词表示这种特点或程度。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ob- + sedēre → obsidēre",
+        "坐守在前；围住、包围"
+      ],
+      [
+        "拉丁分词 obsessus → 英语 obsess",
+        "被围住 → 思想持续纠缠、占据"
+      ],
+      [
+        "英语：obsessive",
+        "过分执着的"
+      ],
+      [
+        "英语：obsessiveness",
+        "过度执着这一特点"
+      ]
+    ],
+    "explanation": "可以讨论工作风格、兴趣投入或人物性格；是不是临床问题不能只由这个日常名词决定。",
+    "usage": "a degree of obsessiveness；obsessiveness about detail。",
+    "contrast": "obsession 常是具体困扰人的念头或对象；obsessiveness 更侧重这种反复投入的倾向。",
+    "examples": [
+      [
+        "The review admired his precision but questioned his obsessiveness.",
+        "评论赞赏他的精确，却质疑他是否过于执着。"
+      ],
+      [
+        "Her obsessiveness about presentation left little time for rehearsal.",
+        "她对呈现形式过于执着，留给排练的时间很少。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obsessiveness#English",
+      "https://en.wiktionary.org/wiki/obsessive#English"
+    ]
+  },
+  {
+    "word": "assessment",
+    "ipa": "/əˈsesmənt/",
+    "meaning": "评估；评价结果；考核",
+    "sense": "assessment 像把证据摆在桌上，仔细看过之后给出判断：现在是什么情况，有多少价值或风险。",
+    "split": "assess + -ment，表示评估行为或所得结论。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ad- + sedēre → assidēre",
+        "坐在旁边、持续守着"
+      ],
+      [
+        "拉丁分词 assessus → 中古拉丁语 assessāre",
+        "参与审理、估定税额"
+      ],
+      [
+        "古法语 assesser → 中古英语 assessen",
+        "估价、评定"
+      ],
+      [
+        "英语：assess",
+        "评估；估定价值、金额"
+      ],
+      [
+        "英语：assessment",
+        "评估过程；评估报告或结论"
+      ]
+    ],
+    "explanation": "a risk assessment 是风险评估；a language assessment 可以是语言能力考核；an honest assessment 是坦诚评价。",
+    "usage": "make an assessment；a needs assessment；continuous assessment。",
+    "contrast": "test 可以只是一次测试；assessment 可综合观察、测试和材料形成判断。",
+    "examples": [
+      [
+        "The team completed an assessment of the building’s condition.",
+        "团队完成了对建筑状况的评估。"
+      ],
+      [
+        "Her assessment of the situation proved accurate.",
+        "她对局势的判断后来证明是准确的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assessment#English"
+    ]
+  },
+  {
+    "word": "assess",
+    "ipa": "/əˈses/",
+    "meaning": "评估；判断；估定金额或价值",
+    "sense": "assess 的远处画面是坐在办事者旁边，协助判断、定价；今天就是看证据后估量某件事。",
+    "split": "拉丁 ad- + sedēre → assidēre“坐在旁边”，经 assessus、assessāre、法语 assesser 和中古英语进入英语。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ad- + sedēre → assidēre",
+        "坐在旁边、持续守着"
+      ],
+      [
+        "拉丁分词 assessus → 中古拉丁语 assessāre",
+        "参与审理、估定税额"
+      ],
+      [
+        "古法语 assesser → 中古英语 assessen",
+        "估价、评定"
+      ],
+      [
+        "英语：assess",
+        "评估；估定价值、金额"
+      ]
+    ],
+    "explanation": "可以 assess damage、ability、risk，也可估定税额。它强调有依据地判断，不一定要求算出一个数字。",
+    "usage": "assess the damage；assess someone’s ability；assess whether。",
+    "contrast": "guess 可凭直觉猜；assess 通常意味着查看相关情况后作判断。",
+    "examples": [
+      [
+        "We need more information to assess the risks.",
+        "我们需要更多信息来评估风险。"
+      ],
+      [
+        "The teacher assessed each student’s progress.",
+        "老师评估了每位学生的进步情况。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assess#English"
+    ]
+  },
+  {
+    "word": "assessor",
+    "ipa": "英 /əˈsesə/；美 /əˈsesər/",
+    "meaning": "评估员；估价员；评审人员",
+    "sense": "assessor 是负责作评估的人，像拿着统一标准，检查材料并作出判断。",
+    "split": "拉丁 assessor 原指坐在旁边协助审理的人，经古法语 assessour、中古英语 assessour 借入；现代可对应 assess + -or。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ad- + sedēre → assidēre",
+        "坐在旁边、持续守着"
+      ],
+      [
+        "拉丁语：assessor",
+        "坐在旁边的协助者；助审、估税人员"
+      ],
+      [
+        "古法语 assessour → 中古英语 assessour",
+        "协助评审、估价的人"
+      ],
+      [
+        "英语：assessor",
+        "评估员、估价员等"
+      ]
+    ],
+    "explanation": "可能评估房产、损失、技能或作品，具体职责看语境；不必都译法官。",
+    "usage": "an independent assessor；a property assessor；a trained assessor。",
+    "contrast": "assessment 是评估过程或结果；assessor 是进行评估的人。",
+    "examples": [
+      [
+        "An independent assessor inspected the damaged equipment.",
+        "一位独立评估员检查了受损设备。"
+      ],
+      [
+        "Each performance was reviewed by two assessors.",
+        "每场表演都由两位评审人员评估。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/assessor#English"
+    ]
+  },
+  {
+    "word": "assiduity",
+    "ipa": "英 /ˌæsɪˈdjuːɪti/；美 /ˌæsɪˈduːɪti/",
+    "meaning": "勤勉；持续细心的投入",
+    "sense": "assiduity 像长期守在一项任务旁边，今天补一点，明天再核对一点，认真程度始终不松。",
+    "split": "来自拉丁 assiduitās，形成于 assiduus“持续在场、勤勉的”；现代与 assiduous 对应，但英语名词不是从后来英语形容词倒推出拉丁名词。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：ad- + sedēre → assidēre",
+        "坐在旁边、持续守着"
+      ],
+      [
+        "拉丁语：assiduus → assiduitās",
+        "持续在场、勤勉的 → 勤勉"
+      ],
+      [
+        "英语：assiduity",
+        "持续认真投入的品质"
+      ]
+    ],
+    "explanation": "较正式，多作不可数名词。常与 patience、care 等并列，强调长期可靠的投入。",
+    "usage": "work with assiduity；remarkable assiduity；patience and assiduity。",
+    "contrast": "enthusiasm 是热情；assiduity 是持续踏实的认真，热情不高时也可以保持勤勉。",
+    "examples": [
+      [
+        "She checked the records with remarkable assiduity.",
+        "她以格外勤勉细致的态度核对了记录。"
+      ],
+      [
+        "The project depended on patience and assiduity.",
+        "这个项目靠的是耐心和持续认真的投入。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/assiduity",
+      "https://www.collinsdictionary.com/dictionary/english/assiduity"
+    ]
+  },
+  {
+    "word": "dissident",
+    "ipa": "/ˈdɪsɪdənt/",
+    "meaning": "持异议者；持不同政见的",
+    "sense": "dissident 的老画面是与别人分开坐：没有站在同一个立场上，不接受占主导的观点或权威。",
+    "split": "拉丁 dis-（分开）+ sedēre（坐）→ dissidēre“意见不合”，分词 dissidēns 借入英语作形容词，后来也作名词。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：dissidēre → dissidēns",
+        "分开坐；意见不合 → 持不同意见的"
+      ],
+      [
+        "英语：dissident",
+        "先作意见不同的形容词，后指持异议者"
+      ]
+    ],
+    "explanation": "常见于政治、宗教或某个组织内部的异议。一个人只是偶尔不赞成你，不一定自然称为 a dissident。",
+    "usage": "a political dissident；dissident voices；a dissident group。",
+    "contrast": "opponent 泛指对手或反对者；dissident 常突出对主导立场、制度或权威持异议。",
+    "examples": [
+      [
+        "The historian interviewed several political dissidents.",
+        "这位历史学者采访了几位持不同政见者。"
+      ],
+      [
+        "Dissident voices within the organization called for change.",
+        "组织内部持异议的人呼吁改革。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/dissident",
+      "https://en.wiktionary.org/wiki/dissident#English"
+    ]
+  },
+  {
+    "word": "dissidence",
+    "ipa": "/ˈdɪsɪdəns/",
+    "meaning": "异议；与主导立场不一致的态度或活动",
+    "sense": "dissidence 把“坐到不同一边”的画面抽象成立场上的分歧，尤其是不愿跟随既定权威。",
+    "split": "来自拉丁 dissidentia，联系 dissidēns / dissidēre“意见不合”；现代对应 dissident 的状态名词。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：dissidēre → dissidēns → dissidentia",
+        "分开坐、意见不合 → 分歧"
+      ],
+      [
+        "英语：dissidence",
+        "持异议、与主导立场不一致"
+      ]
+    ],
+    "explanation": "比 disagreement 更正式，常见于历史、政治、宗教讨论；不必意味着暴力行动。",
+    "usage": "political dissidence；religious dissidence；a tradition of dissidence。",
+    "contrast": "dissident 可以指人；dissidence 指异议的状态、思想或活动。",
+    "examples": [
+      [
+        "The essay traces a tradition of religious dissidence.",
+        "这篇文章梳理了一种宗教异议传统。"
+      ],
+      [
+        "The archive documents decades of political dissidence.",
+        "这批档案记录了几十年的政治异议活动。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/dissidence",
+      "https://en.wiktionary.org/wiki/dissidence#English"
+    ]
+  },
+  {
+    "word": "subsidy",
+    "ipa": "/ˈsʌbsɪdi/",
+    "meaning": "补贴；补助金",
+    "sense": "subsidy 像在后面留下一支后援，前面的人撑不住时就补上一把力；现代最常补的是钱。",
+    "split": "拉丁 subsidium“后备兵力、援助”来自 subsīdere“坐下留在后方”，经法语和中古英语进入英语。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sīdere（sīdō）",
+        "坐下、落定；与 sedēre 同源的动词"
+      ],
+      [
+        "拉丁语：sub- + sīdere → subsīdere",
+        "沉下、平息；停留"
+      ],
+      [
+        "拉丁语：subsidium",
+        "留作后援的兵力；帮助、援助"
+      ],
+      [
+        "法语 subside / subsidie → 中古英语 subsidie",
+        "援助，尤指金钱援助"
+      ],
+      [
+        "英语：subsidy",
+        "补助、补贴"
+      ]
+    ],
+    "explanation": "a transport subsidy 可以让运营方维持服务，也可让使用者少花钱。是谁给谁补助，要看具体句子，词本身不保证受助对象。",
+    "usage": "a government subsidy；a housing subsidy；receive a subsidy。",
+    "contrast": "loan 是通常需要偿还的借款；subsidy 是补助、补贴，不能仅凭这个词推断所有附加条件。",
+    "examples": [
+      [
+        "The village bus service depends on a public subsidy.",
+        "村里的公交服务依靠公共补贴维持。"
+      ],
+      [
+        "The programme offers a subsidy for home insulation.",
+        "这个项目为住宅保温改造提供补助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subsidy#English"
+    ]
+  },
+  {
+    "word": "subsidiary",
+    "ipa": "英 /səbˈsɪdiəri/；美 /səbˈsɪdieri/",
+    "meaning": "附属的；辅助的；子公司",
+    "sense": "subsidiary 像主力旁边的后援，帮助主体系运作；在公司关系里，a subsidiary 就是受另一家公司控制的公司。",
+    "split": "拉丁 subsidium“后援”→ subsidiārius“辅助的”，经法语 subsidiaire 等路线进入英语；公司名词从形容词用法发展。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sīdere（sīdō）",
+        "坐下、落定；与 sedēre 同源的动词"
+      ],
+      [
+        "拉丁语：sub- + sīdere → subsīdere",
+        "沉下、平息；停留"
+      ],
+      [
+        "拉丁语：subsidium → subsidiārius",
+        "后援、帮助 → 辅助的"
+      ],
+      [
+        "中古法语 subsidiaire → 英语 subsidiary",
+        "辅助的、附属的"
+      ],
+      [
+        "英语名词：a subsidiary",
+        "附属公司、子公司"
+      ]
+    ],
+    "explanation": "a subsidiary issue 是次要问题；a subsidiary company 是子公司。公司可以是独立法人，并不等于母公司的一个办公室。",
+    "usage": "a wholly owned subsidiary；a subsidiary company；a subsidiary role。",
+    "contrast": "subsidy 是补助金；subsidiary 是附属的或子公司，不能据字形断定它一定靠补贴生存。",
+    "examples": [
+      [
+        "The group opened a subsidiary in another country.",
+        "该集团在另一个国家设立了子公司。"
+      ],
+      [
+        "Transport costs were a subsidiary issue in the discussion.",
+        "运输成本在讨论中是一个次要问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subsidiary#English",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/subsidiary_1"
+    ]
+  },
+  {
+    "word": "subsidize",
+    "ipa": "/ˈsʌbsɪdaɪz/",
+    "meaning": "补贴；资助部分费用",
+    "sense": "subsidize 像从旁边垫上一部分钱，让某项服务能继续运转，或让使用者付得起。",
+    "split": "subsidy 去 y 加 -ize，英语中派生为动词；英式也拼 subsidise。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sīdere（sīdō）",
+        "坐下、落定；与 sedēre 同源的动词"
+      ],
+      [
+        "拉丁语：sub- + sīdere → subsīdere",
+        "沉下、平息；停留"
+      ],
+      [
+        "拉丁语：subsidium",
+        "留作后援的兵力；帮助、援助"
+      ],
+      [
+        "法语 subside / subsidie → 中古英语 subsidie",
+        "援助，尤指金钱援助"
+      ],
+      [
+        "英语：subsidy",
+        "补助、补贴"
+      ],
+      [
+        "英语：subsidize",
+        "提供补贴、补助费用"
+      ]
+    ],
+    "explanation": "可由政府、机构或其他收入来源提供补贴。某业务 subsidizes another 也可说用一项业务收入支持另一项。",
+    "usage": "subsidize public transport；subsidize the cost；heavily subsidize。",
+    "contrast": "sponsor 往往强调赞助关系、宣传或支持身份；subsidize 更突出补贴成本。",
+    "examples": [
+      [
+        "The council subsidizes bus fares for local students.",
+        "地方政府为当地学生补贴公交车费。"
+      ],
+      [
+        "Sales from the shop help subsidize the museum’s free events.",
+        "商店收入帮助补贴博物馆免费活动的开支。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subsidize#English"
+    ]
+  },
+  {
+    "word": "subsidized",
+    "ipa": "/ˈsʌbsɪdaɪzd/",
+    "meaning": "有补贴的；获得费用资助的",
+    "sense": "subsidized 表示价钱或运营成本已有别人分担一部分，像账单旁多了一只帮忙付款的手。",
+    "split": "subsidize + -ed，过去分词作形容词；也拼 subsidised。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sīdere（sīdō）",
+        "坐下、落定；与 sedēre 同源的动词"
+      ],
+      [
+        "拉丁语：sub- + sīdere → subsīdere",
+        "沉下、平息；停留"
+      ],
+      [
+        "拉丁语：subsidium",
+        "留作后援的兵力；帮助、援助"
+      ],
+      [
+        "法语 subside / subsidie → 中古英语 subsidie",
+        "援助，尤指金钱援助"
+      ],
+      [
+        "英语：subsidy",
+        "补助、补贴"
+      ],
+      [
+        "英语：subsidize",
+        "提供费用补贴"
+      ],
+      [
+        "英语：subsidized",
+        "费用得到补贴的"
+      ]
+    ],
+    "explanation": "subsidized meals 不等于免费午餐，而是价格中有补贴；补贴对象也可能是服务提供者。",
+    "usage": "subsidized housing；subsidized meals；a subsidized service。",
+    "contrast": "free 是使用者不用付费；subsidized 只是有人资助费用，使用者仍可能付一部分。",
+    "examples": [
+      [
+        "Staff can buy subsidized meals in the canteen.",
+        "员工可以在食堂购买有补贴的餐食。"
+      ],
+      [
+        "The route operates as a subsidized rural service.",
+        "这条线路作为获得补贴的乡村服务运营。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subsidized#English"
+    ]
+  },
+  {
+    "word": "sedate",
+    "ipa": "/sɪˈdeɪt/",
+    "meaning": "平静安稳的；从容的；用药使镇静",
+    "sense": "sedate 的共同画面是让躁动落下来：作形容词可以说生活节奏安稳，作动词通常说用药使人或动物镇静。",
+    "split": "形容词借拉丁 sēdātus，来自 sēdāre“使安静”；动词的旧义联系该拉丁词干，现代用药义也有从 sedation 逆构的分析。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sēdāre",
+        "使落定、安静；通常视为与 sedēre 相应的使动形式"
+      ],
+      [
+        "拉丁语的平行形式：sēdātus；sēdātiō / sēdātīvus",
+        "平静的；镇静；起镇静作用的"
+      ],
+      [
+        "分别借入的英语词：sedate（形容词）；sedation / sedative",
+        "平静的；镇静；镇静药"
+      ],
+      [
+        "现代动词 sedate 的用药义",
+        "与 sedation / sedative 相关的逆构；旧的使平静义另联系拉丁分词干"
+      ]
+    ],
+    "explanation": "at a sedate pace 是不慌不忙地；sedate a patient 是使患者镇静。普通慢节奏不涉及用药，两种用法要看词性。",
+    "usage": "a sedate lifestyle；at a sedate pace；sedate a patient。",
+    "contrast": "slow 只说慢；sedate 作形容词还带平静、从容。sedative 才是镇静药物或镇静的。",
+    "examples": [
+      [
+        "We cycled through the village at a sedate pace.",
+        "我们不慌不忙地骑车穿过村庄。"
+      ],
+      [
+        "The veterinary team sedated the animal before the examination.",
+        "兽医团队在检查前给动物用了镇静药。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sedate#English",
+      "https://www.etymonline.com/word/sedate",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/sedation"
+    ]
+  },
+  {
+    "word": "sedation",
+    "ipa": "/sɪˈdeɪʃən/",
+    "meaning": "镇静；使人镇静的处理或状态",
+    "sense": "sedation 把“躁动降下来”变成一个过程或状态，现代多指医疗中用药帮助患者放松、降低警觉的安排。",
+    "split": "经法语 sédation 或直接来自拉丁 sēdātiō，源于 sēdāre“使安静”；它有独立名词借入链，并非现代英语 sedate 才加后缀造出来。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sēdāre",
+        "使落定、安静；通常视为与 sedēre 相应的使动形式"
+      ],
+      [
+        "拉丁语：sēdātiō",
+        "使平静、镇静"
+      ],
+      [
+        "法语 sédation／拉丁语借入 → 英语 sedation",
+        "镇静处理、镇静状态"
+      ]
+    ],
+    "explanation": "under sedation 指处于镇静状态。镇静存在不同程度，不宜把所有 sedation 都译成完全失去意识的全身麻醉。",
+    "usage": "under sedation；light sedation；the effects of sedation。",
+    "contrast": "sedative 是起镇静作用的药物；sedation 是处理过程或形成的状态。",
+    "examples": [
+      [
+        "The procedure was carried out under sedation.",
+        "这项操作是在镇静状态下进行的。"
+      ],
+      [
+        "The nurse explained what to expect after sedation.",
+        "护士说明了接受镇静后可能出现的情况。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/sedation",
+      "https://en.wiktionary.org/wiki/sedation#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/sedation"
+    ]
+  },
+  {
+    "word": "sedative",
+    "ipa": "/ˈsedətɪv/",
+    "meaning": "镇静药；有镇静作用的",
+    "sense": "sedative 像给过强的躁动踩下缓和的刹车；作名词指起这种作用的药，作形容词说明这种作用。",
+    "split": "中古拉丁 sēdātīvus 经盎格鲁法语 sedatif、中古英语 sedatif 而来，远连 sēdāre“使安静”；现代能对应 sedate 与 -ive，但历史借入更早。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sēdāre",
+        "使落定、安静；通常视为与 sedēre 相应的使动形式"
+      ],
+      [
+        "中古拉丁语：sēdātīvus",
+        "起镇静作用的"
+      ],
+      [
+        "盎格鲁法语 sedatif → 中古英语 sedatif",
+        "使平静的"
+      ],
+      [
+        "英语：sedative",
+        "镇静的；镇静药"
+      ]
+    ],
+    "explanation": "a sedative 是一类作用名称，不是特定药名；sedative effect 说镇静作用。这里先学词义，不把它等同于所有麻醉药或止痛药。",
+    "usage": "a sedative effect；a mild sedative；give a sedative。",
+    "contrast": "painkiller 以缓解疼痛为主要词义；sedative 以镇静为主要词义，两者不能机械互换。",
+    "examples": [
+      [
+        "The doctor discussed the sedative effects of the medicine.",
+        "医生介绍了这种药的镇静作用。"
+      ],
+      [
+        "The record notes that a sedative was administered.",
+        "记录注明已经给予了镇静药。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sedative#English",
+      "https://www.etymonline.com/word/sedative",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/sedation"
+    ]
+  },
+  {
+    "word": "sit",
+    "ipa": "/sɪt/",
+    "meaning": "坐；位于；担任委员；开会；照看",
+    "sense": "sit 最直观是把身体安放在座位上；扩大后，物品可以“放在那儿”，委员可以“占一个席位”。",
+    "split": "经古英语 sittan、中古英语 sitten 继承而来，与拉丁 sedēre 是共同祖先 *sed- 的不同后代，不能画成 sedēre 变成 sit。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "原始日耳曼语 *sitjaną → 古英语 sittan",
+        "坐；经日耳曼语发展，与拉丁语是平行亲属"
+      ],
+      [
+        "中古英语 sitten → 英语 sit",
+        "坐；位于、担任席位"
+      ]
+    ],
+    "explanation": "sit on a chair 是坐着；a house sits on a hill 是房子坐落山上；sit on a committee 是担任委员。sit for a portrait 是坐着让人画肖像。",
+    "usage": "sit down；sit on a committee；sit an exam（英式）；sit for a portrait。",
+    "contrast": "seat 作动词是让别人坐下、安排座位；sit 通常是主体自己坐。过去式和过去分词都是 sat。",
+    "examples": [
+      [
+        "She sat beside the window and opened her book.",
+        "她坐在窗边，打开了书。"
+      ],
+      [
+        "He sits on the museum’s advisory committee.",
+        "他担任博物馆顾问委员会委员。"
+      ],
+      [
+        "The cottage sits at the edge of the forest.",
+        "小屋坐落在森林边缘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sit#English",
+      "https://www.etymonline.com/word/sit"
+    ]
+  },
+  {
+    "word": "sitting",
+    "ipa": "/ˈsɪtɪŋ/",
+    "meaning": "坐着；一次持续活动；开庭或会议的一次；现任的",
+    "sense": "sitting 把“坐下来”的动作拉成一段时间：一口气读完、一场会议、一顿分批供应的餐，都可以围绕这段时间来理解。",
+    "split": "现代 sit + -ing；名词可追到中古英语 sittyng，分词另承古英语 sittende 等形式，后来汇为现代拼写。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "原始日耳曼语 *sitjaną → 古英语 sittan",
+        "坐；经日耳曼语发展，与拉丁语是平行亲属"
+      ],
+      [
+        "古英语 sittende；中古英语 sittyng、sittinge 等",
+        "坐着的；一次坐着办事的时间"
+      ],
+      [
+        "英语：sitting",
+        "坐着；一次活动时段；现任的"
+      ]
+    ],
+    "explanation": "in one sitting 是一口气做完；a sitting president 是现任总统，像仍坐在职位的席位上；a court sitting 是一次开庭。",
+    "usage": "in one sitting；a sitting president；the morning sitting。",
+    "contrast": "session 和名词 sitting 都可指一次会议；sitting 还常说一口气做事的时段，现任义则是形容词。",
+    "examples": [
+      [
+        "I read the short novel in one sitting.",
+        "我一口气读完了这部短篇小说。"
+      ],
+      [
+        "The sitting president attended the ceremony.",
+        "现任总统出席了仪式。"
+      ],
+      [
+        "The court’s morning sitting ended at noon.",
+        "法院上午的庭审在中午结束。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sitting#English",
+      "https://www.etymonline.com/word/sit"
+    ]
+  },
+  {
+    "word": "sitter",
+    "ipa": "英 /ˈsɪtə/；美 /ˈsɪtər/",
+    "meaning": "照看孩子或宠物的人；肖像画模特；坐着的人",
+    "sense": "sitter 的不同义围绕不同的 sit：可以是坐着让画家画的人，也可以是留下来替你照看孩子的人。",
+    "split": "sit + -er，中古英语已有 sitter / sittere；现代照看义也常是 babysitter 等词的简称。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "原始日耳曼语 *sitjaną → 古英语 sittan",
+        "坐；经日耳曼语发展，与拉丁语是平行亲属"
+      ],
+      [
+        "中古英语：sitter / sittere",
+        "坐着的人"
+      ],
+      [
+        "英语：sitter",
+        "肖像模特；坐着的人；照看者（也作 babysitter 的简称）"
+      ]
+    ],
+    "explanation": "找人照看孩子可说 find a sitter；艺术语境 the sitter 是坐着供画家描绘的人。足球口语 a sitter 还可指极容易得分的机会。",
+    "usage": "hire a sitter；a portrait sitter；miss a sitter。",
+    "contrast": "model 范围很广，不必是坐姿肖像模特；sitter 在肖像画里突出被描绘的人。",
+    "examples": [
+      [
+        "We need a sitter for the children on Saturday evening.",
+        "周六晚上我们需要一个人来照看孩子。"
+      ],
+      [
+        "The painter asked the sitter to turn slightly towards the light.",
+        "画家请肖像模特略微转向光线。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sitter#English",
+      "https://www.etymonline.com/word/sit"
+    ]
+  },
+  {
+    "word": "seat",
+    "ipa": "/siːt/",
+    "meaning": "座位；席位；所在地；给……安排座位",
+    "sense": "seat 从可以坐下的位置开始：会议里的一把椅子能代表一个席位，一座城市也能成为权力落脚的中心。",
+    "split": "经中古英语 sete，联系古英语 sǣte 与古诺尔斯语 sæti；具体借入、同源影响有不同分析。远源与 sit、sedēre 同属 *sed-。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "日耳曼语的座位名称；古英语 sǣte、古诺尔斯语 sæti",
+        "座位、所在处；两种形式关系及借入影响有不同分析"
+      ],
+      [
+        "中古英语 sete → 英语 seat",
+        "座位；所在地；给……安排座位"
+      ]
+    ],
+    "explanation": "take a seat 是请坐；win a seat 是赢得议会等席位；seat six people 是能坐六人。the seat of government 是政府所在地。",
+    "usage": "take a seat；a window seat；win a seat；be seated。",
+    "contrast": "chair 常是可移动的椅子；seat 更广，长凳上的位置、车座和议会席位都可以是 seat。",
+    "examples": [
+      [
+        "The table can seat six people comfortably.",
+        "这张桌子能让六个人舒适地围坐。"
+      ],
+      [
+        "She won a seat on the local council.",
+        "她赢得了地方议会的一个席位。"
+      ],
+      [
+        "The city became the seat of government.",
+        "这座城市成为政府所在地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seat#English",
+      "https://www.etymonline.com/word/seat"
+    ]
+  },
+  {
+    "word": "seating",
+    "ipa": "/ˈsiːtɪŋ/",
+    "meaning": "座位；座位安排；安排入座",
+    "sense": "seating 像从上方看一个房间里如何坐人：有多少座位、摆在哪里、谁坐哪儿。",
+    "split": "seat + -ing，表示安排座位的过程，也集合地指可供使用的座位。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "日耳曼语的座位名称；古英语 sǣte、古诺尔斯语 sæti",
+        "座位、所在处；两种形式关系及借入影响有不同分析"
+      ],
+      [
+        "中古英语 sete → 英语 seat",
+        "座位；所在地；给……安排座位"
+      ],
+      [
+        "英语：seating",
+        "座位的总量、布置或安排入座"
+      ]
+    ],
+    "explanation": "seating for forty 指能坐四十人；a seating plan 是座次表；outdoor seating 是室外座位区。",
+    "usage": "a seating plan；seating capacity；outdoor seating；comfortable seating。",
+    "contrast": "a seat 是单个位置；seating 常作不可数名词谈整体座位条件、数量或安排。",
+    "examples": [
+      [
+        "The café has outdoor seating overlooking the river.",
+        "咖啡馆有面向河流的室外座位。"
+      ],
+      [
+        "We revised the seating plan before the guests arrived.",
+        "客人到来前，我们调整了座次表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/seating#English",
+      "https://www.etymonline.com/word/seat"
+    ]
+  },
+  {
+    "word": "settle",
+    "ipa": "/ˈsetəl/",
+    "meaning": "安顿、定居；平息；沉降；解决；结清",
+    "sense": "settle 像原本晃动、悬着的东西终于落到一个稳定位置：人安顿下来，尘土落下，争议也有了定论。",
+    "split": "定居义继承古英语 setlan，来自 setl“座位”；现代词也汇入或受到中古英语 sahtlen“和解、平息”的影响，不能把所有义硬说成单一路线。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "古英语 setl → setlan",
+        "座位 → 安放在固定位置、使坐下"
+      ],
+      [
+        "中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响",
+        "固定、安定；和解义有另一条历史影响"
+      ],
+      [
+        "英语：settle",
+        "安顿、定居；沉降；解决、结清"
+      ]
+    ],
+    "explanation": "settle in 是逐渐适应新环境；settle a dispute 是解决争议；settle a bill 是结清账单；settle for 是接受一个未必最满意的选择。",
+    "usage": "settle down；settle in；settle a dispute；settle for；settle on。",
+    "contrast": "solve 常突出找出问题答案；settle 还可指达成约定、付款或安排妥当，不一定证明找到唯一正确答案。",
+    "examples": [
+      [
+        "It took us a few weeks to settle into the new house.",
+        "我们花了几周时间才适应新家。"
+      ],
+      [
+        "The two sides settled the dispute after a long discussion.",
+        "双方经过长时间讨论，解决了争议。"
+      ],
+      [
+        "Leave the jar still so that the particles can settle.",
+        "让罐子静置，好让颗粒沉到底部。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/settle#English",
+      "https://www.etymonline.com/word/settle"
+    ]
+  },
+  {
+    "word": "settlement",
+    "ipa": "/ˈsetəlmənt/",
+    "meaning": "定居点；和解协议；解决；结算",
+    "sense": "settlement 把 settle 的结果装进一个名词：人落脚形成住处，争议落定形成协议，账款落定形成结算。",
+    "split": "settle + -ment；同时继承 settle 在定居、安定以及和解方面的多条意义。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "古英语 setl → setlan",
+        "座位 → 安放在固定位置、使坐下"
+      ],
+      [
+        "中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响",
+        "固定、安定；和解义有另一条历史影响"
+      ],
+      [
+        "英语：settle",
+        "安顿、定居；沉降；解决、结清"
+      ],
+      [
+        "英语：settlement",
+        "定居及其形成的住处；和解、结算等结果"
+      ]
+    ],
+    "explanation": "a small settlement 是小型聚居点；reach a settlement 是达成和解；payment settlement 谈款项结算。不要看到同一词就套同一个中文译法。",
+    "usage": "a rural settlement；reach a settlement；a settlement agreement；final settlement。",
+    "contrast": "village 指村庄；settlement 强调人们定居形成的聚居点。agreement 可是任何协议，settlement 常让一项争议或未了事项落定。",
+    "examples": [
+      [
+        "The road connects several small settlements in the valley.",
+        "这条路连接了山谷中的几个小型聚居点。"
+      ],
+      [
+        "The parties reached a settlement before the trial.",
+        "各方在开庭前达成了和解。"
+      ],
+      [
+        "Final settlement of the invoice is due next month.",
+        "这张发票对应款项应在下个月结清。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/settlement#English",
+      "https://www.etymonline.com/word/settle"
+    ]
+  },
+  {
+    "word": "settler",
+    "ipa": "英 /ˈsetlə/；美 /ˈsetlər/",
+    "meaning": "移居者；定居者",
+    "sense": "settler 是来到一个地方长期落脚、建立生活的人，重点是迁来并定居这个过程。",
+    "split": "settle + -er，表示从事定居行为的人。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "古英语 setl → setlan",
+        "座位 → 安放在固定位置、使坐下"
+      ],
+      [
+        "中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响",
+        "固定、安定；和解义有另一条历史影响"
+      ],
+      [
+        "英语：settle",
+        "安顿、定居；沉降；解决、结清"
+      ],
+      [
+        "英语：settler",
+        "迁来并定居的人"
+      ]
+    ],
+    "explanation": "历史书里常谈迁徙与殖民。称某人为 settler 不等于那片土地此前无人居住，也不能自动忽略原住群体。",
+    "usage": "early settlers；new settlers；a settler community。",
+    "contrast": "resident 是现在住在这里的人；settler 更强调迁来建立住处的经历或历史身份。",
+    "examples": [
+      [
+        "The museum displays tools used by early settlers.",
+        "博物馆展出了早期移居者使用的工具。"
+      ],
+      [
+        "The account describes contact between settlers and Indigenous communities.",
+        "这份记述描述了移居者与原住民群体之间的接触。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/settler#English",
+      "https://www.etymonline.com/word/settle"
+    ]
+  },
+  {
+    "word": "settled",
+    "ipa": "/ˈsetəld/",
+    "meaning": "安定下来的；已解决的；固定的",
+    "sense": "settled 像一个人终于把箱子放好、知道日子该怎么过，也像一件争议终于不再悬着。",
+    "split": "settle + -ed，过去分词转为形容词，含“已经安顿、已经落定”的结果感。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "古英语 setl → setlan",
+        "座位 → 安放在固定位置、使坐下"
+      ],
+      [
+        "中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响",
+        "固定、安定；和解义有另一条历史影响"
+      ],
+      [
+        "英语：settle",
+        "安顿、定居；沉降；解决、结清"
+      ],
+      [
+        "英语：settled",
+        "已安顿、固定或解决的"
+      ]
+    ],
+    "explanation": "feel settled 是感到安顿下来；a settled routine 是稳定的日常安排；a settled question 是已有定论的问题。",
+    "usage": "feel settled；a settled routine；a settled way of life；a settled issue。",
+    "contrast": "stable 强调不易变化；settled 还常让人想到此前有变化、不确定，而现在已安顿或有了结果。",
+    "examples": [
+      [
+        "After a month, the children finally felt settled at school.",
+        "一个月后，孩子们终于觉得在学校安顿下来了。"
+      ],
+      [
+        "We now have a settled routine that works for everyone.",
+        "我们现在有了一套适合所有人的稳定日常安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/settled#English",
+      "https://www.etymonline.com/word/settle"
+    ]
+  },
+  {
+    "word": "unsettled",
+    "ipa": "/ʌnˈsetəld/",
+    "meaning": "心神不宁的；未解决的；不稳定、多变的",
+    "sense": "unsettled 像椅子没放稳：人心里悬着，问题没有定论，天气也总在变。",
+    "split": "un-（不）+ settled；也可作 unsettle 的过去分词，表示被弄得不安。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "古英语 setl → setlan",
+        "座位 → 安放在固定位置、使坐下"
+      ],
+      [
+        "中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响",
+        "固定、安定；和解义有另一条历史影响"
+      ],
+      [
+        "英语：settle",
+        "安顿、定居；沉降；解决、结清"
+      ],
+      [
+        "英语：settled",
+        "安定、落定的"
+      ],
+      [
+        "英语：unsettled",
+        "没有安定、尚未解决；被扰乱的"
+      ]
+    ],
+    "explanation": "unsettled weather 是多变天气；feel unsettled 是心里不踏实；an unsettled question 是未决问题。",
+    "usage": "feel unsettled；unsettled weather；an unsettled dispute。",
+    "contrast": "uncertain 偏不确定；unsettled 还可强调不安、缺少稳定，或事情一直没有了结。",
+    "examples": [
+      [
+        "The sudden change left everyone feeling unsettled.",
+        "突如其来的变化让大家心里都不踏实。"
+      ],
+      [
+        "The forecast suggests unsettled weather over the weekend.",
+        "预报显示周末天气多变。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsettled#English",
+      "https://www.etymonline.com/word/settle"
+    ]
+  },
+  {
+    "word": "unsettle",
+    "ipa": "/ʌnˈsetəl/",
+    "meaning": "使不安；扰乱；动摇原有稳定状态",
+    "sense": "unsettle 像把原先安稳放好的椅子轻轻晃了一下，让人一下找不到踏实感。",
+    "split": "un- 在这里表示解除或逆转 + settle，形成“打破安定状态”的动词。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "古英语 setl → setlan",
+        "座位 → 安放在固定位置、使坐下"
+      ],
+      [
+        "中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响",
+        "固定、安定；和解义有另一条历史影响"
+      ],
+      [
+        "英语：settle",
+        "安顿、定居；沉降；解决、结清"
+      ],
+      [
+        "英语：unsettle",
+        "扰乱安定状态；使不安"
+      ]
+    ],
+    "explanation": "常以消息、变化、陌生环境作主语。被 unsettle 的可以是人，也可以是习惯或原有看法。",
+    "usage": "unsettle someone；unsettle the team；unsettle an assumption。",
+    "contrast": "upset 常直接说难过或打乱；unsettle 常是让人隐隐不安、失去原来的稳定感。",
+    "examples": [
+      [
+        "The unexplained noise unsettled the passengers.",
+        "来历不明的声响让乘客感到不安。"
+      ],
+      [
+        "The discovery unsettled his long-held assumptions.",
+        "这个发现动摇了他长期以来的看法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsettle#English",
+      "https://www.etymonline.com/word/settle"
+    ]
+  },
+  {
+    "word": "resettle",
+    "ipa": "/ˌriːˈsetəl/",
+    "meaning": "重新定居；重新安置",
+    "sense": "resettle 像原来的生活地点无法继续使用，于是把生活重新安放到另一个地方。",
+    "split": "re-（重新）+ settle，英语中派生。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "古英语 setl → setlan",
+        "座位 → 安放在固定位置、使坐下"
+      ],
+      [
+        "中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响",
+        "固定、安定；和解义有另一条历史影响"
+      ],
+      [
+        "英语：settle",
+        "安顿、定居；沉降；解决、结清"
+      ],
+      [
+        "英语：resettle",
+        "重新安排住处；迁到新地方定居"
+      ]
+    ],
+    "explanation": "可以是人自己 resettle，也可以是机构 resettle families。具体搬迁是否自愿，要由上下文说明，词本身并不保证。",
+    "usage": "resettle in another town；resettle families；be resettled。",
+    "contrast": "relocate 强调换位置；resettle 更强调搬去后重新建立生活或安排长期住处。",
+    "examples": [
+      [
+        "The family resettled in a nearby town after the flood.",
+        "洪水之后，这家人在附近一座城镇重新定居。"
+      ],
+      [
+        "The programme helped residents resettle close to their workplaces.",
+        "这个项目帮助居民在工作地点附近重新安家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resettle#English",
+      "https://www.etymonline.com/word/settle"
+    ]
+  },
+  {
+    "word": "resettlement",
+    "ipa": "/ˌriːˈsetəlmənt/",
+    "meaning": "重新安置；重新定居",
+    "sense": "resettlement 关注重新安家的整个安排：找到住处、迁移，再逐步恢复生活。",
+    "split": "re- + settlement，也可联系 resettle + -ment；这是英语内部的派生关系。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "古英语 setl → setlan",
+        "座位 → 安放在固定位置、使坐下"
+      ],
+      [
+        "中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响",
+        "固定、安定；和解义有另一条历史影响"
+      ],
+      [
+        "英语：settle",
+        "安顿、定居；沉降；解决、结清"
+      ],
+      [
+        "英语：resettle",
+        "重新定居、重新安置"
+      ],
+      [
+        "英语：resettlement",
+        "重新安置的过程或安排"
+      ]
+    ],
+    "explanation": "常见于搬迁、灾后安置或难民安置语境。它既可说计划，也可说实际过程，不能仅凭这个名词判断安置是否顺利。",
+    "usage": "a resettlement programme；resettlement assistance；a resettlement site。",
+    "contrast": "settlement 可以只是一个聚居点；resettlement 常强调已有生活被迁移后再安顿。",
+    "examples": [
+      [
+        "The charity provided language classes as part of its resettlement support.",
+        "这家慈善机构把语言课作为重新安置支持的一部分。"
+      ],
+      [
+        "Residents asked for more information about the resettlement plan.",
+        "居民要求获得更多关于重新安置计划的信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/resettlement#English",
+      "https://www.etymonline.com/word/settle"
+    ]
+  },
+  {
+    "word": "residue",
+    "ipa": "英 /ˈrezɪdjuː/；美 /ˈrezɪduː/",
+    "meaning": "残留物；剩余部分",
+    "sense": "residue 像液体蒸发后杯底留下的一圈痕迹：主体走了，仍有一点东西留在原处。",
+    "split": "拉丁 residuum 是 residuus“留下的”的中性名词用法，经古法语 residu、中古英语 residue 进入英语；远连 residēre“留下”。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：re- + sedēre → residēre",
+        "坐下停留；留下、居住"
+      ],
+      [
+        "拉丁语：residuus → residuum",
+        "留下的 → 留下来的东西"
+      ],
+      [
+        "古法语 residu → 中古英语 residue",
+        "剩余物"
+      ],
+      [
+        "英语：residue",
+        "残留物；剩余部分"
+      ]
+    ],
+    "explanation": "可以是物质残留，也可以比喻 a residue of doubt“一点尚未消失的疑虑”。它不一定都沉到底部，也不一定有毒。",
+    "usage": "sticky residue；chemical residue；a residue of doubt。",
+    "contrast": "sediment 强调沉积下来的颗粒；residue 泛指某过程后留下的东西，可能是黏痕、粉末或抽象影响。",
+    "examples": [
+      [
+        "The label left a sticky residue on the glass.",
+        "标签在玻璃上留下了黏性残留物。"
+      ],
+      [
+        "A residue of doubt remained after the explanation.",
+        "解释之后，仍留有一点疑虑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/residue#English"
+    ]
+  },
+  {
+    "word": "residual",
+    "ipa": "英 /rɪˈzɪdjuəl/；美 /rɪˈzɪdʒuəl/",
+    "meaning": "残留的；剩余的；残差；后续使用作品的报酬",
+    "sense": "residual 像擦掉主要痕迹后还留着的那一点：可以是余热、剩余影响，也可以是计算后剩下的误差。",
+    "split": "现代可分析 residue + -al；词源也有法语 résiduel 影响的分析，二者都回到拉丁 residuum / residuus。",
+    "history": [
+      [
+        "重构原始印欧语：*sed-",
+        "坐；星号表示根据后代语言重构"
+      ],
+      [
+        "拉丁语：sedēre；分词 sessus",
+        "坐；停留、占据一个位置"
+      ],
+      [
+        "拉丁语：re- + sedēre → residēre",
+        "坐下停留；留下、居住"
+      ],
+      [
+        "拉丁语：residuus / residuum",
+        "留下的；剩余物"
+      ],
+      [
+        "英语 residue + -al；另有法语 résiduel 来源分析",
+        "形成表示残留、剩余的形容词"
+      ],
+      [
+        "英语：residual",
+        "残余的；名词可指残差，复数也指作品后续使用报酬"
+      ]
+    ],
+    "explanation": "residual heat 是余热；统计学 a residual 通常是观察值减去模型预测值；影视业 residuals 是作品再次使用等带来的后续报酬。三个场景都要按语境理解。",
+    "usage": "residual heat；a residual effect；plot the residuals；receive residuals。",
+    "contrast": "residue 常是实际残留物；residual 多作形容词。数学 residual 是定义明确的差值，不是随便称剩余数字。",
+    "examples": [
+      [
+        "Residual heat kept the room warm after the stove went out.",
+        "炉火熄灭后，余热仍让房间保持温暖。"
+      ],
+      [
+        "The analyst plotted the residuals to inspect the model’s errors.",
+        "分析师画出了残差图，用来检查模型的误差。"
+      ],
+      [
+        "The actor continued to receive residuals from repeat broadcasts.",
+        "这位演员继续收到节目重播带来的后续报酬。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/residual",
+      "https://en.wiktionary.org/wiki/residual#English"
+    ]
+  }
+]

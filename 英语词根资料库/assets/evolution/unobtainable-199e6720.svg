@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="670" viewBox="0 0 1000 670" role="img">
+<title>unobtainable：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="668" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：tenēre（teneō）；分词 tentus</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">握住、持有、保持</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：ob- + tenēre → obtinēre</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">握住、取得；占有</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">法语：obtenir；中古英语：obteinen</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">得到、取得</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：obtain</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">获得；适用、存在（正式）</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：obtainable</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">可以获得的</text>
+<text class="note" x="500" y="533" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="562" text-anchor="middle" font-size="25" font-weight="600">英语：unobtainable</text>
+<text class="note" x="500" y="598" text-anchor="middle" font-size="20">无法取得的</text>
+</svg>

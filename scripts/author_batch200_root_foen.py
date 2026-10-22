@@ -1,0 +1,9 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+W=[E('fennel','/ˈfenəl/','茴香；小茴香','想起细细羽毛状的叶子，以及厨房里那股熟悉的茴香味。','最终来自拉丁 faeniculum／feniculum，是 faenum 干草的小称形式；经通俗拉丁形式、早期日耳曼借入，见于古英语 fenol／finul，后来成为 fennel。',[['拉丁 faenum → faeniculum／feniculum','干草 → 小干草；成为植物名称'],['古英语 fenol／finul → 中古英语 fenel → fennel','茴香名称进入英语并沿用']],'早期命名通常被联系到它细叶的外观和香气，这是对名称的解释，不是说茴香就是晒干的草。做菜时 fennel 可以说植物、叶子或食用部分；fennel seeds 是小茴香籽，fennel bulb 常指球茎茴香可食的膨大叶基。','fennel seeds；fennel bulb；roasted fennel；fresh fennel。','fennel 是茴香；anise 是另一种有相似香味的植物。中文八角对应 star anise，也不能直接当作 fennel。',('She added a pinch of fennel seeds to the sauce.','她往酱汁里加了一小撮小茴香籽。'),('We served roasted fennel with the fish.','我们用烤茴香头搭配鱼肉。'),sources=['https://www.etymonline.com/word/fennel','https://en.wiktionary.org/wiki/fennel#English'])]
+ROOT=dict(id='C0439',meaning='干草；茴香命名中的历史材料',core='FOEN / FAEN = HAY',image='茴香细细的叶子像一缕缕草，历史名称从干草的小称形式走来。',intro='拉丁 faenum，也写作 fenum，表示干草。fennel 的祖先 faeniculum／feniculum 原来有小干草的字面结构，后来固定为茴香名称。',forms='faenum／fenum → faeniculum／feniculum → 早期英语植物名称 → fennel。不同历史拼法不能当成几个独立的现代英语词根。',branches=[['厨房与植物名称','fennel']],contrasts='fennel 需要作为一个完整植物名称记。foen- 并不是今天可以随手加在任意英语词前、表示干草的高产前缀。',practice='The fennel seeds gave the dish a warm, sweet aroma.\n\n小茴香籽给这道菜带来温暖、微甜的香气。',words=['fennel'],exclude={'Foeniculum':'拉丁植物属名，本轮不单列。'})
+if __name__=='__main__':
+ for name,data in [('roots_foen',[ROOT]),('words_foen',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

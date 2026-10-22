@@ -1,0 +1,3630 @@
+[
+  {
+    "word": "national",
+    "ipa": "/ˈnæʃənəl/",
+    "meaning": "国家的；全国的；国民",
+    "sense": "national 把范围拉到一个国家：全国比赛、国家博物馆，或者某国国民，都围着这层身份。",
+    "split": "来自中古法语 national；现代对应 nation + -al。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ]
+    ],
+    "explanation": "nation 从按出身联系的人群发展为国家、民族共同体，national 则说明与它有关。作名词可指某国国民。",
+    "usage": "a national park；national identity；national news；foreign nationals。",
+    "contrast": "national 关心一个国家层面；international 涉及不同国家之间。national 不一定表示政府所有。",
+    "examples": [
+      [
+        "The story became national news.",
+        "这件事成了全国新闻。"
+      ],
+      [
+        "The museum displays objects of national importance.",
+        "博物馆展出具有全国性重要意义的物品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/national#English"
+    ]
+  },
+  {
+    "word": "international",
+    "ipa": "英 /ˌɪntəˈnæʃənəl/；美 /ˌɪntərˈnæʃənəl/",
+    "meaning": "国际的；国家之间的",
+    "sense": "international 像把几张国家地图放在桌上，讨论它们之间怎样往来、合作或比赛。",
+    "split": "inter-（在……之间）+ national（国家的）。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：inter- + national → international",
+        "涉及不同国家之间的事务"
+      ]
+    ],
+    "explanation": "这个构词把国家作为相互联系的单位。国际比赛可以由许多国家参加，也不必包括全世界所有国家。",
+    "usage": "international cooperation；an international flight；an international conference。",
+    "contrast": "global 强调整个世界；international 只需跨越国家之间的关系。",
+    "examples": [
+      [
+        "Scientists met at an international conference.",
+        "科学家们在一次国际会议上见面。"
+      ],
+      [
+        "The airport handles domestic and international flights.",
+        "这座机场运营国内和国际航班。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/international#English"
+    ]
+  },
+  {
+    "word": "natural",
+    "ipa": "/ˈnætʃərəl/",
+    "meaning": "自然的；天生的；不做作的；合乎情理的",
+    "sense": "natural 的核心是“本来就这样长出来、表现出来”。树木是自然的，熟练而不别扭的动作也可以 natural。",
+    "split": "拉丁语 nātūrālis 经法语传入；现代可联系 nature + -al，但不是最初在英语里现拼。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "英语：natural",
+        "自然的；天生的；合乎情理的"
+      ]
+    ],
+    "explanation": "出生与本性带来天生、自然界的含义；符合本性或习惯的表现又成为自然、不做作、可以理解。",
+    "usage": "natural resources；a natural smile；a natural reaction；a natural at music。",
+    "contrast": "natural 描述来源或状态，不自动等于安全、健康或更好；人工与天然不是好坏判断本身。",
+    "examples": [
+      [
+        "She gave a warm, natural smile.",
+        "她露出温暖而自然的微笑。"
+      ],
+      [
+        "It is natural to feel nervous before a performance.",
+        "演出前紧张是很自然的事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/natural#English"
+    ]
+  },
+  {
+    "word": "nature",
+    "ipa": "英 /ˈneɪtʃə/；美 /ˈneɪtʃər/",
+    "meaning": "自然界；本性；事物的性质",
+    "sense": "nature 一边指山川草木，一边指某样东西“本来是什么样”。两边都抓住自然生长、本来构成的画面。",
+    "split": "来自拉丁语 nātūra“出生、本来构成”，经法语进入英语；连接 nāscī、nātus。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra",
+        "出生；天生的构成与性质"
+      ],
+      [
+        "古法语：nature",
+        "本性；自然"
+      ],
+      [
+        "英语：nature",
+        "自然界；本性；性质"
+      ]
+    ],
+    "explanation": "从出生时的构成发展为本性、特质；也概括自行生长运行的自然世界。the nature of a problem 是问题的性质。",
+    "usage": "human nature；by nature；the nature of…；close to nature。",
+    "contrast": "nature 不是所有情况下都译成大自然；a problem of this nature 是这种性质的问题。",
+    "examples": [
+      [
+        "We spent the weekend enjoying nature.",
+        "我们周末去享受大自然了。"
+      ],
+      [
+        "I did not understand the nature of the problem.",
+        "我没弄清这个问题的性质。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nature#English"
+    ]
+  },
+  {
+    "word": "nation",
+    "ipa": "/ˈneɪʃən/",
+    "meaning": "民族；国家；国家共同体",
+    "sense": "nation 先想一群人把自己看作“我们这个共同体”，可能由历史、文化、语言或共同认同联系起来。",
+    "split": "拉丁语 nātiō 起初连接出生、出身，后来指按出身相连的人群，经法语 nacion 进入英语。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "英语：nation",
+        "民族；国家共同体"
+      ]
+    ],
+    "explanation": "现代已不能只按血缘理解；nation 也常代指国家，但民族共同体与国家制度并非永远一一对应。",
+    "usage": "a nation’s history；the whole nation；a nation state。",
+    "contrast": "state 常指政治组织或政府权力；country 常指国家、国土；nation 更容易突出人民及共同认同。",
+    "examples": [
+      [
+        "The news was discussed across the nation.",
+        "全国各地都在讨论这条新闻。"
+      ],
+      [
+        "The exhibition explores the history of the nation.",
+        "展览探索了这个民族的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nation#English"
+    ]
+  },
+  {
+    "word": "native",
+    "ipa": "/ˈneɪtɪv/",
+    "meaning": "本地的；土生的；母语的；原生的",
+    "sense": "native 问“从哪里长出来、在哪个环境里本来就属于这里”。人、植物、语言和软件功能都能用。",
+    "split": "拉丁语 nātīvus“生来的、本地出生的”经法语 natif 传入；与 naive 同源。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātīvus",
+        "生来具有的；本地出生的"
+      ],
+      [
+        "古法语：natif",
+        "本地的；天生的"
+      ],
+      [
+        "英语：native",
+        "本地的；天生的；母语的"
+      ]
+    ],
+    "explanation": "出生地发展为本土来源，第一语言成为 native language；技术中则表示系统本身就支持，不需额外转换。",
+    "usage": "a native speaker；native plants；native to…；native support。",
+    "contrast": "native 不等于民族或国籍的完整判断。描述具体群体时尊重其名称；indigenous 有其历史和政治语境。",
+    "examples": [
+      [
+        "This plant is native to the region.",
+        "这种植物原产于这一地区。"
+      ],
+      [
+        "She speaks English with native fluency.",
+        "她说英语非常流利，接近母语水平。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/native#English"
+    ]
+  },
+  {
+    "word": "pregnant",
+    "ipa": "/ˈpreɡnənt/",
+    "meaning": "怀孕的；意味深长的；充满的",
+    "sense": "pregnant 的直接画面是正在孕育新生命；比喻用法像一句话里藏着还没展开的许多意思。",
+    "split": "来自拉丁语 praegnāns，经法语传入；更远的构成通常联系 prae- 与古形 *gnāscī，但这一步保留“可能”。",
+    "history": [
+      [
+        "拉丁语：praegnāns",
+        "怀孕的；更远构成可能含“在前”与“出生”"
+      ],
+      [
+        "古法语：preignant / pregnant",
+        "怀孕的；饱含的"
+      ],
+      [
+        "英语：pregnant",
+        "怀孕的；含义丰富的"
+      ]
+    ],
+    "explanation": "孕育着东西的画面可帮助理解 pregnant with meaning。某些旧有“有说服力”义的来源存在混合解释，不把一切硬拉成单线。",
+    "usage": "be pregnant；pregnant with possibility；a pregnant pause。",
+    "contrast": "pregnant pause 不是怀孕者停顿，而是充满意味、让人等待下文的沉默。",
+    "examples": [
+      [
+        "She announced that she was pregnant.",
+        "她宣布自己怀孕了。"
+      ],
+      [
+        "A pregnant pause followed his question.",
+        "他的问题之后，出现了一阵意味深长的沉默。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/pregnant",
+      "https://en.wiktionary.org/wiki/pregnant#English"
+    ]
+  },
+  {
+    "word": "naturally",
+    "ipa": "/ˈnætʃərəli/",
+    "meaning": "自然地；天生地；当然",
+    "sense": "naturally 可以说事情自己发生，也可以说能力像本来就会一样表现出来；句首还常表示“这很正常”。",
+    "split": "natural + -ly。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "英语：natural",
+        "自然的；天生的；合乎情理的"
+      ],
+      [
+        "英语：naturally",
+        "按照自然、本性或常理地"
+      ]
+    ],
+    "explanation": "come naturally to someone 是做起来顺手、不费力；Naturally, … 是把后面的反应看作理所当然。",
+    "usage": "occur naturally；come naturally to…；naturally curious；naturally, … 。",
+    "contrast": "naturally 不总表示未经人工；Naturally, I was worried 的意思是我当然担心。",
+    "examples": [
+      [
+        "These colours occur naturally in the stone.",
+        "这些颜色是石头天然形成的。"
+      ],
+      [
+        "Speaking in public does not come naturally to me.",
+        "当众讲话对我来说并不是自然而然就能做好的事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturally#English"
+    ]
+  },
+  {
+    "word": "pregnancy",
+    "ipa": "/ˈpreɡnənsi/",
+    "meaning": "怀孕；妊娠期",
+    "sense": "pregnancy 把“正在孕育生命”作为一个状态或阶段来谈，而不是形容某个人。",
+    "split": "pregnant 去掉结尾 -t，与名词后缀 -cy 对应，形成 pregnancy。",
+    "history": [
+      [
+        "拉丁语：praegnāns",
+        "怀孕的；更远构成可能含“在前”与“出生”"
+      ],
+      [
+        "古法语：preignant / pregnant",
+        "怀孕的；饱含的"
+      ],
+      [
+        "英语：pregnant",
+        "怀孕的；含义丰富的"
+      ],
+      [
+        "英语：pregnancy",
+        "怀孕这一状态或阶段"
+      ]
+    ],
+    "explanation": "可以说 during pregnancy，也可以把一次妊娠经历作为可数事件。具体健康问题不能只从词的定义判断。",
+    "usage": "during pregnancy；early pregnancy；announce a pregnancy。",
+    "contrast": "pregnant 是形容词，pregnancy 是名词：she is pregnant；her pregnancy。",
+    "examples": [
+      [
+        "She kept a journal during her pregnancy.",
+        "她怀孕期间一直写日记。"
+      ],
+      [
+        "They shared the news of the pregnancy with their family.",
+        "他们把怀孕的消息告诉了家人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/pregnancy#English"
+    ]
+  },
+  {
+    "word": "internationally",
+    "ipa": "英 /ˌɪntəˈnæʃənəli/；美 /ˌɪntərˈnæʃənəli/",
+    "meaning": "在国际上；跨国地",
+    "sense": "internationally 把动作或名气放到国界以外：产品在多国销售，作品受到多国认可。",
+    "split": "international + -ly。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：international → internationally",
+        "国家之间的 → 在国际范围内"
+      ]
+    ],
+    "explanation": "常修饰 known、recognized、compete、trade，说明涉及国家之间的范围。",
+    "usage": "internationally known；compete internationally；sell internationally。",
+    "contrast": "nationally 是全国范围；internationally 是跨越国家的范围，不保证处处都一样。",
+    "examples": [
+      [
+        "Her work is internationally recognized.",
+        "她的作品获得了国际认可。"
+      ],
+      [
+        "The company began selling internationally last year.",
+        "这家公司去年开始向国外销售。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/internationally#English"
+    ]
+  },
+  {
+    "word": "nationalist",
+    "ipa": "/ˈnæʃənəlɪst/",
+    "meaning": "民族主义者；民族主义的",
+    "sense": "nationalist 把某个民族或国家的认同、独立或利益放在政治主张的中心；具体主张差异很大。",
+    "split": "national + -ist，表示持有相关主张的人，也可作形容词。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：nationalist",
+        "以民族或国家认同为中心的主张者"
+      ]
+    ],
+    "explanation": "它可以涉及争取独立，也可以涉及强调国家利益。不能单凭一个标签判定某人的全部立场。",
+    "usage": "a nationalist movement；nationalist ideas；a nationalist leader。",
+    "contrast": "patriotic 常是爱国情感；nationalist 更常指一种政治立场或运动，语境不同。",
+    "examples": [
+      [
+        "The historian studied the rise of nationalist movements.",
+        "历史学家研究了民族主义运动的兴起。"
+      ],
+      [
+        "The debate revealed different versions of nationalist thought.",
+        "辩论显露出不同版本的民族主义思想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nationalist#English"
+    ]
+  },
+  {
+    "word": "supernatural",
+    "ipa": "英 /ˌsuːpəˈnætʃərəl/；美 /ˌsuːpərˈnætʃərəl/",
+    "meaning": "超自然的",
+    "sense": "supernatural 在故事和信仰中，把事件归到普通自然规律以外，例如鬼魂、法力或神迹。",
+    "split": "中古拉丁语 super-（在……之上、之外）+ nātūrālis，经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → supernātūrālis",
+        "自然 → 超出自然的"
+      ],
+      [
+        "法语：supernaturel",
+        "超自然的"
+      ],
+      [
+        "英语：supernatural",
+        "被认为超出自然规律的"
+      ]
+    ],
+    "explanation": "它分类的是被认为超越自然解释的事物，不是说“非常自然”。词语本身不证明相关现象存在。",
+    "usage": "supernatural powers；a supernatural story；belief in the supernatural。",
+    "contrast": "unusual 只是不同寻常；supernatural 明确涉及被认为超出自然规律。",
+    "examples": [
+      [
+        "The novel contains several supernatural events.",
+        "小说中有几件超自然事件。"
+      ],
+      [
+        "She enjoys stories about the supernatural.",
+        "她喜欢关于超自然现象的故事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supernatural#English"
+    ]
+  },
+  {
+    "word": "renaissance",
+    "ipa": "英 /rəˈneɪsəns/；美 /ˈrenəsɑːns/",
+    "meaning": "复兴；文艺复兴",
+    "sense": "renaissance 像一座沉寂的剧院重新亮灯：曾经衰落的艺术、活动或地方又活跃起来。",
+    "split": "借自法语 renaissance“重生”，来自 re- + naître“出生”；naître 源于 nāscī。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "法语：naître → renaître → renaissance",
+        "出生 → 重生 → 重生、复兴"
+      ],
+      [
+        "英语：renaissance",
+        "复兴；文艺复兴"
+      ]
+    ],
+    "explanation": "普通名词可指各种复兴；大写 Renaissance 常指欧洲文艺复兴这一历史时期。重生是比喻，不是所有东西从零开始。",
+    "usage": "a cultural renaissance；the Renaissance；a renaissance in… 。",
+    "contrast": "revival 也表示复兴；renaissance 往往更有广泛繁荣、焕发生机的色彩。",
+    "examples": [
+      [
+        "The town is experiencing a renaissance in local crafts.",
+        "这座小镇的本地手工艺正在复兴。"
+      ],
+      [
+        "The course introduces major works of the Renaissance.",
+        "这门课介绍文艺复兴时期的主要作品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/renaissance#English"
+    ]
+  },
+  {
+    "word": "nationally",
+    "ipa": "/ˈnæʃənəli/",
+    "meaning": "在全国；从国家层面",
+    "sense": "nationally 像把镜头从一座城市拉到全国，说明某事不只发生在本地。",
+    "split": "national + -ly。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：nationally",
+        "在全国或国家层面地"
+      ]
+    ],
+    "explanation": "常用于传播范围、声誉或统计比较，具体是哪个国家由上下文决定。",
+    "usage": "nationally known；broadcast nationally；compete nationally。",
+    "contrast": "locally 在当地；nationally 在全国；internationally 在国家之间。",
+    "examples": [
+      [
+        "The programme is broadcast nationally.",
+        "这个节目在全国播出。"
+      ],
+      [
+        "The brand is well known locally but not nationally.",
+        "这个品牌在当地很有名，但在全国范围还不出名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nationally#English"
+    ]
+  },
+  {
+    "word": "nationalism",
+    "ipa": "/ˈnæʃənəlɪzəm/",
+    "meaning": "民族主义；国家主义倾向",
+    "sense": "nationalism 是围绕民族或国家认同组织起来的一套情感和政治观念，强调共同体的利益、独立或地位。",
+    "split": "与法语 nationalisme 相连，现代对应 national + -ism。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "法语：nationalisme",
+        "以民族、国家为中心的观念"
+      ],
+      [
+        "英语：nationalism",
+        "民族主义"
+      ]
+    ],
+    "explanation": "不同历史情境下，它可关联独立运动、认同建设或排他性政治，不能把各种情况压成一种行为。",
+    "usage": "the rise of nationalism；cultural nationalism；debates about nationalism。",
+    "contrast": "nationality 是身份归属；nationalism 是情感、立场或思想体系。",
+    "examples": [
+      [
+        "The lecture traced the development of nationalism in Europe.",
+        "讲座追溯了欧洲民族主义的发展。"
+      ],
+      [
+        "The book distinguishes cultural nationalism from political programmes.",
+        "这本书区分了文化民族主义与具体政治纲领。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nationalism#English"
+    ]
+  },
+  {
+    "word": "nationality",
+    "ipa": "/ˌnæʃəˈnæləti/",
+    "meaning": "国籍；民族归属",
+    "sense": "nationality 常是表格里问“你属于哪个国家身份”的一栏；有些语境也谈民族身份。",
+    "split": "national + -ity，可能受法语 nationalité 影响。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：nationality",
+        "国家或民族身份归属"
+      ]
+    ],
+    "explanation": "通常和出生地相关却不等同。一个人在哪里出生、住在哪里、具有什么国籍，是不同问题。",
+    "usage": "state your nationality；dual nationality；people of different nationalities。",
+    "contrast": "nationality 与 citizenship 在很多语境接近，但制度细节可能不同；race 也不是 nationality。",
+    "examples": [
+      [
+        "The form asks for your nationality and place of birth.",
+        "表格要求填写国籍和出生地。"
+      ],
+      [
+        "People of many nationalities work in the team.",
+        "这个团队里有许多不同国籍的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nationality#English"
+    ]
+  },
+  {
+    "word": "multinational",
+    "ipa": "/ˌmʌltiˈnæʃənəl/",
+    "meaning": "多国的；跨国经营的；跨国公司",
+    "sense": "multinational 像一张公司地图上同时标着多个国家，人员、业务或参与方分布在多国。",
+    "split": "multi-（多个）+ national。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：multi- + national → multinational",
+        "涉及多个国家的"
+      ]
+    ],
+    "explanation": "常修饰公司，也可指由多个国家参与的团队。作名词 a multinational 通常是跨国公司。",
+    "usage": "a multinational company；a multinational team；a large multinational。",
+    "contrast": "international 强调国家之间；multinational 强调多个国家都在其中。",
+    "examples": [
+      [
+        "She works for a multinational company.",
+        "她在一家跨国公司工作。"
+      ],
+      [
+        "A multinational team carried out the research.",
+        "一个多国团队开展了这项研究。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/multinational#English"
+    ]
+  },
+  {
+    "word": "innate",
+    "ipa": "/ɪˈneɪt/",
+    "meaning": "与生俱来的；内在的",
+    "sense": "innate 像出生时就随身带来的基础配置，用来强调某种倾向不是后来刻意学会的。",
+    "split": "拉丁语 in-（在里面）+ nāscī 形成 innātus；这里 in- 不是否定。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：in- + nāscī → innātus",
+        "生在里面 → 生来具有的"
+      ],
+      [
+        "英语：innate",
+        "与生俱来的"
+      ]
+    ],
+    "explanation": "生在里面发展为天生具有。说某能力 innate 是一种判断，现实中的能力仍可能受到学习和环境影响。",
+    "usage": "an innate ability；innate curiosity；an innate sense of… 。",
+    "contrast": "innate 强调先天；acquired 强调后天获得。不要把明显练习过的全部能力都自动归为天赋。",
+    "examples": [
+      [
+        "Children often show an innate curiosity about their surroundings.",
+        "孩子们常表现出对周围环境的天然好奇。"
+      ],
+      [
+        "She seems to have an innate sense of rhythm.",
+        "她似乎天生就很有节奏感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/innate#English"
+    ]
+  },
+  {
+    "word": "unnatural",
+    "ipa": "/ʌnˈnætʃərəl/",
+    "meaning": "不自然的；做作的；异常的",
+    "sense": "unnatural 让人觉得某种样子不像平常自然发生的：颜色太怪、动作太僵或笑容太刻意。",
+    "split": "un-（不）+ natural。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "英语：natural",
+        "自然的；天生的；合乎情理的"
+      ],
+      [
+        "英语：un- + natural → unnatural",
+        "不符合自然、常态或自然表现的"
+      ]
+    ],
+    "explanation": "可以描述外观与行为；带评价的用法受文化和语境影响，不能把不熟悉的东西都当成客观“不自然”。",
+    "usage": "an unnatural colour；an unnatural smile；an unnatural position。",
+    "contrast": "artificial 指人工制成；unnatural 是不自然或不合常态。人工物品也可以显得很自然。",
+    "examples": [
+      [
+        "The lighting gave his face an unnatural colour.",
+        "灯光让他的脸呈现出不自然的颜色。"
+      ],
+      [
+        "Her smile looked stiff and unnatural.",
+        "她的笑容显得僵硬而做作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unnatural#English"
+    ]
+  },
+  {
+    "word": "natal",
+    "ipa": "/ˈneɪtəl/",
+    "meaning": "出生的；与出生有关的",
+    "sense": "natal 把注意力放在出生这个时间点或来源位置，常见于较正式的出生地、生育和动物研究语境。",
+    "split": "来自拉丁语 nātālis，连接 nātus“出生的”。它另有来自 natis“臀部”的同形解剖义，来源不同。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātālis",
+        "与出生有关的"
+      ],
+      [
+        "英语：natal",
+        "出生的；出生地的"
+      ]
+    ],
+    "explanation": "本页的出生支出现在 prenatal、postnatal 等词里；natal site 是出生地或孵化地。",
+    "usage": "natal place；natal environment；a natal nest。",
+    "contrast": "natal 通常不是日常说宝宝新出生的首选；newborn 更直接。看见解剖语境中的 natal 要先判断词源支线。",
+    "examples": [
+      [
+        "The birds returned to their natal island.",
+        "这些鸟回到了它们出生的岛屿。"
+      ],
+      [
+        "The study recorded each animal’s natal location.",
+        "研究记录了每只动物的出生地点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/natal#English"
+    ]
+  },
+  {
+    "word": "nativity",
+    "ipa": "/nəˈtɪvəti/",
+    "meaning": "出生；耶稣诞生；圣诞诞生场景",
+    "sense": "nativity 是出生这件事，最常见的特定画面是圣诞故事里的马槽、婴儿和来访者。",
+    "split": "拉丁语 nātīvitās“出生”经法语 nativite 进入英语；不是英语 native 才造出的名词。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātīvus",
+        "生来具有的；本地出生的"
+      ],
+      [
+        "拉丁语：nātīvitās；法语：nativite",
+        "出生"
+      ],
+      [
+        "英语：nativity",
+        "出生；特指耶稣诞生"
+      ]
+    ],
+    "explanation": "大写 the Nativity 常指耶稣诞生；a nativity play 则是表演这一故事的戏。",
+    "usage": "the Nativity；a nativity scene；a nativity play。",
+    "contrast": "nationality 是国籍；nativity 是出生，两者字形近但内容不同。",
+    "examples": [
+      [
+        "The children performed a nativity play.",
+        "孩子们表演了耶稣诞生的戏剧。"
+      ],
+      [
+        "A small nativity scene stood beside the window.",
+        "窗边摆着一组小型耶稣诞生场景摆件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nativity#English"
+    ]
+  },
+  {
+    "word": "transnational",
+    "ipa": "/ˌtrænzˈnæʃənəl/",
+    "meaning": "跨国的；超越国界联系的",
+    "sense": "transnational 像一条关系线穿过国界，把不同地方的人、组织或活动连在一起。",
+    "split": "trans-（跨越）+ national。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：trans- + national → transnational",
+        "跨过国家边界的"
+      ]
+    ],
+    "explanation": "常用于网络、家庭、迁移、商业或文化活动，不一定是国家政府之间的正式往来。",
+    "usage": "transnational networks；transnational families；transnational cooperation。",
+    "contrast": "international 常以国家之间为单位；transnational 更突出关系跨过边界，参与者可以是个人。",
+    "examples": [
+      [
+        "The researchers studied transnational family networks.",
+        "研究者考察了跨国家庭网络。"
+      ],
+      [
+        "The project follows the transnational movement of ideas.",
+        "这个项目追踪思想跨越国界的传播。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transnational#English"
+    ]
+  },
+  {
+    "word": "prenatal",
+    "ipa": "/ˌpriːˈneɪtəl/",
+    "meaning": "出生前的；产前的",
+    "sense": "prenatal 站在出生这个时间点向前看，指孩子出生以前的阶段。",
+    "split": "pre-（在……之前）+ natal（出生的）。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātālis",
+        "与出生有关的"
+      ],
+      [
+        "英语：natal",
+        "出生的；出生地的"
+      ],
+      [
+        "英语：pre- + natal → prenatal",
+        "出生之前的"
+      ]
+    ],
+    "explanation": "可以修饰发育、检查或照护；这个词说明时间范围，不单独给出具体医疗做法。",
+    "usage": "prenatal development；prenatal care；a prenatal appointment。",
+    "contrast": "prenatal 在出生前；postnatal 在出生后。pre- 与 post- 是最直接的时间区别。",
+    "examples": [
+      [
+        "The textbook describes prenatal development.",
+        "教材描述了出生前的发育。"
+      ],
+      [
+        "She wrote down the date of her prenatal appointment.",
+        "她记下了产前预约的日期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prenatal#English"
+    ]
+  },
+  {
+    "word": "naturalist",
+    "ipa": "/ˈnætʃərəlɪst/",
+    "meaning": "博物学家；自然观察者",
+    "sense": "naturalist 像带着笔记本走进树林，认真观察鸟、昆虫和植物之间的关系的人。",
+    "split": "natural + -ist，表示研究或关注自然的人。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "英语：natural",
+        "自然的；天生的；合乎情理的"
+      ],
+      [
+        "英语：naturalist",
+        "研究、观察自然的人"
+      ]
+    ],
+    "explanation": "可以是专业研究者，也可以是知识丰富的自然爱好者。它还可指自然主义的支持者，要看学术语境。",
+    "usage": "a field naturalist；an amateur naturalist；a naturalist’s notebook。",
+    "contrast": "naturalist 常观察自然；naturist 通常指天体主义者，少一个 al 意思就明显不同。",
+    "examples": [
+      [
+        "A naturalist helped us identify the birds.",
+        "一位自然观察者帮我们辨认鸟类。"
+      ],
+      [
+        "Her work as a naturalist began with sketches of local plants.",
+        "她的博物学工作始于对当地植物的素描。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturalist#English"
+    ]
+  },
+  {
+    "word": "nada",
+    "ipa": "英 /ˈnɑːdə/；美 /ˈnɑːdɑː/",
+    "meaning": "什么也没有；零",
+    "sense": "nada 是口语里带点强调的“啥也没有”：忙了一阵，最后一无所获。",
+    "split": "借自西班牙语 nada。更早连着拉丁语（rēs）nāta“产生的事物”，在否定表达的发展中变成“没有任何东西”。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：（rēs）nāta",
+        "产生的事物"
+      ],
+      [
+        "西班牙语：nada",
+        "在否定用法中发展为“什么也没有”"
+      ],
+      [
+        "英语：nada",
+        "什么也没有（口语）"
+      ]
+    ],
+    "explanation": "这个词提醒你：不能只把祖先的词义相加。语言里的否定搭配和语用变化能让一个表示事物的形式转为“无”。",
+    "usage": "absolutely nada；nothing, nada；get nada。",
+    "contrast": "nada 是有意借用西班牙语的口语表达；正式报告通常写 nothing、none 或 zero。",
+    "examples": [
+      [
+        "I checked every pocket and found nada.",
+        "我检查了每个口袋，什么也没找到。"
+      ],
+      [
+        "What did we earn from all that work? Nada.",
+        "我们干了那么多活赚到了什么？什么也没有。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/nada",
+      "https://en.wiktionary.org/wiki/nada#English"
+    ]
+  },
+  {
+    "word": "nascent",
+    "ipa": "/ˈneɪsənt/，也读 /ˈnæsənt/",
+    "meaning": "初生的；刚开始形成的",
+    "sense": "nascent 像芽刚露出土面：已经有了开端，但还没长成稳定成熟的样子。",
+    "split": "借自拉丁语 nāscēns，是 nāscī“出生、生长”的现在分词。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nāscēns",
+        "正在出生、生长的"
+      ],
+      [
+        "英语：nascent",
+        "刚出现、开始形成的"
+      ]
+    ],
+    "explanation": "出生的动作引申为行业、想法或关系开始形成。它强调早期阶段，不保证未来必定成功。",
+    "usage": "a nascent industry；a nascent idea；nascent confidence。",
+    "contrast": "new 只说新；nascent 还强调正在萌芽、尚未成熟。",
+    "examples": [
+      [
+        "The grant supported a nascent arts community.",
+        "这笔资助支持了一个刚形成的艺术社群。"
+      ],
+      [
+        "Their nascent friendship grew during the journey.",
+        "他们刚萌芽的友谊在旅途中不断加深。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nascent#English"
+    ]
+  },
+  {
+    "word": "natured",
+    "ipa": "英 /ˈneɪtʃəd/；美 /ˈneɪtʃərd/",
+    "meaning": "具有某种性情的",
+    "sense": "natured 通常需要前面有修饰，告诉你某人“有怎样的脾气”。它不是日常独立替代 kind 的词。",
+    "split": "nature（本性、性情）+ -ed，表示具有某种性情。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra",
+        "出生；天生的构成与性质"
+      ],
+      [
+        "古法语：nature",
+        "本性；自然"
+      ],
+      [
+        "英语：nature",
+        "自然界；本性；性质"
+      ],
+      [
+        "英语：natured",
+        "具有某种本性或脾气的"
+      ]
+    ],
+    "explanation": "它多出现在组合形容词中。这里讲构词本身，带连字符的完整词条按本库约定暂不收录。",
+    "usage": "常跟在 good-、ill- 等成分后，描述性情；这些带连字符的组合不另立词条。",
+    "contrast": "natured 谈性情；natural 谈自然、天生或不做作。不要把 natured 当作 nature 的常用过去式。",
+    "examples": [
+      [
+        "She described him as good-natured.",
+        "她说他性情温和。"
+      ],
+      [
+        "The word natured tells us what sort of temperament someone has.",
+        "natured 这个词说明某人有怎样的性情。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/natured#English"
+    ]
+  },
+  {
+    "word": "naturalistic",
+    "ipa": "/ˌnætʃərəˈlɪstɪk/",
+    "meaning": "写实的；贴近自然状态的",
+    "sense": "naturalistic 像表演里的人真的在生活，而不是摆着姿势念台词；研究中也可指接近现实情境。",
+    "split": "naturalist + -ic，表示自然主义的风格或方法。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "英语：natural",
+        "自然的；天生的；合乎情理的"
+      ],
+      [
+        "英语：naturalist → naturalistic",
+        "自然主义方向 → 写实、贴近自然状态的"
+      ]
+    ],
+    "explanation": "艺术中重在逼真呈现生活；naturalistic observation 是尽量在自然情境下观察，而不是刻意搭出的场面。",
+    "usage": "naturalistic dialogue；naturalistic acting；naturalistic observation。",
+    "contrast": "natural 是自然的；naturalistic 常是有意识地模仿或研究自然状态，未必没有人为设计。",
+    "examples": [
+      [
+        "The actors used quiet, naturalistic dialogue.",
+        "演员们采用了平实而写实的对白。"
+      ],
+      [
+        "The study used naturalistic observation in classrooms.",
+        "研究在课堂的日常环境中进行了观察。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturalistic#English"
+    ]
+  },
+  {
+    "word": "naturalism",
+    "ipa": "/ˈnætʃərəlɪzəm/",
+    "meaning": "自然主义",
+    "sense": "naturalism 是把自然和现实生活当作主要解释或表现基础的一组思想、方法和艺术立场。",
+    "split": "natural + -ism，与法语 naturalisme 相应。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "英语：natural",
+        "自然的；天生的；合乎情理的"
+      ],
+      [
+        "英语：naturalism",
+        "以自然、现实为基础的思想或风格"
+      ]
+    ],
+    "explanation": "哲学里常强调自然解释；文学艺术里常关注现实环境和生活条件。不同领域的定义不能完全互换。",
+    "usage": "literary naturalism；philosophical naturalism；naturalism in painting。",
+    "contrast": "naturalism 不等于喜欢散步；它通常是理论或艺术标签。naturism 则是另一种生活方式名称。",
+    "examples": [
+      [
+        "The course compares realism and naturalism in literature.",
+        "课程比较文学中的现实主义和自然主义。"
+      ],
+      [
+        "The essay defends a form of philosophical naturalism.",
+        "文章为一种哲学自然主义立场作辩护。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturalism#English"
+    ]
+  },
+  {
+    "word": "nationalization",
+    "ipa": "英 /ˌnæʃənəlaɪˈzeɪʃən/；美 /ˌnæʃənələˈzeɪʃən/",
+    "meaning": "国有化",
+    "sense": "nationalization 是把企业或资产的所有权转到国家名下，重点是所有权发生变化。",
+    "split": "national + -ization，与 nationalize“使国有化”相连。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：nationalization",
+        "使资产、行业归国家所有的过程"
+      ]
+    ],
+    "explanation": "nation 的国家意义在这里落到国家所有。并不是只要企业在全国经营，就发生国有化。",
+    "usage": "the nationalization of an industry；a nationalization programme。",
+    "contrast": "nationalization 改变所有权；regulation 是规则和监督，不一定把企业收归国家。",
+    "examples": [
+      [
+        "The book examines the nationalization of the railways.",
+        "这本书研究了铁路国有化。"
+      ],
+      [
+        "The proposal sparked debate about nationalization.",
+        "提案引发了关于国有化的争论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nationalization#English"
+    ]
+  },
+  {
+    "word": "postnatal",
+    "ipa": "英 /ˌpəʊstˈneɪtəl/；美 /ˌpoʊstˈneɪtəl/",
+    "meaning": "出生后的；产后的",
+    "sense": "postnatal 把出生当作时间分界线，指它之后的阶段，可以围绕母亲或婴儿来谈。",
+    "split": "post-（之后）+ natal（出生的）。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātālis",
+        "与出生有关的"
+      ],
+      [
+        "英语：natal",
+        "出生的；出生地的"
+      ],
+      [
+        "英语：post- + natal → postnatal",
+        "出生之后的"
+      ]
+    ],
+    "explanation": "搭配 care 时是产后或出生后的照护；搭配 development 时是出生后的发育。",
+    "usage": "postnatal care；postnatal development；the postnatal period。",
+    "contrast": "prenatal 在出生前，postnatal 在出生后；neonatal 特别指新生儿阶段。",
+    "examples": [
+      [
+        "The booklet explains the centre’s postnatal services.",
+        "小册子介绍了这个中心的产后服务。"
+      ],
+      [
+        "The study follows postnatal development in young birds.",
+        "研究跟踪幼鸟出生后的发育。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/postnatal#English"
+    ]
+  },
+  {
+    "word": "impregnable",
+    "ipa": "/ɪmˈpreɡnəbəl/",
+    "meaning": "坚不可摧的；可受浸渍、可受孕的（罕见另义）",
+    "sense": "日常的 impregnable 像一座攻不进去的城堡。它与 pregnant 长得像，但常用义走的是“不能拿下”的另一条词源。",
+    "split": "常用义来自法语 im-（不）+ prenable（可夺取的），远源为 prehendere。另有罕见 impregnate + -able“可以被浸渍、使受孕”的同形词，才连接本页词族。",
+    "history": [
+      [
+        "两条不同来路",
+        "法语 imprenable：不可攻取；英语 impregnate + -able：可受浸渍"
+      ],
+      [
+        "同形英语：impregnable",
+        "通常指坚不可摧；罕见另义才与 pregnant 同族"
+      ]
+    ],
+    "explanation": "主干意思是难以攻克或推翻。不能把堡垒“坚不可摧”解释成“不可能怀孕”，也不能把罕见另义误当日常用法。",
+    "usage": "an impregnable fortress；an impregnable defence；an impregnable position。",
+    "contrast": "impregnable 的常用词源属于夺取、抓住那一支；在这里保留是为了交代原词表中同形词的混入。",
+    "examples": [
+      [
+        "The fortress was thought to be impregnable.",
+        "人们认为这座堡垒无法攻破。"
+      ],
+      [
+        "Her lead in the competition seemed impregnable.",
+        "她在比赛中的领先优势看起来无法撼动。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/impregnable",
+      "https://en.wiktionary.org/wiki/impregnable#English"
+    ]
+  },
+  {
+    "word": "natively",
+    "ipa": "/ˈneɪtɪvli/",
+    "meaning": "天生地；原生地；以母语方式",
+    "sense": "natively 常表示东西本来就属于这个环境，不靠额外翻译、改装或中间层才能工作。",
+    "split": "native + -ly。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātīvus",
+        "生来具有的；本地出生的"
+      ],
+      [
+        "古法语：natif",
+        "本地的；天生的"
+      ],
+      [
+        "英语：native",
+        "本地的；天生的；母语的"
+      ],
+      [
+        "英语：natively",
+        "以本地、天生或原生方式"
+      ]
+    ],
+    "explanation": "语言语境可说从小就说某种语言；技术语境常说程序在某系统上原生运行。",
+    "usage": "speak a language natively；run natively；natively supported。",
+    "contrast": "natively 不等于快速或完美；它主要说明与原有环境的关系。",
+    "examples": [
+      [
+        "She speaks both languages natively.",
+        "这两种语言她都是从小就说的。"
+      ],
+      [
+        "The application runs natively on the device.",
+        "这个应用可以在该设备上原生运行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/natively#English"
+    ]
+  },
+  {
+    "word": "cognate",
+    "ipa": "英 /ˈkɒɡneɪt/；美 /ˈkɑːɡneɪt/",
+    "meaning": "同源词；同源的；有亲缘关系的",
+    "sense": "cognate 像家谱中有共同祖先的两个词：今天模样可以不同，但历史来路连在一起。",
+    "split": "拉丁语 co-（共同）+ gnātus（出生的）组成 cognātus“有血缘关系的”；英语学术借入。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：co- + gnātus → cognātus",
+        "共同出生 → 有血缘关系的"
+      ],
+      [
+        "英语：cognate",
+        "同源的；有亲缘关系的"
+      ]
+    ],
+    "explanation": "人的血缘关系被借来描述词语共同来源，也可泛指相关领域。拼写相像只能提示线索，不能直接证明同源。",
+    "usage": "cognate words；a cognate of…；cognate disciplines。",
+    "contrast": "false friends 是看起来近却易误解的词；cognates 讲历史来源，不保证现代意义完全相同。",
+    "examples": [
+      [
+        "English mother and German Mutter are cognates.",
+        "英语 mother 和德语 Mutter 是同源词。"
+      ],
+      [
+        "The course welcomes students from cognate disciplines.",
+        "这门课欢迎相关学科的学生参加。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cognate#English"
+    ]
+  },
+  {
+    "word": "internationalization",
+    "ipa": "英 /ˌɪntəˌnæʃənəlaɪˈzeɪʃən/；美 /ˌɪntərˌnæʃənələˈzeɪʃən/",
+    "meaning": "国际化",
+    "sense": "internationalization 像把原本只为一个国家设计的活动、业务或产品，打开成能跨国使用和参与的形式。",
+    "split": "international + -ization，表示向国际范围发展或适应的过程。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：international → internationalization",
+        "国际的 → 使活动、产品适应国际范围"
+      ]
+    ],
+    "explanation": "企业和教育中可指增加跨国联系；软件中常指为不同语言、地区的适配准备结构。",
+    "usage": "the internationalization of education；product internationalization；an internationalization strategy。",
+    "contrast": "localization 是针对某个地区具体适配；internationalization 常先为多地区适配做好基础。",
+    "examples": [
+      [
+        "The university’s internationalization brought more joint courses.",
+        "大学的国际化带来了更多联合课程。"
+      ],
+      [
+        "Internationalization makes it easier to add new languages to the product.",
+        "国际化使产品更容易增加新的语言支持。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/internationalization#English",
+      "https://www.w3.org/International/questions/qa-i18n"
+    ]
+  },
+  {
+    "word": "internationalist",
+    "ipa": "英 /ˌɪntəˈnæʃənəlɪst/；美 /ˌɪntərˈnæʃənəlɪst/",
+    "meaning": "国际主义者；支持国际合作的人",
+    "sense": "internationalist 把国家之间合作和共同责任看得重要，不把眼光完全停在单一国家内部。",
+    "split": "international + -ist。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：international → internationalist",
+        "国家之间的 → 支持跨国合作立场的人"
+      ]
+    ],
+    "explanation": "它是立场名称，可以出现在不同政治传统中；并不意味着每位使用者支持同一套政策。",
+    "usage": "an internationalist outlook；an internationalist thinker；internationalist ideals。",
+    "contrast": "international 是跨国性质；internationalist 则带有人所支持的理念或立场。",
+    "examples": [
+      [
+        "She described herself as an internationalist.",
+        "她说自己支持国际合作的理念。"
+      ],
+      [
+        "The essay examines the writer’s internationalist outlook.",
+        "文章研究了这位作家的国际主义视野。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/internationalist#English"
+    ]
+  },
+  {
+    "word": "impregnate",
+    "ipa": "/ɪmˈpreɡneɪt/，也读 /ˈɪmpreɡneɪt/",
+    "meaning": "使怀孕；使充满；浸渍",
+    "sense": "impregnate 的两个画面是使生命在体内孕育，以及让某种物质深入材料内部，填满细小空隙。",
+    "split": "借自晚期或中古拉丁语 impraegnātus，来自 im-（在内）+ praegnare 词族；这里 im- 不是“不”。",
+    "history": [
+      [
+        "拉丁语：praegnāns",
+        "怀孕的；更远构成可能含“在前”与“出生”"
+      ],
+      [
+        "晚期／中古拉丁语：impraegnāre → impraegnātus",
+        "使怀孕；使充满"
+      ],
+      [
+        "英语：impregnate",
+        "使怀孕；浸渍、使充满"
+      ]
+    ],
+    "explanation": "生育意义与使内部充满的用法并行。材料处理中 impregnate with resin 是让树脂渗入，不是只在表面抹一下。",
+    "usage": "impregnate fabric with resin；impregnate a material with…；用于使雌性动物受孕。",
+    "contrast": "impregnate 可讲浸透；coat 常只讲表面涂覆。其常用动词尾读 /eɪt/。",
+    "examples": [
+      [
+        "The manufacturer impregnates the fabric with resin.",
+        "制造商用树脂浸渍织物。"
+      ],
+      [
+        "The breeding records show that the male impregnated two females.",
+        "繁育记录显示，这只雄性使两只雌性受孕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/impregnate#English"
+    ]
+  },
+  {
+    "word": "innately",
+    "ipa": "/ɪˈneɪtli/",
+    "meaning": "天生地；内在地",
+    "sense": "innately 强调某种特点像随出生而来，不是临时学来的招数。",
+    "split": "innate + -ly。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：in- + nāscī → innātus",
+        "生在里面 → 生来具有的"
+      ],
+      [
+        "英语：innate",
+        "与生俱来的"
+      ],
+      [
+        "英语：innately",
+        "以与生俱来的方式；本质上"
+      ]
+    ],
+    "explanation": "常修饰 curious、gifted 或某种性质。使用它是在表达关于来源的看法，不等于已经排除环境影响。",
+    "usage": "innately curious；innately gifted；innately capable。",
+    "contrast": "naturally 范围更广，可指自然地发生；innately 更明确强调先天、内在。",
+    "examples": [
+      [
+        "The speaker argued that children are innately curious.",
+        "演讲者认为孩子天生好奇。"
+      ],
+      [
+        "She seemed innately comfortable with rhythm.",
+        "她似乎天生就能自如把握节奏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/innately#English"
+    ]
+  },
+  {
+    "word": "supranational",
+    "ipa": "/ˌsuːprəˈnæʃənəl/",
+    "meaning": "超国家的；高于单个国家层面的",
+    "sense": "supranational 像在各国之上再搭一个共同层面，让某些决定不只由单个国家分别作出。",
+    "split": "现代 supra-（在……之上）+ national；前缀接拉丁 supra，national 接法语及 nation 词族。词源资料提出可能受到德语相应形式启发，而非古典拉丁已有的完整政治术语。",
+    "history": [
+      [
+        "拉丁 supra；英语 national〔接法语 national 及 nation 一族〕",
+        "在……之上、超出；国家的"
+      ],
+      [
+        "现代英语 supra- + national → supranational",
+        "结合两种材料，可能受到德语相应构词启发"
+      ],
+      [
+        "英语 supranational",
+        "超出单个国家权限层面的"
+      ]
+    ],
+    "explanation": "常形容共同机构、规则或治理结构。它关心层级，不只是“有许多国家参加”。",
+    "usage": "a supranational body；supranational institutions；supranational governance。",
+    "contrast": "international 是国家之间；supranational 强调某种共同权力或组织层面超出单一国家。",
+    "examples": [
+      [
+        "The article discusses the powers of supranational institutions.",
+        "文章讨论了超国家机构的权力。"
+      ],
+      [
+        "The proposal would create a supranational system of oversight.",
+        "提案将建立一个超国家层面的监督体系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supranational#English",
+      "https://www.etymonline.com/word/supra-national",
+      "https://www.europarl.europa.eu/factsheets/en/sheet/8/supranatio"
+    ]
+  },
+  {
+    "word": "internationalism",
+    "ipa": "英 /ˌɪntəˈnæʃənəlɪzəm/；美 /ˌɪntərˈnæʃənəlɪzəm/",
+    "meaning": "国际主义；倡导国际合作的理念",
+    "sense": "internationalism 是把跨国合作、联系与共同责任当作重要原则，而不只是实际出过几次国。",
+    "split": "international + -ism。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：international → internationalism",
+        "国际联系 → 倡导国际合作的理念"
+      ]
+    ],
+    "explanation": "是一种思想或取向，具体内容随历史流派和政策背景不同。不能从词形直接推出某项立场。",
+    "usage": "cultural internationalism；a spirit of internationalism；debates over internationalism。",
+    "contrast": "internationalization 是发生国际化的过程；internationalism 是关于国际联系的理念。",
+    "examples": [
+      [
+        "The festival was founded in a spirit of internationalism.",
+        "这个节日以促进国际交流合作的精神创办。"
+      ],
+      [
+        "The chapter contrasts nationalism with internationalism.",
+        "这一章比较了民族主义与国际主义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/internationalism#English"
+    ]
+  },
+  {
+    "word": "denatured",
+    "ipa": "英 /diːˈneɪtʃəd/；美 /diːˈneɪtʃərd/",
+    "meaning": "变性的；改变原有性质的",
+    "sense": "denatured 表示东西的原来性质或结构已经被改变。蛋白质与酒精都能用这个词，但改变方式不同。",
+    "split": "denature + -ed。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra",
+        "出生；天生的构成与性质"
+      ],
+      [
+        "古法语：nature",
+        "本性；自然"
+      ],
+      [
+        "法语：dénaturer",
+        "改变本来性质"
+      ],
+      [
+        "英语：denature",
+        "使变性；改变本来性质"
+      ],
+      [
+        "英语：denatured",
+        "原有结构或用途已被改变的"
+      ]
+    ],
+    "explanation": "denatured protein 常是结构发生变化；denatured alcohol 则是加入物质使酒精不适合饮用。两义不能混同。",
+    "usage": "denatured protein；denatured alcohol；a denatured sample。",
+    "contrast": "denatured 不等于完全分解成更小分子，也不等于仅仅加热。要看说的是什么材料。",
+    "examples": [
+      [
+        "The diagram compares native and denatured proteins.",
+        "图中比较了天然构象和变性后的蛋白质。"
+      ],
+      [
+        "The bottle was clearly labelled denatured alcohol.",
+        "瓶子上清楚标着“变性酒精”。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/denatured#English"
+    ]
+  },
+  {
+    "word": "naturist",
+    "ipa": "英 /ˈneɪtʃərɪst/；美 /ˈneɪtʃərɪst/",
+    "meaning": "天体主义者；崇尚自然裸体生活方式的人",
+    "sense": "naturist 指把在合适场所不穿衣服视为自然生活方式的人或相关活动，而不是研究昆虫植物的人。",
+    "split": "nature + -ist，语义中特别发展出接近自然、裸体生活的主张。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra",
+        "出生；天生的构成与性质"
+      ],
+      [
+        "古法语：nature",
+        "本性；自然"
+      ],
+      [
+        "英语：nature",
+        "自然界；本性；性质"
+      ],
+      [
+        "英语：naturist",
+        "倡导或实践自然裸体生活方式的人"
+      ]
+    ],
+    "explanation": "常见于特定海滩、营地或社群的名称。它本身不表示性活动。",
+    "usage": "a naturist beach；a naturist club；a naturist holiday。",
+    "contrast": "naturalist 是博物学家、自然观察者；naturist 常是天体主义者，注意中间是否有 al。",
+    "examples": [
+      [
+        "The guide marks the naturist beach on the map.",
+        "指南在地图上标出了天体海滩。"
+      ],
+      [
+        "The campsite welcomes naturist visitors.",
+        "这处营地欢迎天体主义访客。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturist#English"
+    ]
+  },
+  {
+    "word": "nativist",
+    "ipa": "/ˈneɪtɪvɪst/",
+    "meaning": "本土主义者；先天论者；相关的",
+    "sense": "nativist 有两种常见学术方向：政治中优先本土居民，心理或语言理论中强调先天能力。",
+    "split": "native + -ist。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātīvus",
+        "生来具有的；本地出生的"
+      ],
+      [
+        "古法语：natif",
+        "本地的；天生的"
+      ],
+      [
+        "英语：native",
+        "本地的；天生的；母语的"
+      ],
+      [
+        "英语：nativist",
+        "强调本土优先或先天来源的立场者"
+      ]
+    ],
+    "explanation": "两种意思都抓住“本来就属于这里或生来就有”，但讨论对象不同，不能把语言理论直接当政治立场。",
+    "usage": "a nativist movement；a nativist theory；nativist arguments。",
+    "contrast": "nationalist 围绕国家、民族认同；nativist 政治用法更常强调本土居民相对外来者的优先。",
+    "examples": [
+      [
+        "The paper compares nativist and learning-based theories of language.",
+        "论文比较了语言的先天论与学习理论。"
+      ],
+      [
+        "The historian examined the movement’s nativist rhetoric.",
+        "历史学家研究了这场运动的本土主义言辞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nativist#English"
+    ]
+  },
+  {
+    "word": "naturalness",
+    "ipa": "/ˈnætʃərəlnəs/",
+    "meaning": "自然；不做作；合乎习惯的程度",
+    "sense": "naturalness 是表演、话语或动作看起来顺畅，不像刻意摆出来的那种感觉。",
+    "split": "natural + -ness，把自然这一性质作为名词谈。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "英语：natural",
+        "自然的；天生的；合乎情理的"
+      ],
+      [
+        "英语：naturalness",
+        "自然、不做作的性质"
+      ]
+    ],
+    "explanation": "可以评价笑容、演技，也可以评价一句外语是否符合惯用表达。自然程度不等于词句有没有语法错误。",
+    "usage": "the naturalness of a smile；naturalness of expression；a sense of naturalness。",
+    "contrast": "accuracy 是准确；naturalness 是自然顺口。译文可能准确却不够自然。",
+    "examples": [
+      [
+        "The actor’s naturalness made the scene believable.",
+        "演员自然的表现让这一幕显得可信。"
+      ],
+      [
+        "The revision improved the naturalness of the translation.",
+        "修改使译文更自然了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturalness#English"
+    ]
+  },
+  {
+    "word": "supernaturally",
+    "ipa": "英 /ˌsuːpəˈnætʃərəli/；美 /ˌsuːpərˈnætʃərəli/",
+    "meaning": "以超自然方式；异乎寻常地",
+    "sense": "supernaturally 像故事中力量不是靠普通肌肉或工具而来；夸张时也可说强得不可思议。",
+    "split": "supernatural + -ly。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → supernātūrālis",
+        "自然 → 超出自然的"
+      ],
+      [
+        "法语：supernaturel",
+        "超自然的"
+      ],
+      [
+        "英语：supernatural",
+        "被认为超出自然规律的"
+      ],
+      [
+        "英语：supernaturally",
+        "以被认为超出自然规律的方式"
+      ]
+    ],
+    "explanation": "用于故事设定时可以是字面超自然；形容安静、敏锐等时也可能只是夸张。",
+    "usage": "supernaturally strong；supernaturally quiet；supernaturally gifted。",
+    "contrast": "extremely 只是程度很高；supernaturally 加入不似普通自然能力的想象色彩。",
+    "examples": [
+      [
+        "The hero is supernaturally strong in the story.",
+        "故事里的英雄拥有超自然的力量。"
+      ],
+      [
+        "The house seemed supernaturally quiet at midnight.",
+        "午夜的房子静得近乎诡异。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supernaturally#English"
+    ]
+  },
+  {
+    "word": "nativism",
+    "ipa": "/ˈneɪtɪvɪzəm/",
+    "meaning": "本土主义；先天论",
+    "sense": "nativism 在政治中问谁算本地人、应当优先照顾谁；在心智研究中问哪些能力是生来就有的。",
+    "split": "native + -ism。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātīvus",
+        "生来具有的；本地出生的"
+      ],
+      [
+        "古法语：natif",
+        "本地的；天生的"
+      ],
+      [
+        "英语：native",
+        "本地的；天生的；母语的"
+      ],
+      [
+        "英语：nativism",
+        "强调本土优先或先天来源的思想"
+      ]
+    ],
+    "explanation": "同一个词进入两个不同讨论领域，必须先辨认上下文。先天论也不是说经验毫无作用。",
+    "usage": "political nativism；linguistic nativism；a debate over nativism。",
+    "contrast": "nativism 是立场或理论；nativity 是出生，不能只因拼写接近就互换。",
+    "examples": [
+      [
+        "The seminar discussed nativism in theories of language.",
+        "研讨课讨论了语言理论中的先天论。"
+      ],
+      [
+        "The book traces the growth of political nativism.",
+        "这本书追溯了政治本土主义的发展。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nativism#English"
+    ]
+  },
+  {
+    "word": "preternatural",
+    "ipa": "英 /ˌpriːtəˈnætʃərəl/；美 /ˌpriːtərˈnætʃərəl/",
+    "meaning": "异常的；超乎寻常的",
+    "sense": "preternatural 像一个人安静、敏锐或镇定得超出你的预期，令人惊讶，甚至有点不可思议。",
+    "split": "借中世纪拉丁 preternaturalis，接拉丁短语 praeter naturam“超出自然”；现代可按 preter-“超出”与 natural 理解，不把英语拆分当作实际借入路线。",
+    "history": [
+      [
+        "拉丁 praeter；nātūra〔接 nāscī／nātus〕",
+        "超出；天生性质、自然"
+      ],
+      [
+        "拉丁短语 praeter naturam → 中世纪拉丁 preternaturalis",
+        "超出自然或通常自然状态的"
+      ],
+      [
+        "英语 preternatural",
+        "超乎寻常的；异常的"
+      ]
+    ],
+    "explanation": "现代常用来强化某种非同寻常的程度，不一定真的声称鬼神参与。",
+    "usage": "preternatural calm；preternatural skill；a preternatural silence。",
+    "contrast": "supernatural 更明确指超自然领域；preternatural 常只是令人惊讶地不同寻常。",
+    "examples": [
+      [
+        "She faced the crisis with preternatural calm.",
+        "她以异乎寻常的镇定面对危机。"
+      ],
+      [
+        "The child showed a preternatural ability to remember melodies.",
+        "这个孩子展现出惊人的旋律记忆能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preternatural#English",
+      "https://www.etymonline.com/word/preternatural"
+    ]
+  },
+  {
+    "word": "subnational",
+    "ipa": "/ˌsʌbˈnæʃənəl/",
+    "meaning": "国家以下层级的；地方层面的",
+    "sense": "subnational 像把地图从全国放大到省、州、市，讨论这些较低层级的事务。",
+    "split": "sub-（在……之下）+ national。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：sub- + national → subnational",
+        "低于国家整体层级的"
+      ]
+    ],
+    "explanation": "它描述行政或治理层级，不是对这些地区重要性的贬低。",
+    "usage": "subnational governments；subnational data；a subnational region。",
+    "contrast": "subnational 在国家内部的下级层面；supranational 则在单个国家以上的共同层面。",
+    "examples": [
+      [
+        "The study compares subnational governments.",
+        "研究比较了国家以下层级的地方政府。"
+      ],
+      [
+        "Subnational data reveal differences hidden in the national average.",
+        "地方层面的数据揭示了全国平均值掩盖的差异。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subnational#English"
+    ]
+  },
+  {
+    "word": "binational",
+    "ipa": "/ˌbaɪˈnæʃənəl/",
+    "meaning": "两国的；涉及两个国家的",
+    "sense": "binational 把两个国家连在同一件事上，比如共同的研究机构或家庭生活。",
+    "split": "bi-（二）+ national。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：bi- + national → binational",
+        "涉及两个国家的"
+      ]
+    ],
+    "explanation": "它明确数量是两个；不必然表示同一人依法拥有双重国籍。",
+    "usage": "a binational project；a binational commission；a binational family。",
+    "contrast": "multinational 是多国；binational 是两国。dual nationality 专门谈双重国籍身份。",
+    "examples": [
+      [
+        "The river is managed through a binational agreement.",
+        "这条河通过一项两国协议共同管理。"
+      ],
+      [
+        "The museum hosts a binational research project.",
+        "博物馆承办一个两国合作研究项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/binational#English"
+    ]
+  },
+  {
+    "word": "naturopathic",
+    "ipa": "英 /ˌneɪtʃərəˈpæθɪk/；美 /ˌneɪtʃərəˈpæθɪk/",
+    "meaning": "自然疗法的",
+    "sense": "naturopathic 是给某类健康实践贴的名称，常强调被归为自然手段的做法；词名本身不说明疗效。",
+    "split": "nature + 连接元音 -o- + -pathic，与 naturopathy“自然疗法”相连。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra",
+        "出生；天生的构成与性质"
+      ],
+      [
+        "古法语：nature",
+        "本性；自然"
+      ],
+      [
+        "英语：nature",
+        "自然界；本性；性质"
+      ],
+      [
+        "英语：nature + -o- + -pathic → naturopathic",
+        "以自然疗法为取向的"
+      ]
+    ],
+    "explanation": "这里 nature 提供“自然”的观念，-pathic 指向相关治疗体系。它不是“自然产生的病”的意思。",
+    "usage": "naturopathic practice；a naturopathic clinic；naturopathic approaches。",
+    "contrast": "natural 描述自然；naturopathic 是一个特定实践体系的标签，两者不能直接等同。",
+    "examples": [
+      [
+        "The article describes the history of naturopathic practice.",
+        "文章介绍了自然疗法实践的历史。"
+      ],
+      [
+        "The directory lists a naturopathic clinic in the town.",
+        "名录列出了镇上的一家自然疗法诊所。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturopathic#English"
+    ]
+  },
+  {
+    "word": "denaturation",
+    "ipa": "/diːˌnætʃəˈreɪʃən/",
+    "meaning": "变性；改变原有性质的过程",
+    "sense": "denaturation 像把原本折好的蛋白质结构展开或改变，使它原来的工作方式受到影响。",
+    "split": "denature + -ation。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra",
+        "出生；天生的构成与性质"
+      ],
+      [
+        "古法语：nature",
+        "本性；自然"
+      ],
+      [
+        "法语：dénaturer",
+        "改变本来性质"
+      ],
+      [
+        "英语：denature",
+        "使变性；改变本来性质"
+      ],
+      [
+        "英语：denaturation",
+        "原有性质、结构发生改变的过程"
+      ]
+    ],
+    "explanation": "生物化学中常指蛋白质等结构变化；不是每次都把整个分子骨架切碎。别与普通“变坏”完全等同。",
+    "usage": "protein denaturation；heat-induced denaturation（短语）；denaturation of DNA。",
+    "contrast": "degradation 常涉及分解；denaturation 重点是原有结构或性质改变，具体机制依物质不同。",
+    "examples": [
+      [
+        "The experiment tracked protein denaturation as the temperature rose.",
+        "实验跟踪温度升高时蛋白质的变性情况。"
+      ],
+      [
+        "The diagram illustrates the denaturation of double-stranded DNA.",
+        "图示展示了双链 DNA 的变性过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/denaturation#English"
+    ]
+  },
+  {
+    "word": "denature",
+    "ipa": "英 /diːˈneɪtʃə/；美 /diːˈneɪtʃər/",
+    "meaning": "使变性；改变本来性质",
+    "sense": "denature 是让东西偏离原有状态：蛋白质可改变折叠结构，酒精可因添加物而不适合饮用。",
+    "split": "借自法语 dénaturer，含 de-（改变、去掉原状态）与 nature。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra",
+        "出生；天生的构成与性质"
+      ],
+      [
+        "古法语：nature",
+        "本性；自然"
+      ],
+      [
+        "法语：dénaturer",
+        "改变本来性质"
+      ],
+      [
+        "英语：denature",
+        "使变性；改变本来性质"
+      ]
+    ],
+    "explanation": "从改变本性发展成不同领域的技术动词。具体发生什么，要跟着宾语判断，不能只背“破坏自然”。",
+    "usage": "denature a protein；denature alcohol；become denatured。",
+    "contrast": "destroy 是广义毁坏；denature 更具体谈性质或结构变化，不总等于完全毁灭。",
+    "examples": [
+      [
+        "Heat can denature proteins in the sample.",
+        "加热可以使样品中的蛋白质变性。"
+      ],
+      [
+        "The process denatures the alcohol so that it is not suitable for drinking.",
+        "这一过程使酒精变性，不再适合饮用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/denature#English"
+    ]
+  },
+  {
+    "word": "adnate",
+    "ipa": "/ˈædneɪt/",
+    "meaning": "贴生的；异类器官连生的",
+    "sense": "adnate 像花的雄蕊与花瓣长到一起：贴合的是不同类别的部分，而不是同类器官互相融合。",
+    "split": "来自拉丁语 adnātus，是“在旁边长、附着生长”的分词形态。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：adnāscī → adnātus",
+        "在旁边生长 → 附着生长的"
+      ],
+      [
+        "英语：adnate",
+        "异类器官贴合、连生的"
+      ]
+    ],
+    "explanation": "植物描述中常用来区分器官之间的结合关系。ad- 的趋向、附着画面有帮助，但术语定义要看器官类别。",
+    "usage": "stamens adnate to petals；adnate structures；an adnate anther。",
+    "contrast": "adnate 常说不同类器官贴生；connate 常说同类器官合生。",
+    "examples": [
+      [
+        "The stamens are adnate to the petals.",
+        "这些雄蕊与花瓣贴生。"
+      ],
+      [
+        "The diagram shows two different organs joined in an adnate arrangement.",
+        "图示展示了两种不同器官贴生的结构。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/adnate",
+      "https://en.wiktionary.org/wiki/adnate#English"
+    ]
+  },
+  {
+    "word": "agnatic",
+    "ipa": "/æɡˈnætɪk/",
+    "meaning": "父系的；沿男性世系计算的",
+    "sense": "agnatic 像画家谱时，只沿父亲、父亲的父亲这一条男性连接往上追。",
+    "split": "来自法语 agnatique，连接拉丁语 agnātus“父系亲属”；现代对应 agnate + -ic。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：agnātus",
+        "出生关系中的亲属；父系亲属"
+      ],
+      [
+        "法语：agnatique",
+        "父系关系的"
+      ],
+      [
+        "英语：agnatic",
+        "沿男性世系的"
+      ]
+    ],
+    "explanation": "用于亲属、继承和历史制度讨论。所描述的是关系计算方式，不是说所有男性彼此都是亲属。",
+    "usage": "agnatic descent；agnatic kinship；agnatic succession。",
+    "contrast": "agnatic 沿男性联系；enatic 沿女性联系；cognatic 可以包含两边。",
+    "examples": [
+      [
+        "The diagram traces agnatic descent through the male line.",
+        "图表沿男性世系追溯父系血统。"
+      ],
+      [
+        "The historian explained the rules of agnatic succession.",
+        "历史学家解释了父系继承规则。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/agnatic#English"
+    ]
+  },
+  {
+    "word": "renascence",
+    "ipa": "/rɪˈneɪsəns/",
+    "meaning": "重生；复兴",
+    "sense": "renascence 像一度沉寂的事物重新发芽，强调活力回来。它比 renaissance 少见。",
+    "split": "与 renascent“重新兴起的”相连，名词形式对应 -ence。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nāscēns",
+        "正在出生、生长的"
+      ],
+      [
+        "英语：nascent",
+        "刚出现、开始形成的"
+      ],
+      [
+        "英语：renascent → renascence",
+        "重新出生、兴起 → 复兴"
+      ]
+    ],
+    "explanation": "与 renaissance 有共同的“重生”历史背景，但它通常作为较书面的一般复兴用词。",
+    "usage": "a cultural renascence；a renascence of interest；literary renascence。",
+    "contrast": "Renaissance 常指特定历史时期；renascence 更常泛指复兴，日常也可用 revival。",
+    "examples": [
+      [
+        "The exhibition marked a renascence of interest in the artist.",
+        "展览标志着人们对这位艺术家的兴趣复苏。"
+      ],
+      [
+        "The town experienced a modest cultural renascence.",
+        "小镇经历了一次小规模文化复兴。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/renascence#English"
+    ]
+  },
+  {
+    "word": "connate",
+    "ipa": "/ˈkɒneɪt/，也读 /kəˈneɪt/",
+    "meaning": "合生的；同源的；天生的",
+    "sense": "connate 想两片同类花瓣在生长时连成一体；共同出生的画面也可用于天生性质。",
+    "split": "借自拉丁语 connātus，来自 con-（一起）+ nāscī（出生、生长）。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：con- + nāscī → connātus",
+        "共同出生、生长"
+      ],
+      [
+        "英语：connate",
+        "同类器官合生的；天生的"
+      ]
+    ],
+    "explanation": "植物学中重点是同类器官合生；地质学里 connate water 指岩石形成时就被困在其中的水。",
+    "usage": "connate petals；connate leaves；connate water。",
+    "contrast": "connate 是同类部分一起长；adnate 常是不同类器官贴生。",
+    "examples": [
+      [
+        "The petals are connate at the base.",
+        "这些花瓣在基部合生。"
+      ],
+      [
+        "The study examined connate water trapped in the rock.",
+        "研究考察了岩石形成时被封存在其中的原生水。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/connate",
+      "https://en.wiktionary.org/wiki/connate#English"
+    ]
+  },
+  {
+    "word": "agnate",
+    "ipa": "/ˈæɡneɪt/",
+    "meaning": "父系亲属；父系的",
+    "sense": "agnate 是家谱中通过一连串男性亲属关系连起来的人，常见于亲属制度或旧法讨论。",
+    "split": "学术借自拉丁语 agnātus“父系亲属”，其出生词根属于（g）nāt- 家族。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：agnātus",
+        "出生关系中的亲属；父系亲属"
+      ],
+      [
+        "英语：agnate",
+        "经男性世系相连的亲属"
+      ]
+    ],
+    "explanation": "原来的人际出生关系保留在亲属术语里。作形容词也可泛指相近、相关，但要留意专业语境。",
+    "usage": "an agnate；agnate relatives；an agnate line。",
+    "contrast": "cognate 范围可更广，现代还常指同源词；agnate 主要抓住父系亲属这条线。",
+    "examples": [
+      [
+        "The genealogist identified him as an agnate of the family.",
+        "家谱研究者认定他是该家族的父系亲属。"
+      ],
+      [
+        "The record distinguishes agnate relatives from maternal relatives.",
+        "记录区分了父系亲属与母系亲属。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/agnate#English"
+    ]
+  },
+  {
+    "word": "cognatic",
+    "ipa": "英 /kɒɡˈnætɪk/；美 /kɑːɡˈnætɪk/",
+    "meaning": "双系的；兼经男女联系计算亲属关系的",
+    "sense": "cognatic 像画家谱时两边都可以接：父方、母方的亲属路径都可能被承认。",
+    "split": "cognate + -ic。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：co- + gnātus → cognātus",
+        "共同出生 → 有血缘关系的"
+      ],
+      [
+        "英语：cognate",
+        "同源的；有亲缘关系的"
+      ],
+      [
+        "英语：cognatic",
+        "可经男性或女性联系的亲属方式"
+      ]
+    ],
+    "explanation": "用来描述血统、继承或亲属制度。它不是简单说某个词“看起来像另一个词”。",
+    "usage": "cognatic descent；cognatic kinship；a cognatic system。",
+    "contrast": "agnatic 只沿男性关系；cognatic 的关系路径可经过男性和女性。",
+    "examples": [
+      [
+        "The society recognizes cognatic kinship through both parents.",
+        "该社会承认经由父母双方建立的亲属关系。"
+      ],
+      [
+        "The chart illustrates a cognatic line of descent.",
+        "图表展示了一条兼经男女亲属联系的世系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cognatic#English"
+    ]
+  },
+  {
+    "word": "natality",
+    "ipa": "/neɪˈtæləti/",
+    "meaning": "出生率；诞生性",
+    "sense": "natality 在统计里数的是新生命进入一个群体的情况；在哲学里，也能讨论人出生所带来的新开端。",
+    "split": "经法语 natalité 进入英语；构成上对应 natal + -ity，不是 nation“国家”的派生。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātālis",
+        "与出生有关的"
+      ],
+      [
+        "法语：natalité；英语：natality",
+        "出生及其发生率；关于诞生的性质"
+      ]
+    ],
+    "explanation": "最直接的是人口或生态研究中的出生率。哲学专义另有理论背景，不能用出生率替换所有场合。",
+    "usage": "natality rates；natality and mortality；the concept of natality。",
+    "contrast": "mortality 谈死亡；natality 谈出生。具体率的分母与时间范围须看研究说明。",
+    "examples": [
+      [
+        "The report compares natality and mortality in the population.",
+        "报告比较了该人口中的出生与死亡情况。"
+      ],
+      [
+        "The philosophy class discussed natality as a capacity for new beginnings.",
+        "哲学课讨论了作为开创新事物能力的“诞生性”。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/natality",
+      "https://en.wiktionary.org/wiki/natality#English"
+    ]
+  },
+  {
+    "word": "renascent",
+    "ipa": "/rɪˈnæsənt/，也读 /rɪˈneɪsənt/",
+    "meaning": "重新兴起的；复兴中的",
+    "sense": "renascent 像枯枝又长出嫩芽，强调正在恢复活力，尚在重新生长。",
+    "split": "re-（再）+ nascent（新生的）。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nāscēns",
+        "正在出生、生长的"
+      ],
+      [
+        "英语：nascent",
+        "刚出现、开始形成的"
+      ],
+      [
+        "英语：re- + nascent → renascent",
+        "重新出现、生长的"
+      ]
+    ],
+    "explanation": "可形容艺术、兴趣或运动再次兴起。较书面，普通表达可用 reviving。",
+    "usage": "a renascent interest；renascent art；a renascent movement。",
+    "contrast": "nascent 是刚出现；renascent 是重新出现，背后有过往的存在或活力。",
+    "examples": [
+      [
+        "The festival reflects a renascent interest in folk music.",
+        "这个节日反映了人们对民间音乐重新兴起的兴趣。"
+      ],
+      [
+        "The gallery supported the town’s renascent arts scene.",
+        "画廊支持了小镇正在复兴的艺术活动。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/renascent#English"
+    ]
+  },
+  {
+    "word": "naturality",
+    "ipa": "/ˌnætʃəˈræləti/",
+    "meaning": "自然性；天然状态",
+    "sense": "naturality 是把自然、出于本性这一点拿出来讨论，是 naturalness 的较少见近义名词。",
+    "split": "拉丁语 nātūrālitās 经古法语 naturalité 进入英语。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "拉丁语：nātūrālitās；古法语：naturalité",
+        "自然的性质"
+      ],
+      [
+        "英语：naturality",
+        "自然性"
+      ]
+    ],
+    "explanation": "常见于较抽象、理论化的文字。普通评价笑容或表达自然，naturalness 更常用。",
+    "usage": "the naturality of an expression；a claim of naturality。",
+    "contrast": "naturality 不等于 nationality“国籍”；一个谈自然性，一个谈国家身份。",
+    "examples": [
+      [
+        "The essay questions the supposed naturality of the custom.",
+        "文章质疑这种习俗被认为理所当然的自然性。"
+      ],
+      [
+        "The critic praised the naturality of her expression.",
+        "评论者赞扬了她表达的自然。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturality#English"
+    ]
+  },
+  {
+    "word": "adnascent",
+    "ipa": "/ædˈneɪsənt/",
+    "meaning": "附着生长的；在旁边长出的",
+    "sense": "adnascent 像一个生长物贴着别的结构长出来，画面重点是“向着、靠着某物生长”。",
+    "split": "来自拉丁语 adnāscēns，是 adnāscī“在旁边出生、生长”的现在分词。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：ad- + nāscī → adnāscēns",
+        "在某物旁边生长着"
+      ],
+      [
+        "英语：adnascent",
+        "附生、附着生长的"
+      ]
+    ],
+    "explanation": "是少见描述词，多用于生物或较旧式文字。不要把 ad- 直接理解成英语广告 ad。",
+    "usage": "adnascent growth；an adnascent structure。",
+    "contrast": "nascent 只是刚形成；adnascent 还带与另一个结构相邻、相附的关系。",
+    "examples": [
+      [
+        "The description notes an adnascent growth beside the main structure.",
+        "描述中提到主结构旁的一处附生物。"
+      ],
+      [
+        "The botanist used adnascent to describe the attached growth.",
+        "植物学家用 adnascent 描述那种附着生长。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/adnascent",
+      "https://en.wiktionary.org/wiki/adnascent#English"
+    ]
+  },
+  {
+    "word": "adnation",
+    "ipa": "/ædˈneɪʃən/",
+    "meaning": "贴生；异类器官连生",
+    "sense": "adnation 把“不同器官长在一起”这件事作为结构特征来谈，比如雄蕊贴到花瓣上。",
+    "split": "连接拉丁语 adnātiō 及 adnātus 词族；现代对应 adnate 的名词形式，不是 ad + nation“广告国家”。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：adnāscī → adnātus",
+        "在旁边生长 → 附着生长的"
+      ],
+      [
+        "拉丁语：adnātiō",
+        "附着生长的关系"
+      ],
+      [
+        "英语：adnation",
+        "不同类别器官的贴生"
+      ]
+    ],
+    "explanation": "植物学里用来辨认花的部件如何连接。这个术语重在结构关系，不是说有外来的胶水把它们粘住。",
+    "usage": "adnation of stamens to petals；floral adnation；a degree of adnation。",
+    "contrast": "adnation 常是异类器官贴生；connation 是同类器官合生。",
+    "examples": [
+      [
+        "The diagram illustrates adnation of stamens to petals.",
+        "图示展示了雄蕊与花瓣的贴生。"
+      ],
+      [
+        "The species differ in the degree of adnation.",
+        "这些物种的贴生程度不同。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/adnation",
+      "https://en.wiktionary.org/wiki/adnation#English"
+    ]
+  },
+  {
+    "word": "agnation",
+    "ipa": "/æɡˈneɪʃən/",
+    "meaning": "父系亲属关系",
+    "sense": "agnation 像家谱里把父系线路单独描粗，讨论经由男性连接而建立的关系。",
+    "split": "借自拉丁语 agnātiō，与 agnātus“父系亲属”同族。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：agnātus",
+        "出生关系中的亲属；父系亲属"
+      ],
+      [
+        "拉丁语：agnātiō",
+        "父系亲属关系"
+      ],
+      [
+        "英语：agnation",
+        "沿男性世系的亲属关系"
+      ]
+    ],
+    "explanation": "常出现在历史法律、人类学和家谱研究里。它是关系名称，而不是某一位亲属。",
+    "usage": "agnation and cognation；a system of agnation；ties of agnation。",
+    "contrast": "agnate 可指父系亲属本人；agnation 指这种关系或关系制度。",
+    "examples": [
+      [
+        "The chapter distinguishes agnation from other forms of kinship.",
+        "这一章把父系亲属关系与其他亲属形式区分开来。"
+      ],
+      [
+        "The claim depended on proving agnation.",
+        "这项主张依赖于证明父系亲属关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/agnation#English"
+    ]
+  },
+  {
+    "word": "cognation",
+    "ipa": "英 /kɒɡˈneɪʃən/；美 /kɑːɡˈneɪʃən/",
+    "meaning": "血缘关系；同源关系",
+    "sense": "cognation 是把共同来源这根线拿出来看：亲属有共同祖先，词语也可能有共同词源。",
+    "split": "来自拉丁语 cognātiō；现代可联系 cognate 与名词后缀 -ion。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：co- + gnātus → cognātus",
+        "共同出生 → 有血缘关系的"
+      ],
+      [
+        "拉丁语：cognātiō",
+        "血缘、亲缘关系"
+      ],
+      [
+        "英语：cognation",
+        "亲缘；同源关系"
+      ]
+    ],
+    "explanation": "从人的亲缘引申到语言等事物的共同来源。是较少见、偏学术的名词。",
+    "usage": "cognation between words；ties of cognation；cognation and agnation。",
+    "contrast": "cognition 是认知，来自另一条“知道”的词根；cognation 在这里讲共同出生、共同来源。",
+    "examples": [
+      [
+        "The linguist investigated the cognation between the two terms.",
+        "语言学家研究了这两个词之间的同源关系。"
+      ],
+      [
+        "The legal text discusses cognation through both parents.",
+        "法律文献讨论了经父母双方建立的血缘关系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cognation#English"
+    ]
+  },
+  {
+    "word": "connascence",
+    "ipa": "/kəˈnæsəns/",
+    "meaning": "共同发生；共同生长；软件中联动依赖",
+    "sense": "connascence 像两件事连着一起生长；软件里则像两处拼图必须保持配合，改一处常要跟着改另一处。",
+    "split": "con-（一起）+ nascence（出生、形成），现代技术用法借用共同形成的意象。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "英语构词：con- + nascence",
+        "共同出生、形成"
+      ],
+      [
+        "英语：connascence",
+        "共同发生；需要协调变化的依赖"
+      ]
+    ],
+    "explanation": "普通义很少见；软件设计中的专门用法描述为了保持正确而必须一致或协调变化的关系。",
+    "usage": "connascence of name；connascence between components；reduce connascence。",
+    "contrast": "它不只是两个文件碰巧一起改；重点是某种正确性要求把它们联系在一起。",
+    "examples": [
+      [
+        "The essay describes the connascence of two artistic movements.",
+        "文章描述了两场艺术运动的共同发生。"
+      ],
+      [
+        "Renaming the field in only one place exposed connascence between the components.",
+        "只在一处重命名字段，暴露了这些组件之间必须协调修改的依赖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/connascence#English",
+      "https://connascence.io/"
+    ]
+  },
+  {
+    "word": "connascent",
+    "ipa": "/kəˈneɪsənt/",
+    "meaning": "同时产生的；共同生长的",
+    "sense": "connascent 是两件事像同一时期冒出的嫩芽，在出现或生长上相伴。",
+    "split": "con-（一起）+ nascent（正在形成的）。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nāscēns",
+        "正在出生、生长的"
+      ],
+      [
+        "英语：nascent",
+        "刚出现、开始形成的"
+      ],
+      [
+        "英语：con- + nascent → connascent",
+        "同时出生、形成的"
+      ]
+    ],
+    "explanation": "是较少见书面词，重点是共同产生。它不自动说明其中一个造成了另一个。",
+    "usage": "connascent ideas；connascent developments；connascent forms。",
+    "contrast": "consequent 是随之而来的结果；connascent 主要说同时形成，不直接给出因果。",
+    "examples": [
+      [
+        "The author treats the two ideas as connascent.",
+        "作者把这两个观念看作同时产生的。"
+      ],
+      [
+        "The study compares several connascent cultural forms.",
+        "研究比较了几种共同兴起的文化形式。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/connascent",
+      "https://en.wiktionary.org/wiki/connascent#English"
+    ]
+  },
+  {
+    "word": "connation",
+    "ipa": "/kɒˈneɪʃən/",
+    "meaning": "合生；同类器官融合",
+    "sense": "connation 像原本可以分别辨认的花瓣在基部长成一个筒，强调同类部分的结合。",
+    "split": "与拉丁语 connātus“共同生长的”相连，构词上对应 connate 的名词形式。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：con- + nāscī → connātus",
+        "共同出生、生长"
+      ],
+      [
+        "英语：connation",
+        "同类器官合生的状态或过程"
+      ]
+    ],
+    "explanation": "植物形态学中常与 adnation 对照。不要把中间的 nation 认成国家，这里整体来自出生、生长词族。",
+    "usage": "connation of petals；the degree of connation；floral connation。",
+    "contrast": "connation 是合生；connotation 是词语的附加含义，相差一个字母，来源和意思都不同。",
+    "examples": [
+      [
+        "Connation of the petals produces a tube at the base.",
+        "花瓣合生在基部形成了一个筒。"
+      ],
+      [
+        "The diagram compares connation with adnation.",
+        "图示比较了合生与贴生。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/connation",
+      "https://en.wiktionary.org/wiki/connation#English"
+    ]
+  },
+  {
+    "word": "connatural",
+    "ipa": "/kəˈnætʃərəl/",
+    "meaning": "本性相近的；天生的；固有的",
+    "sense": "connatural 像某种特质与人或事物的本性一起长出来，或者两样东西在本性上彼此相近。",
+    "split": "来自中古拉丁语 connātūrālis，含 con-（共同）+ nātūrālis（自然的）。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "中古拉丁语：connātūrālis",
+        "共同本性的；天生的"
+      ],
+      [
+        "英语：connatural",
+        "本性相近或固有的"
+      ]
+    ],
+    "explanation": "偏哲学或书面用语。常用 connatural to 表示某种特质与对象的本性相合。",
+    "usage": "connatural to…；connatural qualities；a connatural tendency。",
+    "contrast": "innate 更直接说天生；connatural 还可表示性质相近、与本性相合。",
+    "examples": [
+      [
+        "The essay treats curiosity as connatural to human beings.",
+        "文章把好奇心看作人的固有特质。"
+      ],
+      [
+        "The two writers shared connatural interests.",
+        "这两位作家有本性相近的兴趣。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/connatural",
+      "https://en.wiktionary.org/wiki/connatural#English"
+    ]
+  },
+  {
+    "word": "enascent",
+    "ipa": "/ɪˈnæsənt/",
+    "meaning": "长出的；开始出现的",
+    "sense": "enascent 像一个东西从内部向外冒出来，是少见的“发生、长出”描述词。",
+    "split": "拉丁语 ē-（向外）+ nāscī，形成 ēnāscēns“正在长出的”。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：ēnāscī → ēnāscēns",
+        "长出来 → 正在出现的"
+      ],
+      [
+        "英语：enascent",
+        "正在长出、出现的"
+      ]
+    ],
+    "explanation": "它保留了出生、生长动作的感觉。普通写作往往用 emerging 或 developing 更自然。",
+    "usage": "enascent growth；an enascent structure；an enascent idea。",
+    "contrast": "nascent 强调初生阶段；enascent 更保留“从某处长出来”的方向意象。",
+    "examples": [
+      [
+        "The description refers to an enascent growth on the surface.",
+        "描述提到表面上一处正在长出的结构。"
+      ],
+      [
+        "The old essay speaks of an enascent idea.",
+        "那篇旧文谈到一个刚开始浮现的观念。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enascent#English"
+    ]
+  },
+  {
+    "word": "enate",
+    "ipa": "/ˈiːneɪt/",
+    "meaning": "母系亲属；母系的；向外生长的",
+    "sense": "enate 在家谱里沿母方关系找亲属；生物描述里则保留“向外长出”的字面画面。",
+    "split": "来自拉丁语 ēnātus，属于 ēnāscī“生出、长出”的分词形态。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：ēnāscī → ēnātus",
+        "向外长出、产生"
+      ],
+      [
+        "英语：enate",
+        "长出的；经女性世系相连的"
+      ]
+    ],
+    "explanation": "出生来源可以被专门用于母系亲属关系；这种专业意义不能仅凭 e- 的字面方向推导。",
+    "usage": "an enate；enate relatives；enate growth。",
+    "contrast": "agnate 主要是父系亲属；enate 主要是母系亲属。两者都比日常 relative 更专业。",
+    "examples": [
+      [
+        "The chart places her enates on the maternal side.",
+        "图表把她的母系亲属列在母方一侧。"
+      ],
+      [
+        "The glossary defines enate growth as growth directed outwards.",
+        "术语表把 enate growth 解释为向外生长。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/enate",
+      "https://en.wiktionary.org/wiki/enate#English"
+    ]
+  },
+  {
+    "word": "enatic",
+    "ipa": "/iːˈnætɪk/",
+    "meaning": "母系的；沿女性世系的",
+    "sense": "enatic 像家谱中只沿母亲、母亲的母亲这一条女性联系去追溯。",
+    "split": "enate + -ic；底层是拉丁语 ēnātus“出生、长出的”。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：ēnāscī → ēnātus",
+        "向外长出、产生"
+      ],
+      [
+        "英语：enate",
+        "长出的；经女性世系相连的"
+      ],
+      [
+        "英语：enatic",
+        "属于母系亲属关系的"
+      ]
+    ],
+    "explanation": "常用在血统、亲属与继承制度的技术描述中，平常谈妈妈的亲属通常不用这么正式。",
+    "usage": "enatic descent；enatic ancestry；enatic kinship。",
+    "contrast": "enatic 沿女性联系；agnatic 沿男性联系；cognatic 可兼经两边。",
+    "examples": [
+      [
+        "The researcher traced the family’s enatic ancestry.",
+        "研究者追溯了这个家族的母系祖先。"
+      ],
+      [
+        "The diagram contrasts enatic and agnatic descent.",
+        "图表对比了母系与父系世系。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/enatic",
+      "https://en.wiktionary.org/wiki/enatic#English"
+    ]
+  },
+  {
+    "word": "enation",
+    "ipa": "/iːˈneɪʃən/",
+    "meaning": "外生突起；母系关系",
+    "sense": "enation 最直观的画面是叶片表面多长出一小块组织，像从原表面冒出的突起。",
+    "split": "拉丁语 ēnātus“长出的”+ -ion；与 enate 共享“从某处产生”的来源。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：ēnāscī → ēnātus",
+        "向外长出、产生"
+      ],
+      [
+        "英语构词：ēnātus + -ion → enation",
+        "向外生长的结果、关系"
+      ]
+    ],
+    "explanation": "植物学里是表面长出的组织；另有少见亲属用法，指母系世系。不能误拆成电子 e- + nation。",
+    "usage": "leaf enations；an enation on a plant organ；enation in kinship terminology。",
+    "contrast": "enation 是长出的突起；nation 是民族、国家。它们远源相关，现代不是同一个词。",
+    "examples": [
+      [
+        "Small enations appeared on the underside of the leaf.",
+        "叶片背面出现了小突起。"
+      ],
+      [
+        "The botanist examined the tissue forming the enation.",
+        "植物学家检查了形成这个突起的组织。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/enation",
+      "https://en.wiktionary.org/wiki/enation#English"
+    ]
+  },
+  {
+    "word": "naissant",
+    "ipa": "/ˈneɪsənt/",
+    "meaning": "从纹章分界处露出前半身的",
+    "sense": "naissant 在纹章里像一头狮子从横向分界线后探出上半身，只画出身体前部。",
+    "split": "借自法语 naissant“正在出生的”，来自 naître，远源为 nāscī。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "法语：naître → naissant",
+        "出生 → 正在出现的"
+      ],
+      [
+        "英语纹章术语：naissant",
+        "从分界处显露动物前部的"
+      ]
+    ],
+    "explanation": "出生、冒出的画面变成纹章构图的专门术语。它不是普通描述新公司、新想法的首选。",
+    "usage": "a lion naissant；a beast naissant；a naissant figure。",
+    "contrast": "nascent 是普通的初生、萌芽；naissant 在英语中主要属于纹章术语。",
+    "examples": [
+      [
+        "The shield bears a lion naissant above the dividing line.",
+        "盾徽在分界线上方绘有一头露出前半身的狮子。"
+      ],
+      [
+        "The guide identifies the animal as naissant.",
+        "指南把该动物的姿态标为 naissant。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/naissant",
+      "https://en.wiktionary.org/wiki/naissant#English"
+    ]
+  },
+  {
+    "word": "nascency",
+    "ipa": "/ˈneɪsənsi/",
+    "meaning": "初生状态；形成之初",
+    "sense": "nascency 是刚冒头、尚未成熟的那个阶段，像新想法还在形成最初轮廓。",
+    "split": "来自拉丁语 nāscentia，与 nāscēns“正在出生的”相连。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nāscēns",
+        "正在出生、生长的"
+      ],
+      [
+        "拉丁语：nāscentia",
+        "出生、开始形成的状态"
+      ],
+      [
+        "英语：nascency",
+        "萌芽状态"
+      ]
+    ],
+    "explanation": "是 nascent 的抽象名词对应形式，比 early stage 更少见。重点在阶段，不保证进展顺利。",
+    "usage": "in its nascency；the nascency of an idea；a state of nascency。",
+    "contrast": "nascency 是状态名词；nascent 是形容词。也可见更常用的 nascence。",
+    "examples": [
+      [
+        "The project was still in its nascency.",
+        "项目仍处在萌芽阶段。"
+      ],
+      [
+        "The notes reveal the nascency of her central idea.",
+        "这些笔记显示了她核心思想的形成之初。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nascency#English"
+    ]
+  },
+  {
+    "word": "renature",
+    "ipa": "英 /ˌriːˈneɪtʃə/；美 /ˌriːˈneɪtʃər/",
+    "meaning": "使复性；恢复原有结构或性质",
+    "sense": "renature 像把被展开的结构重新恢复成原来能工作的样子，常用于蛋白质或核酸实验。",
+    "split": "re-（恢复、再）+ nature，作为 denature 的反向用词形成。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra",
+        "出生；天生的构成与性质"
+      ],
+      [
+        "古法语：nature",
+        "本性；自然"
+      ],
+      [
+        "英语：nature",
+        "自然界；本性；性质"
+      ],
+      [
+        "英语：re- + nature → renature",
+        "使返回原有性质、结构"
+      ]
+    ],
+    "explanation": "是否真的能恢复取决于物质和条件，不是所有变性都可逆。词本身描述尝试或实现的复性过程。",
+    "usage": "renature a protein；allow DNA to renature；a renatured sample。",
+    "contrast": "renature 是复性；renew 是一般更新、恢复，不能随意替换实验术语。",
+    "examples": [
+      [
+        "The researchers tried to renature the protein.",
+        "研究者尝试使蛋白质复性。"
+      ],
+      [
+        "Under suitable conditions, the separated strands can renature.",
+        "在适当条件下，分开的链可以重新复性。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/renature",
+      "https://en.wiktionary.org/wiki/renature#English"
+    ]
+  },
+  {
+    "word": "transnationality",
+    "ipa": "/ˌtrænznæʃəˈnæləti/",
+    "meaning": "跨国性；跨国身份联系",
+    "sense": "transnationality 不是只在地图上跨一次边界，而是生活、身份或关系同时伸向多个国家的状态。",
+    "split": "trans-（跨越）+ nationality，连接 transnational 词族。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "英语：national",
+        "国家的；全国的"
+      ],
+      [
+        "英语：nationality → transnationality",
+        "国家身份归属 → 跨越国界的身份与联系"
+      ]
+    ],
+    "explanation": "常用于迁移、文化和社会研究，讨论超出单一国家框架的生活经验。",
+    "usage": "the transnationality of a community；questions of transnationality。",
+    "contrast": "dual nationality 是两种国籍的法律身份；transnationality 的社会文化范围更广。",
+    "examples": [
+      [
+        "The study explores the transnationality of migrant communities.",
+        "研究探讨了移民社群的跨国性。"
+      ],
+      [
+        "Her work examines transnationality through family stories.",
+        "她的作品通过家庭故事探讨跨国身份联系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transnationality#English"
+    ]
+  },
+  {
+    "word": "naive",
+    "ipa": "/naɪˈiːv/",
+    "meaning": "天真的；缺乏经验的；过于轻信的",
+    "sense": "naive 像刚接触复杂世界时，觉得别人说的都是真的、事情会按最简单的方式发展。",
+    "split": "借自法语 naïve，是 naïf 的阴性形式；更早来自拉丁语 nātīvus“天生、自然的”，与 native 同源。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātīvus",
+        "生来具有的；本地出生的"
+      ],
+      [
+        "法语：naïf / naïve",
+        "自然、质朴的 → 天真的"
+      ],
+      [
+        "英语：naive",
+        "缺乏经验、过于轻信的"
+      ]
+    ],
+    "explanation": "未加修饰的自然样子，可以是质朴，也可能显得不谙世事。现代普通用法常带“想得太简单”的批评。",
+    "usage": "naive about…；a naive assumption；naive to think… 。",
+    "contrast": "innocent 可说无辜或纯真；naive 更强调经验不足、判断过于简单。也拼 naïve。",
+    "examples": [
+      [
+        "I was naive to think the problem would solve itself.",
+        "我以为问题会自己解决，想得太天真了。"
+      ],
+      [
+        "Her question was sincere rather than naive.",
+        "她的问题是真诚求教，并非不谙世事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naive#English"
+    ]
+  },
+  {
+    "word": "naivety",
+    "ipa": "/naɪˈiːvəti/",
+    "meaning": "天真；经验不足；轻信",
+    "sense": "naivety 是把世界想得太简单的那一面，往往不是坏心，而是缺少看过复杂情况的经验。",
+    "split": "naive + 名词后缀 -ity 的对应形式；与借自法语的 naïveté 意义接近。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātīvus",
+        "生来具有的；本地出生的"
+      ],
+      [
+        "法语／英语：naïve / naive",
+        "天真、缺乏经验的"
+      ],
+      [
+        "英语：naivety",
+        "天真、轻信这一性质"
+      ]
+    ],
+    "explanation": "把 naive 的性质作为可以讨论、回顾的东西。语气可带温和理解，也可带批评。",
+    "usage": "political naivety；youthful naivety；a degree of naivety。",
+    "contrast": "naivety 讲经验和判断；stupidity 是更强烈的愚蠢评价，不宜简单等同。",
+    "examples": [
+      [
+        "Looking back, I am surprised by my own naivety.",
+        "回头看，我惊讶于自己当时的天真。"
+      ],
+      [
+        "The plan reveals some naivety about how the system works.",
+        "这个计划显露出对系统运作方式的一些天真想法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naivety#English"
+    ]
+  },
+  {
+    "word": "neonate",
+    "ipa": "英 /ˈniːəʊneɪt/；美 /ˈniːoʊneɪt/",
+    "meaning": "新生儿；新生幼体",
+    "sense": "neonate 是刚出生、处在生命最初阶段的个体，是 newborn 的较专业说法。",
+    "split": "新拉丁语 neonātus：neo-（新，希腊语成分）+ nātus（出生的，拉丁语成分）。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "新拉丁语：neo- + nātus → neonātus",
+        "新近出生的"
+      ],
+      [
+        "英语：neonate",
+        "新生儿；新生幼体"
+      ]
+    ],
+    "explanation": "人的医学语境通常指生命最初四周左右的新生儿阶段；动物研究中也会说新生幼体，范围依领域。",
+    "usage": "a neonate；care of neonates；neonates in the study。",
+    "contrast": "infant 的婴儿阶段通常更宽；neonate 特别突出出生后的最早时期。",
+    "examples": [
+      [
+        "The textbook includes a chapter on the care of neonates.",
+        "教材有一章介绍新生儿照护。"
+      ],
+      [
+        "The researchers weighed each neonate shortly after birth.",
+        "研究者在出生后不久给每个新生幼体称重。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neonate#English",
+      "https://www.who.int/westernpacific/health-topics/newborn-health"
+    ]
+  },
+  {
+    "word": "neonatal",
+    "ipa": "英 /ˌniːəʊˈneɪtəl/；美 /ˌniːoʊˈneɪtəl/",
+    "meaning": "新生儿的；新生期的",
+    "sense": "neonatal 把视线集中在刚出生后的那一小段生命起点，常修饰病房、照护和发育。",
+    "split": "neo-（新）+ natal（出生的），是现代科学用古典成分造的词。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātālis",
+        "与出生有关的"
+      ],
+      [
+        "现代构词：neo- + natal",
+        "新近 + 出生"
+      ],
+      [
+        "英语：neonatal",
+        "新生期的"
+      ]
+    ],
+    "explanation": "postnatal 只说出生以后；neonatal 更具体地限定最早的新生期。它不是“尚未出生”的意思。",
+    "usage": "neonatal care；a neonatal unit；the neonatal period。",
+    "contrast": "prenatal 出生前；postnatal 出生后；neonatal 出生后最初的新生期。",
+    "examples": [
+      [
+        "She works in a neonatal unit.",
+        "她在新生儿病区工作。"
+      ],
+      [
+        "The study focuses on neonatal development.",
+        "研究聚焦于新生期发育。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neonatal#English",
+      "https://www.who.int/westernpacific/health-topics/newborn-health"
+    ]
+  },
+  {
+    "word": "nationalize",
+    "ipa": "/ˈnæʃənəlaɪz/",
+    "meaning": "使国有化",
+    "sense": "nationalize 像把资产所有权登记从私人或企业名下改到国家名下。",
+    "split": "借自法语 nationaliser；现代对应 national + -ize。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātiō",
+        "出生；按出身联系的人群"
+      ],
+      [
+        "古法语：nacion",
+        "民族、人群"
+      ],
+      [
+        "中古法语：national",
+        "与民族、国家有关的"
+      ],
+      [
+        "法语：nationaliser",
+        "使归国家所有"
+      ],
+      [
+        "英语：nationalize",
+        "把产业、资产收归国有"
+      ]
+    ],
+    "explanation": "重点是所有权或控制安排转入国家体系。不是给产品贴一个国家标签，也不是扩大到全国销售。",
+    "usage": "nationalize an industry；nationalize a company；a nationalized railway。",
+    "contrast": "privatize 是私有化；nationalize 方向相反。两词描述制度变化，不自带效果判断。",
+    "examples": [
+      [
+        "The government decided to nationalize the railway company.",
+        "政府决定将这家铁路公司国有化。"
+      ],
+      [
+        "The debate asked whether the industry should be nationalized.",
+        "辩论讨论了该行业是否应当国有化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nationalize#English"
+    ]
+  },
+  {
+    "word": "naturalize",
+    "ipa": "/ˈnætʃərəlaɪz/",
+    "meaning": "使入籍；使归化；使习以为常",
+    "sense": "naturalize 像把原本来自外部的人、物种或表达纳入当地，让它能够在这里立足。",
+    "split": "借自法语 naturaliser；现代对应 natural + -ize。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "法语：naturaliser",
+        "使成为本国成员；使归化"
+      ],
+      [
+        "英语：naturalize",
+        "使入籍；归化、融入"
+      ]
+    ],
+    "explanation": "用于人时常是通过程序取得国籍；植物归化是外来种在新环境中建立持续种群，不等于它原本就原产当地。",
+    "usage": "become naturalized；a naturalized citizen；naturalize a plant。",
+    "contrast": "native 是原本属于当地；naturalized 是后来进入并取得相应地位或立足。",
+    "examples": [
+      [
+        "She became a naturalized citizen after living there for many years.",
+        "在那里生活多年后，她通过入籍取得了国籍。"
+      ],
+      [
+        "The plant has naturalized along the coast.",
+        "这种植物已在沿海地区归化生长。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturalize#English"
+    ]
+  },
+  {
+    "word": "naturalization",
+    "ipa": "英 /ˌnætʃərəlaɪˈzeɪʃən/；美 /ˌnætʃərələˈzeɪʃən/",
+    "meaning": "入籍；归化；使视为自然的过程",
+    "sense": "naturalization 是外来者获得当地成员身份或在当地扎根的过程；学术中也可说一种观念被当成天经地义。",
+    "split": "借自法语 naturalisation，与 naturaliser 同族；不能只把英语 naturalize 画成它的唯一历史祖先。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "拉丁语：nātūra → nātūrālis",
+        "天生的性质 → 自然的"
+      ],
+      [
+        "古法语：natural / naturel",
+        "自然的；天生的"
+      ],
+      [
+        "法语：naturalisation",
+        "取得成员地位；归化"
+      ],
+      [
+        "英语：naturalization",
+        "入籍；归化过程"
+      ]
+    ],
+    "explanation": "人的入籍与植物归化都连接“变成本地的一部分”；社会理论中的自然化则是让人把人为安排视为本来如此。",
+    "usage": "apply for naturalization；a naturalization ceremony；plant naturalization。",
+    "contrast": "nationalization 是国有化；naturalization 是入籍、归化，字母接近但对象和过程不同。",
+    "examples": [
+      [
+        "He attended a naturalization ceremony with his family.",
+        "他与家人参加了入籍仪式。"
+      ],
+      [
+        "The paper studies the naturalization of introduced plants.",
+        "论文研究了引入植物的归化过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/naturalization#English"
+    ]
+  },
+  {
+    "word": "nee",
+    "ipa": "/neɪ/",
+    "meaning": "原姓；出生时名为",
+    "sense": "nee 像在改名后的姓名旁补一张小标签，告诉你这个人出生时叫什么，常见于婚前姓氏说明。",
+    "split": "借自法语 née 或 né，是 naître“出生”的过去分词；带重音符号的 née 也常见。",
+    "history": [
+      [
+        "拉丁语：nāscī（nāscor）→ nātus",
+        "出生、生长 → 已出生的"
+      ],
+      [
+        "法语：naître → née / né",
+        "出生 → 出生时名为"
+      ],
+      [
+        "英语：nee / née",
+        "用来说明原姓、出生名"
+      ]
+    ],
+    "explanation": "常在人物介绍中放在现姓和原姓之间。它本身不是“已婚”的意思，只是在交代名字来源。",
+    "usage": "Mary Smith, nee Jones；born / nee 后接出生名。",
+    "contrast": "nee 在这里读 /neɪ/，不是 knee“膝盖”；也不要和某些方言的否定词 nee 混淆。",
+    "examples": [
+      [
+        "The programme lists her as Anna Brown, nee Miller.",
+        "节目单把她列为安娜·布朗，原姓米勒。"
+      ],
+      [
+        "In the biography, nee introduces the name she used at birth.",
+        "这篇传记中，nee 引出了她出生时使用的名字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nee#English"
+    ]
+  }
+]

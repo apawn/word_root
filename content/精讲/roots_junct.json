@@ -1,0 +1,81 @@
+[
+  {
+    "id": "C0625",
+    "meaning": "接在一起：连接、加入、交汇；再引申为附加和施加",
+    "core": "JUNG / JUNCT = JOIN",
+    "image": "原来分开的两部分，接成一个关系",
+    "intro": "**先想两块积木接到一起。** 拉丁语 iungere 表示连接、联合，iūnctus 是相关分词形式。人接入群体是 join，骨头接合处是 joint，道路接到一起的地方是 junction。再往抽象处走，把任务加到一个人身上，就能出现 enjoin“责令”。",
+    "forms": "jung- / junct- 是拉丁词干的历史变化；join 则是经过法语演变后的样子。它们不是任意替换的拼写规则。ad- 常表示接到旁边，con- 强调共同，dis- 把接着的东西分开；in- 在 injunction 这条线里表示附加在上面。像 subjunctive、adjoint 这样的术语，词源只提供入口，不能代替现代专业定义。",
+    "branches": [
+      [
+        "连接与参与",
+        "join · joint · jointly"
+      ],
+      [
+        "接点与关头",
+        "junction · juncture"
+      ],
+      [
+        "共同与附加",
+        "conjoin · conjunction · adjunct"
+      ],
+      [
+        "分开与脱节",
+        "disjoint · disjunction"
+      ],
+      [
+        "施加要求",
+        "enjoin · injunction"
+      ],
+      [
+        "接话与回应",
+        "rejoin · rejoinder"
+      ]
+    ],
+    "contrasts": "**join / joint / junction**：连接这个动作；连接处或共同的；几条线汇接的点。\n\n**junction / juncture**：路口等实际接点；事情发展的某个关头。\n\n**enjoin / rejoin / subjoin**：施加要求；重新加入或接话；把内容附在后面。\n\n**conjunction / disjunction**：逻辑里的“且”与“或”。词根帮你建立画面，真假规则仍按逻辑定义。",
+    "practice": "The two teams **joined** forces at a critical **juncture** and issued a **joint** report.\n\n两支团队在关键关头联合起来，发布了一份共同报告。\n\n连起来记：人接在一起 → join；共同做出来 → joint；事情接续的关键点 → juncture。",
+    "words": [
+      "join",
+      "joint",
+      "jointly",
+      "junction",
+      "conjunction",
+      "injunction",
+      "junta",
+      "adjunct",
+      "rejoin",
+      "juncture",
+      "conjoined",
+      "joiner",
+      "joinery",
+      "subjunctive",
+      "disjoint",
+      "disjointed",
+      "conjunct",
+      "injunctive",
+      "adjoint",
+      "disjunction",
+      "rejoinder",
+      "enjoin",
+      "adjunctive",
+      "adjoin",
+      "adjoining",
+      "conjunctive",
+      "disjunctive",
+      "conjoint",
+      "junto",
+      "disjunct",
+      "adjunction",
+      "conjoin",
+      "nondisjunction",
+      "disjoin",
+      "enjoinder",
+      "enjoinment",
+      "nonjoinder",
+      "sejoin",
+      "subjoin",
+      "subjoinder",
+      "surrejoinder"
+    ]
+  }
+]

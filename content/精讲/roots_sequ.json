@@ -1,0 +1,72 @@
+[
+  {
+    "id": "C1317",
+    "meaning": "跟随；接续；由跟随引申为结果与追求",
+    "core": "SEQU / SECUT = FOLLOW",
+    "image": "前面一步走出，后面一步跟上：可以是顺序、结果或紧追不放",
+    "intro": "**sequ-/secut-** 来自拉丁语 **sequī**“跟随”。东西排着跟上是 sequence，排在后面是 subsequent，由前事带来的结果是 consequence。把目光和行动一直跟着目标走，就有 pursue；追着人伤害，则成了 persecute。",
+    "forms": "**sequ-** 常见于 sequence；**secut-** 来自拉丁语相关分词形式，见 prosecute、consecutive。法语音变让 pursue、ensue 不再保留完整 sequ。**second** 来自 secundus“跟在后面的”，时间单位“秒”又源于第二次六十分割。",
+    "branches": [
+      [
+        "依次跟上",
+        "second · sequence · sequential"
+      ],
+      [
+        "后来发生",
+        "subsequent · subsequently · ensue"
+      ],
+      [
+        "跟出结果",
+        "consequence · consequently · consequential"
+      ],
+      [
+        "接连不断",
+        "consecutive · consecutively"
+      ],
+      [
+        "持续追求",
+        "pursue · pursuit · pursuer"
+      ],
+      [
+        "诉讼与迫害分开",
+        "prosecute · persecute"
+      ],
+      [
+        "跟不上逻辑或跟得过头",
+        "non sequitur · obsequious"
+      ]
+    ],
+    "contrasts": "**subsequently / consequently**：随后 / 因此；时间先后不能直接当因果。\n\n**prosecute / persecute**：提起、进行公诉 / 迫害。相应 prosecution、persecution 也必须分清。\n\n**sequence / sequel**：一个序列或顺序 / 接续原故事的作品。\n\n**consecutive / concurrent**：一个接一个不中断 / 同一时段重叠进行。",
+    "practice": "**She pursued the question through a sequence of tests; subsequent evidence changed her conclusion.**\n\n她通过一系列测试追查这个问题；后来的证据改变了她的结论。pursue 是追着问题走，sequence 是有次序的测试，subsequent 只说证据后来出现。",
+    "words": [
+      "second",
+      "sequence",
+      "sequential",
+      "sequencer",
+      "subsequent",
+      "subsequently",
+      "consecutive",
+      "consecutively",
+      "consequence",
+      "consequent",
+      "consequently",
+      "consequential",
+      "inconsequential",
+      "sequel",
+      "pursue",
+      "pursuit",
+      "pursuer",
+      "pursuance",
+      "prosecute",
+      "prosecution",
+      "prosecutor",
+      "prosecutorial",
+      "persecute",
+      "persecution",
+      "persecutor",
+      "ensue",
+      "non sequitur",
+      "obsequious"
+    ]
+  }
+]

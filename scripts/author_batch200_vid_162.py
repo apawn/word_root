@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""C0466 gamma: a letter name, scientific labels, and gamut."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[
+E('gamma','/ˈɡæmə/','希腊字母伽马（Γ、γ）；用于科学名称和符号','它首先是字母表里排在 alpha、beta 后面的第三个字母。后来科学家借这个字母给射线或参数命名，就像我们用 A、B、C 编号。','经拉丁语来自希腊字母名 gamma，更早与腓尼基字母名称相连。关于古老字形与“骆驼”的关系有传统解释，但不需要把那一猜测当作现代词义。它与 gamos“婚姻”不是同一词根。',[['腓尼基相关字母名 → 希腊 gamma','字母体系传承中的名称'],['拉丁 gamma → 英语 gamma','希腊第三个字母 Γ、γ'],['科学中的 gamma 标签','用于命名射线或表示不同学科的参数']],'gamma rays 是伽马射线，属于高能电磁辐射，不是形状像字母 γ 的射线。数学、物理等领域也会用 Γ 或 γ 记一个量；字母本身不会保证它在不同公式中都表示同一东西，需要读该公式的说明。','the letter gamma；gamma rays；gamma radiation；a gamma value。大写 Γ 与小写 γ 的用途可能不同。','gamma 是字母名，gamete 是配子；前几个字母相似并不说明二者同源。科学里的 gamma 往往是标签，不能靠“第三个”猜出某项参数的实际含义。',('The teacher wrote a lowercase gamma on the board.','老师在黑板上写了一个小写伽马字母。'),('The telescope detects gamma rays from distant cosmic events.','这台望远镜探测遥远宇宙事件发出的伽马射线。'),sources=['https://www.etymonline.com/word/gamma','https://www.oxfordlearnersdictionaries.com/definition/english/gamma','https://science.nasa.gov/ems/12_gammarays/']),
+E('gamut','/ˈɡæmət/','全部范围；整个系列；色域','想一排音符从低走到高，把可用的音走了个遍。后来不只说音符，情绪、风格、颜色的整个范围也叫 gamut。','源自中世纪拉丁 gamma ut 的合并缩短：gamma 用来记音阶低端的 G，ut 是当时的唱名。它先指这个音及相应音阶体系，随后扩展到全部音域，再用于一般事物的整个范围。',[['中世纪音乐中的 gamma + ut','标低音的希腊字母名 + 唱名'],['gamma ut → 英语 gamut','低端音名；音阶、音域'],['全音域的概念 → 全部范围；现代色域用法','从一端到另一端的整体；设备或色彩空间可表现的颜色范围']],'run the gamut from A to B 是从 A 到 B 各种情况都有。the full gamut of emotions 则说各种情绪都经历了。显示和印刷里的 color gamut 是能表示或重现的颜色范围，不只是颜色看起来鲜艳，也不是分辨率有多高。','run the gamut from ... to ...；the full gamut of ...；a wide color gamut；outside a device’s gamut。','range 很通用，gamut 更有把两端之间整套可能性铺开的感觉。gambit 是策略性的开局或举动，不能把 run the gamut 写成 run the gambit。',('Her performance runs the gamut from quiet grief to wild joy.','她的表演涵盖了从沉静悲伤到狂喜的各种情绪。'),('Some colors in the image fall outside the printer’s gamut.','图像中的某些颜色超出了这台打印机可重现的色域。'),sources=['https://www.etymonline.com/word/gamut','https://www.merriam-webster.com/dictionary/gamut','https://helpx.adobe.com/photoshop/desktop/adjust-color/color-effects-techniques/color-working-spaces.html']),
+]
+ROOT=dict(id='C0466',meaning='希腊字母 gamma；由音阶命名发展出的范围义',core='gamma 本来是字母名，不是一个像“拿、看、走”那样的动作词根。它在科学里成为标签，在中世纪音乐里又参与形成 gamut。',image='gamma 字母名 → 科学符号及 gamma rays；音乐 gamma + ut → gamut 音阶／音域 → 全部范围、色域。',intro='这一页最有价值的连接是 gamma 和 gamut。前者保留字母名称，后者从音乐命名一步步走到“全范围”，适合读情绪描写和显示设备介绍。',forms='gamm- 是目录对 gamma 字母名所列的形式，不必当作现代英语中随处能加的能产词根。gamut 的后半部分来自唱名 ut，不能按英语 gut 或别的相似词解释。',branches=[['字母与科学名称','gamma'],['音域到全部范围','gamut']],contrasts='gamma 与表示婚姻的 gam- 不同源。gamut 是范围，gambit 是开局策略；拼写像，使用场景却明显不同。',practice='先读 alpha、beta、gamma，记住这是字母名；再想一整排由低到高的音，把 gamut 记成铺满整个范围。',words=[e['word'] for e in W],exclude={})
+if __name__=='__main__':
+ m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());r=next(x for x in m['roots'] if x['id']==ROOT['id'])
+ assert set(ROOT['words'])=={w for w in r['family'] if '-' not in w}
+ assert {e['word'] for e in W}<=set(m['owned_words'])
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_162.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('gamm:',len(W),'words;',sum(len(e['examples']) for e in W),'examples')

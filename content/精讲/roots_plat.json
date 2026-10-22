@@ -1,0 +1,76 @@
+[
+  {
+    "id": "C1060",
+    "meaning": "宽、平、展开；宽阔的地方；扁平的物体",
+    "core": "PLAT / PLATY = BROAD / FLAT",
+    "image": "展开的一片空间，也可以是一片宽而薄的东西",
+    "intro": "**plat- / platy-** 的可靠起点是希腊语 **platýs**“宽、平”。“宽阔的路”经拉丁语进入法语、西班牙语、意大利语，分别留下 place、plaza、piazza。另一条“平薄物体”的词族连着 plate、plateau、platform；platy- 则直接用于扁脚、扁虫、宽薄肌肉等科学名称。",
+    "forms": "**plateîa hodós → plateîa → 拉丁语 platēa**：原先说“宽阔的路”，后来省掉“路”，留下表示街道、开敞空间的名词。**place / plaza / piazza** 是平行的借入支线，不是一个英语词依次变成另外两个。\n\n**plate、plateau 等词的远源** 通常联系通俗拉丁语重建形式 *plattus 与希腊语 platýs；星号标的是重建形式。**plaice** 更深处与 platýs 的联系也并非完全确定，逐词图保留这个区别。\n\n**platform** 的 forme 来自另一词根 forma；**platypus** 的 -pus 是希腊语 poús“脚”；**platyhelminth** 的 helminth 是“虫”。合成词的两部分是组合，不是前半段变成后半段。",
+    "branches": [
+      [
+        "宽街、开敞空间",
+        "place · plaza · piazza"
+      ],
+      [
+        "位置与安置",
+        "placement · replace · displace"
+      ],
+      [
+        "按用途命名的地方",
+        "workplace · birthplace · fireplace"
+      ],
+      [
+        "宽平的物体与台面",
+        "plate · plateau · platform · platter"
+      ],
+      [
+        "形状引出的名称",
+        "platelet · platypus · platysma"
+      ],
+      [
+        "平淡、缺少起伏的表达",
+        "platitude · platitudinous"
+      ],
+      [
+        "固定重复的内容",
+        "commonplace · boilerplate"
+      ]
+    ],
+    "contrasts": "**place / plaza / piazza**：普通的地方、位置 / 广场或商业广场 / 常指意大利式广场。\n\n**replace / displace / misplace**：换上或放回 / 移开、挤走 / 放错地方。\n\n**plate / platter / platen / plateau**：盘或薄板 / 大浅盘 / 机器承压或承纸部件 / 高原、平台期。\n\n**platitude / commonplace / boilerplate**：空泛陈词 / 常见事物或惯常说法 / 可重复使用的固定文字或代码；后两者不一定没有用。\n\n**platypus** 的名字说“扁脚”，不是“鸭嘴”。**plaice / place** 同音，但一个说鱼，一个说地方。",
+    "practice": "**Please replace the cracked plate and place the sandwiches on the platter.**\n\n请换掉裂了的盘子，再把三明治摆到上菜用的大盘里。replace 是换掉，place 是放置，plate 是盘，platter 是供大家分食的大浅盘。",
+    "words": [
+      "place",
+      "plaza",
+      "piazza",
+      "plateau",
+      "plate",
+      "platform",
+      "platter",
+      "platen",
+      "plateful",
+      "platelet",
+      "plating",
+      "platinum",
+      "boilerplate",
+      "platitude",
+      "platitudinous",
+      "commonplace",
+      "placement",
+      "replace",
+      "replacement",
+      "displace",
+      "displaced",
+      "displacement",
+      "misplace",
+      "misplaced",
+      "workplace",
+      "birthplace",
+      "marketplace",
+      "fireplace",
+      "platypus",
+      "plaice",
+      "platysma",
+      "platyhelminth"
+    ]
+  }
+]

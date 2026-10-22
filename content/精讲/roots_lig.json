@@ -1,0 +1,69 @@
+[
+  {
+    "id": "C0672",
+    "meaning": "绑住；连接；使受到约束",
+    "core": "LIG = BIND",
+    "image": "从物理上的绑，到人与人之间的联系和责任",
+    "intro": "lig- 来自拉丁动词 **ligāre**“绑、系、连接”。绑在一起的可以是骨骼、材料，也可以是国家、信任或责任。这个词根的价值正在于：同一个具体动作，在不同语境中形成了不同的抽象关系。",
+    "forms": "**lig- 并不总以原拼写留在英语里。** ligāmentum → ligament 保留得较明显；alligāre 经法语形成 ally；religāre 经 relier 形成 rely；obligāre 经法语形成 oblige，而另一条借入路线保留 obligate。古代前缀同化、法语音变与英语派生要分别看，不能总结成一个“lig 随时可变成 ly”的规则。",
+    "branches": [
+      [
+        "实物连接",
+        "ligament · ligature · alloy"
+      ],
+      [
+        "群体联合",
+        "ally · alliance · league"
+      ],
+      [
+        "依靠与信任",
+        "rely · reliable · reliance"
+      ],
+      [
+        "责任与约束",
+        "oblige · obligation · liable"
+      ],
+      [
+        "科学中的结合",
+        "ligation · ligand · ligase"
+      ],
+      [
+        "把音符连在一起",
+        "legato"
+      ]
+    ],
+    "contrasts": "**ally 与 alienate**：前者属于“绑在一起”，后者来自 alius“别的”，虽然意义可以作对比，却不是同一个词根。\n\n**release** 表示释放，可帮助联想“解除约束”，但它追溯到拉丁语 relaxāre，不能放在 ligāre 的直系演化图里。\n\n**religion** 与 religāre 的关系存在词源争议，另有与 relegere 联系的传统分析；不要把“重新把人绑到神身上”当作已经确定的历史。\n\n**league** 的“联盟、联赛”义属于本组；旧长度单位“里格”属于另一条来源。",
+    "practice": "试着连起来理解：**A reliable ally can help an alliance fulfil its obligations.**\n\n一个可靠的盟友能帮助联盟履行其义务。这里 reliable 是“值得依靠”，ally 是“联合的一员”，alliance 是“联合关系”，obligations 是“受到约束而应履行的责任”。",
+    "words": [
+      "ally",
+      "alliance",
+      "allied",
+      "league",
+      "rally",
+      "rely",
+      "reliable",
+      "reliability",
+      "reliance",
+      "reliant",
+      "unreliable",
+      "unreliability",
+      "liable",
+      "liability",
+      "oblige",
+      "obligation",
+      "obliged",
+      "obliging",
+      "obligatory",
+      "obligate",
+      "obligated",
+      "alloy",
+      "liaison",
+      "ligament",
+      "ligature",
+      "ligation",
+      "ligand",
+      "ligase",
+      "legato"
+    ]
+  }
+]

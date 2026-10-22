@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>settler：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">重构原始印欧语：*sed-</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">坐；星号表示根据后代语言重构</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">古英语 setl → setlan</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">座位 → 安放在固定位置、使坐下</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">中古英语 setlen；与 sahtlen“和解、平息”汇合或受其影响</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">固定、安定；和解义有另一条历史影响</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：settle</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">安顿、定居；沉降；解决、结清</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：settler</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">迁来并定居的人</text>
+</svg>

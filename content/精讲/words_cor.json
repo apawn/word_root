@@ -1,0 +1,1199 @@
+[
+  {
+    "word": "record",
+    "ipa": "名词：英 /ˈrekɔːd/、美 /ˈrekərd/；动词：英 /rɪˈkɔːd/、美 /rɪˈkɔːrd/",
+    "meaning": "记录；纪录；唱片；记录下来",
+    "sense": "让一件事不会随着时间消失：先记在心里，后来写在纸上、录在介质里，留给以后重新查看。",
+    "split": "拉丁语 re-（再次、回来）+ cor/cord-（心）形成 recordārī“想起、记住”，经古法语 recorder 传入。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：recordārī",
+        "重新放回心中；回想"
+      ],
+      [
+        "古法语：recorder / record",
+        "记住、复述；记录"
+      ],
+      [
+        "英语：record",
+        "把信息留下；保存的信息"
+      ]
+    ],
+    "explanation": "从记忆与复述走向持久保存。唱片是保存声音的载体；比赛纪录是已被记载、供后来比较的最佳成绩。",
+    "usage": "keep a record；record a conversation；break a record；a vinyl record。",
+    "contrast": "名词重音在前，动词重音在后。a record 可以是档案或唱片；recording 更突出一次录制的内容或过程。",
+    "examples": [
+      [
+        "Please keep a record of every payment.",
+        "请把每一笔付款都记录下来。"
+      ],
+      [
+        "We recorded the interview so we could check it later.",
+        "我们录下了采访，以便之后核对。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/record#English",
+      "https://www.etymonline.com/word/record"
+    ]
+  },
+  {
+    "word": "core",
+    "ipa": "英 /kɔː/；美 /kɔːr/",
+    "meaning": "核心；果核；中心部分",
+    "sense": "把苹果外面的果肉吃掉，剩下里面那一块；把问题的外层细节拿掉，剩下最关键的部分。这两者都可叫 core。",
+    "split": "现代英语承接中古英语 core/kore“果心”，更早来源不确定。有学者联系法语 cuer“心”或其他词，但不能确定画成 Latin cor → core。",
+    "history": [
+      [
+        "中古英语：core / kore",
+        "果心；中心部分（更早来源未定）"
+      ],
+      [
+        "英语：core",
+        "果核；核心；中心"
+      ]
+    ],
+    "explanation": "具体的中心部分扩展为组织、问题或价值观中最关键的一层。它与“心”在意义上很接近，历史上是否直接同源则不能说死。",
+    "usage": "the core of the problem；core values；an apple core；a processor core。",
+    "contrast": "core 是中心或关键部分；cor- 是本页确定的拉丁词根。拼写相近只能提示线索，不能代替词源证据。",
+    "examples": [
+      [
+        "We need to get to the core of the problem.",
+        "我们需要抓住问题的核心。"
+      ],
+      [
+        "She removed the apple core before slicing the fruit.",
+        "她先去掉苹果核，再把果肉切片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/core#English",
+      "https://www.etymonline.com/word/core"
+    ]
+  },
+  {
+    "word": "courage",
+    "ipa": "英 /ˈkʌrɪdʒ/；美 /ˈkɜːrɪdʒ/",
+    "meaning": "勇气；胆量",
+    "sense": "心里明明知道有风险，仍然站住、愿意面对，这份内在力量就是 courage。",
+    "split": "古法语 corage 源于拉丁语 cor“心”的词族；历史上“心意、精神”逐渐集中为胆量。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage",
+        "心意；胆量"
+      ],
+      [
+        "英语：courage",
+        "勇气；面对困难的胆量"
+      ]
+    ],
+    "explanation": "“心”在这里是精神与意志的所在，不是心脏大小。勇气可以表现在承认错误、说真话，也不只是打仗或冒险。",
+    "usage": "have the courage to；take courage；show courage；lose courage。",
+    "contrast": "courage 不是完全没有害怕；即使害怕仍面对困难，也可以有 courage。recklessness 则是鲁莽，忽略风险。",
+    "examples": [
+      [
+        "It took courage to admit that she was wrong.",
+        "承认自己错了，需要勇气。"
+      ],
+      [
+        "He found the courage to speak in front of the group.",
+        "他鼓起勇气，在大家面前发言。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/courage#English"
+    ]
+  },
+  {
+    "word": "courageous",
+    "ipa": "/kəˈreɪdʒəs/",
+    "meaning": "勇敢的；有胆量的",
+    "sense": "困难摆在眼前，这个人仍选择承担；courageous 是把 courage 放到人的行动和选择上。",
+    "split": "来自古法语 corageus，基础 corage 是胆量；现代与 courage + -ous 对应，但读音和重音改变。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage → corageus",
+        "胆量 → 有胆量的"
+      ],
+      [
+        "英语：courageous",
+        "勇敢的"
+      ]
+    ],
+    "explanation": "它赞赏面对困难的精神。一个很安静、很小的决定，也可能是 courageous，不必有壮烈场面。",
+    "usage": "a courageous decision；a courageous person；a courageous stand。",
+    "contrast": "courageous 与 brave 接近，常更正式；aggressive 是好斗或强势，并不自动等于勇敢。",
+    "examples": [
+      [
+        "Leaving the unsafe job was a courageous decision.",
+        "离开那份不安全的工作，是一个勇敢的决定。"
+      ],
+      [
+        "The witnesses were praised for their courageous stand.",
+        "证人们因勇敢表明立场而受到赞扬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/courageous#English"
+    ]
+  },
+  {
+    "word": "courageously",
+    "ipa": "/kəˈreɪdʒəsli/",
+    "meaning": "勇敢地",
+    "sense": "不只说一个人有勇气，而是说他怎样面对、发言或采取行动。",
+    "split": "courageous + -ly。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage → corageus",
+        "胆量 → 有胆量的"
+      ],
+      [
+        "英语：courageous",
+        "勇敢的"
+      ],
+      [
+        "英语：courageously",
+        "带着勇气行动"
+      ]
+    ],
+    "explanation": "常修饰应对困难、捍卫观点等行动。它表达赞赏，但不表示结果一定成功。",
+    "usage": "speak courageously；act courageously；face something courageously。",
+    "contrast": "boldly 可以指风格大胆、动作鲜明；courageously 更突出面对困难或恐惧时的勇气。",
+    "examples": [
+      [
+        "She spoke courageously about the mistakes in the project.",
+        "她勇敢地谈到了项目中的错误。"
+      ],
+      [
+        "The team faced the setback courageously.",
+        "团队勇敢地面对了挫折。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/courageously#English"
+    ]
+  },
+  {
+    "word": "encourage",
+    "ipa": "英 /ɪnˈkʌrɪdʒ/；美 /ɪnˈkɜːrɪdʒ/",
+    "meaning": "鼓励；支持；促使",
+    "sense": "别人心里那点勇气快熄了，你添一把火，让他愿意再试；规则也能通过奖励让某种行为更容易发生。",
+    "split": "古法语 en- 与 corage“胆量”组成 encoragier，进入英语。现代能看出 en- + courage。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage",
+        "心意；胆量"
+      ],
+      [
+        "古法语：encoragier",
+        "使有勇气；鼓舞"
+      ],
+      [
+        "英语：encourage",
+        "鼓励；促使"
+      ]
+    ],
+    "explanation": "“给勇气”扩展为给予支持、让某事更可能发生。encourage cycling 可以靠修自行车道，而不只是对骑车人说加油。",
+    "usage": "encourage someone to do；encourage participation；encourage growth。",
+    "contrast": "encourage 是推动、支持；force 是强迫。被鼓励的人通常仍有选择空间。",
+    "examples": [
+      [
+        "My teacher encouraged me to ask more questions.",
+        "老师鼓励我多提问。"
+      ],
+      [
+        "The new paths encourage people to cycle to work.",
+        "新修的道路让更多人愿意骑车上班。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/encourage#English"
+    ]
+  },
+  {
+    "word": "encouragement",
+    "ipa": "英 /ɪnˈkʌrɪdʒmənt/；美 /ɪnˈkɜːrɪdʒmənt/",
+    "meaning": "鼓励；支持；令人有信心的事",
+    "sense": "一句“你已经进步了”，或有人愿意陪你试一次，都能成为让你继续的那份支持。",
+    "split": "来自法语 encoragement；现代与 encourage + -ment 对应，属于同一个鼓舞词族。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage",
+        "心意；胆量"
+      ],
+      [
+        "古法语：encoragier",
+        "使有勇气；鼓舞"
+      ],
+      [
+        "法语：encoragement",
+        "给予勇气与支持"
+      ],
+      [
+        "英语：encouragement",
+        "鼓励；支持"
+      ]
+    ],
+    "explanation": "常作不可数名词表示支持；a great encouragement 则可指某件特别令人振作的事。",
+    "usage": "words of encouragement；give encouragement；with encouragement from…。",
+    "contrast": "praise 常表扬已做出的表现；encouragement 还可以在尚未成功时给予支持。",
+    "examples": [
+      [
+        "Your encouragement helped me finish the course.",
+        "你的鼓励帮助我完成了课程。"
+      ],
+      [
+        "The early results were a great encouragement to the team.",
+        "初步结果让团队备受鼓舞。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/encouragement#English"
+    ]
+  },
+  {
+    "word": "encouraging",
+    "ipa": "英 /ɪnˈkʌrɪdʒɪŋ/；美 /ɪnˈkɜːrɪdʒɪŋ/",
+    "meaning": "令人鼓舞的；让人更有希望的",
+    "sense": "进度还没到终点，但出现了一个好信号，让人愿意相信继续努力值得。",
+    "split": "encourage + -ing，用来描述能让别人得到鼓舞的人、事或迹象。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage",
+        "心意；胆量"
+      ],
+      [
+        "古法语：encoragier",
+        "使有勇气；鼓舞"
+      ],
+      [
+        "英语：encourage",
+        "鼓励；促使"
+      ],
+      [
+        "英语：encouraging",
+        "能使人更有信心的"
+      ]
+    ],
+    "explanation": "可以是支持的语气，也可以是不说话的实验结果。encouraging signs 只是好迹象，不保证最后一定成功。",
+    "usage": "encouraging results；an encouraging smile；an encouraging sign。",
+    "contrast": "encouraging 让人受鼓舞；encouraged 是人已经受到鼓舞，感受方向相反。",
+    "examples": [
+      [
+        "The first test produced encouraging results.",
+        "第一次测试得到的结果令人鼓舞。"
+      ],
+      [
+        "She gave me an encouraging smile.",
+        "她给了我一个鼓励的微笑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/encouraging#English"
+    ]
+  },
+  {
+    "word": "discourage",
+    "ipa": "英 /dɪsˈkʌrɪdʒ/；美 /dɪsˈkɜːrɪdʒ/",
+    "meaning": "使泄气；劝阻；使不愿做",
+    "sense": "把心里的劲泄掉，让人觉得不想继续；也可通过提醒或设置条件，让某种行为少发生。",
+    "split": "古法语 des- + corage 形成 descouragier，现代可看成 dis- + courage。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage",
+        "心意；胆量"
+      ],
+      [
+        "古法语：descouragier",
+        "使失去勇气"
+      ],
+      [
+        "英语：discourage",
+        "使泄气；劝阻"
+      ]
+    ],
+    "explanation": "对人可以是打击信心；对不好的行为可以是合理劝阻。discourage littering 并不是让垃圾泄气，而是让人少乱扔垃圾。",
+    "usage": "discourage someone from doing；discourage waste；feel discouraged。",
+    "contrast": "discourage 不必是禁止；ban 才明确禁掉。劝阻后别人仍可能去做。",
+    "examples": [
+      [
+        "The cost discouraged us from buying a second car.",
+        "费用让我们打消了买第二辆车的念头。"
+      ],
+      [
+        "Do not let one mistake discourage you.",
+        "不要因为一次错误就泄气。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discourage#English"
+    ]
+  },
+  {
+    "word": "discouragement",
+    "ipa": "英 /dɪsˈkʌrɪdʒmənt/；美 /dɪsˈkɜːrɪdʒmənt/",
+    "meaning": "泄气；挫折感；劝阻",
+    "sense": "事情反复碰壁，心里那股想继续的劲降下来，这种状态是 discouragement。",
+    "split": "discourage + -ment，把使泄气的行为或泄气的状态名词化。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage",
+        "心意；胆量"
+      ],
+      [
+        "古法语：descouragier",
+        "使失去勇气"
+      ],
+      [
+        "英语：discourage",
+        "使泄气；劝阻"
+      ],
+      [
+        "英语：discouragement",
+        "信心下降；令人打退堂鼓的因素"
+      ]
+    ],
+    "explanation": "既可说情绪，也可说导致退缩的因素。它不必严重到彻底放弃。",
+    "usage": "a feeling of discouragement；overcome discouragement；a source of discouragement。",
+    "contrast": "disappointment 是期待落空；discouragement 更强调继续尝试的信心受到影响。",
+    "examples": [
+      [
+        "After several rejections, she felt deep discouragement.",
+        "几次被拒绝后，她感到很泄气。"
+      ],
+      [
+        "Support from friends helped him overcome his discouragement.",
+        "朋友的支持帮助他摆脱了挫败感。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discouragement#English"
+    ]
+  },
+  {
+    "word": "discouraging",
+    "ipa": "英 /dɪsˈkʌrɪdʒɪŋ/；美 /dɪsˈkɜːrɪdʒɪŋ/",
+    "meaning": "令人泄气的；使信心下降的",
+    "sense": "看到一个结果，心里冒出“可能做不下去了”，这个结果就有 discouraging 的效果。",
+    "split": "discourage + -ing，形容造成泄气感的事物。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "古法语：corage",
+        "心意；胆量"
+      ],
+      [
+        "古法语：descouragier",
+        "使失去勇气"
+      ],
+      [
+        "英语：discourage",
+        "使泄气；劝阻"
+      ],
+      [
+        "英语：discouraging",
+        "让别人失去信心的"
+      ]
+    ],
+    "explanation": "可以形容消息、数字、语气等。它说结果对人的影响，不等于客观上完全没有希望。",
+    "usage": "discouraging news；a discouraging result；a discouraging comment。",
+    "contrast": "discouraging 是令人泄气；discouraged 是感到泄气。可以说 the news is discouraging，I feel discouraged。",
+    "examples": [
+      [
+        "The slow progress was discouraging.",
+        "缓慢的进展让人泄气。"
+      ],
+      [
+        "She ignored the discouraging comments and kept practising.",
+        "她没有理会那些打击信心的话，继续练习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discouraging#English"
+    ]
+  },
+  {
+    "word": "accord",
+    "ipa": "英 /əˈkɔːd/；美 /əˈkɔːrd/",
+    "meaning": "一致；协议；给予；符合",
+    "sense": "两边的心意调到同一个方向，能对得上；由此既可以有一致状态，也可以有谈成的协议。",
+    "split": "经古法语 acorder、acort 来自重建的通俗拉丁语 *accordāre，与 cor/cord- 和“使一致”有关。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "通俗拉丁语：*accordāre（重建形式）",
+        "使心意一致"
+      ],
+      [
+        "古法语：acorder / acort",
+        "使一致；协议"
+      ],
+      [
+        "英语：accord",
+        "一致；协议；给予"
+      ]
+    ],
+    "explanation": "in accord 是相合；an accord 是协议。动词 accord someone respect 则是把适合的尊重给予对方。of one’s own accord 是出于自己意愿。",
+    "usage": "in accord with；a peace accord；accord respect；of her own accord。",
+    "contrast": "accord 作动词可以是给予，不要每处都译成达成协议。agreement 更日常，accord 作为协议名词常较正式。",
+    "examples": [
+      [
+        "The two groups signed an accord.",
+        "两个团体签署了一份协议。"
+      ],
+      [
+        "She left of her own accord.",
+        "她是自愿离开的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accord#English"
+    ]
+  },
+  {
+    "word": "accordance",
+    "ipa": "英 /əˈkɔːdəns/；美 /əˈkɔːrdəns/",
+    "meaning": "一致；符合；依照",
+    "sense": "拿实际行动与规定对齐，两条线能合上，就是 in accordance with。",
+    "split": "经古法语 acordance 传入；现代对应 accord + -ance。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "通俗拉丁语：*accordāre（重建形式）",
+        "使心意一致"
+      ],
+      [
+        "古法语：acorder / acort",
+        "使一致；协议"
+      ],
+      [
+        "古法语：acordance",
+        "协调；相合"
+      ],
+      [
+        "英语：accordance",
+        "符合；一致"
+      ]
+    ],
+    "explanation": "最常见的是 in accordance with，表示依照规则、协议或意愿行事。通常不单独说 an accordance。",
+    "usage": "in accordance with the rules；in accordance with someone’s wishes。",
+    "contrast": "according to 可以引述某人的说法；in accordance with 更强调行动符合规则或要求。",
+    "examples": [
+      [
+        "The work was completed in accordance with the plan.",
+        "工作按照计划完成了。"
+      ],
+      [
+        "The documents were stored in accordance with the instructions.",
+        "文件按要求存放了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accordance#English"
+    ]
+  },
+  {
+    "word": "accordant",
+    "ipa": "英 /əˈkɔːdənt/；美 /əˈkɔːrdənt/",
+    "meaning": "一致的；相符的；协调的",
+    "sense": "两种说法或两组声音互相对得上，没有彼此打架，这种性质可用 accordant。",
+    "split": "经古法语 acordant 来自中世纪拉丁语 accordāns，是 accordāre“相合”的分词；现代可联系 accord + -ant，但不是英语动词新造出的唯一历史。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "通俗拉丁语：*accordāre（重建形式）",
+        "使心意相合"
+      ],
+      [
+        "中世纪拉丁语：accordāns → 古法语 acordant",
+        "相合、一致的"
+      ],
+      [
+        "英语：accordant",
+        "彼此符合、协调的"
+      ]
+    ],
+    "explanation": "这是较书面的词，常用 with 接相合的对象。日常更常说 consistent with 或 in agreement with。",
+    "usage": "accordant with the evidence；accordant views；accordant sounds。",
+    "contrast": "accordant 描述相合状态；accordance 多出现在 in accordance with 这个名词短语里。",
+    "examples": [
+      [
+        "The conclusion is accordant with the available evidence.",
+        "这个结论与现有证据相符。"
+      ],
+      [
+        "The two accounts are broadly accordant.",
+        "两份叙述大体一致。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/accordant",
+      "https://en.wiktionary.org/wiki/accordant#English"
+    ]
+  },
+  {
+    "word": "concord",
+    "ipa": "英 /ˈkɒŋkɔːd/；美 /ˈkɑːŋkɔːrd/",
+    "meaning": "和睦；一致；语法一致",
+    "sense": "con- 把几颗“心”放到一起，大家不是互相拉扯，而是能协调相处。",
+    "split": "拉丁语 con-（一起）+ cor/cord-（心）形成 concors、concordia，经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：concors → concordia",
+        "心意一致 → 和谐"
+      ],
+      [
+        "法语：concorde",
+        "和睦"
+      ],
+      [
+        "英语：concord",
+        "和睦；协调；语法一致"
+      ]
+    ],
+    "explanation": "人际上是和睦，声音上是协调，语法上则是主语和动词等形式彼此配合。",
+    "usage": "live in concord；social concord；subject–verb concord。",
+    "contrast": "concord 常说和谐、一致的状态；an accord 更常是一份谈成的协议。",
+    "examples": [
+      [
+        "The communities lived in concord for many years.",
+        "这些社区多年来和睦相处。"
+      ],
+      [
+        "The lesson explains subject–verb concord.",
+        "这一课解释主谓一致。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/concord#English"
+    ]
+  },
+  {
+    "word": "concordance",
+    "ipa": "英 /kənˈkɔːdəns/；美 /kənˈkɔːrdəns/",
+    "meaning": "一致性；词语索引；语境索引",
+    "sense": "一方面是两组信息对得上；另一方面，把同一个词在不同地方出现的句子排在一起，便于一一查对。",
+    "split": "来自晚期拉丁语 concordantia，经古法语 concordance 传入。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：concordāre → concordantia",
+        "彼此一致 → 一致、对应"
+      ],
+      [
+        "法语：concordance",
+        "相合；对照"
+      ],
+      [
+        "英语：concordance",
+        "一致；供查对的词语索引"
+      ]
+    ],
+    "explanation": "文本索引义把分散出现的相同词集中，显示各处语境。它不只是给一个词一个释义，而是帮助比较实际用法。",
+    "usage": "concordance between results；a concordance of a text；concordance lines。",
+    "contrast": "dictionary 给词义等信息；concordance 重点列出词在指定文本中的出现位置和上下文。",
+    "examples": [
+      [
+        "There was strong concordance between the two sets of results.",
+        "两组结果高度一致。"
+      ],
+      [
+        "The researcher used a concordance to compare the word’s different contexts.",
+        "研究者用语境索引比较这个词的不同上下文。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/concordance#English"
+    ]
+  },
+  {
+    "word": "concordant",
+    "ipa": "英 /kənˈkɔːdənt/；美 /kənˈkɔːrdənt/",
+    "meaning": "相符的；一致的；协调的",
+    "sense": "几项独立得到的观察指向同一方向，像不同声部唱得合拍，就是 concordant。",
+    "split": "拉丁语 concordāns 是 concordāre“相合”的相关形式，经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：concordāre → concordāns",
+        "使一致 → 一致的"
+      ],
+      [
+        "法语：concordant",
+        "相合的"
+      ],
+      [
+        "英语：concordant",
+        "一致；互相吻合"
+      ]
+    ],
+    "explanation": "常见于研究、统计或专业讨论，描述结果或特征相符。相符本身不证明两者之间有因果。",
+    "usage": "concordant results；concordant findings；concordant with。",
+    "contrast": "concordant 强调对应一致；identical 是完全相同。两项结论相符，不代表每个数字都一样。",
+    "examples": [
+      [
+        "The two methods produced concordant findings.",
+        "两种方法得出了相符的发现。"
+      ],
+      [
+        "Her account was concordant with the written record.",
+        "她的叙述与书面记录一致。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/concordant#English"
+    ]
+  },
+  {
+    "word": "concordat",
+    "ipa": "英 /kənˈkɔːdæt/；美 /kənˈkɔːrdæt/",
+    "meaning": "政教协定；正式协议",
+    "sense": "双方把共同认可的安排落成一份正式文件，尤其常用于国家与教会之间的安排。",
+    "split": "法语 concordat 来自拉丁语 concordātum“已达成一致的东西”，属于 concordāre 词族。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：concordāre → concordātum",
+        "达成一致 → 约定"
+      ],
+      [
+        "法语：concordat",
+        "正式协定"
+      ],
+      [
+        "英语：concordat",
+        "常指政教协定"
+      ]
+    ],
+    "explanation": "词根解释的是双方意愿协调；具体协定规定什么，需要看文件本身。较少用于普通私人约定。",
+    "usage": "sign a concordat；a concordat between church and state。",
+    "contrast": "concord 是和睦状态；concordat 是一份正式约定，特别有历史与制度语境。",
+    "examples": [
+      [
+        "The book examines a concordat between the state and the church.",
+        "这本书考察国家与教会之间的一份协定。"
+      ],
+      [
+        "The concordat set out the responsibilities of both parties.",
+        "协定列明了双方的职责。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/concordat#English"
+    ]
+  },
+  {
+    "word": "discord",
+    "ipa": "英 /ˈdɪskɔːd/；美 /ˈdɪskɔːrd/",
+    "meaning": "不和；分歧；不协和声",
+    "sense": "大家的心意往两边拉，或声音彼此顶撞，合不到一起，这就是 discord。",
+    "split": "拉丁语 dis-（分开）+ cor/cord-（心）形成 discors、discordia，经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：discors → discordia",
+        "心意分开 → 不和"
+      ],
+      [
+        "古法语：descorde / descort",
+        "不和；不协调"
+      ],
+      [
+        "英语：discord",
+        "不和；不协和声"
+      ]
+    ],
+    "explanation": "可以指人际冲突，也可以指音乐中的不协和。音乐里的不协和有时是有意的表现手段，不必是演奏错误。",
+    "usage": "sow discord；family discord；a note of discord。",
+    "contrast": "disagreement 可以是平静的意见不同；discord 更突出不和、冲突或失去协调。",
+    "examples": [
+      [
+        "The decision sowed discord within the group.",
+        "这个决定在团体内部引起了不和。"
+      ],
+      [
+        "A harsh discord interrupted the gentle melody.",
+        "一个刺耳的不协和音打断了柔和旋律。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discord#English"
+    ]
+  },
+  {
+    "word": "discordant",
+    "ipa": "英 /dɪsˈkɔːdənt/；美 /dɪsˈkɔːrdənt/",
+    "meaning": "不协调的；不一致的；刺耳的",
+    "sense": "几种声音或说法挤到一起，彼此对不上，听起来或看起来像在打架。",
+    "split": "拉丁语 discordāre“相互不合”经法语相关分词形式进入英语；现代可联系 discord + -ant。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：discordāre",
+        "不一致；争执"
+      ],
+      [
+        "法语：discordant",
+        "不协调的"
+      ],
+      [
+        "英语：discordant",
+        "声音、观点或事物彼此不合"
+      ]
+    ],
+    "explanation": "它既可形容音响，也可形容与整体气氛不搭的言行。a discordant note 可以是一句破坏和谐的话。",
+    "usage": "discordant sounds；discordant views；strike a discordant note。",
+    "contrast": "different 只说不同；discordant 常说不同到难以协调或相互冲突。",
+    "examples": [
+      [
+        "Discordant music came from the next room.",
+        "隔壁传来不协调的音乐声。"
+      ],
+      [
+        "His cheerful remark struck a discordant note at the serious meeting.",
+        "在严肃的会议上，他轻快的评论显得很不合时宜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discordant#English"
+    ]
+  },
+  {
+    "word": "discordance",
+    "ipa": "英 /dɪsˈkɔːdəns/；美 /dɪsˈkɔːrdəns/",
+    "meaning": "不一致；不协调",
+    "sense": "把两个应当对应的结果并排放，发现它们明显对不上；这种不合就是 discordance。",
+    "split": "来自古法语 discordance 与中世纪拉丁语相关名词路线，根在 discordāre“不一致”；现代可联系 discord 与 -ance。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：discors → discordāre",
+        "心意不合 → 不一致"
+      ],
+      [
+        "中世纪拉丁语 discordantia／古法语 discordance",
+        "不协调、不一致的状态"
+      ],
+      [
+        "英语：discordance",
+        "相互不吻合的状态"
+      ]
+    ],
+    "explanation": "常用于专业或较正式的比较，比简单说“有差别”更强调结果或关系不一致。",
+    "usage": "discordance between results；a degree of discordance；explain the discordance。",
+    "contrast": "discord 常指关系不和；discordance 更适合把不一致作为可分析的现象讨论。",
+    "examples": [
+      [
+        "The team investigated the discordance between the two measurements.",
+        "团队调查了两次测量结果不一致的原因。"
+      ],
+      [
+        "There is a clear discordance between his words and actions.",
+        "他的言语和行动明显不一致。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/discordance",
+      "https://en.wiktionary.org/wiki/discordance#English"
+    ]
+  },
+  {
+    "word": "cordial",
+    "ipa": "英 /ˈkɔːdiəl/；美 /ˈkɔːrdʒəl/",
+    "meaning": "热诚友好的；果味甜饮；甜酒",
+    "sense": "面对人时，是从心里拿出友好；饮品义则保留了过去“让心和身体振作”的用法。",
+    "split": "中世纪拉丁语 cordiālis“与心有关”经法语进入英语。这里 cord- 是心，不是英语 cord“绳子”。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "中世纪拉丁语：cordiālis",
+        "与心有关的"
+      ],
+      [
+        "古法语：cordial",
+        "发自心的；强心的"
+      ],
+      [
+        "英语：cordial",
+        "热诚的；甜饮或甜酒"
+      ]
+    ],
+    "explanation": "形容词常说礼貌而温暖的交往；英式名词常指需加水稀释的甜饮料，美式可指甜利口酒，点饮料时要看地区。",
+    "usage": "a cordial welcome；cordial relations；fruit cordial。",
+    "contrast": "cordial 可以是友好而保持距离，不一定亲密。cordial drink 的传统名称也不代表现代医学功效。",
+    "examples": [
+      [
+        "They gave us a cordial welcome.",
+        "他们热情友好地欢迎了我们。"
+      ],
+      [
+        "She mixed the elderflower cordial with water.",
+        "她把接骨木花浓缩甜饮兑了水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cordial#English"
+    ]
+  },
+  {
+    "word": "cordially",
+    "ipa": "英 /ˈkɔːdiəli/；美 /ˈkɔːrdʒəli/",
+    "meaning": "热诚地；友好地",
+    "sense": "见面时主动握手、认真欢迎，对方感到受尊重；cordially 描述这种有礼而温暖的方式。",
+    "split": "cordial + -ly。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "中世纪拉丁语：cordiālis",
+        "与心有关的"
+      ],
+      [
+        "古法语：cordial",
+        "发自心的；强心的"
+      ],
+      [
+        "英语：cordial",
+        "热诚的；甜饮或甜酒"
+      ],
+      [
+        "英语：cordially",
+        "以热诚友好的方式"
+      ]
+    ],
+    "explanation": "邀请函中 You are cordially invited 是礼貌郑重的欢迎。它未必表示双方已经非常熟悉。",
+    "usage": "greet cordially；cordially invited；speak cordially。",
+    "contrast": "cordially 偏友好而礼貌；intimately 强调亲密，不能仅因邀请热情就换成后者。",
+    "examples": [
+      [
+        "You are cordially invited to the opening ceremony.",
+        "诚挚邀请您出席开幕式。"
+      ],
+      [
+        "The two neighbours greeted each other cordially.",
+        "两位邻居友好地互相问候。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cordially#English"
+    ]
+  },
+  {
+    "word": "cordiality",
+    "ipa": "英 /ˌkɔːdiˈæləti/；美 /ˌkɔːrdʒiˈæləti/",
+    "meaning": "热诚；友好",
+    "sense": "不只看有没有说礼貌用语，还看相处中是否能感到温暖、真诚的欢迎，这种气氛是 cordiality。",
+    "split": "cordial + -ity，形容词变成性质名词，重音后移。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "中世纪拉丁语：cordiālis",
+        "与心有关的"
+      ],
+      [
+        "古法语：cordial",
+        "发自心的；强心的"
+      ],
+      [
+        "英语：cordial",
+        "热诚的；甜饮或甜酒"
+      ],
+      [
+        "英语：cordiality",
+        "热诚友好的态度或气氛"
+      ]
+    ],
+    "explanation": "常形容接待、交往或关系中的友善。它不保证意见完全一致，双方可以友好地讨论分歧。",
+    "usage": "with cordiality；genuine cordiality；an atmosphere of cordiality。",
+    "contrast": "cordiality 说待人友好；concord 说关系协调一致。彼此有分歧仍可保持 cordiality。",
+    "examples": [
+      [
+        "We appreciated the cordiality of our hosts.",
+        "我们很感谢主人们的热情友好。"
+      ],
+      [
+        "The meeting ended in an atmosphere of cordiality.",
+        "会议在友好的气氛中结束。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cordiality#English"
+    ]
+  },
+  {
+    "word": "cordate",
+    "ipa": "英 /ˈkɔːdeɪt/；美 /ˈkɔːrdeɪt/",
+    "meaning": "心形的；基部呈心形的",
+    "sense": "想象常见爱心轮廓：一端有两个圆瓣，中间凹下去，另一端收尖。植物描述中常用 cordate 说明这种形状或心形基部。",
+    "split": "拉丁语 cord-（心）+ -ate（具有相应性质或形态）。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "现代英语构词：cord- + -ate",
+        "心 + 具有该形状的"
+      ],
+      [
+        "英语：cordate",
+        "心形的；基部呈心形的"
+      ]
+    ],
+    "explanation": "植物学说叶片或基部 cordate 时，通常叶柄接在两个圆瓣之间的凹处。这里说形状，不说植物有情感。",
+    "usage": "a cordate leaf；a cordate base；cordate leaf blades。",
+    "contrast": "cordate 是心形；obcordate 是方向倒过来的心形，连接叶柄的位置不同。",
+    "examples": [
+      [
+        "The plant has broad leaves with a cordate base.",
+        "这种植物的叶子宽大，基部呈心形。"
+      ],
+      [
+        "The guide illustrates the difference between cordate and oval leaves.",
+        "图鉴展示了心形叶和椭圆形叶的区别。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cordate#English"
+    ]
+  },
+  {
+    "word": "cordiform",
+    "ipa": "英 /ˈkɔːdɪfɔːm/；美 /ˈkɔːrdəfɔːrm/",
+    "meaning": "心形的",
+    "sense": "直接把物体外轮廓看成一颗爱心：它可以是叶片、石头或其他形状。",
+    "split": "拉丁语 cord-（心）+ -iform（形状像……的，与 form 有关）。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "现代构词：cord- + -iform",
+        "心 + 形状"
+      ],
+      [
+        "英语：cordiform",
+        "形状像心的"
+      ]
+    ],
+    "explanation": "这是形态描述词，强调整体外形。有些植物学规范把 cordate 更常用于基部、cordiform 用于整体，阅读时依该书术语习惯。",
+    "usage": "a cordiform outline；a cordiform leaf；a cordiform object。",
+    "contrast": "cordial 是热诚的；cordiform 是心形的。一个描述人际态度，另一个描述外形。",
+    "examples": [
+      [
+        "The drawing shows a cordiform outline.",
+        "这幅图画出了一个心形轮廓。"
+      ],
+      [
+        "The specimen has a distinctly cordiform shape.",
+        "这个标本具有明显的心形外观。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cordiform#English",
+      "https://www.dictionary.com/browse/cordiform",
+      "https://www.upov.int/documents/d/upov/tgp-documents-en-tgp_14.pdf"
+    ]
+  },
+  {
+    "word": "obcordate",
+    "ipa": "英 /ɒbˈkɔːdeɪt/；美 /ɑːbˈkɔːrdeɪt/",
+    "meaning": "倒心形的",
+    "sense": "把心形叶反过来：细的一端接叶柄，远端较宽并有凹口。这就是 obcordate。",
+    "split": "ob- 在这里表示倒置、反向，加 cordate（心形的）。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "现代英语构词：cord- + -ate",
+        "心 + 具有该形状的"
+      ],
+      [
+        "英语：cordate",
+        "心形的；基部呈心形的"
+      ],
+      [
+        "英语：ob- + cordate → obcordate",
+        "方向倒转的心形"
+      ]
+    ],
+    "explanation": "记忆关键是叶柄接在哪里，不能只看纸面图案朝上还是朝下。图转个方向，不会改变植物的形态名称。",
+    "usage": "an obcordate leaf；obcordate leaflets；an obcordate outline。",
+    "contrast": "cordate 的凹处通常在靠叶柄的一端；obcordate 的凹处在远离叶柄的宽端。",
+    "examples": [
+      [
+        "The leaflet is obcordate, with the stalk attached to the narrow end.",
+        "小叶呈倒心形，叶柄接在较窄的一端。"
+      ],
+      [
+        "The botanist noted the plant’s obcordate leaflets.",
+        "植物学家记录了这种植物倒心形的小叶。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/obcordate#English",
+      "https://www.ahdictionary.com/word/search.html?q=obcordate"
+    ]
+  },
+  {
+    "word": "misericord",
+    "ipa": "英 /mɪˈzerɪkɔːd/；美 /mɪˈzerɪkɔːrd/",
+    "meaning": "教堂站立支托；历史上的怜悯短剑",
+    "sense": "长时间站立很累，教堂折叠座椅下面留一小块托板，让人稍微倚住。这个“小小的怜悯”是词的一条历史用途。",
+    "split": "拉丁语 misericordia“怜悯”与 miser“可怜、受苦”和 cor“心”相关，经古法语进入英语。",
+    "history": [
+      [
+        "拉丁语：miser + cor/cord-",
+        "受苦、可怜 + 心"
+      ],
+      [
+        "拉丁语：misericordia → 法语 misericorde",
+        "怜悯"
+      ],
+      [
+        "英语：misericord",
+        "以怜悯命名的历史物件"
+      ]
+    ],
+    "explanation": "教堂托板是减轻久站负担的装置。另一历史义是用于结束重伤者生命的短剑，名称来自当时所谓“怜悯一击”的观念，不是现代赞同这种做法。",
+    "usage": "a carved misericord；a medieval misericord；choir-stall misericords。",
+    "contrast": "它不是普通 cushion“坐垫”，而是特定历史构件；看到武器语境也不能译成教堂托板。",
+    "examples": [
+      [
+        "The church has a beautifully carved wooden misericord.",
+        "这座教堂有一块雕刻精美的木制站立支托。"
+      ],
+      [
+        "The museum labels the medieval dagger as a misericord.",
+        "博物馆把那把中世纪短剑标为 misericord。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/misericord#English"
+    ]
+  },
+  {
+    "word": "scordatura",
+    "ipa": "英 /ˌskɔːdəˈtʊərə/；美 /ˌskɔːrdəˈtʊrə/",
+    "meaning": "变格定弦；非常规定弦",
+    "sense": "弦乐器通常有一套标准调弦，但演奏这首曲子时，故意把某些弦调到别的音，以得到特别音色或更合适的指法。",
+    "split": "借自意大利语 scordatura，来自 scordare“失去通常调和”，与拉丁语 discordāre“不和谐”相连。",
+    "history": [
+      [
+        "拉丁语：cor，词干 cord-",
+        "心；心意；记忆与情感的中心"
+      ],
+      [
+        "拉丁语：discordāre",
+        "不一致；不调和"
+      ],
+      [
+        "意大利语：scordare → scordatura",
+        "偏离通常调弦 → 改变定弦"
+      ],
+      [
+        "英语：scordatura",
+        "有意采用非常规定弦"
+      ]
+    ],
+    "explanation": "历史词形含“不调和”，现代音乐术语却常表示有计划的特殊调弦，不等于演奏者没调准。",
+    "usage": "scordatura tuning；use scordatura；a piece requiring scordatura。",
+    "contrast": "out of tune 是音准不对；scordatura 是主动改变定弦方案，演奏仍可以非常准确。",
+    "examples": [
+      [
+        "The violinist used scordatura for this piece.",
+        "小提琴家演奏这首曲子时采用了变格定弦。"
+      ],
+      [
+        "The score explains the required scordatura before the first movement.",
+        "乐谱在第一乐章前说明了所需的特殊定弦。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/scordatura#English",
+      "https://www.collinsdictionary.com/dictionary/english/scordatura"
+    ]
+  }
+]

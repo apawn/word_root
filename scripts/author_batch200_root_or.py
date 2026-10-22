@@ -1,0 +1,15 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+B=[['拉丁 os，属格 oris','嘴；开口']]
+W=[
+E('oral','英 /ˈɔːrəl/；美 /ˈɔrəl/','口头的；口腔的；经口的','同一张嘴既用来说话，也能作为身体的入口。','借入晚期拉丁 oralis：or- 嘴 + -alis 形容词结尾。',B+[['晚期拉丁 oralis → 英语 oral','与嘴有关的 → 口头、口腔、经口的']],'an oral exam 是口试，oral history 是口述历史，oral hygiene 是口腔卫生。先看它在谈说话还是身体部位，别每次都机械翻成“口头”。','an oral examination；an oral presentation；oral history；oral hygiene。','oral 是嘴或口头，aural 是耳朵或听觉；两词在一些口音中读音很接近。spoken 偏口语表达，不能替换 oral hygiene。',('The course ends with an oral examination.','这门课以口试结束。'),('The workshop focused on oral hygiene.','这次讲习班重点介绍口腔卫生。'),sources=['https://www.etymonline.com/word/oral','https://en.wiktionary.org/wiki/oral']),
+E('orally','英 /ˈɔːrəli/；美 /ˈɔrəli/','口头地；经口地','信息从嘴里说出来，或某种东西从嘴里进入，具体看搭配。','oral + -ly；以与嘴有关的方式。',B+[['拉丁 oralis → 英语 oral','与嘴有关的'],['oral + -ly → orally','口头表达；经口进入']],'present findings orally 是口头汇报结果；a medicine taken orally 是口服药物。后者中的 orally 命名给药途径，前者则命名表达方式。','explain orally；present orally；communicate orally；administer orally。','orally 和 in writing 常对照口头与书面；药物语境则要理解为经口，不能翻成“口头服药”。',('The students presented their findings orally.','学生们口头汇报了研究结果。'),('The report compared medicines administered orally with those given by injection.','报告比较了口服药物与注射给药的情况。'),sources=['https://en.wiktionary.org/wiki/orally','https://www.oxfordlearnersdictionaries.com/definition/english/orally']),
+E('orifice','英 /ˈɒrɪfɪs/；美 /ˈɔrəfɪs/','孔口；开口','管道、容器或身体上的一个口，东西可以从那里进出。','经法语接晚期拉丁 orificium：os／or- 嘴 + facere 做；字面是形成的口。',B+[['晚期拉丁 orificium → 法语 orifice','形成的口、开口'],['英语 orifice','身体或装置上的孔口']],'a small orifice in a nozzle 是喷嘴上的小孔。它比 hole 更正式，常用于解剖或工程，强调通道的开口，不只是任意一个坑洞。','a narrow orifice；a nozzle orifice；a bodily orifice。','orifice 是开口，organ 是器官。facere 的痕迹在 -fice，不要把后半看作现代英语 office。',('Water flowed through a narrow orifice in the nozzle.','水从喷嘴的狭窄孔口流出。'),('The diagram labels the openings as orifices.','图中把这些开口标注为孔口。'),sources=['https://en.wiktionary.org/wiki/orifice','https://www.etymonline.com/word/orifice'])]
+r=next(x for x in json.loads(Path('.cache/catalog.json').read_text()) if x['id']=='C0909');kept=[w['word'] for w in W]
+EX={w:'本轮暂略较专门的解剖、植物或接触吻合术语' for w in set(r['family'])|set(r['words']) if w not in kept}
+ROOT=dict(id='C0909',meaning='嘴；开口',core='OR = MOUTH',image='一张嘴有两种直观作用：把话说出来，让东西进出。再把嘴的形状借给管口、孔口，就得到 orifice。',intro='拉丁 os 的属格是 oris，因此派生词里常见 or-。最常用的 oral 同时连接口头表达和口腔部位；orifice 把“嘴”推广为各种开口。',forms='or- 来自 oris。晚期拉丁 oralis 留下 oral，orificium 留下 orifice。另一个拉丁 os 表示骨，属格 ossis，词干 oss-；不能因为原形像就把嘴和骨混成一根。',branches=[['用嘴表达或经口进入','oral, orally'],['像嘴一样的开口','orifice']],contrasts='oral 关乎嘴，aural 关乎耳朵。oral presentation 是口头报告，oral hygiene 是口腔卫生；同一个形容词随对象改变译法。',practice='The students explained the diagram orally, pointing out the small orifice through which the liquid flowed.\n\n学生们口头讲解了示意图，指出液体流过的小孔口。',words=kept,exclude=EX)
+if __name__=='__main__':
+ for name,data in [('roots_or',[ROOT]),('words_or',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

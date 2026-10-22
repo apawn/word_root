@@ -1,0 +1,116 @@
+[
+  {
+    "id": "C1439",
+    "meaning": "堆叠、安排、搭建；结构与拆解",
+    "core": "STRU / STRUCT：把零散部分按顺序搭成整体",
+    "image": "把砖块搭成墙；在前面砌墙挡路；把搭好的墙拆开",
+    "intro": "从**把积木一块块搭起来**开始。拉丁语 struere 是堆叠、排列、建造，structus 是它的分词形式。construct 把东西合起来搭，structure 看搭成的整体怎样组织；obstruct 在前面堆出障碍；destroy 则把原先搭好的拆毁。instruct 走过“安排、装备”的意思，后来成为教导。砖块换成知识、规则、证据，这个词族就能从工地一直用到课堂、写作和程序设计。",
+    "forms": "**stru- 与 struct- 是同一拉丁动词不同词形留下的痕迹**，并不是英语里随意增删 ct。**construe / construct** 是同源异形词：一条专门发展了语法分析、解释的用法，另一条保留更显眼的 struct。**destroy** 经法语传播，外形已经变化；**destruction、destructive、destructor** 各有自己的借入路线。现代英语里的 **re-、micro-、sub-、super-** 又在借词上继续造词。图示呈现具体来源；积木、墙和骨架是理解现代词义的联想。",
+    "branches": [
+      [
+        "把部分搭成整体",
+        "construct · construction · constructor"
+      ],
+      [
+        "把话语、线索拼成理解",
+        "construe · construal · misconstrue · misconstruction"
+      ],
+      [
+        "帮助把事情做好",
+        "constructive · constructively · constructiveness"
+      ],
+      [
+        "整体如何组织",
+        "structure · structural · structured · structuralism"
+      ],
+      [
+        "知识、观念与作品的构建",
+        "constructivism · constructivist"
+      ],
+      [
+        "支撑层与细小内部组织",
+        "infrastructure · superstructure · substructure · microstructure"
+      ],
+      [
+        "重新搭建、调整安排",
+        "reconstruct · reconstruction · restructure · restructuring"
+      ],
+      [
+        "安排、装备 → 教导",
+        "instruct · instruction · instructor · instructive"
+      ],
+      [
+        "在前面堆起 → 阻碍",
+        "obstruct · obstruction · obstructive · obstructionist"
+      ],
+      [
+        "拆开分析构成",
+        "deconstruction · deconstruct · deconstructive"
+      ],
+      [
+        "拆毁、损坏与耐损坏",
+        "destroy · destruction · destructive · indestructible"
+      ]
+    ],
+    "contrasts": "**construct / construe**：建造或构建 / 把话语、行为理解成某种意思。不能用 construct my silence as agreement。\n\n**construction / structure**：搭建过程或构造方式 / 形成的整体及其内部关系。construction 还可指语法结构和解释。\n\n**constructive / constructional / structural / structured**：有助改进 / 建造构造相关 / 结构方面的 / 已按明确条理安排的。\n\n**instructive / instructional**：能让人学到东西 / 用于教学。一个失败案例可以很有启发，但并非为了教学而发生。\n\n**reconstruct / restructure**：重建或还原 / 重新安排已有部分之间的关系。\n\n**destructive / destructible / indestructible**：有破坏性的 / 可被破坏的 / 不可摧毁或极耐用的。\n\n**deconstruct / destroy**：拆开分析 / 毁坏。解构分析不等于把讨论对象全部否定。\n\n**constructor / destructor**：编程里分别与对象的初始化、销毁时清理有关；不要把这对术语直接简化成申请内存、释放内存。",
+    "practice": "**The instructor gave constructive feedback on how to structure the report, and we reconstructed the events from the available evidence.**\n\n老师对如何组织报告提出了有助改进的反馈，我们又根据现有证据还原了事件经过。instructor 带着人学；constructive 帮助改善；structure 安排材料的层次；reconstruct 把过去的经过重新拼回来。",
+    "words": [
+      "construction",
+      "structure",
+      "destroy",
+      "infrastructure",
+      "destruction",
+      "structural",
+      "instruction",
+      "instructor",
+      "construct",
+      "reconstruction",
+      "destructive",
+      "structured",
+      "constructive",
+      "restructuring",
+      "obstruction",
+      "instructional",
+      "destroyer",
+      "instruct",
+      "reconstruct",
+      "structurally",
+      "obstruct",
+      "indestructible",
+      "restructure",
+      "instructive",
+      "obstructive",
+      "constructor",
+      "destruct",
+      "superstructure",
+      "deconstruction",
+      "reconstructive",
+      "constructively",
+      "unstructured",
+      "infrastructural",
+      "deconstruct",
+      "microstructure",
+      "constructivist",
+      "constructivism",
+      "construe",
+      "structuralism",
+      "substructure",
+      "obstructionist",
+      "destructor",
+      "structuralist",
+      "destructively",
+      "destructiveness",
+      "misconstrue",
+      "microstructural",
+      "destructible",
+      "constructional",
+      "deconstructive",
+      "construal",
+      "deconstructionist",
+      "indestructibility",
+      "constructiveness",
+      "misconstruction",
+      "obstructively"
+    ]
+  }
+]

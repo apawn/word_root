@@ -1,0 +1,13 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+B=[['希腊 pyramis，词干 pyramid-','金字塔；其更早来源仍有争议']]
+W=[
+E('pyramid','/ˈpɪrəmɪd/','金字塔；棱锥；金字塔形层级','下面宽、上面窄，几面向同一个顶点收拢；这个形状也能用来画人数越来越少的层级。','经法语 pyramide 和拉丁 pyramis，来自希腊 pyramis。更远来源有埃及词和希腊食品名等解释，尚不确定；不能因开头 pyr- 就断定是火堆。',B+[['拉丁 pyramis → 法语 pyramide','金字塔这一建筑或形状名称'],['英语 pyramid','建筑、几何棱锥，也比喻宽底窄顶的层级']],'在旅游语境通常是金字塔；几何里是有一个多边形底面、侧面向共同顶点汇聚的棱锥，底面不一定是正方形。an organizational pyramid 则把很多基层成员和少数上层管理者画成一个形状。','the pyramids of Egypt；a triangular pyramid；at the top of the pyramid。','triangle 是平面的三角形，pyramid 是立体的棱锥。看到侧面像三角形，不等于整个物体就是一个平面三角形。',('The children built a pyramid from wooden blocks.','孩子们用积木搭了一座金字塔。'),('A square pyramid has a square base and four triangular side faces.','四棱锥可以有一个正方形底面和四个三角形侧面。'),('Only a few roles sit at the top of the organizational pyramid.','组织金字塔的顶端只有少数职位。'),sources=['https://www.etymonline.com/word/pyramid','https://en.wiktionary.org/wiki/pyramid']),
+E('pyramidal','/pɪˈræmɪdəl/','金字塔形的；棱锥形的；与锥体有关的','把 pyramid 从一个物体名变成形状标签：这个东西向一个尖顶收拢。','来自中世纪拉丁 pyramidalis。现代可以按 pyramid + -al 理解，但英语较早已有 piramidal 等形式，不应把当前拼写的 pyramid 当成唯一历史起点。',B+[['中世纪拉丁 pyramidalis','与金字塔或棱锥相关的'],['中古英语 piramidal → pyramidal','金字塔形、锥体形的']],'可形容屋顶、晶体、组织结构，也见于神经科学中的 pyramidal cells，名称关联细胞体的形状。词义核心是外形或相关结构，不是这些物体真的与埃及建筑有直接联系。','a pyramidal roof；a pyramidal structure；pyramidal cells。','pyramid 是名词，pyramidal 是形容词。pyramidal structure 可以指形状或层级结构，要看它修饰的是建筑还是组织。',('The tower has a pyramidal roof.','这座塔有一个金字塔形的屋顶。'),('The diagram shows a pyramidal structure with several levels.','图中展示了一个有多个层级的金字塔式结构。'),sources=['https://en.wiktionary.org/wiki/pyramidal','https://www.etymonline.com/word/pyramid'])
+]
+ROOT=dict(id='C1180',meaning='金字塔；棱锥形',core='PYRAMID = PYRAMID',image='一个宽底座，几个侧面向同一个顶点收拢。形状再借来表示底层多、顶层少的组织。',intro='这组来自希腊 pyramis 的词干 pyramid-，不是一个能随意拆成“火”的词。更早的埃及语或食品名联系仍有争议，先记可靠的希腊—拉丁—法语—英语路径。',forms='pyramid 是名词；pyramidal 是形容词，来自中世纪拉丁的相关形式。英语读音里两词重音位置不同：PYR-a-mid，py-RAM-i-dal。',branches=[['建筑与立体形状','pyramid'],['形状或层级的描述','pyramidal']],contrasts='triangle 是二维，pyramid 是三维；棱锥的底面可以是不同多边形。金字塔形结构是外形或层级的比喻，不表示它一定是古代建筑。',practice='The model is a pyramid, and the tower behind it has a pyramidal roof.\n\n这个模型是一个棱锥，后面的塔则有金字塔形的屋顶。',words=[x['word'] for x in W],exclude={w:'较专门的建筑或几何名称，先保留基本词' for w in ['pyramidion','dipyramid']})
+if __name__=='__main__':
+ for name,data in [('roots_pyramid',[ROOT]),('words_pyramid',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

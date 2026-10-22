@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f6f2">
+  <title>词根阅读室 · Word Roots</title>
+  <link rel="stylesheet" href="/style.css">
+  <script defer src="/vendor/marked.min.js"></script>
+  <script defer src="/vendor/purify.min.js"></script>
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <a class="brand" href="/" aria-label="词根阅读室首页"><span class="brand-symbol">r.</span><span>词根阅读室<small>WORD ROOTS / LOCAL LIBRARY</small></span></a>
+    <div class="header-note">从一个词根，读懂一组单词。</div>
+    <div class="header-tools"><span id="library-stats">正在打开资料库…</span><button id="focus-toggle" title="切换专注阅读">专注阅读</button></div>
+  </header>
+  <nav class="mobile-tabs" aria-label="切换面板"><button data-panel="files">文档</button><button data-panel="words">单词</button><button data-panel="reader" class="selected">正文</button></nav>
+  <div class="workspace">
+    <aside class="files-pane pane" aria-label="Markdown 文档列表">
+      <div class="pane-heading"><span class="eyebrow">LIBRARY</span><h2><span id="file-heading" class="heading-label">所有文档</span> <span id="file-count"></span></h2></div>
+      <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="global-search" type="search" placeholder="搜索文档、词根…" aria-label="搜索资料库"><kbd>⌘ K</kbd></div>
+      <div class="tabs" id="search-tabs"><button data-mode="documents" class="selected">文档</button><button data-mode="words">全库单词</button></div>
+      <label class="category-label" for="category">资料分类</label><select id="category"><option value="">全部 Markdown</option></select>
+      <div id="file-list" class="virtual-list" tabindex="0" role="region" aria-label="文档搜索结果"><div class="virtual-space"></div></div>
+      <div class="pane-footer"><span class="status-dot"></span>本地资料库 · 离线可读</div>
+    </aside>
+    <aside class="words-pane pane" aria-label="当前文档导航">
+      <div class="pane-heading"><span class="eyebrow">IN THIS DOCUMENT</span><h2>单词导航 <span id="word-count"></span></h2></div>
+      <div id="current-root">选择一份文档开始阅读</div>
+      <div class="tabs" id="nav-tabs"><button data-kind="word" class="selected">单词</button><button data-kind="heading">章节</button></div>
+      <div class="search-wrap compact"><span aria-hidden="true">⌕</span><input id="word-search" type="search" placeholder="在本文中查找…" aria-label="搜索当前文档单词或章节"></div>
+      <div id="word-list" class="virtual-list" tabindex="0" role="region" aria-label="单词或章节列表"><div class="virtual-space"></div></div>
+      <div class="pane-footer">点击单词，直达讲解</div>
+    </aside>
+    <main class="reader-pane" id="main">
+      <div class="reader-toolbar"><div id="breadcrumb">词根阅读室</div><div class="reader-actions"><button id="font-smaller" aria-label="缩小正文">A−</button><button id="font-larger" aria-label="放大正文">A＋</button><a id="source-link" href="#" target="_blank" rel="noopener" title="查看 Markdown 源文件">原文 ↗</a></div></div>
+      <div id="reader" tabindex="0" aria-label="Markdown 正文"><div id="reader-space" class="virtual-space"></div><div id="reader-message" role="status">正在打开阅读室…</div></div>
+      <footer class="reader-footer"><span id="reading-status" aria-live="polite">准备就绪</span><button id="to-top">回到开头 ↑</button></footer>
+      <div class="progress-track"><div id="progress"></div></div>
+    </main>
+  </div>
+  <div id="toast" role="alert" hidden></div>
+</body>
+</html>

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "C1131",
+    "meaning": "好、可靠、正直；检验是否合格；证明与认可",
+    "core": "PROB = TEST / PROVE / APPROVE",
+    "image": "拿来检验：站得住吗？合格吗？值得认可吗？",
+    "intro": "**prob-** 的出发点是拉丁语 **probus**“好的、可靠的、正直的”，以及动词 **probāre**“检验、证明、认可”。可以想象一件东西拿来验收：先 **probe** 探查，用证据 **prove** 它符合要求，再 **approve** 表示认可；这是一幅帮助理解的画面，不是三个英语词互相演化的历史顺序。",
+    "forms": "**prob- / prov- / proof**：同一拉丁词族经过不同借入路线，留下不同拼写。prove 常经法语动词，proof 有独立的名词历史，probe 则保留较明显的 b。不要把它们画成现代英语 prove → proof → probe。\n\n**probable 与 provable** 都和“可信、能证明”相关，但今天一个是“很可能”，另一个是“可证明”。**probity** 直接保留“正直品格”这一支。\n\n**approve** 的 ap- 是拉丁 ad- 在 p 前的同化；**reprove / reprobate** 中的 re- 随历史词义走向不认可、拒绝，不能固定套用“再次”。**improbable** 的 im- 则是否定前缀 in- 在 p 前的同化。\n\n**opprobrium** 虽然拼写里有 prob，却来自拉丁语 probrum“耻辱、责难”一支，不应塞进 probus“好的”这一词族。**improve** 也不是 im- + prove，历史上另有“有益、获利”的来源。",
+    "branches": [
+      [
+        "拿出证据",
+        "prove · proof · proven · disprove"
+      ],
+      [
+        "判断可能性",
+        "probable · probably · probability"
+      ],
+      [
+        "认可与不认可",
+        "approve · approval · disapprove"
+      ],
+      [
+        "品格与责备",
+        "probity · reprove · reprobate"
+      ],
+      [
+        "深入探查与考察",
+        "probe · probation · probationary"
+      ],
+      [
+        "正式证明事务",
+        "probate · probative"
+      ],
+      [
+        "检查文字",
+        "proofread · proofreader · proofreading"
+      ],
+      [
+        "经受影响、形成防护",
+        "waterproof · soundproof · foolproof"
+      ]
+    ],
+    "contrasts": "**prove / probe / approve**：证明结论 / 深入探查 / 表示认可或批准。\n\n**probable / provable / proven**：很可能 / 可证明 / 已证明。**unproven / disproved / unprovable**：还未证实 / 已证伪 / 在相关条件内无法证明。\n\n**approval / approbation / probation**：认可、批准 / 较书面的赞许 / 试用与考察。**probate** 是遗嘱、遗产事务中的词。\n\n**disprove / disapprove / reprove**：证伪主张 / 不赞同 / 责备行为。\n\n**proofread** 现在读 /riːd/，过去读 /red/；**reprobate** 名词、形容词末尾 /ət/，动词末尾 /eɪt/。",
+    "practice": "**The results look promising, but they do not prove the claim. We will probably need more evidence before we approve the plan.**\n\n结果看起来不错，但还不能证明那个主张。在批准计划之前，我们大概还需要更多证据。prove 是证实；probably 是有保留的判断；approve 是批准。",
+    "words": [
+      "prove",
+      "proof",
+      "proven",
+      "unproven",
+      "unproved",
+      "proving",
+      "provable",
+      "unprovable",
+      "disprove",
+      "approve",
+      "approval",
+      "disapprove",
+      "disapproval",
+      "approbation",
+      "disapprobation",
+      "approbate",
+      "probity",
+      "probable",
+      "probably",
+      "probability",
+      "improbable",
+      "improbably",
+      "improbability",
+      "probabilistic",
+      "probe",
+      "probation",
+      "probationary",
+      "probationer",
+      "probate",
+      "probative",
+      "reprove",
+      "reproof",
+      "reproving",
+      "reprobate",
+      "reprobation",
+      "proofread",
+      "proofreader",
+      "proofreading",
+      "proofing",
+      "waterproof",
+      "foolproof",
+      "bulletproof",
+      "soundproof",
+      "fireproof"
+    ],
+    "exclude": {
+      "opprobrium": "来自拉丁语 probrum“耻辱、责难”，不是 probus“好、可靠”这一词族；见 Etymonline opprobrium、Wiktionary opprobrium。"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="462" viewBox="0 0 1000 462" role="img">
+<title>unimpressed：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="460" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：premere；分词 pressus</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">按、压、挤</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：imprimere → impressus</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">印入、压入 → 已印上的</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">英语：impress</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">留下深刻印象；使赞叹</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：impressed → unimpressed</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">被打动 → 没有被打动</text>
+</svg>

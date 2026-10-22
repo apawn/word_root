@@ -1,0 +1,73 @@
+[
+  {
+    "id": "C0327",
+    "meaning": "说出来：预测、命令、约定、反驳、祝福",
+    "core": "DIC / DICT = SAY",
+    "image": "把心里的话说出来，也可以把规矩正式说定",
+    "intro": "**这一组先记一个动作：说。** 拉丁语 dīcere 是说，dictus 是相关分词形式。预先说是 predict；反着说是 contradict；公开说定规矩可以成为 edict。这里的“说”常比闲聊更正式，能承担宣告、规定和约定的作用。",
+    "forms": "dic- / dict- 是拉丁词干的不同形式。dictāre 是相关的反复动作形式，形成 dictate、dictator 一支。经过法语的词可能变得不太像原根：condition 来自“共同说定”的 condiciō 一支；indict 后来补写了 c，读音却没有 /k/。不能凭字母猜出所有变化。",
+    "branches": [
+      [
+        "提前说结果",
+        "predict · prediction"
+      ],
+      [
+        "公开说规矩",
+        "dictate · edict"
+      ],
+      [
+        "反着说",
+        "contradict · contradiction"
+      ],
+      [
+        "共同说定",
+        "condition · conditional"
+      ],
+      [
+        "话语与记录",
+        "diction · dictionary"
+      ],
+      [
+        "祝福与告别",
+        "benediction · valediction"
+      ]
+    ],
+    "contrasts": "**predict / dictate**：判断未来会怎样；要求或实际决定事情怎样。\n\n**diction / dictation / dictionary**：措辞或吐字；口述听写；收集解释词语的工具。\n\n**indict / verdict**：正式提出指控；作出裁断。不要把指控写成已经证实的罪名。\n\n**benediction / malediction / valediction**：祝福的话；诅咒的话；告别的话。",
+    "practice": "**The evidence contradicted the prediction, so we changed the conditions of the experiment.**\n\n证据与预测不符，因此我们改变了实验条件。提前说是 prediction，事实与说法冲突是 contradict，实验所处的设置是 conditions。",
+    "words": [
+      "condition",
+      "predict",
+      "dictionary",
+      "prediction",
+      "predictable",
+      "unpredictable",
+      "indict",
+      "indictment",
+      "dictator",
+      "dictatorship",
+      "conditional",
+      "unconditional",
+      "conditionality",
+      "dictate",
+      "contradict",
+      "contradiction",
+      "contradictory",
+      "conditioner",
+      "predictive",
+      "predictor",
+      "edict",
+      "dictatorial",
+      "predictability",
+      "dictation",
+      "diction",
+      "precondition",
+      "interdict",
+      "interdiction",
+      "benediction",
+      "dictum",
+      "valediction",
+      "malediction",
+      "verdict"
+    ]
+  }
+]

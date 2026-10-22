@@ -1,0 +1,12 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+W=[
+E('viscous','/ˈvɪskəs/','黏稠的；流动阻力较大的','倒水时哗一下就流开，倒糖浆时却拖拖拉拉：后者更容易让你感到 viscous。','经法语并从晚期拉丁 viscosus 黏的借入，来自 viscum，古时指黏性物质，也与槲寄生制成的捕鸟黏胶有关。',[['拉丁 viscum → viscosus','黏胶等黏性物质 → 黏的'],['法语 viscos；英语 viscous','黏稠的；在物理语境指黏性相关的']],'日常说 a viscous liquid，重点是液体不容易流动、像内部互相拖着。物理学里黏性是流体抵抗各层相对滑动的性质，气体也有；不等于摸起来一定会粘手。','a viscous liquid；viscous oil；a viscous fluid；viscous resistance。','sticky 常说容易粘住别的东西；viscous 重点说流动中的阻力。dense 是密度大，这又是另一种性质。',('The mixture became thick and viscous as it cooled.','混合物冷却后变得浓稠。'),('The pump is designed to move viscous liquids.','这台泵用于输送黏稠液体。'),sources=['https://www.etymonline.com/word/viscous','https://www.grc.nasa.gov/www/k-12/airplane/viscosity.html']),
+E('viscosity','英 /vɪˈskɒsəti/；美 /vɪˈskɑːsəti/','黏度；黏性','给刚才那种“不愿顺畅流动”的程度一个名字，便于测量和比较。','借自古法语 viscosite 或中世纪拉丁 viscositas，来自 viscosus 黏的。今天可把它与 viscous 成对记，但不是历史上只在英语里换后缀才造出的词。',[['拉丁 viscosus → viscositas','黏的 → 黏的性质'],['古法语 viscosite；英语 viscosity','黏性；物理学中的黏度']],'在相同条件下，蜂蜜通常比水的黏度高，因此倒出来更慢。比较黏度还要留意温度，因为同一种材料在不同温度下流动表现会改变。它不是重量、密度或表面有多粘的另一个名字。','high viscosity；low viscosity；measure viscosity；the viscosity of a fluid。','viscous 是形容词，说某液体黏稠；viscosity 是名词，说它的黏度是多少或怎样变化。物理上的流体也包括气体。',('The experiment measures how viscosity changes with temperature.','这个实验测量黏度如何随温度变化。'),('At the same temperature, honey usually has a higher viscosity than water.','在相同温度下，蜂蜜的黏度通常比水高。'),sources=['https://www.etymonline.com/word/viscosity','https://www.grc.nasa.gov/www/k-12/airplane/viscosity.html'])]
+ROOT=dict(id='C1647',meaning='黏；流动时有阻力',core='VISC = STICKY / VISCOUS',image='一勺糖浆往下倒，液体像互相拖着走，很慢才铺开。',intro='拉丁 viscum 与黏性物质、捕鸟黏胶有关，viscosus 表示黏的。英语 viscous 与 viscosity 把这个直觉带进液体描述和流体物理。',forms='viscum → viscosus → viscous；viscosus → viscositas → viscosity。词义由古老的黏胶形象发展到可测量的流动性质。',branches=[['形容液体或黏性性质','viscous'],['讨论和测量这种性质','viscosity']],contrasts='黏度与密度不是一回事；会粘手也不等于黏度大。先用糖浆与水理解，再记住气体同样有黏性。',practice='A viscous liquid has relatively high viscosity under the conditions being discussed.\n\n在所讨论的条件下，黏稠液体具有相对较高的黏度。',words=[x['word'] for x in W],exclude={})
+ROOT['branches']=[[x[0],'；'.join(x[1:])] for x in ROOT['branches']]
+if __name__=='__main__':
+ for name,data in [('roots_visc',[ROOT]),('words_visc',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

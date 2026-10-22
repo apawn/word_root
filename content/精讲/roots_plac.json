@@ -1,0 +1,136 @@
+[
+  {
+    "id": "C1053",
+    "meaning": "使人平静；安抚、平息不满",
+    "core": "PLAC = CALM / APPEASE",
+    "image": "让紧绷的情绪缓下来，让对方愿意接受",
+    "intro": "**plācāre** 是拉丁语的“安抚、使平静”，与 **placēre**“使满意”相连。可以想象对方正皱眉、气愤，你用解释或行动让情绪缓下来：这就是 **placate** 的核心。词根不是万能公式，**supple / supplicate** 的更深来源有分歧，在本页单独保留说明。",
+    "forms": "**plācāre → plācātus** 是拉丁动词与过去分词的关系；英语 **placate** 还可能从较早的 placation 逆构而来。**placation、placatory、placable** 各有拉丁或法语借入路线，不能一律画成现代英语 placate 加后缀。\n\n**implacable** 的 im- 是否定 in- 在 p 前变为 m：“无法被安抚”。**placid** 则属于相关的 placēre / placidus 支线，强调平静状态。\n\n**supple、supplicant、supplicate、supplication** 的可靠起点是 supplex / supplicāre。更早有“弯身、折叠”与“谦恭安抚”等不同分析；图从可确认的拉丁词开始，不强接到 plācāre。\n\n现代常用 **supply**“供给”来自拉丁语 supplēre“填满”。虽有非常少见的同形副词 supply 可按 supple + -ly 解释，本页不把常用供给义误作安抚义。",
+    "branches": [
+      [
+        "使不满缓和",
+        "placate · placation"
+      ],
+      [
+        "带着安抚意图",
+        "placatory · placating · placatingly"
+      ],
+      [
+        "能否被劝和",
+        "placable · implacable · implacably"
+      ],
+      [
+        "平静温和的状态",
+        "placid · placidly · placidity"
+      ],
+      [
+        "相关的使满意支线",
+        "please"
+      ],
+      [
+        "远源有争议的支线",
+        "supple · supplicant · supplication"
+      ]
+    ],
+    "contrasts": "**please / placate**：让人满意 / 平息已经存在的不满。\n\n**placid / placable / placatory**：本来平静 / 能被安抚 / 意在安抚。**implacable** 则是不肯软化、无法劝和。\n\n**supple** 是身体、皮革等柔韧；**supplicate** 是恳求。它们较深的历史分析有分歧，不能只凭一个想象中的“弯腰讨好”故事就断定全部路线。",
+    "practice": "**Her placatory tone did not placate the customer, who remained implacable.**\n\n她安抚的语气没有让顾客消气，对方仍不肯让步。placatory 说意图，placate 说安抚动作，implacable 说态度不肯软化。",
+    "words": [
+      "please",
+      "placate",
+      "placation",
+      "placatory",
+      "placating",
+      "placatingly",
+      "placable",
+      "implacable",
+      "implacably",
+      "placid",
+      "placidly",
+      "placidity",
+      "supple",
+      "supplicant",
+      "supplicate",
+      "supplication"
+    ],
+    "exclude": {
+      "supply": "词族扩展通过罕见副词 supply（supple + -ly）命中，但现代常用 supply“供应”来自 supplēre，与本族不同；为避免同形误导不在此页展开。"
+    }
+  },
+  {
+    "id": "C1054",
+    "meaning": "使人满意、愉快；觉得合意、愿意接受",
+    "core": "PLAC / PLEAS = PLEASE",
+    "image": "心里点头：舒服、满意、合我的意",
+    "intro": "**placēre** 的核心不是某一种大笑，而是“让人觉得合意”。东西合意，让人 **pleased**；体验合意，带来 **pleasure**；对自己满意过头，就可能 **complacent**；总想顺着别人，则是 **complaisant**。这些是一组意义联系，各词的真实历史路线分别见逐词图。",
+    "forms": "拉丁语 **placēre** 经法语出现 **plais- / pleas-** 等形式。**please、pleasant、pleasure、pleasantry** 并不是在现代英语里按同一套后缀依次造出来的，各有借入形式。\n\n**complacent / complaisant** 同源，前者更直接保留拉丁外形，后者经过法语；今天通常分别说“自满”和“愿意迁就他人”。\n\n**plea / plead** 经拉丁语 placitum“所议定、认可的事项”走向法律主张与恳求；不是 please 直接删字母。**placebo** 是拉丁语“我将使满意”的完整动词形式，不是 place + bo。\n\n**placid** 属于 placidus 的平静支线。英语 **place** 则来自希腊语“宽阔的路”那一族，不能仅因外形接近混进来。",
+    "branches": [
+      [
+        "让人高兴与满意",
+        "please · pleased · pleasing"
+      ],
+      [
+        "舒服、好相处",
+        "pleasant · pleasantly · pleasantness"
+      ],
+      [
+        "感到不舒服、不满意",
+        "unpleasant · displease · displeasure"
+      ],
+      [
+        "体验中的快乐",
+        "pleasure · pleasurable · pleasance"
+      ],
+      [
+        "轻松话与寒暄",
+        "pleasantry"
+      ],
+      [
+        "对自己满意、对别人迁就",
+        "complacent · complaisant"
+      ],
+      [
+        "被接受的事项、诉求",
+        "plea · plead · pleading"
+      ],
+      [
+        "安慰与平静支线",
+        "placebo · placid"
+      ]
+    ],
+    "contrasts": "**pleased / pleasing / pleasant**：人感到满意 / 事物带来满意 / 事物或人令人舒服。\n\n**pleasure / pleasantry / pleasantness**：快乐、乐趣 / 寒暄或轻松话 / 舒适、和气的性质。\n\n**complacent / complaisant**：自满而疏忽 / 顺着别人、愿意迁就。**complacency / complaisance** 是相应的名词区别。\n\n**plea / plead**：请求、答辩等名词 / 提出请求、答辩等动词。**placebo** 的字母 c 读 /s/，别按 place“地方”去猜意思。",
+    "practice": "**I was pleased with the pleasant room, but I did not want the staff to become complacent about service.**\n\n房间很舒服，我很满意，但我不希望员工因此对服务掉以轻心。pleased 是我的感受，pleasant 是房间带来的体验，complacent 是过度自满的态度。",
+    "words": [
+      "please",
+      "pleased",
+      "pleasing",
+      "pleasant",
+      "pleasantly",
+      "pleasantness",
+      "unpleasant",
+      "unpleasantly",
+      "pleasure",
+      "pleasurable",
+      "displease",
+      "displeased",
+      "displeasing",
+      "displeasure",
+      "pleasantry",
+      "pleasance",
+      "complacent",
+      "complacency",
+      "complacently",
+      "complaisant",
+      "complaisance",
+      "complaisantly",
+      "placid",
+      "placidly",
+      "placidity",
+      "placebo",
+      "plea",
+      "plead",
+      "pleading",
+      "pleadingly",
+      "pleader"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="670" viewBox="0 0 1000 670" role="img">
+<title>disenable：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="668" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：habēre</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">拿着；拥有；保持某种状态</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：habilis</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">便于拿取的；合用、有能力的</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">古法语：able / habile</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">合适的；有能力的</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：able</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">能够；有才能的</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：enable</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">使能够；启用</text>
+<text class="note" x="500" y="533" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="562" text-anchor="middle" font-size="25" font-weight="600">英语：disenable</text>
+<text class="note" x="500" y="598" text-anchor="middle" font-size="20">撤去能力或条件</text>
+</svg>

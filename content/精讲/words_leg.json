@@ -1,0 +1,5013 @@
+[
+  {
+    "word": "college",
+    "ipa": "英 /ˈkɒlɪdʒ/；美 /ˈkɑːlɪdʒ/",
+    "meaning": "学院；大学；具有共同职责的团体",
+    "sense": "college 最初像一群承担共同职责的人组成的团体；学者和学生组成的教学团体，后来成为学院。",
+    "split": "来自 collēgium，联系 collēga 与 lēgāre“委任”；不能拆成“大家一起阅读”。",
+    "history": [
+      [
+        "拉丁语：lēgāre",
+        "委任；派遣（不同于 legere）"
+      ],
+      [
+        "拉丁语：collēga",
+        "共同任职的人"
+      ],
+      [
+        "拉丁语：collēgium",
+        "共同任职或有共同职责的团体"
+      ],
+      [
+        "古法语及英语：college",
+        "团体 → 学院"
+      ]
+    ],
+    "explanation": "在不同教育制度中可指独立学校或大学内的学院。electoral college 则保留“有共同职责的一群人”的旧义。",
+    "usage": "go to college；a medical college；an electoral college。",
+    "contrast": "college 与 colleague 同支；legal 从 lēx“法律”来，均不能直接当 legere“阅读”的现代派生词。",
+    "examples": [
+      [
+        "She studied design at a local college.",
+        "她在当地一所学院学习设计。"
+      ],
+      [
+        "The university has a college of engineering.",
+        "这所大学设有工程学院。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/college#English",
+      "https://www.merriam-webster.com/dictionary/college",
+      "https://www.merriam-webster.com/dictionary/colleague"
+    ]
+  },
+  {
+    "word": "election",
+    "ipa": "/ɪˈlekʃən/",
+    "meaning": "选举；正式选择",
+    "sense": "election 像从多个候选人中，把要担任某个职位的人选出来。",
+    "split": "现代对应 elect + -ion；历史经法语来自拉丁语 ēlēctiō，名词有独立借入链。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctiō",
+        "挑选 → 选择的过程"
+      ],
+      [
+        "古法语及中古英语：eleccioun",
+        "选择"
+      ],
+      [
+        "英语：election",
+        "选举"
+      ]
+    ],
+    "explanation": "最常见是投票选人，也可在正式文体中表示选择。它不等于竞选活动本身。",
+    "usage": "hold an election；win an election；a general election。",
+    "contrast": "election 是选举；campaign 是争取支持的竞选过程。",
+    "examples": [
+      [
+        "The club will hold an election next month.",
+        "俱乐部下个月将举行选举。"
+      ],
+      [
+        "She won the election by a narrow margin.",
+        "她以微弱优势赢得了选举。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/election#English"
+    ]
+  },
+  {
+    "word": "collection",
+    "ipa": "/kəˈlekʃən/",
+    "meaning": "收集；收藏品；一组物品",
+    "sense": "collection 像散落各处的东西被归拢到同一处，既可说归拢过程，也可说最后那一组。",
+    "split": "现代对应 collect + -ion；来自拉丁语 collēctiō，经法语等路线传入。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：colligere → collēctiō",
+        "聚到一起 → 收集"
+      ],
+      [
+        "法语及英语：collection",
+        "收集；藏品；一组物品"
+      ]
+    ],
+    "explanation": "藏书、样本、服装系列都可以是一份 collection；waste collection 说的则是收运过程。",
+    "usage": "a collection of stories；data collection；a private collection。",
+    "contrast": "collection 是聚在一起的一组；selection 常强调经过挑选的一组。",
+    "examples": [
+      [
+        "The museum owns a large collection of maps.",
+        "博物馆收藏了大量地图。"
+      ],
+      [
+        "Data collection took three weeks.",
+        "数据收集用了三周。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collection#English"
+    ]
+  },
+  {
+    "word": "religious",
+    "ipa": "/rɪˈlɪdʒəs/",
+    "meaning": "宗教的；虔诚信教的",
+    "sense": "religious 可以只是与宗教有关，也可以形容一个人的信仰很虔诚。",
+    "split": "来自拉丁语 religiōsus，经法语传入；与 religion 平行借入，不是英语里机械去掉 -on 再加 -ous。",
+    "history": [
+      [
+        "拉丁语：religiō",
+        "宗教上的敬畏、虔敬与遵守"
+      ],
+      [
+        "拉丁语：religiōsus",
+        "虔敬的；宗教的"
+      ],
+      [
+        "古法语及英语：religious",
+        "宗教的；虔诚的"
+      ]
+    ],
+    "explanation": "宗教建筑是 religious building，虔信的人是 religious person。词源更早部分同 religion 一样有争议。",
+    "usage": "religious beliefs；religious art；a religious person。",
+    "contrast": "religious 不一定表示个人虔信：religious studies 也可以是学术研究领域。",
+    "examples": [
+      [
+        "The museum has a collection of religious art.",
+        "博物馆收藏了一批宗教艺术品。"
+      ],
+      [
+        "She comes from a deeply religious family.",
+        "她出身于一个十分虔诚信教的家庭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/religious#English"
+    ]
+  },
+  {
+    "word": "religion",
+    "ipa": "/rɪˈlɪdʒən/",
+    "meaning": "宗教；宗教信仰",
+    "sense": "religion 指围绕神圣事物、人生意义等形成的信仰与实践体系，往往还包括共同体和仪式。",
+    "split": "可靠链条从拉丁语 religiō 开始。更早曾被联系到 relegere“反复审慎考虑”或 religāre“绑紧”，来源仍有争议。",
+    "history": [
+      [
+        "拉丁语：religiō",
+        "宗教上的敬畏、虔敬与遵守"
+      ],
+      [
+        "古法语：religion",
+        "信仰；宗教生活"
+      ],
+      [
+        "英语：religion",
+        "宗教；宗教信仰"
+      ]
+    ],
+    "explanation": "因此，不能把“宗教就是把人绑在一起”或“宗教就是反复读书”写成确定词源；那些只是不同解释的画面。",
+    "usage": "freedom of religion；a world religion；study religion。",
+    "contrast": "religion 是宗教体系或信仰；religious 是有关宗教或虔信的。",
+    "examples": [
+      [
+        "The course explores the history of religion.",
+        "这门课探讨宗教史。"
+      ],
+      [
+        "People of different religions joined the discussion.",
+        "不同宗教信仰的人参加了讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/religion#English",
+      "https://www.ahdictionary.com/word/search.html?q=religion",
+      "https://www.etymonline.com/word/religion"
+    ]
+  },
+  {
+    "word": "intelligence",
+    "ipa": "/ɪnˈtelɪdʒəns/",
+    "meaning": "理解与思考能力；情报",
+    "sense": "intelligence 像从很多线索中分辨出有用关系，弄明白发生了什么；收集到的关键信息也可叫情报。",
+    "split": "来自 intellegentia，联系 inter- + legere“在其中分辨”，再经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegentia",
+        "理解能力"
+      ],
+      [
+        "法语及英语：intelligence",
+        "智力；情报"
+      ]
+    ],
+    "explanation": "能力义和情报义要分开：high intelligence 说理解能力；gather intelligence 是搜集信息。",
+    "usage": "artificial intelligence；emotional intelligence；gather intelligence。",
+    "contrast": "intelligence 不等于知识储量；knowledge 是知道的内容，intelligence 更偏理解、推理等能力。",
+    "examples": [
+      [
+        "The task requires intelligence and patience.",
+        "这项任务需要理解力和耐心。"
+      ],
+      [
+        "The report contains useful intelligence about the market.",
+        "报告包含有关市场的有用情报。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intelligence#English"
+    ]
+  },
+  {
+    "word": "selection",
+    "ipa": "/sɪˈlekʃən/",
+    "meaning": "选择；所选的一组；可供挑选的范围",
+    "sense": "selection 像从整盘水果里挑出几颗：可以指挑选动作，也可以指挑出的那部分。",
+    "split": "现代可看作 select + -ion；直接历史来源是拉丁语 sēlēctiō。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctiō",
+        "挑选 → 选择过程"
+      ],
+      [
+        "英语：selection",
+        "挑选；所选的一组"
+      ]
+    ],
+    "explanation": "a wide selection 常指提供很多选择，并非已经替你挑好；selection criteria 是如何挑的标准。",
+    "usage": "a wide selection；selection criteria；natural selection。",
+    "contrast": "collection 强调聚集；selection 强调筛选或可选择范围。",
+    "examples": [
+      [
+        "The shop offers a wide selection of notebooks.",
+        "店里有多种笔记本可供选择。"
+      ],
+      [
+        "The selection process includes an interview.",
+        "选拔流程包括面试。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selection#English"
+    ]
+  },
+  {
+    "word": "lesson",
+    "ipa": "/ˈlesən/",
+    "meaning": "一课；课程；经验教训",
+    "sense": "lesson 最初是一段要读、要学的内容；后来生活经历也能成为“教会你一点事”的一课。",
+    "split": "经古法语 leçon 来自拉丁语 lēctiō“阅读”；和 lection 是走不同路线的同源词。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctiō",
+        "阅读；诵读内容"
+      ],
+      [
+        "古法语：leçon",
+        "一课；阅读课文"
+      ],
+      [
+        "英语：lesson",
+        "课；经验教训"
+      ]
+    ],
+    "explanation": "一节音乐课是 lesson；一次失败让你学到的东西也是 lesson。learn a lesson 不一定带惩罚意味。",
+    "usage": "a piano lesson；learn a lesson；a valuable lesson。",
+    "contrast": "lesson 可指一节课或学到的教训；lecture 通常是一场以讲授为主的课或演讲。",
+    "examples": [
+      [
+        "My first swimming lesson starts at nine.",
+        "我的第一节游泳课九点开始。"
+      ],
+      [
+        "The mistake taught us a valuable lesson.",
+        "这个错误给了我们宝贵的教训。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lesson#English"
+    ]
+  },
+  {
+    "word": "select",
+    "ipa": "/sɪˈlekt/",
+    "meaning": "挑选；精选的；少数被选中的",
+    "sense": "select 像把合适的东西从一大堆里单独拿出来，带着一定标准。",
+    "split": "sē-（分开）+ legere，经 sēlēctus“选出的”进入英语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ]
+    ],
+    "explanation": "可选一个文件、一个人或一种方案；形容词 a select group 常指经过挑选的少数人。",
+    "usage": "select a file；select from a list；a select group。",
+    "contrast": "choose 更日常宽泛；select 常让人想到按标准从一组中挑选。",
+    "examples": [
+      [
+        "Select the file you want to upload.",
+        "选择你要上传的文件。"
+      ],
+      [
+        "The course is open to a select group of students.",
+        "这门课面向一组经过选拔的学生。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/select#English"
+    ]
+  },
+  {
+    "word": "legend",
+    "ipa": "/ˈledʒənd/",
+    "meaning": "传说；传奇人物；图例",
+    "sense": "legend 的旧义是供人诵读的故事；传说、传奇人物是一条线，文字题记、图上说明是另一条意思发展线。",
+    "split": "来自拉丁语 legenda“应被阅读的事”，经中世纪圣徒故事与法语传入。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：legenda",
+        "应当被阅读的事物"
+      ],
+      [
+        "中世纪拉丁语：legenda",
+        "圣徒故事等诵读材料"
+      ],
+      [
+        "古法语 legende → 英语 legend",
+        "传说；题记、说明；传奇人物"
+      ]
+    ],
+    "explanation": "传奇人物义强调声望极高，不表示这个人虚构。图例义从文字题记、说明扩展到地图符号说明，不是圣徒故事直接变成地图图例。",
+    "usage": "an ancient legend；a sporting legend；the map legend。",
+    "contrast": "legend 常围绕传统人物事件；myth 常涉及神话世界，但两者日常使用有交叉。",
+    "examples": [
+      [
+        "The village has a legend about the old bridge.",
+        "村里流传着一个关于旧桥的传说。"
+      ],
+      [
+        "Check the legend to understand the map symbols.",
+        "查看图例，就能理解地图上的符号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legend#English",
+      "https://www.etymonline.com/word/legend"
+    ]
+  },
+  {
+    "word": "elite",
+    "ipa": "/ɪˈliːt/",
+    "meaning": "精英；顶尖阶层；出类拔萃的",
+    "sense": "elite 像从一个领域里挑出的最顶尖一层，可以说能力突出，也可以说拥有特殊资源和权力。",
+    "split": "经法语“被选出的”一支来自 ēligere，与 elect 同源。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere",
+        "挑选"
+      ],
+      [
+        "古法语：eslire → eslit / elite",
+        "挑选 → 被挑选出的"
+      ],
+      [
+        "英语：elite",
+        "精英；顶尖的"
+      ]
+    ],
+    "explanation": "elite athletes 主要说竞技水平；the political elite 主要说掌握权力的少数人。二者不自动互相证明。",
+    "usage": "elite athletes；the ruling elite；an elite school。",
+    "contrast": "elite 可以是中性描述；elitist 常评价一种偏向少数精英的态度。",
+    "examples": [
+      [
+        "The centre trains elite athletes.",
+        "这个中心训练顶尖运动员。"
+      ],
+      [
+        "The policy benefited a small economic elite.",
+        "这项政策使少数经济精英受益。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elite#English"
+    ]
+  },
+  {
+    "word": "collect",
+    "ipa": "动词 /kəˈlekt/；祷文名词英 /ˈkɒlekt/、美 /ˈkɑːlekt/",
+    "meaning": "收集；领取；使镇定；短祷文",
+    "sense": "collect 像把散在外面的东西一件件聚回来：邮票、资料、包裹，甚至散乱的思绪。",
+    "split": "com-（一起）+ legere，经 colligere、collectus 等形式进入英语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：colligere → collēctus / collēcta",
+        "聚到一起 → 收集物"
+      ],
+      [
+        "中世纪拉丁语及法语：collectāre / collecter",
+        "收取、收集"
+      ],
+      [
+        "英语：collect",
+        "收集；领取"
+      ]
+    ],
+    "explanation": "collect a parcel 是领取；collect yourself 是重新镇定。名词 collect 读音前重，另指礼拜中的短祷文，仍联系聚集的历史。",
+    "usage": "collect stamps；collect data；collect a parcel；collect yourself。",
+    "contrast": "collect 强调收拢；select 强调挑选，收来的东西不一定全是精选的。",
+    "examples": [
+      [
+        "I collect postcards from places I visit.",
+        "我收集去过的地方的明信片。"
+      ],
+      [
+        "She paused to collect her thoughts.",
+        "她停下来整理了一下思路。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collect#English"
+    ]
+  },
+  {
+    "word": "collective",
+    "ipa": "/kəˈlektɪv/",
+    "meaning": "集体的；共同的；集体组织",
+    "sense": "collective 把许多人看成一个整体，关心大家共同承担或共同产生的东西。",
+    "split": "现代对应 collect + -ive；历史来自拉丁语 collēctīvus，经法语 collectif。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：collēctus → collēctīvus",
+        "集合 → 集合的"
+      ],
+      [
+        "法语：collectif；英语 collective",
+        "集体的；共同的"
+      ]
+    ],
+    "explanation": "collective effort 是大家合力；a collective 是一个集体组织。集体责任不等于每个人做了完全相同的事。",
+    "usage": "collective responsibility；collective effort；an artists’ collective。",
+    "contrast": "collected 说已经收集或神态镇定；collective 说集体共同。",
+    "examples": [
+      [
+        "The project succeeded through collective effort.",
+        "项目靠集体努力取得了成功。"
+      ],
+      [
+        "She joined an artists’ collective.",
+        "她加入了一个艺术家集体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collective#English"
+    ]
+  },
+  {
+    "word": "intellectual",
+    "ipa": "/ˌɪntəˈlektʃuəl/",
+    "meaning": "智力的；重思考的；知识分子",
+    "sense": "intellectual 把焦点放在概念、推理和思想活动上，像认真比较两种观点。",
+    "split": "现代对应 intellect + -ual；历史来自拉丁语 intellectuālis，经法语传入。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellectuālis",
+        "有关理解能力的"
+      ],
+      [
+        "古法语：intellectuel；英语 intellectual",
+        "智力的；知识分子"
+      ]
+    ],
+    "explanation": "形容词可说 intellectual curiosity；名词 an intellectual 通常指以思想、学术或公共讨论为重要活动的人。",
+    "usage": "intellectual curiosity；intellectual development；a public intellectual。",
+    "contrast": "intelligent 强调理解能力好；intellectual 强调思想活动或其领域，二者不完全相同。",
+    "examples": [
+      [
+        "The book satisfied her intellectual curiosity.",
+        "这本书满足了她求知与思考的好奇心。"
+      ],
+      [
+        "Several intellectuals joined the public debate.",
+        "几位知识分子参加了公开讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intellectual#English"
+    ]
+  },
+  {
+    "word": "eligible",
+    "ipa": "/ˈelɪdʒəbəl/",
+    "meaning": "符合条件的；有资格的",
+    "sense": "eligible 像走到申请入口，规则检查后告诉你：“你符合参加或被选的条件。”",
+    "split": "来自 ēligibilis“可被选中的”，联系 ēligere，再经法语传入。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēligibilis",
+        "挑选 → 可被选中的"
+      ],
+      [
+        "法语及英语：eligible",
+        "符合被选择或参与的条件"
+      ]
+    ],
+    "explanation": "eligible for 后接项目或权益，eligible to do 后接行动。符合资格只是能进入评选，不代表已经选上。",
+    "usage": "eligible for a grant；eligible to vote；eligible applicants。",
+    "contrast": "eligible 是符合资格；selected 是已经被选中；electable 是可能赢得选举。",
+    "examples": [
+      [
+        "You may be eligible for a travel grant.",
+        "你可能符合申请旅行资助的条件。"
+      ],
+      [
+        "Only registered members are eligible to vote.",
+        "只有登记会员有资格投票。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eligible#English"
+    ]
+  },
+  {
+    "word": "intelligent",
+    "ipa": "/ɪnˈtelɪdʒənt/",
+    "meaning": "聪明的；有理解力的；设计巧妙的",
+    "sense": "intelligent 像能迅速看懂线索之间的关系，不只记住材料，还知道怎样用。",
+    "split": "来自 intellegēns“有理解力的”，经法语传入；不必拆成 in + tell + gent。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegēns",
+        "有理解力的"
+      ],
+      [
+        "法语及英语：intelligent",
+        "聪明的；有理解力的"
+      ]
+    ],
+    "explanation": "可以评价人，也可评价问题、回答或设计。intelligent question 是问得有洞察，不是问题本身有脑子。",
+    "usage": "an intelligent question；an intelligent student；intelligent design choices。",
+    "contrast": "intelligent 是能理解的能力好；intelligible 是表达本身能被理解。",
+    "examples": [
+      [
+        "She asked an intelligent question about the results.",
+        "她针对结果问了一个很有见地的问题。"
+      ],
+      [
+        "The design makes intelligent use of limited space.",
+        "这个设计巧妙利用了有限的空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intelligent#English"
+    ]
+  },
+  {
+    "word": "legendary",
+    "ipa": "/ˈledʒəndəri/；美 /ˈledʒənderi/",
+    "meaning": "传说中的；传奇般著名的",
+    "sense": "legendary 可以说人物只存在于传说，也可以说真实人物的名声大到像传奇。",
+    "split": "现代可分析为 legend + -ary；历史借自中世纪拉丁语 legendārius。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：legenda",
+        "应当被阅读的事物"
+      ],
+      [
+        "中世纪拉丁语：legenda",
+        "圣徒故事等诵读材料"
+      ],
+      [
+        "中世纪拉丁语：legendārius",
+        "属于传说的"
+      ],
+      [
+        "英语：legendary",
+        "传说中的；声名传奇的"
+      ]
+    ],
+    "explanation": "legendary creature 是传说生物；legendary musician 往往是真实且极有名的音乐家。",
+    "usage": "a legendary hero；a legendary performer；legendary patience。",
+    "contrast": "legendary 不等于 imaginary：形容真人时多是称赞其声名。",
+    "examples": [
+      [
+        "The story follows a legendary king.",
+        "故事围绕一位传说中的国王展开。"
+      ],
+      [
+        "Her patience with beginners is legendary.",
+        "她对初学者的耐心出了名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legendary#English",
+      "https://www.etymonline.com/word/legendary"
+    ]
+  },
+  {
+    "word": "lecture",
+    "ipa": "英 /ˈlektʃə/；美 /ˈlektʃər/",
+    "meaning": "讲课；讲座；训话",
+    "sense": "lecture 从读书给人听走向系统讲解；如果一个人居高临下地讲个没完，也会被叫作训话。",
+    "split": "来自中世纪拉丁语 lēctūra“阅读”，联系 legere 的 lect- 词干。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctus → 中世纪拉丁语 lēctūra",
+        "读 → 阅读"
+      ],
+      [
+        "中古英语及英语：lecture",
+        "阅读、宣读 → 讲课；训话"
+      ]
+    ],
+    "explanation": "give a lecture 可以中性地讲学；lecture someone about 则常带被说教的不快。",
+    "usage": "attend a lecture；lecture on history；lecture someone about manners。",
+    "contrast": "lecture 偏一人讲授；seminar 往往有更强的讨论参与。",
+    "examples": [
+      [
+        "The lecture introduced the history of printing.",
+        "这场讲座介绍了印刷术的历史。"
+      ],
+      [
+        "Please don’t lecture me about every small mistake.",
+        "请别为每个小错误都对我说教。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lecture#English"
+    ]
+  },
+  {
+    "word": "electoral",
+    "ipa": "/ɪˈlektərəl/",
+    "meaning": "选举的；选举人的",
+    "sense": "electoral 把某件事放到选举制度或投票过程里：规则、选区、结果都能受它修饰。",
+    "split": "elector + -al，与拉丁语 ēlēctor“选择者”的词族相连。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → 晚期拉丁语 ēlēctor",
+        "选择 → 选择者"
+      ],
+      [
+        "中古英语：electour；英语 elector",
+        "有投票权的人"
+      ],
+      [
+        "英语：electoral",
+        "有关选举与选举人的"
+      ]
+    ],
+    "explanation": "不是 electrical“电的”。electoral system 说选举如何运行；electoral victory 说选举获胜。",
+    "usage": "an electoral system；electoral reform；electoral results。",
+    "contrast": "electoral 关乎选举；elective 关乎可选或由选举产生。",
+    "examples": [
+      [
+        "The article explains the electoral system.",
+        "文章解释了选举制度。"
+      ],
+      [
+        "The party celebrated an electoral victory.",
+        "该党庆祝选举胜利。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/electoral#English"
+    ]
+  },
+  {
+    "word": "elect",
+    "ipa": "/ɪˈlekt/",
+    "meaning": "选举；选择；当选而尚未就任的",
+    "sense": "elect 是从人选里正式挑出一个，也能表示主动选择某种做法。",
+    "split": "ē-（出来）+ legere，经拉丁语 ēlēctus 进入英语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctus",
+        "挑选出来 → 被选中的"
+      ],
+      [
+        "英语：elect",
+        "选举；选择"
+      ]
+    ],
+    "explanation": "elect someone chair 是选某人为主席；elect to do 是正式的“选择做”。置后的 elect 可表示已当选、尚未就任。",
+    "usage": "elect a leader；elect someone to office；elect to pay monthly。",
+    "contrast": "elect 多带正式选择；select 的范围更广，不一定经过投票。",
+    "examples": [
+      [
+        "The members elected her chair.",
+        "会员们选她担任主席。"
+      ],
+      [
+        "We elected to postpone the meeting.",
+        "我们选择推迟会议。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elect#English"
+    ]
+  },
+  {
+    "word": "colleague",
+    "ipa": "英 /ˈkɒliːɡ/；美 /ˈkɑːliːɡ/",
+    "meaning": "同事；同行",
+    "sense": "colleague 是与你共同承担职业工作的人，可能同一单位，也可能同一个专业圈子。",
+    "split": "com-（共同）+ lēgāre（委任）形成 collēga，经法语 collègue；不是 collect“收集”的派生词。",
+    "history": [
+      [
+        "拉丁语：lēgāre",
+        "委任；派遣（不同于 legere）"
+      ],
+      [
+        "拉丁语：collēga",
+        "共同任职的人"
+      ],
+      [
+        "法语：collègue；英语 colleague",
+        "共同任职者 → 同事、同行"
+      ]
+    ],
+    "explanation": "核心是职业合作或同业关系，不要求私下关系亲密。",
+    "usage": "a former colleague；a colleague of mine；academic colleagues。",
+    "contrast": "colleague 是同事同行；friend 是朋友；collaborator 强调在某项工作上合作。",
+    "examples": [
+      [
+        "A colleague helped me check the figures.",
+        "一位同事帮我核对了数字。"
+      ],
+      [
+        "She discussed the finding with colleagues overseas.",
+        "她和海外同行讨论了这项发现。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/colleague#English",
+      "https://www.merriam-webster.com/dictionary/colleague"
+    ]
+  },
+  {
+    "word": "collector",
+    "ipa": "英 /kəˈlektə/；美 /kəˈlektər/",
+    "meaning": "收藏者；收取者；收集装置",
+    "sense": "collector 是把东西聚拢起来的人或装置：可能收邮票，也可能收款或收尘。",
+    "split": "现代对应 collect + -or；历史经法语来自晚期拉丁语 collēctor。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：colligere → collēctor",
+        "收集 → 收集者"
+      ],
+      [
+        "法语及中古英语：collectour",
+        "收取者"
+      ],
+      [
+        "英语：collector",
+        "收藏者；收集装置"
+      ]
+    ],
+    "explanation": "读到 collector 先看收什么；艺术收藏者与账款催收人员不是同一种职业。",
+    "usage": "a stamp collector；a debt collector；a dust collector。",
+    "contrast": "collector 收集；collection 是收集过程或结果。",
+    "examples": [
+      [
+        "The collector donated her photographs to a museum.",
+        "这位收藏者把照片藏品捐给了博物馆。"
+      ],
+      [
+        "A dust collector keeps the workshop cleaner.",
+        "集尘装置使车间更清洁。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collector#English"
+    ]
+  },
+  {
+    "word": "selective",
+    "ipa": "/sɪˈlektɪv/",
+    "meaning": "有选择的；挑选严格的；选择性作用的",
+    "sense": "selective 像筛子只让某些东西通过，关键是有区别地选择或作用。",
+    "split": "select + -ive。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selective",
+        "针对或挑选特定对象的"
+      ]
+    ],
+    "explanation": "可说学校筛选严格，也可说记忆只保留某些事。选择性不自动意味着公平或合理。",
+    "usage": "a selective school；selective attention；selective memory。",
+    "contrast": "select 是挑选动作；selective 描述挑选方式或只影响部分对象的性质。",
+    "examples": [
+      [
+        "The programme is highly selective.",
+        "这个项目的选拔非常严格。"
+      ],
+      [
+        "He has a selective memory for inconvenient details.",
+        "对那些不利于自己的细节，他总是选择性遗忘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selective#English"
+    ]
+  },
+  {
+    "word": "legion",
+    "ipa": "/ˈliːdʒən/",
+    "meaning": "军团；大批；极多的",
+    "sense": "legion 最初是一支征集组织起来的队伍，后来人数众多的事物也可被比作一个军团。",
+    "split": "来自拉丁语 legiō，联系 legere“征集、聚集”，经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：legiō",
+        "征集起来的军团"
+      ],
+      [
+        "古法语及英语：legion",
+        "军团；大量"
+      ]
+    ],
+    "explanation": "历史场景常指罗马军团；a legion of fans 是大批粉丝；形容词 their problems are legion 表示问题极多。",
+    "usage": "a Roman legion；legions of supporters；problems are legion。",
+    "contrast": "legion 是军团或大批；region 是地区，不同源也不同义。",
+    "examples": [
+      [
+        "The museum displays equipment used by a Roman legion.",
+        "博物馆展示罗马军团使用过的装备。"
+      ],
+      [
+        "The singer has legions of loyal fans.",
+        "这位歌手拥有大批忠实粉丝。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legion#English"
+    ]
+  },
+  {
+    "word": "collectively",
+    "ipa": "/kəˈlektɪvli/",
+    "meaning": "共同地；作为整体地",
+    "sense": "collectively 像把每个人的贡献放进同一个总盘子，来看大家合起来做了什么。",
+    "split": "collective + -ly。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：collēctus → collēctīvus",
+        "集合 → 集合的"
+      ],
+      [
+        "法语：collectif；英语 collective",
+        "集体的；共同的"
+      ],
+      [
+        "英语：collectively",
+        "共同地；按整体看"
+      ]
+    ],
+    "explanation": "可以是一起行动，也可以只是统计时合并来看，不一定每个人同时在场。",
+    "usage": "work collectively；collectively known as；collectively responsible。",
+    "contrast": "individually 逐个看；collectively 合起来看。",
+    "examples": [
+      [
+        "The neighbours collectively funded the new playground.",
+        "邻居们共同出资建设了新游乐场。"
+      ],
+      [
+        "These documents are collectively known as the archive.",
+        "这些文件合起来称作这批档案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collectively#English"
+    ]
+  },
+  {
+    "word": "neglect",
+    "ipa": "/nɪˈɡlekt/",
+    "meaning": "忽视；疏于照顾；疏漏",
+    "sense": "neglect 像该拾起、该关注的事情被放在一边，久了就出问题。",
+    "split": "拉丁语 nec（不）+ legere，形成 neglegere，再经 neglēctus 进入英语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：neglegere → neglēctus",
+        "不留心；忽视"
+      ],
+      [
+        "英语：neglect",
+        "忽视；疏于照顾"
+      ]
+    ],
+    "explanation": "可以疏于照顾人或物，也可 neglect to do 忘记或未做该做的事；不一定故意不理。",
+    "usage": "neglect one’s duties；neglect to mention；suffer from neglect。",
+    "contrast": "ignore 常含明知却不理；neglect 更强调应有关注或照料没有做到。",
+    "examples": [
+      [
+        "The building deteriorated through years of neglect.",
+        "这栋楼因多年无人维护而破败。"
+      ],
+      [
+        "I neglected to attach the file.",
+        "我漏掉了附件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neglect#English"
+    ]
+  },
+  {
+    "word": "eligibility",
+    "ipa": "/ˌelɪdʒəˈbɪləti/",
+    "meaning": "资格；符合条件的状态",
+    "sense": "eligibility 是入场条件是否满足这件事：年龄、身份或经历有没有达到要求。",
+    "split": "eligible + -ity；词尾 -ble 变为 -bility。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēligibilis",
+        "挑选 → 可被选中的"
+      ],
+      [
+        "法语及英语：eligible",
+        "符合被选择或参与的条件"
+      ],
+      [
+        "英语：eligibility",
+        "符合参与或被选条件的状态"
+      ]
+    ],
+    "explanation": "通常先检查 eligibility，再进入评审或选拔。它与最终是否获批分开。",
+    "usage": "eligibility criteria；check eligibility；eligibility for funding。",
+    "contrast": "eligibility 问有没有资格；suitability 问是否合适。",
+    "examples": [
+      [
+        "Check your eligibility before applying.",
+        "申请前先确认自己是否符合条件。"
+      ],
+      [
+        "The website lists the eligibility criteria.",
+        "网站列出了资格条件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/eligibility#English"
+    ]
+  },
+  {
+    "word": "coil",
+    "ipa": "/kɔɪl/",
+    "meaning": "线圈；卷；盘绕",
+    "sense": "coil 像把长长的绳子一圈圈收拢，最后聚成紧凑的一卷。",
+    "split": "常用的盘绕义经法语 coillir / cuillir 来自 colligere“收拢”，与 cull 同源。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：colligere",
+        "聚到一起"
+      ],
+      [
+        "古法语：coillir / cuillir",
+        "收集、收拢"
+      ],
+      [
+        "英语：coil",
+        "盘绕；线圈"
+      ]
+    ],
+    "explanation": "可指绳圈、弹簧线圈等。莎士比亚 mortal coil 中的 coil 是“纷扰”的另一旧词，来源未定，不能用盘绳解释。",
+    "usage": "a coil of rope；coil the cable；a heating coil。",
+    "contrast": "coil 收成圈；cull 从一组中挑取或剔除，二者在英语中意义已经分开。",
+    "examples": [
+      [
+        "He wound the cable into a neat coil.",
+        "他把电缆卷成整齐的一圈。"
+      ],
+      [
+        "The snake coiled around the branch.",
+        "蛇盘绕在树枝上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coil#English"
+    ]
+  },
+  {
+    "word": "lecturer",
+    "ipa": "英 /ˈlektʃərə/；美 /ˈlektʃərər/",
+    "meaning": "讲课者；讲师",
+    "sense": "lecturer 是把一个主题系统讲给听众的人，也可是一种高校职位。",
+    "split": "lecture + -er。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctus → 中世纪拉丁语 lēctūra",
+        "读 → 阅读"
+      ],
+      [
+        "中古英语及英语：lecture",
+        "阅读、宣读 → 讲课；训话"
+      ],
+      [
+        "英语：lecturer",
+        "讲授课程的人"
+      ]
+    ],
+    "explanation": "作为职称时，不同国家的级别和职责不同；不能一律套成同一职级。",
+    "usage": "a university lecturer；a lecturer in history；a visiting lecturer。",
+    "contrast": "lecturer 讲授；listener 听讲；professor 是另一职称，制度不同不能机械对应。",
+    "examples": [
+      [
+        "The lecturer illustrated the idea with a simple diagram.",
+        "讲师用一张简单的图解释了这个想法。"
+      ],
+      [
+        "She works as a lecturer in linguistics.",
+        "她从事语言学讲师的工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lecturer#English"
+    ]
+  },
+  {
+    "word": "negligence",
+    "ipa": "/ˈneɡlɪdʒəns/",
+    "meaning": "疏忽；过失；未尽应有注意",
+    "sense": "negligence 像本该检查的接头没检查，本该维护的地方一直没维护。",
+    "split": "来自拉丁语 neglegentia，经法语传入；与 negligent、neglect 平行同源。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：neglegere → neglegentia",
+        "忽视 → 疏忽"
+      ],
+      [
+        "古法语及英语：negligence",
+        "疏忽；失责"
+      ]
+    ],
+    "explanation": "日常可指疏忽，法律里则有特定成立条件；不能把所有小失误都直接判为法律过失。",
+    "usage": "professional negligence；gross negligence；an allegation of negligence。",
+    "contrast": "negligence 是疏忽的行为或状态；negligible 却是小到可忽略。",
+    "examples": [
+      [
+        "The report blamed the damage on negligence.",
+        "报告把损坏归因于疏忽。"
+      ],
+      [
+        "The court examined the allegation of negligence.",
+        "法院审查了有关过失的指控。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negligence#English"
+    ]
+  },
+  {
+    "word": "electorate",
+    "ipa": "/ɪˈlektərət/",
+    "meaning": "全体选民；选民群体",
+    "sense": "electorate 把某个地区有投票资格的人合起来看成一个群体。",
+    "split": "elector（选民、选举人）+ -ate（群体或领域）。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → 晚期拉丁语 ēlēctor",
+        "选择 → 选择者"
+      ],
+      [
+        "中古英语：electour；英语 elector",
+        "有投票权的人"
+      ],
+      [
+        "英语：electorate",
+        "全体有权投票者"
+      ]
+    ],
+    "explanation": "通常包括有资格却没有实际投票的人。历史文献也可指选帝侯的领地或职位。",
+    "usage": "appeal to the electorate；an informed electorate；the local electorate。",
+    "contrast": "elector 是一个有投票权的人；electorate 是整个选民群体。",
+    "examples": [
+      [
+        "The proposal divided the electorate.",
+        "这项提议使选民意见分裂。"
+      ],
+      [
+        "Candidates must explain their plans to the electorate.",
+        "候选人必须向选民解释自己的计划。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/electorate#English"
+    ]
+  },
+  {
+    "word": "diligence",
+    "ipa": "/ˈdɪlɪdʒəns/",
+    "meaning": "勤勉；认真细致的努力",
+    "sense": "diligence 像把一件事当作值得认真对待的东西，持续检查细节、把工作做完。",
+    "split": "来自拉丁语 dīligentia，经法语传入；与 dīligere“珍视、留心”同支。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：dīligere → dīligentia",
+        "珍视、用心 → 勤勉"
+      ],
+      [
+        "法语及英语：diligence",
+        "认真持续的努力"
+      ]
+    ],
+    "explanation": "due diligence 在商业等语境中指应有的审查调查，不是简单“多勤奋一点”。",
+    "usage": "with diligence；due diligence；care and diligence。",
+    "contrast": "diligence 是持续用心；negligence 是没有尽到应有注意。",
+    "examples": [
+      [
+        "Her diligence caught several errors before publication.",
+        "她的认真检查在出版前找出了几处错误。"
+      ],
+      [
+        "The team carried out due diligence before the purchase.",
+        "团队在购买前进行了尽职调查。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diligence#English"
+    ]
+  },
+  {
+    "word": "intellect",
+    "ipa": "/ˈɪntəlekt/",
+    "meaning": "理解、推理能力；才智",
+    "sense": "intellect 像脑中负责比较、分析、推理的工具箱，尤其强调理性思考的能力。",
+    "split": "来自拉丁语 intellēctus“理解”，联系 intellegere“分辨、理解”。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellēctus",
+        "理解；理解能力"
+      ],
+      [
+        "英语：intellect",
+        "理智；智力"
+      ]
+    ],
+    "explanation": "既可抽象说人的理智，也可用 a great intellect 形容才智出众的人。",
+    "usage": "a sharp intellect；human intellect；a formidable intellect。",
+    "contrast": "intellect 偏推理理解能力；emotion 是情绪，二者并非现实中互不相干。",
+    "examples": [
+      [
+        "She approached the puzzle with a sharp intellect.",
+        "她以敏锐的思考能力处理这道难题。"
+      ],
+      [
+        "The book explores the limits of human intellect.",
+        "这本书探讨人类理解能力的边界。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intellect#English"
+    ]
+  },
+  {
+    "word": "collegiate",
+    "ipa": "/kəˈliːdʒiət/",
+    "meaning": "学院的；大学生的；团体共同的",
+    "sense": "collegiate 像给活动贴上“学院或大学这一层面的”标签，如大学校队之间的赛事。",
+    "split": "来自中世纪拉丁语 collēgiātus，联系 collēgium；现代不是 collegiate = college 后随意加 ate。",
+    "history": [
+      [
+        "拉丁语：lēgāre",
+        "委任；派遣（不同于 legere）"
+      ],
+      [
+        "拉丁语：collēga",
+        "共同任职的人"
+      ],
+      [
+        "拉丁语：collēgium → collēgiātus",
+        "团体、学院 → 属于该团体的"
+      ],
+      [
+        "英语：collegiate",
+        "学院或大学生的"
+      ]
+    ],
+    "explanation": "常描述体育、生活或机构形式。某些地区也用作学校名称，具体学制应看当地制度。",
+    "usage": "collegiate sports；collegiate life；a collegiate institution。",
+    "contrast": "collegiate 常说学院事务；collegial 更常说同事间平等合作。",
+    "examples": [
+      [
+        "He competed at the collegiate level.",
+        "他参加了大学级别的比赛。"
+      ],
+      [
+        "The photographs capture collegiate life in the 1950s.",
+        "这些照片记录了二十世纪五十年代的大学生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collegiate#English"
+    ]
+  },
+  {
+    "word": "negligible",
+    "ipa": "/ˈneɡlɪdʒəbəl/",
+    "meaning": "小到可忽略的",
+    "sense": "negligible 像测量时一个微小尾数，对当前结论影响太小，可以暂时不计。",
+    "split": "由 negligence 一族加 -ible 形成；可理解为“能够不计入考虑的”。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：neglegere → neglegentia",
+        "忽视 → 疏忽"
+      ],
+      [
+        "古法语及英语：negligence",
+        "疏忽；失责"
+      ],
+      [
+        "英语：negligible",
+        "小到可以不计的"
+      ]
+    ],
+    "explanation": "通常用于误差、成本、数量或影响。它不是绝对的零，只是相对于当前问题足够小。",
+    "usage": "a negligible effect；negligible costs；a negligible difference。",
+    "contrast": "negligent 说人或行为疏忽；negligible 说事物小到可忽略。",
+    "examples": [
+      [
+        "The extra weight is negligible.",
+        "增加的重量微不足道。"
+      ],
+      [
+        "The change had a negligible effect on the result.",
+        "这次改变对结果影响极小。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negligible#English"
+    ]
+  },
+  {
+    "word": "intellectually",
+    "ipa": "/ˌɪntəˈlektʃuəli/",
+    "meaning": "在智力或思想层面；运用理性地",
+    "sense": "intellectually 像先在道理上想通了，至于情绪是否接受，可能还是另一回事。",
+    "split": "intellectual + -ly。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellectuālis",
+        "有关理解能力的"
+      ],
+      [
+        "古法语：intellectuel；英语 intellectual",
+        "智力的；知识分子"
+      ],
+      [
+        "英语：intellectually",
+        "从理解、推理或思想活动看"
+      ]
+    ],
+    "explanation": "常修饰 challenging、stimulating、understand；不只是“聪明地”的通用替换。",
+    "usage": "intellectually stimulating；intellectually demanding；understand intellectually。",
+    "contrast": "intelligently 是做得聪明得当；intellectually 是就思想或智力方面而言。",
+    "examples": [
+      [
+        "The course is intellectually demanding.",
+        "这门课对思考能力要求很高。"
+      ],
+      [
+        "I understood the decision intellectually, but still felt disappointed.",
+        "道理上我理解这个决定，但仍觉得失望。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intellectually#English"
+    ]
+  },
+  {
+    "word": "negligent",
+    "ipa": "/ˈneɡlɪdʒənt/",
+    "meaning": "疏忽的；未尽注意的",
+    "sense": "negligent 像值班时该看一眼却没看，该确认一步却省了，关注没有到位。",
+    "split": "来自拉丁语 neglegēns，经法语传入，与 neglegere“忽视”同族。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：neglegere → neglegēns",
+        "不留心 → 疏忽的"
+      ],
+      [
+        "古法语及英语：negligent",
+        "疏于注意或照顾的"
+      ]
+    ],
+    "explanation": "通常是负面评价，指未尽应有照料或注意。法律语境需要具体标准，不能仅凭形容词判断责任。",
+    "usage": "negligent conduct；negligent in one’s duties；a negligent mistake。",
+    "contrast": "negligent 不是 negligible：前者失责疏忽，后者小到可不计。",
+    "examples": [
+      [
+        "The report described the maintenance as negligent.",
+        "报告认为维护工作存在疏忽。"
+      ],
+      [
+        "He was negligent in checking the final figures.",
+        "他核对最终数字时不够尽责。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negligent#English"
+    ]
+  },
+  {
+    "word": "elective",
+    "ipa": "/ɪˈlektɪv/",
+    "meaning": "可选择的；选修课；由选举产生的",
+    "sense": "elective 像课程表里可以按兴趣选的一栏，核心是有选择。",
+    "split": "elect + -ive。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctus",
+        "挑选出来 → 被选中的"
+      ],
+      [
+        "英语：elect",
+        "选举；选择"
+      ],
+      [
+        "英语：elective",
+        "由选择决定的；可选的"
+      ]
+    ],
+    "explanation": "教育中是选修；职位可指民选；医疗中的 elective 通常指可计划安排的，不能直接等于不必要。",
+    "usage": "an elective course；an elective office；an elective procedure。",
+    "contrast": "optional 泛指可选；elective 在课程、职位和医疗安排中有固定用法。",
+    "examples": [
+      [
+        "I chose photography as an elective.",
+        "我选了摄影作选修课。"
+      ],
+      [
+        "The position is elective rather than appointed.",
+        "这个职位通过选举产生。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elective#English"
+    ]
+  },
+  {
+    "word": "reelection",
+    "ipa": "/ˌriːɪˈlekʃən/",
+    "meaning": "再次当选；连任选举",
+    "sense": "reelection 是已经选过一次的人又参加选择，并争取再次取得职位。",
+    "split": "re-（再）+ election。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctiō",
+        "挑选 → 选择的过程"
+      ],
+      [
+        "古法语及中古英语：eleccioun",
+        "选择"
+      ],
+      [
+        "英语：election",
+        "选举"
+      ],
+      [
+        "英语：reelection",
+        "再次选举、再次当选"
+      ]
+    ],
+    "explanation": "seek reelection 是争取连任，不表示已成功；win reelection 才明确再次胜选。",
+    "usage": "seek reelection；win reelection；a reelection campaign。",
+    "contrast": "election 可以首次选择；reelection 带再次当选或争取连任的背景。",
+    "examples": [
+      [
+        "The mayor announced that she would seek reelection.",
+        "市长宣布将争取连任。"
+      ],
+      [
+        "He won reelection after a close contest.",
+        "经过激烈竞争，他再次当选。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reelection#English"
+    ]
+  },
+  {
+    "word": "selectively",
+    "ipa": "/sɪˈlektɪvli/",
+    "meaning": "有选择地；只针对部分对象地",
+    "sense": "selectively 像只打开几盏需要的灯，并不是所有灯一起开。",
+    "split": "selective + -ly。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selective → selectively",
+        "有选择的 → 有选择地"
+      ]
+    ],
+    "explanation": "可中性地指精确选择，也可批评只挑有利证据。",
+    "usage": "quote selectively；selectively remove；respond selectively。",
+    "contrast": "randomly 随机地；selectively 按某种区分来做，不一定随机。",
+    "examples": [
+      [
+        "The editor quoted selectively from the interview.",
+        "编辑选择性地引用了采访内容。"
+      ],
+      [
+        "The filter selectively removes certain particles.",
+        "过滤器有选择地去除某些颗粒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selectively#English"
+    ]
+  },
+  {
+    "word": "ineligible",
+    "ipa": "/ɪnˈelɪdʒəbəl/",
+    "meaning": "不符合资格的",
+    "sense": "ineligible 像申请入口的条件检查没有通过，暂时不能参与这一项目。",
+    "split": "in-（不）+ eligible；历史有法语 inéligible 的借入。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēligibilis",
+        "挑选 → 可被选中的"
+      ],
+      [
+        "法语：inéligible；英语 ineligible",
+        "不符合被选择或参与的条件"
+      ]
+    ],
+    "explanation": "说的是某项具体规则下没有资格，不是对人的总体价值作判断。",
+    "usage": "ineligible for funding；ineligible to vote；be declared ineligible。",
+    "contrast": "ineligible 是资格不满足；unsuccessful 是没有成功，可能原本符合资格。",
+    "examples": [
+      [
+        "Applicants under eighteen are ineligible for this programme.",
+        "未满十八岁的申请者不符合这个项目的条件。"
+      ],
+      [
+        "The player was declared ineligible to compete.",
+        "这名选手被认定没有参赛资格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ineligible#English"
+    ]
+  },
+  {
+    "word": "recollection",
+    "ipa": "/ˌrekəˈlekʃən/",
+    "meaning": "回忆；记得的内容",
+    "sense": "recollection 像把散落的旧画面重新拼到一起，形成你记得的一段经历。",
+    "split": "联系拉丁语 recolligere“重新聚集”；英语可经法语 récollection 或 recollect 一支形成。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：recolligere → recollectus",
+        "重新聚拢；记起"
+      ],
+      [
+        "法语 récollection／英语 recollect 一支",
+        "回想"
+      ],
+      [
+        "英语：recollection",
+        "回忆；记忆内容"
+      ]
+    ],
+    "explanation": "a vague recollection 是模糊记得；have no recollection of 是完全不记得。回忆不保证准确无误。",
+    "usage": "have a recollection of；a vivid recollection；to the best of my recollection。",
+    "contrast": "recollection 常强调回想所得；record 是外部记录，两者可能不一致。",
+    "examples": [
+      [
+        "I have only a vague recollection of that day.",
+        "我对那一天只有模糊的印象。"
+      ],
+      [
+        "Her recollection differed from the written record.",
+        "她的回忆与书面记录不同。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recollection#English"
+    ]
+  },
+  {
+    "word": "diligent",
+    "ipa": "/ˈdɪlɪdʒənt/",
+    "meaning": "勤勉认真的",
+    "sense": "diligent 像做作业时不只做完，还会认真核对，碰到难处也持续投入。",
+    "split": "从 dīligere“选中、珍视”到 dīligēns“用心的”，经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：dīligere",
+        "选中；珍视、喜爱"
+      ],
+      [
+        "拉丁语：dīligēns",
+        "用心关注的"
+      ],
+      [
+        "古法语及英语：diligent",
+        "勤勉认真、持续用心的"
+      ]
+    ],
+    "explanation": "强调持续、细致和尽责，不只工作时间长，也不只临时用一次力。",
+    "usage": "a diligent student；diligent research；diligent in checking。",
+    "contrast": "diligent 是认真持续投入；intelligent 是理解力好，能力与用心不是一回事。",
+    "examples": [
+      [
+        "She is a diligent researcher who checks every source.",
+        "她是一位认真核查每项来源的研究者。"
+      ],
+      [
+        "Be diligent in keeping your notes organized.",
+        "整理笔记时要认真坚持。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diligent#English"
+    ]
+  },
+  {
+    "word": "selector",
+    "ipa": "英 /sɪˈlektə/；美 /sɪˈlektər/",
+    "meaning": "选择器；选拔者；选定对象的表达式",
+    "sense": "selector 是执行“选哪个”这一环的人或工具：拨钮选频道，教练组挑选队员。",
+    "split": "select + -or。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selector",
+        "选择者；选择装置"
+      ]
+    ],
+    "explanation": "软件里的 selector 可能是一段用来匹配对象的表达式；具体规则由所用语言或系统定义。",
+    "usage": "a channel selector；a team selector；a CSS selector。",
+    "contrast": "selector 负责选择；selectee 是被选中的人。",
+    "examples": [
+      [
+        "Turn the selector to the required setting.",
+        "把选择旋钮转到所需挡位。"
+      ],
+      [
+        "The selector matches all links in the menu.",
+        "这条选择器匹配菜单里的所有链接。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selector#English"
+    ]
+  },
+  {
+    "word": "collectible",
+    "ipa": "/kəˈlektəbəl/",
+    "meaning": "值得收藏的；收藏品；可收取的",
+    "sense": "collectible 常让人想到值得保存的一件小东西，像一枚特别的徽章或旧邮票。",
+    "split": "collect + -ible。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：colligere → collēctus / collēcta",
+        "聚到一起 → 收集物"
+      ],
+      [
+        "中世纪拉丁语及法语：collectāre / collecter",
+        "收取、收集"
+      ],
+      [
+        "英语：collect",
+        "收集；领取"
+      ],
+      [
+        "英语：collectible",
+        "可收集、可收取的 → 收藏品"
+      ]
+    ],
+    "explanation": "作名词多指收藏品；作形容词也能说款项可收取。能收藏不意味着一定会升值。",
+    "usage": "a collectible toy；rare collectibles；collectible debts。",
+    "contrast": "collectible 强调收藏或可收取；collection 是整组藏品。collectable 是另一拼写。",
+    "examples": [
+      [
+        "The shop sells collectible toys.",
+        "这家店出售收藏玩具。"
+      ],
+      [
+        "She keeps her collectibles in a glass cabinet.",
+        "她把收藏品放在玻璃柜里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collectible#English"
+    ]
+  },
+  {
+    "word": "diligently",
+    "ipa": "/ˈdɪlɪdʒəntli/",
+    "meaning": "认真勤勉地",
+    "sense": "diligently 描述一个人把心思持续放在任务上，一项项检查、一点点推进。",
+    "split": "diligent + -ly。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：dīligere",
+        "选中；珍视、喜爱"
+      ],
+      [
+        "拉丁语：dīligēns",
+        "用心关注的"
+      ],
+      [
+        "古法语及英语：diligent",
+        "勤勉认真、持续用心的"
+      ],
+      [
+        "英语：diligently",
+        "以认真持续用心的方式"
+      ]
+    ],
+    "explanation": "常修饰 work、study、check；重点在方法与态度，不保证结果一定成功。",
+    "usage": "work diligently；study diligently；diligently check details。",
+    "contrast": "quickly 是快；diligently 是认真尽责，工作可以既快又认真。",
+    "examples": [
+      [
+        "The students worked diligently on the project.",
+        "学生们认真投入这个项目。"
+      ],
+      [
+        "She diligently checked the references.",
+        "她仔细核查了参考资料。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/diligently#English"
+    ]
+  },
+  {
+    "word": "elitist",
+    "ipa": "/ɪˈliːtɪst/",
+    "meaning": "精英主义的；偏向精英的人",
+    "sense": "elitist 像认为只有少数有特定学历、财富或品位的人才值得被听见。",
+    "split": "elite + -ist，既可指态度，也可指持这种看法的人。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere",
+        "挑选"
+      ],
+      [
+        "古法语：eslire → eslit / elite",
+        "挑选 → 被挑选出的"
+      ],
+      [
+        "英语：elite",
+        "精英；顶尖的"
+      ],
+      [
+        "英语：elitist",
+        "强调或偏向少数精英的"
+      ]
+    ],
+    "explanation": "经常带批评意味，但批评针对制度或态度，不等于否定所有高水平技能。",
+    "usage": "an elitist attitude；an elitist institution；be accused of being elitist。",
+    "contrast": "elite 描述顶尖或有权势群体；elitist 常评价偏向这个群体的立场。",
+    "examples": [
+      [
+        "Critics called the admissions policy elitist.",
+        "批评者认为招生政策偏向少数精英。"
+      ],
+      [
+        "She rejected the elitist idea that art belongs only to experts.",
+        "她反对艺术只属于专家的精英主义观点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elitist#English"
+    ]
+  },
+  {
+    "word": "intelligently",
+    "ipa": "/ɪnˈtelɪdʒəntli/",
+    "meaning": "明智地；有理解力地",
+    "sense": "intelligently 像先看懂局面，再有针对性地行动，而不是只凭力气或重复操作。",
+    "split": "intelligent + -ly。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegēns",
+        "有理解力的"
+      ],
+      [
+        "法语及英语：intelligent",
+        "聪明的；有理解力的"
+      ],
+      [
+        "英语：intelligently",
+        "以聪明、理解充分的方式"
+      ]
+    ],
+    "explanation": "可修饰回答、设计或使用资源，不只是夸人考试好。",
+    "usage": "use resources intelligently；respond intelligently；intelligently designed。",
+    "contrast": "intellectually 是在思想层面；intelligently 是做得聪明、得当。",
+    "examples": [
+      [
+        "The software uses limited memory intelligently.",
+        "软件巧妙地利用有限内存。"
+      ],
+      [
+        "She responded intelligently to a difficult question.",
+        "她明智地回答了一个难题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intelligently#English"
+    ]
+  },
+  {
+    "word": "cull",
+    "ipa": "/kʌl/",
+    "meaning": "挑取；筛除；选择性淘汰",
+    "sense": "cull 像先查看一整批东西，再把要留的挑出来，或把不需要的剔出去。",
+    "split": "经古法语 cuillir 来自 colligere“采集、聚拢”，与 coil 同源。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：colligere",
+        "收集"
+      ],
+      [
+        "古法语：cuillir",
+        "采集；挑选"
+      ],
+      [
+        "英语：cull",
+        "挑取、筛除；选择性淘汰"
+      ]
+    ],
+    "explanation": "cull information from reports 是从报告中摘取信息；动物管理中则可指选择性捕杀，语境差异很大。",
+    "usage": "cull examples from；cull duplicate entries；a deer cull。",
+    "contrast": "cull 可以取出有用的，也可剔除不需要的；要看宾语和上下文。",
+    "examples": [
+      [
+        "The examples were culled from old letters.",
+        "这些例子摘自旧信件。"
+      ],
+      [
+        "We culled duplicate entries from the list.",
+        "我们从列表中剔除了重复条目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/cull#English"
+    ]
+  },
+  {
+    "word": "elector",
+    "ipa": "英 /ɪˈlektə/；美 /ɪˈlektər/",
+    "meaning": "选民；选举人；选帝侯",
+    "sense": "elector 是拥有正式选择权的人；某些制度中，他专门代表一层程序投票选人。",
+    "split": "来自晚期拉丁语 ēlēctor，联系 ēligere；现代可对应 elect + -or。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → 晚期拉丁语 ēlēctor",
+        "选择 → 选择者"
+      ],
+      [
+        "中古英语：electour；英语 elector",
+        "有投票权的人"
+      ]
+    ],
+    "explanation": "普通可指合资格选民；美国总统选举语境有专门的选举人角色；历史中也指选帝侯。",
+    "usage": "registered electors；presidential electors；a prince elector。",
+    "contrast": "elector 是投票或有权投票者；electee 是被选中的人。",
+    "examples": [
+      [
+        "Each registered elector received a notice.",
+        "每位登记选民都收到了一份通知。"
+      ],
+      [
+        "The chapter explains the role of the electors.",
+        "这一章解释了选举人的角色。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elector#English"
+    ]
+  },
+  {
+    "word": "unintelligible",
+    "ipa": "/ˌʌnɪnˈtelɪdʒəbəl/",
+    "meaning": "无法理解的；听不懂的",
+    "sense": "unintelligible 像听见了声音，却分不清词，或者认出了字仍无法理解内容。",
+    "split": "un-（不）+ intelligible。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegibilis",
+        "可以理解的"
+      ],
+      [
+        "法语及英语：intelligible",
+        "能听懂、看懂的"
+      ],
+      [
+        "英语：unintelligible",
+        "不能被理解的"
+      ]
+    ],
+    "explanation": "可能由于噪声、语言陌生或表达混乱；不要把它当作对说话人智力的直接评价。",
+    "usage": "unintelligible speech；almost unintelligible；unintelligible to outsiders。",
+    "contrast": "unintelligent 说缺少聪明判断；unintelligible 说表达听不懂，两者差别很大。",
+    "examples": [
+      [
+        "The last sentence was unintelligible because of the noise.",
+        "因为噪声，最后一句听不清意思。"
+      ],
+      [
+        "The technical notes were unintelligible to most readers.",
+        "大多数读者无法理解这些技术笔记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unintelligible#English"
+    ]
+  },
+  {
+    "word": "legible",
+    "ipa": "/ˈledʒəbəl/",
+    "meaning": "字迹清楚可辨的",
+    "sense": "legible 像纸上的字能一笔一画认出来，读者不用猜它写的是什么字。",
+    "split": "来自晚期拉丁语 legibilis：legere“读”+ 表示可行性的成分。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "晚期拉丁语：legibilis",
+        "可以阅读的"
+      ],
+      [
+        "英语：legible",
+        "字迹清楚可辨的"
+      ]
+    ],
+    "explanation": "常评价手写、字体、印刷和标志，重点是视觉辨认；文字内容可能仍然很深奥。",
+    "usage": "legible handwriting；a legible signature；clearly legible。",
+    "contrast": "legible 是字看得清；intelligible 是意思听得懂、看得懂。",
+    "examples": [
+      [
+        "Please write your name in legible handwriting.",
+        "请把名字写清楚。"
+      ],
+      [
+        "The sign was barely legible in the rain.",
+        "雨中那块标牌几乎看不清字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legible#English"
+    ]
+  },
+  {
+    "word": "selectivity",
+    "ipa": "/sɪˌlekˈtɪvəti/",
+    "meaning": "选择性；筛选程度",
+    "sense": "selectivity 像筛子的孔究竟只让哪些东西通过，用来谈区分对象的能力或严格程度。",
+    "split": "selective + -ity。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selective → selectivity",
+        "有选择的 → 选择性"
+      ]
+    ],
+    "explanation": "大学的 selectivity 说录取筛选程度；接收器的 selectivity 说分离所需信号的能力。",
+    "usage": "high selectivity；admissions selectivity；signal selectivity。",
+    "contrast": "selection 是一次选择或选中内容；selectivity 是选择过程表现出的性质。",
+    "examples": [
+      [
+        "The report compares the selectivity of several programmes.",
+        "报告比较了几个项目的选拔严格程度。"
+      ],
+      [
+        "The receiver’s selectivity helps isolate the desired signal.",
+        "接收器的选择性帮助分离所需信号。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selectivity#English"
+    ]
+  },
+  {
+    "word": "intelligible",
+    "ipa": "/ɪnˈtelɪdʒəbəl/",
+    "meaning": "能听懂、看懂的；可理解的",
+    "sense": "intelligible 像声音终于清楚到能认出说的词，或解释终于让人明白。",
+    "split": "来自拉丁语 intellegibilis，经法语传入；intellig-“理解”+ 可行性成分。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegibilis",
+        "可以理解的"
+      ],
+      [
+        "法语及英语：intelligible",
+        "能听懂、看懂的"
+      ]
+    ],
+    "explanation": "可以评价语音、文字或行为逻辑；不要求表达漂亮，只要能理解。",
+    "usage": "intelligible speech；make something intelligible；intelligible to beginners。",
+    "contrast": "intelligent 是人或方案聪明；intelligible 是内容能被理解。",
+    "examples": [
+      [
+        "The recording was faint but intelligible.",
+        "录音声音很轻，但还能听懂。"
+      ],
+      [
+        "The diagram makes the process intelligible to beginners.",
+        "这张图使初学者也能理解这个过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intelligible#English"
+    ]
+  },
+  {
+    "word": "intelligentsia",
+    "ipa": "/ɪnˌtelɪˈdʒentsiə/",
+    "meaning": "知识分子阶层",
+    "sense": "intelligentsia 把从事思想、文化、学术等活动的人看成一个社会群体。",
+    "split": "从俄语 intelligentsiya 借入；俄语词经欧洲语言联系拉丁语 intelligentia，不能画成现代英语 intelligence 直接生出俄语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intelligentia；欧洲语言中的对应词",
+        "理解能力、智识"
+      ],
+      [
+        "俄语：intelligentsiya",
+        "知识分子群体"
+      ],
+      [
+        "英语：intelligentsia",
+        "知识分子阶层"
+      ]
+    ],
+    "explanation": "常见于社会史或文化讨论。它不是“所有聪明人”的集合，也不保证群体意见一致。",
+    "usage": "the urban intelligentsia；members of the intelligentsia；the literary intelligentsia。",
+    "contrast": "intelligence 是能力或情报；intelligentsia 是社会群体。",
+    "examples": [
+      [
+        "The reform attracted support from part of the intelligentsia.",
+        "改革得到了部分知识分子的支持。"
+      ],
+      [
+        "The book examines the urban intelligentsia of the period.",
+        "这本书研究那个时期的城市知识分子阶层。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intelligentsia#English"
+    ]
+  },
+  {
+    "word": "recollect",
+    "ipa": "/ˌrekəˈlekt/",
+    "meaning": "回想；记起",
+    "sense": "recollect 像把记忆里零散的片段重新捡起来，慢慢拼回事情经过。",
+    "split": "re-（再）+ colligere（收拢），经拉丁语 recollectus 借入；现代“再收集”也可由 re- + collect 形成。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：recolligere → recollectus",
+        "重新收集；恢复、记起"
+      ],
+      [
+        "英语：recollect",
+        "回忆；重新聚拢"
+      ]
+    ],
+    "explanation": "日常常接名词或 doing；比 remember 略正式，往往带有回想过程的感觉。",
+    "usage": "recollect a name；recollect doing something；as far as I recollect。",
+    "contrast": "recollect 是回忆；recognize 是再次遇到时认出来。",
+    "examples": [
+      [
+        "I cannot recollect where I put the key.",
+        "我想不起把钥匙放在哪里了。"
+      ],
+      [
+        "She recollects meeting him at a conference.",
+        "她记得在一次会议上见过他。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recollect#English"
+    ]
+  },
+  {
+    "word": "collectable",
+    "ipa": "/kəˈlektəbəl/",
+    "meaning": "可收取的；值得收藏的；收藏品",
+    "sense": "collectable 像可以领回的款项，也像值得归入收藏的一件物品。",
+    "split": "collect + -able；与 collectible 常作不同拼写使用。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：colligere → collēctus / collēcta",
+        "聚到一起 → 收集物"
+      ],
+      [
+        "中世纪拉丁语及法语：collectāre / collecter",
+        "收取、收集"
+      ],
+      [
+        "英语：collect",
+        "收集；领取"
+      ],
+      [
+        "英语：collectable",
+        "可收集、可收取的；收藏品"
+      ]
+    ],
+    "explanation": "用在玩具、邮票上强调收藏，用在债款上强调可收回；不是凡拼成 -able 就只能说款项。",
+    "usage": "collectable items；collectable stamps；collectable amounts。",
+    "contrast": "collectable 和 collectible 在收藏义上可互换；拼写偏好因地区、文体而异。",
+    "examples": [
+      [
+        "The market sells old books and other collectable items.",
+        "市场出售旧书和其他收藏物品。"
+      ],
+      [
+        "The accountant estimated the amount still collectable.",
+        "会计估算了仍可收回的金额。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collectable#English"
+    ]
+  },
+  {
+    "word": "counterintelligence",
+    "ipa": "英 /ˌkaʊntərɪnˈtelɪdʒəns/；美同",
+    "meaning": "反情报；反间谍工作",
+    "sense": "counterintelligence 的重点是发现并应对对方的情报活动，保护己方信息与安全。",
+    "split": "counter-（对抗）+ intelligence（情报）。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegentia",
+        "理解能力"
+      ],
+      [
+        "法语及英语：intelligence",
+        "智力；情报"
+      ],
+      [
+        "英语：counterintelligence",
+        "针对敌对情报活动的防护与应对"
+      ]
+    ],
+    "explanation": "这里 intelligence 取情报义，绝不是“反对聪明”。词汇学习中把它与一般搜集信息区分即可。",
+    "usage": "counterintelligence work；a counterintelligence unit；counterintelligence training。",
+    "contrast": "intelligence 侧重情报工作整体；counterintelligence 特别针对对方的情报活动。",
+    "examples": [
+      [
+        "The historian studied wartime counterintelligence.",
+        "历史学家研究了战时反情报工作。"
+      ],
+      [
+        "The report reviews the agency’s counterintelligence role.",
+        "报告回顾了该机构的反情报职责。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/counterintelligence#English"
+    ]
+  },
+  {
+    "word": "intercollegiate",
+    "ipa": "/ˌɪntəkəˈliːdʒiət/；美 /ˌɪntərkəˈliːdʒiət/",
+    "meaning": "学院之间的；大学校际的",
+    "sense": "intercollegiate 像两所学院派队比赛或共同办活动，边界跨在不同院校之间。",
+    "split": "inter-（之间）+ collegiate。",
+    "history": [
+      [
+        "拉丁语：lēgāre",
+        "委任；派遣（不同于 legere）"
+      ],
+      [
+        "拉丁语：collēga",
+        "共同任职的人"
+      ],
+      [
+        "拉丁语：collēgium",
+        "共同任职或有共同职责的团体"
+      ],
+      [
+        "中世纪拉丁语：collēgiātus；英语 collegiate",
+        "学院的"
+      ],
+      [
+        "英语：intercollegiate",
+        "学院之间的"
+      ]
+    ],
+    "explanation": "常修饰体育、辩论和合作。并不表示活动覆盖全国所有大学。",
+    "usage": "intercollegiate sports；an intercollegiate debate；intercollegiate cooperation。",
+    "contrast": "intracollegiate 是一所学院内部；intercollegiate 是不同学院之间。",
+    "examples": [
+      [
+        "She entered an intercollegiate debate competition.",
+        "她参加了校际辩论赛。"
+      ],
+      [
+        "The library supports an intercollegiate research project.",
+        "图书馆支持一个院校间合作研究项目。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intercollegiate#English"
+    ]
+  },
+  {
+    "word": "sacrilege",
+    "ipa": "/ˈsækrəlɪdʒ/",
+    "meaning": "亵渎；冒犯被视为神圣的事物",
+    "sense": "sacrilege 原来的画面是拿走神圣之物，后来扩大为对神圣对象的侵犯；日常也能夸张地说糟蹋经典。",
+    "split": "拉丁语 sacer“神圣”+ legere“取走、收取”，经 sacrilegium、法语进入英语。",
+    "history": [
+      [
+        "拉丁语：sacer + legere",
+        "神圣 + 拿走"
+      ],
+      [
+        "拉丁语：sacrilegus → sacrilegium",
+        "盗取圣物者 → 盗取、侵犯圣物"
+      ],
+      [
+        "法语及英语：sacrilege",
+        "亵渎；冒犯"
+      ]
+    ],
+    "explanation": "实际宗教语境比较严肃；把好茶煮坏了也可能被人开玩笑叫 sacrilege，表示极不该如此对待。",
+    "usage": "commit sacrilege；an act of sacrilege；consider something sacrilege。",
+    "contrast": "sacrilege 不是 sacred + religion；拼写里也没有 religious 那段完整结构。",
+    "examples": [
+      [
+        "The destruction of the shrine was regarded as sacrilege.",
+        "摧毁神殿被视为亵渎行为。"
+      ],
+      [
+        "To him, cutting pages from an old book was sacrilege.",
+        "在他看来，从旧书上剪下书页简直是亵渎。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sacrilege#English"
+    ]
+  },
+  {
+    "word": "elitism",
+    "ipa": "/ɪˈliːtɪzəm/",
+    "meaning": "精英主义；偏重精英的态度或制度",
+    "sense": "elitism 是把少数精英放在中心，认为资源、权力或发言机会应主要由他们掌握的倾向。",
+    "split": "elite + -ism。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere",
+        "挑选"
+      ],
+      [
+        "古法语：eslire → eslit / elite",
+        "挑选 → 被挑选出的"
+      ],
+      [
+        "英语：elite",
+        "精英；顶尖的"
+      ],
+      [
+        "英语：elitism",
+        "关于精英地位的主张或态度"
+      ]
+    ],
+    "explanation": "常用于批评教育、文化或政治中的排他性；与追求专业水平并不自动等同。",
+    "usage": "cultural elitism；accusations of elitism；challenge elitism。",
+    "contrast": "expertise 是专门能力；elitism 是怎样看待精英与其他人的关系。",
+    "examples": [
+      [
+        "The essay criticizes elitism in arts funding.",
+        "文章批评艺术资助中的精英主义倾向。"
+      ],
+      [
+        "The school tried to avoid the appearance of elitism.",
+        "学校努力避免给人偏向少数精英的印象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/elitism#English"
+    ]
+  },
+  {
+    "word": "legume",
+    "ipa": "英 /ˈleɡjuːm/；美 /ˈleɡjuːm/，亦 /ləˈɡuːm/",
+    "meaning": "豆科植物；豆类；荚果",
+    "sense": "legume 让人想到豌豆、扁豆这类植物及其种子；植物学还用它指相应类型的荚果。",
+    "split": "经法语 légume 来自拉丁语 legūmen。与 legere“采集”的联系只是词源解释之一，不能作为定论。",
+    "history": [
+      [
+        "拉丁语：legūmen",
+        "豆；豆类植物（更早来源未定）"
+      ],
+      [
+        "法语：légume",
+        "蔬菜；豆类"
+      ],
+      [
+        "英语：legume",
+        "豆科植物；豆类；荚果"
+      ]
+    ],
+    "explanation": "日常饮食常说豆类，植物学则可能谈植物或果实结构。法语 légume 的现代范围更广，常指蔬菜。",
+    "usage": "beans and other legumes；a legume crop；dried legumes。",
+    "contrast": "legume 不等于一切 vegetable；讲英语时它有豆类相关的专门范围。",
+    "examples": [
+      [
+        "Lentils and chickpeas are legumes.",
+        "扁豆和鹰嘴豆都属于豆类。"
+      ],
+      [
+        "The farmer planted a legume crop in the field.",
+        "农民在这块地里种了豆科作物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legume#English",
+      "https://www.etymonline.com/word/legume"
+    ]
+  },
+  {
+    "word": "illegible",
+    "ipa": "/ɪˈledʒəbəl/",
+    "meaning": "字迹无法辨认的",
+    "sense": "illegible 像字迹糊成一团，连写了哪个字母都难看清。",
+    "split": "in-（不）在 l 前同化为 il-，再加 legible。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "晚期拉丁语：legibilis",
+        "可以阅读的"
+      ],
+      [
+        "英语：legible",
+        "字迹清楚可辨的"
+      ],
+      [
+        "英语：il- + legible → illegible",
+        "无法读清字迹的"
+      ]
+    ],
+    "explanation": "通常说视觉辨识困难，而不是文章观点复杂。字很清楚但意思难懂，不宜仅用 illegible。",
+    "usage": "illegible handwriting；an illegible signature；almost illegible。",
+    "contrast": "illegible 字认不出；unintelligible 内容听不懂或理解不了。",
+    "examples": [
+      [
+        "The address was illegible after the envelope got wet.",
+        "信封湿了以后，地址已无法辨认。"
+      ],
+      [
+        "His signature is almost illegible.",
+        "他的签名几乎看不清。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illegible#English"
+    ]
+  },
+  {
+    "word": "selectable",
+    "ipa": "/sɪˈlektəbəl/",
+    "meaning": "可选择的；可被选中的",
+    "sense": "selectable 像菜单里亮着、可以点选的项目，说明系统允许你选它。",
+    "split": "select + -able。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selectable",
+        "能够被选择的"
+      ]
+    ],
+    "explanation": "常见于界面、设置或设备说明；能选不代表当前已经选上。",
+    "usage": "a selectable option；selectable text；user-selectable settings。",
+    "contrast": "selectable 是可选；selected 是已选；selective 是有选择性的。",
+    "examples": [
+      [
+        "The menu contains three selectable options.",
+        "菜单中有三个可选项目。"
+      ],
+      [
+        "The text in the image is not selectable.",
+        "图片里的文字不能直接选取。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selectable#English"
+    ]
+  },
+  {
+    "word": "predilection",
+    "ipa": "/ˌpriːdɪˈlekʃən/，亦 /ˌpredɪˈlekʃən/",
+    "meaning": "偏爱；特别的喜好",
+    "sense": "predilection 像还没比较完，心已经先朝某一类东西偏过去了。",
+    "split": "来自中世纪拉丁语 praedīlēctiō，prae-（在前）+ dīligere（珍爱、偏爱）。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：dīligere",
+        "珍视、喜爱"
+      ],
+      [
+        "中世纪拉丁语：praedīligere → praedīlēctiō",
+        "特别偏爱 → 偏爱"
+      ],
+      [
+        "英语：predilection",
+        "偏爱；喜好倾向"
+      ]
+    ],
+    "explanation": "常与 for 连用，语气比 liking 正式，强调比较稳定的偏好。",
+    "usage": "a predilection for music；a strong predilection；personal predilections。",
+    "contrast": "predilection 是喜好倾向；prediction 是预测，别被相近字形带偏。",
+    "examples": [
+      [
+        "She has a predilection for quiet cafés.",
+        "她特别喜欢安静的咖啡馆。"
+      ],
+      [
+        "His predilection for unusual colours shaped the design.",
+        "他对特殊颜色的偏爱影响了设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/predilection#English"
+    ]
+  },
+  {
+    "word": "intellectualism",
+    "ipa": "/ˌɪntəˈlektʃuəlɪzəm/",
+    "meaning": "重视理智的倾向；理智主义",
+    "sense": "intellectualism 像把分析和推理放到最前面，倾向用概念来理解生活。",
+    "split": "intellectual + -ism。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellectuālis",
+        "有关理解能力的"
+      ],
+      [
+        "古法语：intellectuel；英语 intellectual",
+        "智力的；知识分子"
+      ],
+      [
+        "英语：intellectualism",
+        "重视理智或理论思考的立场"
+      ]
+    ],
+    "explanation": "普通文体可中性也可批评过分理论化；哲学中具体主张要看学派，不能只凭词形概括为同一个理论。",
+    "usage": "abstract intellectualism；a tradition of intellectualism；excessive intellectualism。",
+    "contrast": "intelligence 是理解能力；intellectualism 是重视理智的一种态度或学说。",
+    "examples": [
+      [
+        "The essay questions intellectualism detached from experience.",
+        "文章质疑脱离经验的理智主义。"
+      ],
+      [
+        "His work combines intellectualism with emotional depth.",
+        "他的作品兼有理性思考和情感深度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intellectualism#English"
+    ]
+  },
+  {
+    "word": "unintelligent",
+    "ipa": "/ˌʌnɪnˈtelɪdʒənt/",
+    "meaning": "不明智的；缺乏理解力的",
+    "sense": "unintelligent 可以评价一个做法没有认真理解情况，显得愚笨或缺乏判断。",
+    "split": "un-（不）+ intelligent。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegēns",
+        "有理解力的"
+      ],
+      [
+        "法语及英语：intelligent",
+        "聪明的；有理解力的"
+      ],
+      [
+        "英语：unintelligent",
+        "缺乏理解力或明智判断的"
+      ]
+    ],
+    "explanation": "用来直接评价人常显得刻薄；也能较具体地评价问题、策略或反应。",
+    "usage": "an unintelligent remark；an unintelligent strategy；unintelligent use of resources。",
+    "contrast": "unintelligent 不聪明；unintelligible 不可理解。某个聪明人的录音也可能听不懂。",
+    "examples": [
+      [
+        "That would be an unintelligent use of our limited budget.",
+        "那样使用有限预算并不明智。"
+      ],
+      [
+        "The reviewer criticized the film’s unintelligent dialogue.",
+        "评论者批评影片的对白缺乏智慧。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unintelligent#English"
+    ]
+  },
+  {
+    "word": "collectivism",
+    "ipa": "/kəˈlektɪvɪzəm/",
+    "meaning": "集体主义",
+    "sense": "collectivism 像决定事情时先问“这对整个群体怎样”，把共同利益或共同控制放在重要位置。",
+    "split": "collective + -ism。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：collēctus → collēctīvus",
+        "集合 → 集合的"
+      ],
+      [
+        "法语：collectif；英语 collective",
+        "集体的；共同的"
+      ],
+      [
+        "英语：collectivism",
+        "重视集体的思想或组织原则"
+      ]
+    ],
+    "explanation": "可用于经济所有权安排，也可谈价值取向；不同传统的具体内容不尽相同。",
+    "usage": "collectivism and individualism；economic collectivism；forms of collectivism。",
+    "contrast": "collective 只说共同；collectivism 是如何安排个人与群体关系的主张。",
+    "examples": [
+      [
+        "The seminar compared collectivism and individualism.",
+        "研讨课比较了集体主义与个人主义。"
+      ],
+      [
+        "The book examines several forms of economic collectivism.",
+        "这本书考察了几种经济集体主义形式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collectivism#English"
+    ]
+  },
+  {
+    "word": "collectivist",
+    "ipa": "/kəˈlektɪvɪst/",
+    "meaning": "集体主义的；集体主义者",
+    "sense": "collectivist 是支持或体现集体主义的人、观点或安排。",
+    "split": "collective + -ist，与 collectivism 对应。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：collēctus → collēctīvus",
+        "集合 → 集合的"
+      ],
+      [
+        "法语：collectif；英语 collective",
+        "集体的；共同的"
+      ],
+      [
+        "英语：collectivist",
+        "持集体主义观点的人；体现该观点的"
+      ]
+    ],
+    "explanation": "形容词与名词都常见。讨论一种文化的倾向时，也不能据此判断其中每个人的立场。",
+    "usage": "a collectivist outlook；collectivist values；a committed collectivist。",
+    "contrast": "collectivist 是立场标签；cooperative 是合作的，不必等于同一种思想。",
+    "examples": [
+      [
+        "The author describes the institution as collectivist.",
+        "作者把这个机构描述为体现集体主义。"
+      ],
+      [
+        "A collectivist may place shared goals above personal preferences.",
+        "集体主义者可能把共同目标放在个人偏好之上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collectivist#English"
+    ]
+  },
+  {
+    "word": "neglectful",
+    "ipa": "/nɪˈɡlektfəl/",
+    "meaning": "疏于照顾的；不够留心的",
+    "sense": "neglectful 像一直顾着别的事，让本应关心的人或事务无人照看。",
+    "split": "neglect + -ful，表示具有忽视倾向。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：neglegere → neglēctus",
+        "不留心；忽视"
+      ],
+      [
+        "英语：neglect",
+        "忽视；疏于照顾"
+      ],
+      [
+        "英语：neglectful",
+        "经常忽视、缺少照料的"
+      ]
+    ],
+    "explanation": "常接 of，描述人对责任、关系或维护不够上心。",
+    "usage": "neglectful of duties；a neglectful owner；neglectful behaviour。",
+    "contrast": "neglectful 常说照料与关注不足；negligent 也可强调未达到专业或法律要求的注意程度。",
+    "examples": [
+      [
+        "He had become neglectful of his old friends.",
+        "他渐渐疏于关心老朋友了。"
+      ],
+      [
+        "The garden suffered under a neglectful owner.",
+        "花园因主人疏于打理而荒废。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/neglectful#English"
+    ]
+  },
+  {
+    "word": "negligently",
+    "ipa": "/ˈneɡlɪdʒəntli/",
+    "meaning": "疏忽地；未尽注意地",
+    "sense": "negligently 描述做事过程中漏掉了本应给予的关注，像未检查就草率签字。",
+    "split": "negligent + -ly。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：neglegere → neglegēns",
+        "不留心 → 疏忽的"
+      ],
+      [
+        "古法语及英语：negligent",
+        "疏于注意或照顾的"
+      ],
+      [
+        "英语：negligently",
+        "以疏忽失察的方式"
+      ]
+    ],
+    "explanation": "常用于评价操作、维护或专业行为；法律使用仍需具体事实和标准。",
+    "usage": "act negligently；negligently maintained；negligently overlook。",
+    "contrast": "negligently 是做得疏忽；negligibly 是程度小到可忽略，别少看一个 t。",
+    "examples": [
+      [
+        "The equipment had been negligently maintained.",
+        "设备维护工作存在疏忽。"
+      ],
+      [
+        "The report found that key details were negligently omitted.",
+        "报告发现关键细节因疏忽被遗漏。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/negligently#English"
+    ]
+  },
+  {
+    "word": "lectern",
+    "ipa": "英 /ˈlektən/；美 /ˈlektərn/",
+    "meaning": "讲台上的读稿架；诵读台",
+    "sense": "lectern 像一个斜面的高支架，把讲稿或经书撑在站着能读的位置。",
+    "split": "经中世纪拉丁语 lectrinum 与法语传来，属于 legere“阅读”的工具名称；英语拼写后来向拉丁语靠拢。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "晚期及中世纪拉丁语：lectrum / lectrinum",
+        "供诵读用的支架"
+      ],
+      [
+        "古法语及中古英语：leitrun / lettron",
+        "读稿台"
+      ],
+      [
+        "英语：lectern",
+        "讲稿架；诵读台"
+      ]
+    ],
+    "explanation": "重点是承托材料的架子，不是整个演讲台，也不是听众坐的课桌。",
+    "usage": "stand at the lectern；a wooden lectern；place notes on the lectern。",
+    "contrast": "lectern 撑讲稿；podium 常是站人的台，也可能在美式用法中泛指讲台。",
+    "examples": [
+      [
+        "She placed her notes on the lectern.",
+        "她把讲稿放在读稿台上。"
+      ],
+      [
+        "A microphone was fixed to the lectern.",
+        "读稿台上装着一支麦克风。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lectern#English"
+    ]
+  },
+  {
+    "word": "sacrilegious",
+    "ipa": "/ˌsækrəˈlɪdʒəs/",
+    "meaning": "亵渎神圣的；大不敬的",
+    "sense": "sacrilegious 把某个行为评价为侵犯了人们视作神圣的东西；也可夸张地说糟蹋经典。",
+    "split": "与 sacrilege 同族，联系拉丁语 sacrilegus“盗取圣物、亵渎的”；不能按 religious 的拼写写成 sacreligious。",
+    "history": [
+      [
+        "拉丁语：sacer + legere",
+        "神圣 + 拿走"
+      ],
+      [
+        "拉丁语：sacrilegus",
+        "盗取圣物的；亵渎的"
+      ],
+      [
+        "英语：sacrilegious",
+        "亵渎的；大不敬的"
+      ]
+    ],
+    "explanation": "它表达一种评价，需要知道被谁、在什么传统中视为神圣；日常比喻也可能是玩笑。",
+    "usage": "a sacrilegious act；a sacrilegious joke；consider something sacrilegious。",
+    "contrast": "religious 是宗教的；sacrilegious 是亵渎的，不是“不信宗教”的简单对应词。",
+    "examples": [
+      [
+        "The community considered the act sacrilegious.",
+        "这个群体认为那一行为是亵渎。"
+      ],
+      [
+        "Some fans thought changing the classic ending was sacrilegious.",
+        "一些粉丝认为改动经典结尾简直是大不敬。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sacrilegious#English"
+    ]
+  },
+  {
+    "word": "intelligencer",
+    "ipa": "英 /ɪnˈtelɪdʒənsə/；美 /ɪnˈtelɪdʒənsər/",
+    "meaning": "报信者；情报提供者（旧称）",
+    "sense": "intelligencer 是把消息带来的人；这里用的是 intelligence 的“情报、消息”义。",
+    "split": "intelligence + -er。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegentia",
+        "理解能力"
+      ],
+      [
+        "法语及英语：intelligence",
+        "智力；情报"
+      ],
+      [
+        "英语：intelligencer",
+        "提供消息或情报的人"
+      ]
+    ],
+    "explanation": "历史文献中可指耳目、密探或报信者，也保留在一些报刊名称中。并非“更聪明的人”。",
+    "usage": "a royal intelligencer；an intelligencer’s report；旧式或报刊名称用语。",
+    "contrast": "intelligencer 提供消息；intellectual 从事思想文化活动，两个角色不同。",
+    "examples": [
+      [
+        "The minister relied on an intelligencer at the port.",
+        "大臣依靠港口的一名报信者获取消息。"
+      ],
+      [
+        "The historian found a report written by a royal intelligencer.",
+        "历史学家找到了一份王室情报人员写的报告。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intelligencer#English"
+    ]
+  },
+  {
+    "word": "collegial",
+    "ipa": "/kəˈliːdʒiəl/",
+    "meaning": "同事合作的；同僚共同管理的",
+    "sense": "collegial 像一桌地位相近的同事坐下来互相尊重、共同商量。",
+    "split": "来自法语 collégial 一支，联系拉丁语 collēgium“团体”；不是 lecture 的形容词。",
+    "history": [
+      [
+        "拉丁语：lēgāre",
+        "委任；派遣（不同于 legere）"
+      ],
+      [
+        "拉丁语：collēga",
+        "共同任职的人"
+      ],
+      [
+        "拉丁语：collēgium；法语 collégial",
+        "团体 → 同僚团体的"
+      ],
+      [
+        "英语：collegial",
+        "同僚合作或共治的"
+      ]
+    ],
+    "explanation": "既可说工作氛围友好合作，也可具体说权力由同僚共享；不要求所有人意见完全一致。",
+    "usage": "a collegial atmosphere；collegial decision-making；collegial relations。",
+    "contrast": "collegial 强调同事合作；collegiate 常说学院或大学的。",
+    "examples": [
+      [
+        "The department has a collegial atmosphere.",
+        "这个部门的同事合作氛围很好。"
+      ],
+      [
+        "The committee preferred a collegial style of leadership.",
+        "委员会更喜欢由同僚共同参与的领导方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collegial#English"
+    ]
+  },
+  {
+    "word": "uncollected",
+    "ipa": "/ˌʌnkəˈlektɪd/",
+    "meaning": "尚未收取的；未收入集子的",
+    "sense": "uncollected 像包裹还躺在领取点，或一篇散文还没有被收进作者的作品集。",
+    "split": "un-（未）+ collected（已收集、领取的）。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：colligere → collēctus / collēcta",
+        "聚到一起 → 收集物"
+      ],
+      [
+        "中世纪拉丁语及法语：collectāre / collecter",
+        "收取、收集"
+      ],
+      [
+        "英语：collect",
+        "收集；领取"
+      ],
+      [
+        "英语：collected → uncollected",
+        "已收取 → 未收取；未汇编"
+      ]
+    ],
+    "explanation": "既可说实际物品无人领取，也可说文学作品未结集。不能只把它理解成“没有收藏价值”。",
+    "usage": "uncollected parcels；uncollected essays；uncollected payments。",
+    "contrast": "uncollected 是尚未被收取；uncollectible 通常是无法收取或收回。",
+    "examples": [
+      [
+        "Uncollected parcels are kept behind the counter.",
+        "尚未领取的包裹放在柜台后面。"
+      ],
+      [
+        "The volume includes several previously uncollected essays.",
+        "这本书收录了几篇此前未结集的散文。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uncollected#English"
+    ]
+  },
+  {
+    "word": "preselection",
+    "ipa": "/ˌpriːsɪˈlekʃən/",
+    "meaning": "预先选择；候选人预选",
+    "sense": "preselection 像正式选择前先筛出一批，或者政党先决定谁代表自己参选。",
+    "split": "pre-（预先）+ selection。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctiō",
+        "挑选 → 选择过程"
+      ],
+      [
+        "英语：selection",
+        "挑选；所选的一组"
+      ],
+      [
+        "英语：preselection",
+        "正式阶段前的选择"
+      ]
+    ],
+    "explanation": "一般可指提前筛选；某些政治制度里专指政党确定候选人的过程。",
+    "usage": "candidate preselection；a preselection process；preselection of options。",
+    "contrast": "preselection 预选；election 最终选举，两者不是同一阶段。",
+    "examples": [
+      [
+        "The party began its candidate preselection process.",
+        "该党启动了候选人预选程序。"
+      ],
+      [
+        "Preselection reduced the number of files we had to review.",
+        "预先筛选减少了需要审查的文件数量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preselection#English"
+    ]
+  },
+  {
+    "word": "collegium",
+    "ipa": "/kəˈliːdʒiəm/",
+    "meaning": "委员会；共同承担职责的团体",
+    "sense": "collegium 保留了 college 还没专指学校时的画面：一群人作为一个正式团体共同办事。",
+    "split": "直接借自拉丁语 collēgium；college 则经历了法语等语言的变化。",
+    "history": [
+      [
+        "拉丁语：lēgāre",
+        "委任；派遣（不同于 legere）"
+      ],
+      [
+        "拉丁语：collēga",
+        "共同任职的人"
+      ],
+      [
+        "拉丁语：collēgium",
+        "共同任职或有共同职责的团体"
+      ],
+      [
+        "英语：collegium",
+        "委员会；同业或专业团体"
+      ]
+    ],
+    "explanation": "常见于历史、学术及正式机构名称。究竟是委员会、部门还是同业团体，要看制度。",
+    "usage": "a collegium of scholars；a governing collegium；members of the collegium。",
+    "contrast": "college 日常多是学院；collegium 保留正式团体的拉丁形式。",
+    "examples": [
+      [
+        "A collegium of scholars reviewed the proposal.",
+        "一个学者委员会审查了提案。"
+      ],
+      [
+        "The collegium reached a decision after discussion.",
+        "委员会讨论后作出了决定。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collegium#English"
+    ]
+  },
+  {
+    "word": "intelligibility",
+    "ipa": "/ɪnˌtelɪdʒəˈbɪləti/",
+    "meaning": "可理解性；语音清晰可懂程度",
+    "sense": "intelligibility 关心别人能听懂多少、理解多少，像测试电话里一句话传过来还剩多少可辨信息。",
+    "split": "intelligible + -ity。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellegibilis",
+        "可以理解的"
+      ],
+      [
+        "法语及英语：intelligible",
+        "能听懂、看懂的"
+      ],
+      [
+        "英语：intelligibility",
+        "能被理解的程度"
+      ]
+    ],
+    "explanation": "语言研究和语音技术中很常见；口音不同不一定导致 intelligibility 低。",
+    "usage": "speech intelligibility；improve intelligibility；mutual intelligibility。",
+    "contrast": "legibility 关心字迹能否辨认；intelligibility 还包括声音和意义能否理解。",
+    "examples": [
+      [
+        "Background noise reduced speech intelligibility.",
+        "背景噪声降低了语音可懂度。"
+      ],
+      [
+        "The study tested mutual intelligibility between the dialects.",
+        "研究测试了两种方言之间能互相听懂的程度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intelligibility#English"
+    ]
+  },
+  {
+    "word": "collectivization",
+    "ipa": "英 /kəˌlektɪvaɪˈzeɪʃən/；美 /kəˌlektɪvəˈzeɪʃən/",
+    "meaning": "集体化",
+    "sense": "collectivization 像把原来分别管理的生产单位或土地，改为以集体形式拥有和经营。",
+    "split": "collective → collectivize → collectivization。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：collēctus → collēctīvus",
+        "集合 → 集合的"
+      ],
+      [
+        "法语：collectif；英语 collective",
+        "集体的；共同的"
+      ],
+      [
+        "英语：collectivize → collectivization",
+        "使成集体形式 → 集体化过程"
+      ]
+    ],
+    "explanation": "历史上常用于农业组织变革；具体是否自愿、怎样分配权利，不能只从词本身推定。",
+    "usage": "agricultural collectivization；a policy of collectivization；the effects of collectivization。",
+    "contrast": "collectivism 是思想或原则；collectivization 是改变组织和所有权安排的过程。",
+    "examples": [
+      [
+        "The book studies agricultural collectivization in the twentieth century.",
+        "这本书研究二十世纪的农业集体化。"
+      ],
+      [
+        "The chapter examines how collectivization changed village life.",
+        "这一章考察集体化如何改变村庄生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collectivization#English"
+    ]
+  },
+  {
+    "word": "legibility",
+    "ipa": "/ˌledʒəˈbɪləti/",
+    "meaning": "字迹可辨程度；易读性",
+    "sense": "legibility 像测试一个字体缩小之后，字母是否还能清楚区分。",
+    "split": "legible + -ity，-ble 对应 -bility。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "晚期拉丁语：legibilis",
+        "可以阅读的"
+      ],
+      [
+        "英语：legible",
+        "字迹清楚可辨的"
+      ],
+      [
+        "英语：legibility",
+        "文字可辨认的程度"
+      ]
+    ],
+    "explanation": "常用于字体、路牌和界面设计。字号、字形、对比度都可能影响它；内容深浅是另一层问题。",
+    "usage": "improve legibility；the legibility of text；test legibility。",
+    "contrast": "legibility 主要是字能否看清；readability 还常涉及句子和内容是否好读。",
+    "examples": [
+      [
+        "A larger font improved legibility.",
+        "更大的字号提高了文字可辨程度。"
+      ],
+      [
+        "We tested the sign’s legibility from across the road.",
+        "我们在马路对面测试标牌上的字是否看得清。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legibility#English"
+    ]
+  },
+  {
+    "word": "legionella",
+    "ipa": "/ˌliːdʒəˈnelə/",
+    "meaning": "军团菌",
+    "sense": "legionella 的名字记录了一次发现背景：研究者追查退伍军人组织会议后的疾病暴发，找到了相关细菌。",
+    "split": "由 American Legion 名称中的 Legion + -ella 构成属名 Legionella；通过专名间接联系 legion。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：legiō",
+        "征集起来的军团"
+      ],
+      [
+        "古法语及英语：legion",
+        "军团；大量"
+      ],
+      [
+        "专名：American Legion",
+        "美国退伍军人组织"
+      ],
+      [
+        "新拉丁属名及英语：Legionella / legionella",
+        "以相关暴发背景命名的军团菌"
+      ]
+    ],
+    "explanation": "名称来自一九七六年会议相关暴发的历史，不是说细菌“像士兵结队”。正式属名首字母大写。",
+    "usage": "Legionella bacteria；a legionella sample；Legionella testing。",
+    "contrast": "legionnaire 是军团成员或相关组织成员；legionella 是细菌名称。",
+    "examples": [
+      [
+        "The laboratory tested the water sample for legionella.",
+        "实验室检测了水样中是否有军团菌。"
+      ],
+      [
+        "The lecture explained how Legionella received its name.",
+        "讲座解释了军团菌名称的由来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legionella#English",
+      "https://wwwnc.cdc.gov/eid/article/23/11/et-2311_article"
+    ]
+  },
+  {
+    "word": "collectivity",
+    "ipa": "英 /ˌkɒlekˈtɪvɪti/；美 /ˌkɑːlekˈtɪvəti/",
+    "meaning": "集体性；作为整体的群体",
+    "sense": "collectivity 既可以是大家形成整体的性质，也可以直接指这一群人组成的整体。",
+    "split": "collective + -ity。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：collēctus → collēctīvus",
+        "集合 → 集合的"
+      ],
+      [
+        "法语：collectif；英语 collective",
+        "集体的；共同的"
+      ],
+      [
+        "英语：collectivity",
+        "集体性；集体整体"
+      ]
+    ],
+    "explanation": "常用于社会理论或正式讨论。a collectivity 比普通 group 更强调作为整体看待。",
+    "usage": "a sense of collectivity；a social collectivity；individual and collectivity。",
+    "contrast": "collectivity 是群体或集体性；collectivism 是把集体放在优先位置的主张。",
+    "examples": [
+      [
+        "The ceremony strengthened a sense of collectivity.",
+        "仪式加强了大家作为一个整体的意识。"
+      ],
+      [
+        "The study treats the neighbourhood as a social collectivity.",
+        "研究把这个社区视为一个社会群体整体。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collectivity#English",
+      "https://www.collinsdictionary.com/dictionary/english/collectivity"
+    ]
+  },
+  {
+    "word": "legionnaire",
+    "ipa": "英 /ˌliːdʒəˈneə/；美 /ˌliːdʒəˈner/",
+    "meaning": "军团士兵；军团组织成员",
+    "sense": "legionnaire 是属于某个 legion 的人，常见于法国外籍军团或相关退伍军人组织的场景。",
+    "split": "借自法语 légionnaire，与拉丁语 legiō 一族相连。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：legiō",
+        "征集起来的军团"
+      ],
+      [
+        "法语：légionnaire",
+        "军团成员"
+      ],
+      [
+        "英语：legionnaire",
+        "军团士兵；相关组织成员"
+      ]
+    ],
+    "explanation": "读具体历史时要辨认哪个军团或组织；不应把所有 legionnaire 都想成古罗马士兵。",
+    "usage": "a Foreign Legion legionnaire；former legionnaires；a legionnaire’s memoir。",
+    "contrast": "legionary 更常用于古罗马军团；legionnaire 更容易关联法国外籍军团。",
+    "examples": [
+      [
+        "The memoir follows a young legionnaire in North Africa.",
+        "回忆录讲述了一名年轻军团士兵在北非的经历。"
+      ],
+      [
+        "Former legionnaires gathered for the ceremony.",
+        "退役军团士兵聚集起来参加仪式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legionnaire#English"
+    ]
+  },
+  {
+    "word": "unelectable",
+    "ipa": "/ˌʌnɪˈlektəbəl/",
+    "meaning": "很难当选的；不具胜选可能的",
+    "sense": "unelectable 像一个人即使能报名，也难以争取到足够选票。",
+    "split": "un-（不）+ electable。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctus",
+        "挑选出来 → 被选中的"
+      ],
+      [
+        "英语：elect",
+        "选举；选择"
+      ],
+      [
+        "英语：electable → unelectable",
+        "有胜选可能 → 难以当选"
+      ]
+    ],
+    "explanation": "多是政治判断或评价，并不是数学上概率绝对为零，也不一定是资格被取消。",
+    "usage": "an unelectable candidate；be seen as unelectable；an unelectable platform。",
+    "contrast": "unelectable 说胜选困难；ineligible 说规则上没有资格。",
+    "examples": [
+      [
+        "Commentators once dismissed her as unelectable.",
+        "评论者曾认为她根本没有当选希望。"
+      ],
+      [
+        "The party feared that the policy would make its candidate unelectable.",
+        "该党担心这项政策会让候选人难以胜选。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unelectable#English"
+    ]
+  },
+  {
+    "word": "electable",
+    "ipa": "/ɪˈlektəbəl/",
+    "meaning": "有望当选的；可被选出的",
+    "sense": "electable 像候选人不仅符合报名要求，还具备争取足够支持的条件。",
+    "split": "elect + -able。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctus",
+        "挑选出来 → 被选中的"
+      ],
+      [
+        "英语：elect",
+        "选举；选择"
+      ],
+      [
+        "英语：electable",
+        "能够或有希望当选的"
+      ]
+    ],
+    "explanation": "常说现实胜选能力，是评价而非保证；也可宽泛表示可以选出。",
+    "usage": "an electable candidate；remain electable；politically electable。",
+    "contrast": "eligible 资格合格；electable 有希望赢；elected 已经当选。",
+    "examples": [
+      [
+        "The party was searching for an electable candidate.",
+        "该党在寻找有胜选希望的候选人。"
+      ],
+      [
+        "Good polling numbers alone do not make someone electable.",
+        "仅有好看的民调数字，并不足以说明某人一定有胜选能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/electable#English"
+    ]
+  },
+  {
+    "word": "lectureship",
+    "ipa": "英 /ˈlektʃəʃɪp/；美 /ˈlektʃərʃɪp/",
+    "meaning": "讲师职位；讲座安排",
+    "sense": "lectureship 常像一所大学里以讲授课程为职责的岗位；某些名称也指安排的一系列讲座。",
+    "split": "lecture + -ship，-ship 表示职位、身份或相关安排。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctus → 中世纪拉丁语 lēctūra",
+        "读 → 阅读"
+      ],
+      [
+        "中古英语及英语：lecture",
+        "阅读、宣读 → 讲课；训话"
+      ],
+      [
+        "英语：lectureship",
+        "讲授工作的职位；讲座安排"
+      ]
+    ],
+    "explanation": "是否是长期职位、具体级别如何，要看学校制度。",
+    "usage": "a lectureship in history；apply for a lectureship；an annual lectureship。",
+    "contrast": "lecture 是一场讲授；lecturer 是人；lectureship 常是职位。",
+    "examples": [
+      [
+        "She accepted a lectureship in philosophy.",
+        "她接受了一个哲学讲师职位。"
+      ],
+      [
+        "The foundation established an annual lectureship.",
+        "基金会设立了一项年度讲座安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lectureship#English"
+    ]
+  },
+  {
+    "word": "lector",
+    "ipa": "英 /ˈlektə/；美 /ˈlektər/",
+    "meaning": "诵读者；读经员；某些院校的讲授人员",
+    "sense": "lector 最直观就是负责把文字读给大家听的人，在礼拜中可负责诵读经文。",
+    "split": "来自拉丁语 lēctor，legere“读”+ 行为者成分。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctor",
+        "朗读者"
+      ],
+      [
+        "中古英语及英语：lector",
+        "诵读者；特定教学或宗教职位"
+      ]
+    ],
+    "explanation": "不同机构也可把它用作教学职衔；部分影视翻译语境指配音诵读者，要按场景辨义。",
+    "usage": "a church lector；serve as lector；a lector in Latin。",
+    "contrast": "lector 侧重诵读或特定职位；lecturer 是一般讲授者或讲师。",
+    "examples": [
+      [
+        "The lector read the passage clearly.",
+        "诵读员清楚地读出了那段经文。"
+      ],
+      [
+        "The college appointed a new lector in Latin.",
+        "学院任命了一位新的拉丁语讲授人员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lector#English"
+    ]
+  },
+  {
+    "word": "selectman",
+    "ipa": "/sɪˈlektmən/",
+    "meaning": "镇行政委员（美国新英格兰部分城镇用语）",
+    "sense": "selectman 是镇里选出来负责日常行政事务的委员，名字保留了“被选中的人”的意思。",
+    "split": "select + man，历史上的地方公职名称。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selectman",
+        "被选出的镇行政委员"
+      ]
+    ],
+    "explanation": "具体职权随地方制度而异；现代也可能使用 select board member 等称呼，不能照字面认定只能由男性担任。",
+    "usage": "a town selectman；the board of selectmen；elect a selectman。",
+    "contrast": "selectman 是特定地方公职；selectee 泛指被选中的人。",
+    "examples": [
+      [
+        "The selectman discussed road repairs at the meeting.",
+        "镇行政委员在会上讨论了道路维修。"
+      ],
+      [
+        "Residents elected a new selectman.",
+        "居民选出了一位新的镇行政委员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selectman#English"
+    ]
+  },
+  {
+    "word": "lectionary",
+    "ipa": "英 /ˈlekʃənəri/；美 /ˈlekʃəneri/",
+    "meaning": "经文选读集；礼拜读经安排",
+    "sense": "lectionary 像一份按日期或礼仪场合安排好的读经清单，告诉人当天读哪段。",
+    "split": "借自教会拉丁语 lēctiōnārium，来自 lēctiō“诵读”。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctiō",
+        "阅读；诵读段落"
+      ],
+      [
+        "教会拉丁语：lēctiōnārium",
+        "经文选读集"
+      ],
+      [
+        "英语：lectionary",
+        "礼拜经文选读集或安排"
+      ]
+    ],
+    "explanation": "它是经过安排的选读材料，不等于整部经典原文；不同传统采用不同安排。",
+    "usage": "a daily lectionary；readings in the lectionary；a lectionary cycle。",
+    "contrast": "lection 是一段诵读内容；lectionary 是组织这些段落的集子或安排。",
+    "examples": [
+      [
+        "The lectionary lists the readings for Sunday.",
+        "经文选读表列出了周日的读经内容。"
+      ],
+      [
+        "She consulted the lectionary before preparing the service.",
+        "她准备礼拜前查阅了经文选读安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lectionary#English"
+    ]
+  },
+  {
+    "word": "ineligibility",
+    "ipa": "/ɪnˌelɪdʒəˈbɪləti/",
+    "meaning": "不符合资格的状态",
+    "sense": "ineligibility 是资格门槛没有满足这一事实，例如时间、年龄或注册条件不符。",
+    "split": "现代对应 ineligible + -ity；历史经法语 inéligibilité。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēligibilis",
+        "挑选 → 可被选中的"
+      ],
+      [
+        "法语：inéligible → inéligibilité",
+        "不合资格 → 不合资格状态"
+      ],
+      [
+        "英语：ineligibility",
+        "不符合资格"
+      ]
+    ],
+    "explanation": "重点是规则，不直接评价能力。失去资格也不等于参加后落选。",
+    "usage": "a period of ineligibility；grounds for ineligibility；confirm ineligibility。",
+    "contrast": "ineligibility 资格不足；unelectability 很难赢选举，层面不同。",
+    "examples": [
+      [
+        "The letter explained the reason for her ineligibility.",
+        "信中解释了她不符合资格的原因。"
+      ],
+      [
+        "The rule imposed a period of ineligibility.",
+        "这项规则规定了一段不得参与的期限。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ineligibility#English"
+    ]
+  },
+  {
+    "word": "lectin",
+    "ipa": "/ˈlektɪn/",
+    "meaning": "凝集素；能特异结合糖类的蛋白质",
+    "sense": "lectin 像识别特定糖结构的分子夹子，只对某些形状有结合偏好。",
+    "split": "拉丁语 lēctus“选出的”+ -in（物质名称后缀），是现代科学造词。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctus",
+        "选中的"
+      ],
+      [
+        "现代科学构词：lect- + -in → lectin",
+        "具有选择性结合能力的蛋白质"
+      ]
+    ],
+    "explanation": "这里的“选”帮助记住结合特异性，不是说它会思考；也不能把某一种凝集素的性质套给全部凝集素。",
+    "usage": "a plant lectin；lectin binding；a lectin assay。",
+    "contrast": "lectin 是蛋白质类别；leptin 是另一种蛋白质激素，差一个字母却不是同一个词。",
+    "examples": [
+      [
+        "The researchers measured the lectin’s binding to the sugar.",
+        "研究人员测量了这种凝集素与糖的结合。"
+      ],
+      [
+        "The diagram shows a lectin recognizing a carbohydrate structure.",
+        "图中展示了凝集素识别糖结构的过程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lectin#English",
+      "https://www.merriam-webster.com/dictionary/lectin"
+    ]
+  },
+  {
+    "word": "deselect",
+    "ipa": "/ˌdiːsɪˈlekt/",
+    "meaning": "取消选择；取消候选资格安排",
+    "sense": "deselect 像把已经勾选的方框再点一下，去掉那个选择。",
+    "split": "de-（撤去）+ select。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：deselect",
+        "取消选择；不再选作候选人"
+      ]
+    ],
+    "explanation": "电脑中是取消选中；政治中可指政党不再让现任者代表该党参选，未必是法律上取消其全部资格。",
+    "usage": "deselect a checkbox；deselect an item；deselect a candidate。",
+    "contrast": "deselect 取消选中；delete 删除内容，取消选中通常不删除对象。",
+    "examples": [
+      [
+        "Deselect the option if you do not need notifications.",
+        "如果不需要通知，就取消勾选这一项。"
+      ],
+      [
+        "The party voted to deselect its current candidate.",
+        "该党投票决定不再让现任候选人代表它参选。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deselect#English"
+    ]
+  },
+  {
+    "word": "electorally",
+    "ipa": "/ɪˈlektərəli/",
+    "meaning": "从选举角度；在选举上",
+    "sense": "electorally 把判断范围限定在选举表现：某件事会不会帮助争取选票。",
+    "split": "electoral + -ly。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → 晚期拉丁语 ēlēctor",
+        "选择 → 选择者"
+      ],
+      [
+        "中古英语：electour；英语 elector",
+        "有投票权的人"
+      ],
+      [
+        "英语：electoral → electorally",
+        "选举的 → 就选举而言"
+      ]
+    ],
+    "explanation": "常与 successful、popular、damaging 搭配。选举上有利不等于在所有方面都好。",
+    "usage": "electorally successful；electorally damaging；electorally significant。",
+    "contrast": "politically 政治上，范围更大；electorally 专门看选举层面。",
+    "examples": [
+      [
+        "The coalition proved electorally successful.",
+        "联盟在选举上取得了成功。"
+      ],
+      [
+        "The dispute was electorally damaging for the party.",
+        "这场争议损害了该党的选举表现。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/electorally#English"
+    ]
+  },
+  {
+    "word": "legionary",
+    "ipa": "英 /ˈliːdʒənəri/；美 /ˈliːdʒəneri/",
+    "meaning": "军团的；军团士兵",
+    "sense": "legionary 常把人带回古罗马：一名作为军团成员服役的士兵。",
+    "split": "现代对应 legion + -ary；历史也来自拉丁语 legiōnārius。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：legiō",
+        "征集起来的军团"
+      ],
+      [
+        "拉丁语：legiōnārius",
+        "属于军团的"
+      ],
+      [
+        "英语：legionary",
+        "军团的；军团士兵"
+      ]
+    ],
+    "explanation": "可作形容词说装备或堡垒，也可作名词指士兵。",
+    "usage": "a Roman legionary；legionary armour；a legionary fortress。",
+    "contrast": "legionary 常用于罗马军团；legionnaire 常用于后来的军团和组织。",
+    "examples": [
+      [
+        "The display shows the equipment of a Roman legionary.",
+        "展览展示了一名罗马军团士兵的装备。"
+      ],
+      [
+        "Archaeologists uncovered part of a legionary fortress.",
+        "考古学家发现了军团要塞的一部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legionary#English"
+    ]
+  },
+  {
+    "word": "collegiality",
+    "ipa": "/kəˌliːdʒiˈæləti/",
+    "meaning": "同事间的合作精神；同僚共治",
+    "sense": "collegiality 像大家把彼此当有资格发言的同事，愿意听取意见、分担决定。",
+    "split": "collegial + -ity。",
+    "history": [
+      [
+        "拉丁语：lēgāre",
+        "委任；派遣（不同于 legere）"
+      ],
+      [
+        "拉丁语：collēga",
+        "共同任职的人"
+      ],
+      [
+        "拉丁语及法语：collēgium / collégial",
+        "同僚团体；同僚的"
+      ],
+      [
+        "英语：collegial → collegiality",
+        "同事合作的 → 合作精神、共治"
+      ]
+    ],
+    "explanation": "可说日常氛围，也可谈组织权力由同僚共同承担。友好不意味着不能认真争论。",
+    "usage": "a spirit of collegiality；promote collegiality；academic collegiality。",
+    "contrast": "collegiality 强调平等合作；conformity 强调服从一致，两者不是一回事。",
+    "examples": [
+      [
+        "The new chair encouraged collegiality in the department.",
+        "新主任鼓励部门同事之间互相合作。"
+      ],
+      [
+        "Strong collegiality allowed them to disagree openly.",
+        "良好的合作关系让他们能公开表达不同意见。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collegiality#English"
+    ]
+  },
+  {
+    "word": "reelect",
+    "ipa": "/ˌriːɪˈlekt/",
+    "meaning": "重新选举……；使连任",
+    "sense": "reelect 是在新一轮选择中，把原来担任职位的人再次选上。",
+    "split": "re-（再）+ elect。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctus",
+        "挑选出来 → 被选中的"
+      ],
+      [
+        "英语：elect",
+        "选举；选择"
+      ],
+      [
+        "英语：reelect",
+        "再次选上；使连任"
+      ]
+    ],
+    "explanation": "主动句说选民再次选某人；被动 be reelected 说该人成功连任。",
+    "usage": "reelect a mayor；be reelected chair；reelect someone to office。",
+    "contrast": "reelect 再次选上；reappoint 重新任命，程序可能不同。",
+    "examples": [
+      [
+        "Members reelected her as chair.",
+        "会员们再次选她担任主席。"
+      ],
+      [
+        "He was reelected for another term.",
+        "他再次当选，开始了新一届任期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reelect#English"
+    ]
+  },
+  {
+    "word": "collegian",
+    "ipa": "/kəˈliːdʒən/",
+    "meaning": "大学生；学院成员或毕业生",
+    "sense": "collegian 是属于 college 那个学习团体的人，常指在校大学生。",
+    "split": "联系中世纪拉丁语 collēgiānus；现代也可看作 college + -ian。",
+    "history": [
+      [
+        "拉丁语：lēgāre",
+        "委任；派遣（不同于 legere）"
+      ],
+      [
+        "拉丁语：collēga",
+        "共同任职的人"
+      ],
+      [
+        "拉丁语：collēgium → collēgiānus",
+        "学院团体 → 团体成员"
+      ],
+      [
+        "英语：collegian",
+        "大学生；学院成员"
+      ]
+    ],
+    "explanation": "比 college student 更书面，有时也包括曾在学院学习的人。旧监狱俚语义非常少见，不必作为日常意思。",
+    "usage": "a young collegian；former collegians；collegians on campus。",
+    "contrast": "collegian 是人；collegiate 主要是形容词“学院的”。",
+    "examples": [
+      [
+        "The newspaper interviewed several collegians about campus life.",
+        "报纸采访了几名大学生，谈校园生活。"
+      ],
+      [
+        "As a collegian, she joined the debating society.",
+        "读大学时，她加入了辩论社。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/collegian#English"
+    ]
+  },
+  {
+    "word": "electability",
+    "ipa": "/ɪˌlektəˈbɪləti/",
+    "meaning": "当选可能性；胜选能力",
+    "sense": "electability 关心候选人能不能把足够多的人争取到自己这边，最终赢得选举。",
+    "split": "electable + -ity，或 elect + -ability。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctus",
+        "挑选出来 → 被选中的"
+      ],
+      [
+        "英语：elect",
+        "选举；选择"
+      ],
+      [
+        "英语：electable → electability",
+        "有望当选 → 胜选能力"
+      ]
+    ],
+    "explanation": "通常由民调、公众形象和竞争环境等来讨论；不是固定不变的个人属性。",
+    "usage": "questions about electability；a candidate’s electability；assess electability。",
+    "contrast": "eligibility 是规则资格；electability 是现实胜选前景。",
+    "examples": [
+      [
+        "The debate focused on the candidate’s electability.",
+        "辩论集中在候选人的胜选可能性上。"
+      ],
+      [
+        "One poll cannot settle the question of electability.",
+        "一次民调不能决定一个人是否有胜选能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/electability#English"
+    ]
+  },
+  {
+    "word": "leguminous",
+    "ipa": "/lɪˈɡjuːmɪnəs/",
+    "meaning": "豆科的；豆类的",
+    "sense": "leguminous 像给植物贴上“豆科这一家”的分类标签，常见例子是豌豆和三叶草。",
+    "split": "来自拉丁语 legūmen 的词干 legūmin-，经 legūminōsus 一支进入英语；不是由英语 legume 发音直接拼出。",
+    "history": [
+      [
+        "拉丁语：legūmen",
+        "豆；豆类植物（更早来源未定）"
+      ],
+      [
+        "拉丁语：legūminōsus",
+        "豆类丰富的；豆类的"
+      ],
+      [
+        "英语：leguminous",
+        "豆科的；豆类的"
+      ]
+    ],
+    "explanation": "主要是植物学、农业用语。与 legere 的远源联系同 legume 一样，不能当成确定的采摘故事。",
+    "usage": "leguminous plants；leguminous crops；a leguminous species。",
+    "contrast": "leguminous 说植物类别；legible 是字可读，两者不能凭 leg- 混义。",
+    "examples": [
+      [
+        "Peas are leguminous plants.",
+        "豌豆是豆科植物。"
+      ],
+      [
+        "The field was planted with leguminous crops.",
+        "田里种着豆科作物。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/leguminous#English",
+      "https://www.etymonline.com/word/legume"
+    ]
+  },
+  {
+    "word": "nonselective",
+    "ipa": "英 /ˌnɒnsɪˈlektɪv/；美 /ˌnɑːnsɪˈlektɪv/",
+    "meaning": "非选择性的；不按特定标准筛选的",
+    "sense": "nonselective 像一个过程没有只针对其中一小类，而是作用于较广范围。",
+    "split": "non-（不）+ selective。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selective → nonselective",
+        "有选择性 → 不具这种选择性"
+      ]
+    ],
+    "explanation": "教育中可说不按学业成绩择优录取；专业场景则要看“没有选择”的具体对象是什么。",
+    "usage": "a nonselective school；a nonselective process；nonselective treatment of data。",
+    "contrast": "nonselective 不一定等于 random“随机”；没有按某种标准筛选，仍可有其他规则。",
+    "examples": [
+      [
+        "The town has a nonselective secondary school.",
+        "镇里有一所不按成绩择优录取的中学。"
+      ],
+      [
+        "The study compared selective and nonselective methods.",
+        "研究比较了选择性与非选择性方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonselective#English"
+    ]
+  },
+  {
+    "word": "intellectuality",
+    "ipa": "/ˌɪntəlektʃuˈæləti/",
+    "meaning": "智性；重思考的特征（较少用）",
+    "sense": "intellectuality 把一个人或作品中重视思想、推理的特征单独拿出来讨论。",
+    "split": "intellectual + -ity，也受晚期拉丁语 intellectualitas 对应形式影响。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellectuālis",
+        "有关理解能力的"
+      ],
+      [
+        "古法语：intellectuel；英语 intellectual",
+        "智力的；知识分子"
+      ],
+      [
+        "英语：intellectuality",
+        "思想性、智性这一特征"
+      ]
+    ],
+    "explanation": "是偏评论性的抽象名词。它不必表示具体测量出的智商，也不等于所有知识的总量。",
+    "usage": "the intellectuality of a work；marked intellectuality；intellectuality and feeling。",
+    "contrast": "intellect 是理解推理能力；intellectuality 更强调表现出的思想性。",
+    "examples": [
+      [
+        "The critic admired the intellectuality of the essays.",
+        "评论者欣赏这些随笔的思想性。"
+      ],
+      [
+        "Her writing balances intellectuality with warmth.",
+        "她的写作在理性思考与温情之间取得平衡。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intellectuality#English"
+    ]
+  },
+  {
+    "word": "postelection",
+    "ipa": "/ˌpəʊstɪˈlekʃən/；美 /ˌpoʊstɪˈlekʃən/",
+    "meaning": "选举后的",
+    "sense": "postelection 把时间放在选举结束之后，可能是分析结果，也可能是新一轮安排。",
+    "split": "post-（之后）+ election。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctiō",
+        "挑选 → 选择的过程"
+      ],
+      [
+        "古法语及中古英语：eleccioun",
+        "选择"
+      ],
+      [
+        "英语：election",
+        "选举"
+      ],
+      [
+        "英语：postelection",
+        "发生在选举之后的"
+      ]
+    ],
+    "explanation": "只说明时间关系，不说明结果已经毫无争议或新政府已经就职。",
+    "usage": "postelection analysis；a postelection period；postelection negotiations。",
+    "contrast": "preelection 在选举前；postelection 在选举后。",
+    "examples": [
+      [
+        "The newspaper published a postelection analysis.",
+        "报纸发表了选后分析。"
+      ],
+      [
+        "Postelection negotiations continued for several weeks.",
+        "选后谈判持续了几周。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/postelection#English"
+    ]
+  },
+  {
+    "word": "selectee",
+    "ipa": "/sɪˌlekˈtiː/",
+    "meaning": "被选中的人",
+    "sense": "selectee 是选择动作接收的一方，像名单公布后出现在入选栏里的人。",
+    "split": "select + -ee（动作的接受者）。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selectee",
+        "被挑选出来的人"
+      ]
+    ],
+    "explanation": "常见于正式选拔，历史军事语境也可指被征召者；不一定经过投票。",
+    "usage": "a successful selectee；notify the selectees；programme selectees。",
+    "contrast": "selector 是挑选者；selectee 是被挑选者。",
+    "examples": [
+      [
+        "Each selectee received an invitation to the workshop.",
+        "每位入选者都收到了工作坊邀请。"
+      ],
+      [
+        "The programme asked selectees to confirm their places.",
+        "项目要求入选者确认参加名额。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/selectee#English"
+    ]
+  },
+  {
+    "word": "lection",
+    "ipa": "/ˈlekʃən/",
+    "meaning": "诵读；经文选段；文本异文（专业用语）",
+    "sense": "lection 像从经典或文本中读出的那一段；研究不同抄本时也可指某处采用的读法。",
+    "split": "经法语或学术借入来自拉丁语 lēctiō，与 lesson 同源。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctiō",
+        "阅读；读出的内容"
+      ],
+      [
+        "法语及英语：lection",
+        "诵读段落；文本读法"
+      ]
+    ],
+    "explanation": "现代普通“课”用 lesson；lection 多用于礼拜、古典文献或文本校勘。",
+    "usage": "a scriptural lection；the appointed lection；a variant lection。",
+    "contrast": "lesson 是日常课程或教训；lection 保留专业的读经与文本用法。",
+    "examples": [
+      [
+        "The lection for the service was taken from the Psalms.",
+        "礼拜的诵读段落选自《诗篇》。"
+      ],
+      [
+        "The editor compared the lections in two manuscripts.",
+        "编辑比较了两个抄本中的不同读法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lection#English"
+    ]
+  },
+  {
+    "word": "preselect",
+    "ipa": "/ˌpriːsɪˈlekt/",
+    "meaning": "预先选定；提前筛选",
+    "sense": "preselect 像会议还没开始，先从全部选项里挑出几项供大家讨论。",
+    "split": "pre-（预先）+ select。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：preselect",
+        "在正式阶段前先选好"
+      ]
+    ],
+    "explanation": "预先选好可能是初筛，也可能是设置默认项，未必就是最后结果。",
+    "usage": "preselect candidates；preselect an option；preselect samples。",
+    "contrast": "preselect 提前选；reselect 重新选；deselect 取消选。",
+    "examples": [
+      [
+        "The committee will preselect five proposals.",
+        "委员会将先筛出五份提案。"
+      ],
+      [
+        "The form preselects the most common option.",
+        "表单预先选中了最常用的选项。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preselect#English"
+    ]
+  },
+  {
+    "word": "reselect",
+    "ipa": "/ˌriːsɪˈlekt/",
+    "meaning": "重新选择；再次选中",
+    "sense": "reselect 是已经选过以后，再进行一次选择；结果可以相同，也可以换成别的。",
+    "split": "re-（再次）+ select。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：reselect",
+        "再次执行选择"
+      ]
+    ],
+    "explanation": "界面说明里常指重新点选对象；政治中也可指再次确定某人为候选人。",
+    "usage": "reselect a file；reselect the candidate；reselect the correct option。",
+    "contrast": "reselect 重新选择；reelect 通常是再次通过选举让某人当选。",
+    "examples": [
+      [
+        "If the preview is wrong, reselect the image.",
+        "如果预览不对，请重新选择图片。"
+      ],
+      [
+        "The party decided to reselect its existing candidate.",
+        "该党决定再次确定原候选人参选。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reselect#English"
+    ]
+  },
+  {
+    "word": "intellection",
+    "ipa": "/ˌɪntəˈlekʃən/",
+    "meaning": "理解、思考的活动（哲学用语）",
+    "sense": "intellection 像头脑真正把一个关系想明白的那一刻，强调理解在发生。",
+    "split": "来自拉丁语 intellēctiō，联系 intellegere；不是现代英语 intellect 必然加后缀的历史。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：inter- + legere → intellegere",
+        "在其中分辨 → 理解"
+      ],
+      [
+        "拉丁语：intellēctiō",
+        "理解活动"
+      ],
+      [
+        "英语：intellection",
+        "理智的理解、思考"
+      ]
+    ],
+    "explanation": "比 ordinary thinking 更专业，常与感知、想象等心理活动区分。具体边界依哲学理论而定。",
+    "usage": "an act of intellection；pure intellection；perception and intellection。",
+    "contrast": "intellect 是能力；intellection 是这种能力进行理解的活动。",
+    "examples": [
+      [
+        "The philosopher distinguished sensation from intellection.",
+        "哲学家区分了感觉与理智理解。"
+      ],
+      [
+        "The essay describes reasoning as a form of intellection.",
+        "文章把推理描述为理智活动的一种形式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/intellection#English"
+    ]
+  },
+  {
+    "word": "legendry",
+    "ipa": "/ˈledʒəndri/",
+    "meaning": "传说的总和；传说体系",
+    "sense": "legendry 像一个地方流传多年的故事集，不是一则传说，而是整片传说材料。",
+    "split": "legend + -ry，后缀把多个相关内容概括为一体。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：legenda",
+        "应当被阅读的事物"
+      ],
+      [
+        "中世纪拉丁语：legenda",
+        "圣徒故事等诵读材料"
+      ],
+      [
+        "古法语 legende → 英语 legend",
+        "传说；题记、说明；传奇人物"
+      ],
+      [
+        "英语：legendry",
+        "一组传说的整体"
+      ]
+    ],
+    "explanation": "偏文学和民俗研究用语。不要把它当 legendary“传奇的”的漏字拼写。",
+    "usage": "local legendry；Arthurian legendry；a rich body of legendry。",
+    "contrast": "legend 是一则传说；legendry 是传说整体；legendary 是形容词。",
+    "examples": [
+      [
+        "The island has a rich tradition of legendry.",
+        "这座岛有丰富的传说传统。"
+      ],
+      [
+        "Local legendry connects the cave with an ancient king.",
+        "当地传说体系把洞穴与一位古代国王联系起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/legendry#English",
+      "https://www.merriam-webster.com/dictionary/legendry"
+    ]
+  },
+  {
+    "word": "illegibility",
+    "ipa": "/ɪˌledʒəˈbɪləti/",
+    "meaning": "字迹难辨；无法辨读的状态",
+    "sense": "illegibility 是字已经模糊到读不出来这一状态，而不是读者缺少某种知识。",
+    "split": "illegible + -ity。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "晚期拉丁语：legibilis",
+        "可以阅读的"
+      ],
+      [
+        "英语：legible",
+        "字迹清楚可辨的"
+      ],
+      [
+        "英语：illegible → illegibility",
+        "无法辨读 → 无法辨读的性质"
+      ]
+    ],
+    "explanation": "常用于书写、印刷和扫描材料的质量描述；可以比较程度，而不必完全一字不识。",
+    "usage": "illegibility of handwriting；near illegibility；reduce illegibility。",
+    "contrast": "illiteracy 是不识字；illegibility 是字迹本身难辨，主体不同。",
+    "examples": [
+      [
+        "The illegibility of the note delayed the delivery.",
+        "便条上的字难以辨认，耽误了投递。"
+      ],
+      [
+        "Repeated copying reduced the page to near illegibility.",
+        "反复复印使这一页几乎无法辨读。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/illegibility#English"
+    ]
+  },
+  {
+    "word": "preelection",
+    "ipa": "/ˌpriːɪˈlekʃən/",
+    "meaning": "选举前的",
+    "sense": "preelection 像把日历停在投票日前，观察那时的民调、承诺和讨论。",
+    "split": "pre-（之前）+ election。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctiō",
+        "挑选 → 选择的过程"
+      ],
+      [
+        "古法语及中古英语：eleccioun",
+        "选择"
+      ],
+      [
+        "英语：election",
+        "选举"
+      ],
+      [
+        "英语：preelection",
+        "发生于选举之前的"
+      ]
+    ],
+    "explanation": "最常作修饰语。选前民调反映当时调查情况，不等于最终选举结果。",
+    "usage": "preelection polls；a preelection promise；preelection debate。",
+    "contrast": "preelection 选举前；preselection 则是预先选择候选人等，不能混用。",
+    "examples": [
+      [
+        "The article compares preelection polls with the final result.",
+        "文章比较了选前民调与最终结果。"
+      ],
+      [
+        "The proposal became a major preelection issue.",
+        "这项提议成了选前的重要议题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preelection#English"
+    ]
+  },
+  {
+    "word": "electee",
+    "ipa": "/ɪˌlekˈtiː/",
+    "meaning": "当选者（较少用）",
+    "sense": "electee 是在选举中被选出的那个人，把焦点放在“被选中”的身份。",
+    "split": "elect + -ee。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctus",
+        "挑选出来 → 被选中的"
+      ],
+      [
+        "英语：elect",
+        "选举；选择"
+      ],
+      [
+        "英语：electee",
+        "被选举产生的人"
+      ]
+    ],
+    "explanation": "比 elected candidate 或 newly elected member 少见。它说的是已被选中，不只是参选。",
+    "usage": "a newly chosen electee；welcome the electees；committee electees。",
+    "contrast": "elector 投票选择别人；electee 接受选择。",
+    "examples": [
+      [
+        "The committee welcomed its new electees.",
+        "委员会欢迎新当选的成员。"
+      ],
+      [
+        "Each electee was asked to confirm acceptance of the role.",
+        "每位当选者都被要求确认是否接受这一职务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/electee#English"
+    ]
+  },
+  {
+    "word": "lectorate",
+    "ipa": "/ˈlektərət/，亦 /ˈlektəreɪt/",
+    "meaning": "诵读员职务；读经员身份",
+    "sense": "lectorate 指负责诵读的人所承担的职务，像一个正式的读经岗位。",
+    "split": "来自晚期拉丁语 lectorātus：lēctor“诵读者”+ 表示职务的 -ātus。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：lēctor → lectorātus",
+        "诵读者 → 诵读职务"
+      ],
+      [
+        "英语：lectorate",
+        "诵读员职务"
+      ]
+    ],
+    "explanation": "主要是宗教或制度历史用语；不要与 electorate“全体选民”混淆。",
+    "usage": "appointment to the lectorate；the office of lectorate；church lectorate。",
+    "contrast": "lectorate 少一个开头 e，所指从选民群体变成诵读职位。",
+    "examples": [
+      [
+        "The document records his appointment to the lectorate.",
+        "文件记录了他被任命为诵读员。"
+      ],
+      [
+        "The chapter explains the duties associated with the lectorate.",
+        "这一章解释了诵读员职务对应的职责。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lectorate#English",
+      "https://www.merriam-webster.com/dictionary/lectorate"
+    ]
+  },
+  {
+    "word": "nonelective",
+    "ipa": "英 /ˌnɒnɪˈlektɪv/；美 /ˌnɑːnɪˈlektɪv/",
+    "meaning": "非选修的；非由选举产生的；非择期的",
+    "sense": "nonelective 把某个领域里的“可选”取消：课程必须修，职位不是选举产生，医疗安排也可能不是择期。",
+    "split": "non-（不）+ elective。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere → ēlēctus",
+        "挑选出来 → 被选中的"
+      ],
+      [
+        "英语：elect",
+        "选举；选择"
+      ],
+      [
+        "英语：elective → nonelective",
+        "可选择的 → 非可选择的"
+      ]
+    ],
+    "explanation": "具体否定什么，要看它修饰课程、职位还是程序。不同领域的 compulsory、appointed、urgent 不能无条件互换。",
+    "usage": "a nonelective course；a nonelective office；nonelective procedures。",
+    "contrast": "nonelective 不等于 unelectable：前者说制度类别，后者说难以胜选。",
+    "examples": [
+      [
+        "All students must complete the nonelective courses.",
+        "所有学生都必须完成非选修课程。"
+      ],
+      [
+        "The report distinguishes elective from nonelective offices.",
+        "报告区分了选举产生与非选举产生的职位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonelective#English"
+    ]
+  },
+  {
+    "word": "nonelite",
+    "ipa": "英 /ˌnɒnɪˈliːt/；美 /ˌnɑːnɪˈliːt/",
+    "meaning": "非精英的；非精英群体",
+    "sense": "nonelite 只是把对象放在某个被称为精英的群体之外，不自动评价个人能力或价值。",
+    "split": "non-（非）+ elite。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：ēligere",
+        "挑选"
+      ],
+      [
+        "古法语：eslire → eslit / elite",
+        "挑选 → 被挑选出的"
+      ],
+      [
+        "英语：elite",
+        "精英；顶尖的"
+      ],
+      [
+        "英语：nonelite",
+        "不属于所指精英群体的"
+      ]
+    ],
+    "explanation": "常用于社会研究，分类依据可能是权力、收入、教育或竞技层级；读时要问作者怎样定义 elite。",
+    "usage": "nonelite groups；nonelite athletes；nonelite institutions。",
+    "contrast": "nonelite 是分类位置；unskilled 是缺少技能，不能画等号。",
+    "examples": [
+      [
+        "The survey included both elite and nonelite athletes.",
+        "调查包括顶尖运动员与非顶尖层级的运动员。"
+      ],
+      [
+        "The historian focused on nonelite households.",
+        "历史学家着重研究非精英家庭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonelite#English"
+    ]
+  },
+  {
+    "word": "nonnegligible",
+    "ipa": "英 /ˌnɒnˈneɡlɪdʒəbəl/；美 /ˌnɑːnˈneɡlɪdʒəbəl/",
+    "meaning": "不可忽略的",
+    "sense": "nonnegligible 像一个误差虽然看着不大，却已经足以影响结果，不能随手划掉。",
+    "split": "non-（不）+ negligible（可忽略的）。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：neglegere → neglegentia",
+        "忽视 → 疏忽"
+      ],
+      [
+        "古法语及英语：negligence",
+        "疏忽；失责"
+      ],
+      [
+        "英语：negligible",
+        "小到可以不计的"
+      ],
+      [
+        "英语：nonnegligible",
+        "不能当作无关紧要的"
+      ]
+    ],
+    "explanation": "数学与技术写作中常见。它并不总等于 huge，只是相对当前问题不能忽略。",
+    "usage": "a nonnegligible effect；a nonnegligible probability；nonnegligible costs。",
+    "contrast": "significant 有时有严格统计含义；nonnegligible 只是强调不宜忽略，不能自动等同统计显著。",
+    "examples": [
+      [
+        "The extra processing adds a nonnegligible delay.",
+        "额外处理增加了不可忽略的延迟。"
+      ],
+      [
+        "The model must account for a nonnegligible error.",
+        "模型必须考虑一个不可忽略的误差。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonnegligible#English"
+    ]
+  },
+  {
+    "word": "predilect",
+    "ipa": "/ˌpredɪˈlekt/，亦 /ˌpriːdɪˈlekt/",
+    "meaning": "偏爱的、选中的；预先选择（罕用）",
+    "sense": "predilect 常见的词典形容词义是“特别偏爱的”，像一众选择里心里早已更钟爱的一项。",
+    "split": "来自中世纪拉丁语 praedīlēctus，联系 praedīligere“特别喜爱”；旧动词也有预先选择义。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：dīligere；中世纪拉丁语 praedīligere",
+        "喜爱 → 特别偏爱"
+      ],
+      [
+        "中世纪拉丁语：praedīlēctus",
+        "偏爱的、选择的"
+      ],
+      [
+        "英语：predilect",
+        "偏爱的；旧亦预先选择"
+      ]
+    ],
+    "explanation": "是罕见文献词。现代通常说 preferred、favourite；若旧文作动词，应按“预选”理解。",
+    "usage": "a predilect theme；a predilect author；历史或文学阅读。",
+    "contrast": "predilect 是罕用形容词或旧动词；predilection 才是更值得先掌握的“偏爱”。",
+    "examples": [
+      [
+        "The sea remained the poet’s predilect theme.",
+        "大海始终是诗人偏爱的主题。"
+      ],
+      [
+        "She returned to a passage by her predilect author.",
+        "她又读起了那位自己偏爱的作家的一段文字。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/predilect#English",
+      "https://www.merriam-webster.com/dictionary/predilect"
+    ]
+  },
+  {
+    "word": "prelect",
+    "ipa": "/prɪˈlekt/",
+    "meaning": "公开讲授；宣讲（少见）",
+    "sense": "prelect 的画面是站在人们前面，把文本或知识读讲出来。",
+    "split": "拉丁语 prae-（在前）+ legere，形成 praelegere，经 praelectus 进入英语。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：praelegere → praelectus",
+        "在众人面前诵读、讲解"
+      ],
+      [
+        "英语：prelect",
+        "公开讲授"
+      ]
+    ],
+    "explanation": "这里的 pre- 不要只记成“提前”：这个词通常是在人前讲授，不是课前预习。",
+    "usage": "prelect on a subject；prelect before an audience；旧式学术用语。",
+    "contrast": "prelect 是较少用的 lecture；preselect 则是预先挑选。",
+    "examples": [
+      [
+        "The professor prelected on ancient history.",
+        "教授公开讲授古代史。"
+      ],
+      [
+        "He was invited to prelect before the society.",
+        "他受邀到学会面前作讲授。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prelect#English",
+      "https://www.merriam-webster.com/dictionary/prelect"
+    ]
+  },
+  {
+    "word": "prelection",
+    "ipa": "/prɪˈlekʃən/",
+    "meaning": "公开讲授；讲读；预读（少见）",
+    "sense": "prelection 常是一场把文本读给听众并加以讲解的讲授，保留旧式学术气息。",
+    "split": "来自拉丁语 praelectiō，与 praelegere“在人前读讲”同支；另有按 pre- + lection 形成的预读义。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：praelegere → praelectiō",
+        "当众诵读 → 公开讲读"
+      ],
+      [
+        "英语：prelection",
+        "讲授；另有预读义"
+      ]
+    ],
+    "explanation": "主要靠上下文分辨是在说讲座还是事先阅读；现代日常通常分别用 lecture 和 preliminary reading。",
+    "usage": "a public prelection；a prelection on poetry；historical prelections。",
+    "contrast": "prelection 说讲读或预读；predilection 多了 di，说偏爱。",
+    "examples": [
+      [
+        "The students attended a prelection on classical poetry.",
+        "学生们参加了一场古典诗歌讲读。"
+      ],
+      [
+        "The archive preserves notes from his prelections.",
+        "档案保存了他公开讲授时的笔记。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prelection#English",
+      "https://www.merriam-webster.com/dictionary/prelection"
+    ]
+  },
+  {
+    "word": "prelector",
+    "ipa": "英 /priːˈlektə/；美 /priːˈlektər/",
+    "meaning": "讲读者；某些大学的传统职衔",
+    "sense": "prelector 是在人前读讲的人，某些学院把这个传统名称保留为具体职位。",
+    "split": "来自拉丁语 praelector，与 praelegere“当众读讲”同族；也写 praelector。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：praelegere",
+        "在人前公开读讲"
+      ],
+      [
+        "晚期拉丁语及新拉丁语：praelector",
+        "讲读者"
+      ],
+      [
+        "英语：prelector / praelector",
+        "讲读者；学院特定职位"
+      ]
+    ],
+    "explanation": "各机构职责并不完全一样，有的涉及礼仪或学生事务；看到职衔应看该机构说明，不能只按字面认定天天讲课。",
+    "usage": "the college prelector；serve as prelector；a prelector in classics。",
+    "contrast": "prelector 是少见传统职衔；lecturer 是更常见的讲师或讲授者。",
+    "examples": [
+      [
+        "The college appointed a new prelector.",
+        "学院任命了一位新的讲读官。"
+      ],
+      [
+        "The prelector introduced the text before the reading.",
+        "讲读者在诵读之前介绍了文本。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prelector#English",
+      "https://www.merriam-webster.com/dictionary/prelector",
+      "https://www.merriam-webster.com/dictionary/praelector"
+    ]
+  },
+  {
+    "word": "superselection",
+    "ipa": "英 /ˌsuːpəsɪˈlekʃən/；美 /ˌsuːpərsɪˈlekʃən/",
+    "meaning": "超选择（量子理论术语）",
+    "sense": "superselection 可以先想成状态空间中的分区限制：并非任意两个分区的状态都能按通常方式形成可观测的相干叠加。",
+    "split": "super-（超出、上层）+ selection，现代物理学组合，不是“选得特别好”。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctiō",
+        "挑选 → 选择过程"
+      ],
+      [
+        "英语：selection",
+        "挑选；所选的一组"
+      ],
+      [
+        "现代物理术语：superselection",
+        "对状态或可操作量施加分区限制"
+      ]
+    ],
+    "explanation": "常见于 superselection rule。具体限制依理论、允许的操作和参考系条件而定，不能简单说成“从叠加态挑一个结果”。",
+    "usage": "a superselection rule；superselection sectors；a superselection constraint。",
+    "contrast": "selection rule 限制某些跃迁；superselection rule 涉及更强的状态或可观测操作结构限制。",
+    "examples": [
+      [
+        "The model imposes a superselection rule on the allowed states.",
+        "模型对允许的状态施加了一条超选择规则。"
+      ],
+      [
+        "The paper compares states in different superselection sectors.",
+        "论文比较了不同超选择扇区中的状态。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/superselection#English",
+      "https://arxiv.org/abs/quant-ph/0610030"
+    ]
+  },
+  {
+    "word": "uniselector",
+    "ipa": "/ˌjuːnɪsɪˈlektə(r)/（按构词读法）",
+    "meaning": "单动选择器；单向步进选择开关",
+    "sense": "uniselector 像一只沿一圈接点逐格转动的机械手，走到某个位置就接通对应线路。",
+    "split": "uni-（单一）+ selector；“一”指一种运动维度，不是总共只有一个可选位置。",
+    "history": [
+      [
+        "拉丁语：legere（legō）",
+        "挑选；收集；阅读"
+      ],
+      [
+        "拉丁语：sēligere → sēlēctus",
+        "挑出来 → 被选出的"
+      ],
+      [
+        "英语：select",
+        "挑选；精选的"
+      ],
+      [
+        "英语：selector",
+        "选择装置"
+      ],
+      [
+        "英语：uni- + selector → uniselector",
+        "单一运动方式的步进选择器"
+      ]
+    ],
+    "explanation": "曾广泛用于自动电话交换设备。与既上下移动又旋转的双动选择器相比，它通常只沿一轴步进或转动。",
+    "usage": "a telephone uniselector；a uniselector switch；uniselector contacts。",
+    "contrast": "uni- 不是“只能选一次”；装置仍可在多个接点之间选择。",
+    "examples": [
+      [
+        "The museum demonstrates a working uniselector.",
+        "博物馆展示了一台仍能工作的单动选择器。"
+      ],
+      [
+        "The uniselector stepped to the next contact.",
+        "单动选择器步进到了下一个接点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/uniselector#English",
+      "https://comms.org.uk/emuseum/phoneswitching/5.phphtml"
+    ]
+  }
+]

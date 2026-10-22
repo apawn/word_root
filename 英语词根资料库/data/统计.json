@@ -1,0 +1,29 @@
+{
+  "entries": 4612,
+  "groups": {
+    "02_英语词基": 2201,
+    "03_词缀与组合形式": 813,
+    "01_古典词根": 1598
+  },
+  "unique_words": 28732,
+  "word_occurrences": 43527,
+  "field_occurrences": {
+    "ipa": 41769,
+    "zh": 42320,
+    "etym": 43352,
+    "example": 37369,
+    "split": 40473
+  },
+  "field_unique": {
+    "ipa": 27713,
+    "zh": 28018,
+    "etym": 28601,
+    "example": 25123,
+    "split": 26359
+  },
+  "empty_entries": 59,
+  "source_rows": 1680,
+  "manual_root_notes": 83,
+  "wordfreq_version": "3.1.1",
+  "date": "2026-10-21"
+}

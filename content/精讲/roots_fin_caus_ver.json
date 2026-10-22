@@ -1,0 +1,164 @@
+[
+  {
+    "id": "C0425",
+    "meaning": "边界；终点",
+    "core": "FIN = END / LIMIT",
+    "image": "一条线：事情到这里结束，范围到这里为止",
+    "intro": "**fin- 的核心是一条界线。** 拉丁语 **fīnis** 既是空间的边界，也是事情的终点。于是 final 是到最后，finish 是把事做完，define 是把边界说清。finance 看起来离得很远，背后却连着“把应付的钱结清，让这件事结束”。",
+    "forms": "**fin-、finit- 是同族的不同词形。** fīnis“终点”形成 fīnīre“结束、划界”，其分词 fīnītus 提供 finit-。英语 finite 与 infinite 的发音不完全对应，不要只看字母套读音。finish 的 -ish 来自法语动词词形，不能当作 childish 那种后缀。",
+    "branches": [
+      [
+        "到达终点",
+        "final · finish · finale"
+      ],
+      [
+        "划清范围",
+        "define · definition · confine"
+      ],
+      [
+        "有没有尽头",
+        "finite · infinite · infinitely"
+      ],
+      [
+        "结清与钱款",
+        "fine · finance · financial"
+      ],
+      [
+        "做到精纯",
+        "refine · refinement · refinery"
+      ],
+      [
+        "边界相接",
+        "affinity"
+      ]
+    ],
+    "contrasts": "**fine 的不同义项要分开看。** “罚款”有清楚的结清、终结案件的联系；“优质、精细”来自古法语 fin，更深处与 fīnis / fīnīre 的关系常被提出，但具体发展并不完全确定。refine 一支从这个形容词继续发展，不能把推测硬说成定论。\n\n**affinity 的起点是相邻。** 边界挨在一起，后来联系到婚姻亲属、自然联系和亲近感。它不是把 fine 加上一个前缀变成“非常好”。\n\n**finite 不等于少，infinite 也不总是数学概念。** 有限的数量可以大得惊人；日常 infinite patience 则常是夸张地说耐心很足。",
+    "practice": "连起来想：**Define a finite goal, refine the plan, and finally finish the work.**\n\n先定一个有边界的目标，再把方案打磨好，最后把工作做完。define 画界线，finite 表示有界限，refine 打磨细节，finally 与 finish 把事情带到终点。",
+    "words": [
+      "final",
+      "fine",
+      "finally",
+      "financial",
+      "finish",
+      "finance",
+      "definition",
+      "define",
+      "infinite",
+      "finale",
+      "finite",
+      "affinity",
+      "infinitely",
+      "refine",
+      "refinery",
+      "finalist",
+      "semifinal",
+      "refinement",
+      "finisher",
+      "redefine",
+      "confine",
+      "refinance",
+      "quarterfinal",
+      "finalize",
+      "finality",
+      "microfinance",
+      "definable",
+      "finitely",
+      "refiner"
+    ]
+  },
+  {
+    "id": "C0186",
+    "meaning": "原因；理由；案由",
+    "core": "CAUS = CAUSE / CASE",
+    "image": "追问“为什么”，再走到“凭什么怪他”",
+    "intro": "拉丁语 **causa** 同时有“原因、理由”和“案由、诉讼中的事由”等意思。把它想成一个问题：**这件事为什么发生，或者凭什么要把责任归给某人？** cause 一支解释原因，accuse 一支提出指控，excuse 一支把责怪解除。更早的来源并不确定，不强补故事。",
+    "forms": "**caus- 与 -cus- 的联系发生在拉丁语阶段。** causa 在 accūsāre、excūsāre 等复合词中呈现 cūs-。accuse 的 ac- 来自 ad- 的同化；excuse 的 ex- 表示移出、解除。不要归纳成英语单词里的 au 可以任意改成 u。",
+    "branches": [
+      [
+        "说明原因",
+        "cause · because"
+      ],
+      [
+        "讨论因果",
+        "causal · causation · causality"
+      ],
+      [
+        "提出指控",
+        "accuse · accusation · accuser"
+      ],
+      [
+        "受到指控",
+        "accused"
+      ],
+      [
+        "解除责怪",
+        "excuse"
+      ],
+      [
+        "语法中的特殊历史",
+        "accusative"
+      ]
+    ],
+    "contrasts": "**原因与借口不一样。** cause 是促成事情的因素；excuse 是用来解释或减轻责怪的理由，有时充分，有时只是推托。\n\n**指控与证实不一样。** accuser 提出 accusation，the accused 受到指控；这些词本身都没有宣布谁已经被证实有罪。\n\n**accusative 不能靠故事硬背。** 它的“宾格”名称牵涉古代语法术语的翻译，不能说“宾格就是被指控的人”。",
+    "practice": "看清角色：**The accuser made an accusation, but the accused said there was another cause.**\n\n指控者提出了指控，但被指控者说另有原因。accuser 是提出说法的人，accusation 是说法本身，accused 是受到指控的人，cause 是造成事情的因素。",
+    "words": [
+      "because",
+      "cause",
+      "excuse",
+      "accused",
+      "accuse",
+      "accusation",
+      "causal",
+      "causation",
+      "accuser",
+      "causality",
+      "causative",
+      "accusative",
+      "causally"
+    ]
+  },
+  {
+    "id": "C1619",
+    "meaning": "真实；确实",
+    "core": "VER = TRUE",
+    "image": "“这是真的”——可以强调、核实，也可以只是像真",
+    "intro": "拉丁语 **vērus** 就是“真的、真实的”。这一族最值得抓住三个区别：**verify 是查明真假，aver 是声称属实，verisimilitude 是让人觉得像真的。** 常见的 very 也从“真实、确实”发展出了“很、非常”的加强语气用法。",
+    "forms": "**ver-、veri-、verac- 是相关词形。** vēritās 给出“真实、真理”这一名词支线；vērāx 及词干 vērāc- 表示“真实、说真话的”；vērī 是词形变化后的“真实的”。verdict 的后半连着“说”，verify 的 -fy 连着“做、使”。这里只把有历史关系的词放在一起，不凭开头三个字母认亲。",
+    "branches": [
+      [
+        "把语气说满",
+        "very · veritable"
+      ],
+      [
+        "作出判断或断言",
+        "verdict · aver"
+      ],
+      [
+        "检查是否属实",
+        "verify · verifiable"
+      ],
+      [
+        "真实与如实",
+        "verity · veracious"
+      ],
+      [
+        "看起来像真的",
+        "verisimilitude · verisimilar"
+      ]
+    ],
+    "contrasts": "**veritable 与 verifiable**：a veritable library 是“简直是一座图书馆”；verifiable information 是“有办法核实的信息”。\n\n**veracious 与 verisimilar**：前者重在“符合事实”，后者重在“显得真实”。虚构人物可以 verisimilar，却不能因此把其经历当作真实记录。\n\n**very 不只有“非常”。** the very person 是“正是那个人”；这种强调更容易让你看到它与“确实、真实”的联系。",
+    "practice": "试着分辨：**The story is very convincing, but we still need to verify the details.**\n\n故事很有说服力，但我们仍需要核实细节。“听起来像真”可以产生 verisimilitude；经过检查确认，才是 verify 所表达的动作。",
+    "words": [
+      "very",
+      "verdict",
+      "verify",
+      "veritable",
+      "verifiable",
+      "verity",
+      "aver",
+      "verisimilitude",
+      "veracious",
+      "verisimilar"
+    ]
+  }
+]

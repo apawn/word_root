@@ -1,0 +1,118 @@
+[
+  {
+    "id": "C1340",
+    "meaning": "标记；让人识别、指明、表达",
+    "core": "SIGN = A MEANINGFUL MARK",
+    "image": "在纸上做一个记号：它可以说明“这是我”，也可以指明“这一份归你”，还可以画出“将来要做成这样”。",
+    "intro": "拉丁语 signum 是让人辨认、读出意义的标记，signāre 是做记号、盖印。先掌握 sign 的记号与签名，再看 signal 怎样传信息、design 怎样标出计划、assign 怎样划定归属、significant 怎样从有含义走向有分量。更早的印欧词源有不同解释，本页不把“切刻”或“跟随”某一种理论画成定论。",
+    "forms": "**sign-**：来自 signum / signāre。sign、design、assign 的 g 不发音，signal、signature、designation 中的 g 则发 /ɡ/，要跟着整词读音学。\n\n**signific-**：signum 与 facere 的构词支线，表示传达意义；significant、significance 有各自借入史。\n\n**sigill- / seal / sigil**：拉丁 sigillum“小标记、印章”衍生出直接借词 sigil 和经法语传播的 seal。\n\n**insign- / ensign**：拉丁 īnsigne、īnsignia 的直接借入与法语转借；这里的 in- 不是否定前缀。",
+    "branches": [
+      [
+        "看懂标记与传递信号",
+        "sign / signal / signage / signpost"
+      ],
+      [
+        "留下身份确认",
+        "signature / signatory / countersign / signet"
+      ],
+      [
+        "表达意义与重要性",
+        "signify / significant / significance"
+      ],
+      [
+        "先规划，再指定",
+        "design / redesign / designate / designation"
+      ],
+      [
+        "给任务、权利安排归属",
+        "assign / assignment / assignee / consign / consignment"
+      ],
+      [
+        "交还与无奈接受",
+        "resign / resignation / resigned"
+      ],
+      [
+        "身份徽记与旗号",
+        "insignia / insigne / ensign"
+      ],
+      [
+        "从封印走向封闭",
+        "seal / sealed / sealing / sealer / sealant / unseal / sigil"
+      ]
+    ],
+    "contrasts": "sign 是记号、迹象或签署动作；signature 是签名或鲜明特征；signal 强调信号。siggy 是 signature 的网络口语缩略。\n\ndesign 是规划、设计；designate 是指定某个人或用途。designation 的英语历史比现代动词 designate 更早，不能只看相似词尾就反推顺序。\n\nassignor 转出，assignee 接收；consignor 交货，consignee 收货。先画箭头，再记角色。\n\nresign 是辞去或放弃，resigned 是无奈接受；resignation 有辞职和认命两条常见义。\n\ninsignificant 的 in- 表示不，insignia 的 in- 不是否定。seal 的印章、密封义属于本族，海豹义另源。\n\nstatistically significant 不能直接等同“效果很大”；先判断是不是专门的统计用法。",
+    "practice": "画一封信：写名字 signature、补一个确认签名 countersignature，再用蜡封 seal 封上；分别说出动作和结果。\n\n画出一项权利从 assignor 转到 assignee 的方向，再把运输中的 consignor / consignee 放在货物箭头两端。\n\n用 design a room 和 designate a room for meetings 各造一句，区分规划布局与指定用途。\n\n用 resigned 描写错过一班车后的表情，再用 resignation 写一份离职通知，体会两义共有的“放下”。",
+    "words": [
+      "sign",
+      "signed",
+      "unsigned",
+      "signing",
+      "signer",
+      "signature",
+      "signatory",
+      "siggy",
+      "signal",
+      "signaler",
+      "signaller",
+      "signalman",
+      "signaling",
+      "signalling",
+      "signalize",
+      "signally",
+      "signify",
+      "significant",
+      "significantly",
+      "significance",
+      "insignificant",
+      "insignificantly",
+      "insignificance",
+      "signification",
+      "signifier",
+      "signified",
+      "design",
+      "designer",
+      "designed",
+      "designing",
+      "redesign",
+      "designate",
+      "designated",
+      "designation",
+      "designee",
+      "designator",
+      "assign",
+      "assignment",
+      "assigned",
+      "unassigned",
+      "assignee",
+      "assignor",
+      "reassign",
+      "reassignment",
+      "resign",
+      "resignation",
+      "resigned",
+      "resignedly",
+      "consign",
+      "consignment",
+      "consignee",
+      "consignor",
+      "countersign",
+      "countersignature",
+      "insignia",
+      "insigne",
+      "ensign",
+      "signet",
+      "signboard",
+      "signpost",
+      "signposted",
+      "signposting",
+      "signage",
+      "seal",
+      "sealed",
+      "sealing",
+      "sealer",
+      "sealant",
+      "unseal",
+      "sigil"
+    ]
+  }
+]

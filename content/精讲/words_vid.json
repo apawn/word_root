@@ -1,0 +1,4967 @@
+[
+  {
+    "word": "video",
+    "ipa": "英 /ˈvɪdiəʊ/；美 /ˈvɪdioʊ/",
+    "meaning": "视频；录像；录制视频",
+    "sense": "video 是能播放的画面：用手机拍下跑动的小狗，再播放给别人看，就是一段 video。",
+    "split": "现代术语借拉丁语 vidēre 词族的形态，仿照 audio 命名；不是古代已经有了录像。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "现代构词：video（仿 audio）",
+        "借拉丁语词形命名图像信号"
+      ],
+      [
+        "英语：video",
+        "视频；录像"
+      ]
+    ],
+    "explanation": "从看见的通道，发展为传输、录制和播放图像的技术及内容。作动词还可以表示录下来。",
+    "usage": "watch a video；a video call；video a performance。",
+    "contrast": "film 可指电影或胶片；video 常指录像或电子视频，不要求是完整电影。",
+    "examples": [
+      [
+        "I sent her a short video of the puppy.",
+        "我给她发了一段小狗的短视频。"
+      ],
+      [
+        "Could you video the final performance?",
+        "你能把最后的演出录下来吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/video#English"
+    ]
+  },
+  {
+    "word": "view",
+    "ipa": "/vjuː/",
+    "meaning": "景色；视野；观点；查看",
+    "sense": "view 是“站在这个位置，你看见了什么”。位置可以在窗前，也可以是你看问题的立场。",
+    "split": "经古法语 veue“看见的景象”传入；更早是 vidēre。英语中不再拆成 v + iew。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ]
+    ],
+    "explanation": "眼前所见成为景色，心里怎样看成为观点。动词 view 常是有意识地查看或看待。",
+    "usage": "a sea view；in my view；view something as…；come into view。",
+    "contrast": "opinion 主要是意见；view 还包含景色和视野。look 是看的动作，view 常突出所见或立场。",
+    "examples": [
+      [
+        "The room has a wonderful view of the river.",
+        "房间里能看到漂亮的河景。"
+      ],
+      [
+        "I view the mistake as a chance to learn.",
+        "我把这个错误看作一次学习机会。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/view#English"
+    ]
+  },
+  {
+    "word": "provide",
+    "ipa": "/prəˈvaɪd/",
+    "meaning": "提供；供养；作出规定",
+    "sense": "provide 先想“看见别人将要需要什么，然后把东西备好”。今天重点落在把所需东西提供出来。",
+    "split": "拉丁语 prō-（向前）+ vidēre（看），组成 prōvidēre；英语借入整词。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre",
+        "向前看 → 预作准备、供应"
+      ],
+      [
+        "英语：provide",
+        "提供；为需要作准备"
+      ]
+    ],
+    "explanation": "从提前看、预作安排，走向供应和照顾需要。provide for 还可指供养；文件 provide that 表示规定。",
+    "usage": "provide someone with something；provide something for someone；provide for a family。",
+    "contrast": "offer 是提出愿意给；provide 通常说实际提供或具备供应能力。provided that 作“只要”时整体理解。",
+    "examples": [
+      [
+        "The library provides students with quiet study spaces.",
+        "图书馆为学生提供安静的自习空间。"
+      ],
+      [
+        "He works hard to provide for his family.",
+        "他努力工作来养家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provide#English"
+    ]
+  },
+  {
+    "word": "evidence",
+    "ipa": "/ˈevɪdəns/",
+    "meaning": "证据；迹象；显示、证明",
+    "sense": "evidence 是让一句话不只停留在嘴上的材料：照片、记录、足迹都可能帮你判断发生了什么。",
+    "split": "来自拉丁语 ēvidentia“清楚、证明”，与 evident 同族；不是英语 evident 简单换尾的历史全过程。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：ēvidēns",
+        "ē- 向外 + 看：显露可见的"
+      ],
+      [
+        "拉丁语：ēvidentia",
+        "清楚；证明"
+      ],
+      [
+        "古法语／英语：evidence",
+        "使事情显明的材料 → 证据"
+      ]
+    ],
+    "explanation": "“事情变得看得清”转为“让事情看得清的依据”。证据可以支持某种判断，并不必然等于最终证明。",
+    "usage": "evidence of…；evidence that…；gather evidence；a piece of evidence。",
+    "contrast": "通常不可数，说 some evidence 或 a piece of evidence。proof 更强调足以证实；evidence 可能仍不充分。",
+    "examples": [
+      [
+        "The footprints were evidence that someone had entered the garden.",
+        "这些脚印表明有人进过花园。"
+      ],
+      [
+        "We need more evidence before drawing a conclusion.",
+        "下结论前，我们需要更多证据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evidence#English"
+    ]
+  },
+  {
+    "word": "review",
+    "ipa": "/rɪˈvjuː/",
+    "meaning": "审查；回顾；复习；评论",
+    "sense": "review 像把看过、做过或经历过的东西再摆到眼前，看看哪里好、哪里还要改。",
+    "split": "历史上经法语 reveue 传入；现代可用 re-（再）+ view（看）帮助理解。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre；古法语：reveoir",
+        "再看"
+      ],
+      [
+        "古法语：reveue",
+        "回看；审视"
+      ],
+      [
+        "英语：review",
+        "检查；回顾；评论"
+      ]
+    ],
+    "explanation": "再次查看可以为了检查，也可以为了总结评价。书评、影评就是看完后形成的 review。",
+    "usage": "review a plan；write a review；under review；review for an exam。",
+    "contrast": "review 不一定改动内容；revise 强调修改，英式英语里也表示复习。",
+    "examples": [
+      [
+        "Please review the figures before sending the report.",
+        "发报告前，请再核对一下这些数字。"
+      ],
+      [
+        "Her review made me want to read the novel.",
+        "她的书评让我想读那本小说。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/review#English"
+    ]
+  },
+  {
+    "word": "visit",
+    "ipa": "/ˈvɪzɪt/",
+    "meaning": "拜访；参观；访问",
+    "sense": "visit 是专门去看看某个人、某个地方；打开网站，也是在数字空间里去一趟。",
+    "split": "经法语 visiter，来自拉丁语 vīsitāre，属于 vidēre“看”的反复或加强形式。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsere → vīsitāre",
+        "观看 → 前去看望"
+      ],
+      [
+        "古法语：visiter",
+        "探望；访问"
+      ],
+      [
+        "英语：visit",
+        "拜访；游览；访问"
+      ]
+    ],
+    "explanation": "从前去看望发展出拜访和参观。现代 visit a place 直接接地点，不必加 to；名词 a visit to 则用 to。",
+    "usage": "visit a friend；visit a museum；pay a visit to…；a website visit。",
+    "contrast": "visit 常有目的地去看；stay 强调留下多久。一次 visit 可以很短，也可以住一阵。",
+    "examples": [
+      [
+        "We visited our grandparents on Sunday.",
+        "我们星期天去看望了祖父母。"
+      ],
+      [
+        "Thousands of people visit the website every day.",
+        "每天有数千人访问这个网站。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visit#English"
+    ]
+  },
+  {
+    "word": "advice",
+    "ipa": "/ədˈvaɪs/",
+    "meaning": "建议；忠告",
+    "sense": "advice 可以想成别人把“在我看来你可以这样做”递给你，帮你作决定。",
+    "split": "古法语 a vis“依所见”重新组合成 avis；英语后来加上 d。不能按 ad + vice“恶习”拆。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：a vis → avis",
+        "依我所见 → 看法；意见"
+      ],
+      [
+        "英语：advice",
+        "建议；忠告（d 后来加入拼写）"
+      ]
+    ],
+    "explanation": "自己的看法被拿来指导别人，成为建议。词尾 /s/ 是名词 advice 的标记，动词 advise 读 /z/。",
+    "usage": "give advice；ask for advice；follow advice；a piece of advice。",
+    "contrast": "普通“建议”义不可数：some advice，不说 an advice。suggestion 可数。",
+    "examples": [
+      [
+        "Your advice helped me choose a course.",
+        "你的建议帮我选定了课程。"
+      ],
+      [
+        "Can I ask for a piece of advice?",
+        "我能请教一个建议吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advice#English"
+    ]
+  },
+  {
+    "word": "interview",
+    "ipa": "英 /ˈɪntəvjuː/；美 /ˈɪntərvjuː/",
+    "meaning": "面试；采访；访谈",
+    "sense": "interview 是一方有准备地提问，另一方回答，让彼此或读者更了解这个人或这件事。",
+    "split": "来自法语 entreveue“会面”，含“相互”与“看”。现代可以对应 inter- + view。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：entre- + veoir → entreveue",
+        "相互看见 → 会面"
+      ],
+      [
+        "英语：interview",
+        "通过问答了解对方的会面"
+      ]
+    ],
+    "explanation": "相见发展成有明确目的的问答会面，求职时是面试，新闻工作中是采访。它也可远程进行。",
+    "usage": "a job interview；interview a witness；an interview with an author。",
+    "contrast": "conversation 是一般交谈；interview 通常有较明确的提问者、回答者和主题。",
+    "examples": [
+      [
+        "I have a job interview on Friday.",
+        "我星期五有一场求职面试。"
+      ],
+      [
+        "The journalist interviewed three local residents.",
+        "记者采访了三位当地居民。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interview#English"
+    ]
+  },
+  {
+    "word": "television",
+    "ipa": "/ˈtelɪvɪʒən/",
+    "meaning": "电视；电视节目；电视机",
+    "sense": "television 的画面是“远处发生的事，被送到眼前来”。它既指技术和媒体，也能指那台设备。",
+    "split": "tele-（远，希腊语成分）+ vision（视觉，拉丁语词族）；现代跨语言组合，受法语 télévision 影响。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsiō",
+        "看见；所见之物"
+      ],
+      [
+        "古法语：vision",
+        "景象；幻象"
+      ],
+      [
+        "现代构词：tele- + vision",
+        "远距离 + 观看"
+      ],
+      [
+        "英语：television",
+        "电视技术、媒体与设备"
+      ]
+    ],
+    "explanation": "远距离传送活动图像形成电视。英语中 watch television 常指看电视节目，不特指盯着电视机外壳。",
+    "usage": "watch television；on television；a television programme；a television set。",
+    "contrast": "a television 是一台设备；television 不带冠词时常指媒介或节目活动。",
+    "examples": [
+      [
+        "We watched the match on television.",
+        "我们在电视上看了比赛。"
+      ],
+      [
+        "The hotel room has a small television.",
+        "酒店房间里有一台小电视。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/television#English"
+    ]
+  },
+  {
+    "word": "survey",
+    "ipa": "英 名词 /ˈsɜːveɪ/，动词 /səˈveɪ/；美 名词 /ˈsɜːrveɪ/，动词 /sərˈveɪ/",
+    "meaning": "调查；测量；全面查看",
+    "sense": "survey 像站高一点，把一片地方或一群人的情况看个全貌：可以问人，也可以测土地。",
+    "split": "古法语 sur-（在上）+ veoir（看）；与 supervise 同源，但现代意思各有侧重。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：sur- + veoir → surveer",
+        "从上方看；统览"
+      ],
+      [
+        "英语：survey",
+        "调查；测量；查看全貌"
+      ]
+    ],
+    "explanation": "统览带来概况调查；仔细察看土地又带来测量义。名词常前重音，动词常后重音。",
+    "usage": "conduct a survey；a customer survey；survey the land；survey the scene。",
+    "contrast": "survey 往往收集一个范围的情况；experiment 则通过安排条件检验问题，不能简单互换。",
+    "examples": [
+      [
+        "The survey asked residents about public transport.",
+        "调查询问了居民对公共交通的看法。"
+      ],
+      [
+        "She paused to survey the room before choosing a seat.",
+        "她停下来环顾房间，然后选了座位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/survey#English"
+    ]
+  },
+  {
+    "word": "vision",
+    "ipa": "/ˈvɪʒən/",
+    "meaning": "视力；景象；愿景；远见",
+    "sense": "vision 是你能看见的画面，也可以是脑中清楚看见、还没实现的未来。",
+    "split": "来自拉丁语 vīsiō“看见、所见之物”，经法语传入；vis- 与 vid- 是同一历史词族的形态。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsiō",
+        "看见；所见之物"
+      ],
+      [
+        "古法语：vision",
+        "景象；幻象"
+      ],
+      [
+        "英语：vision",
+        "视力；眼前或心中的景象"
+      ]
+    ],
+    "explanation": "眼睛的观看形成视力；心里的图景形成想象、愿景。早期还包含梦境、幻象，不能把所有 vision 都译成宏大理想。",
+    "usage": "clear vision；blurred vision；a vision of the future；share a vision。",
+    "contrast": "eyesight 主要是生理视力；vision 还包括未来蓝图和想象中的景象。",
+    "examples": [
+      [
+        "These glasses improve my distance vision.",
+        "这副眼镜改善了我看远处的视力。"
+      ],
+      [
+        "She has a clear vision of what the school could become.",
+        "她对这所学校未来能成为什么样有清楚的设想。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vision#English"
+    ]
+  },
+  {
+    "word": "visual",
+    "ipa": "/ˈvɪʒuəl/",
+    "meaning": "视觉的；图像的；视觉材料",
+    "sense": "visual 把信息交给眼睛：一张图、一个颜色变化或一段画面，比口头说更容易看懂。",
+    "split": "来自拉丁语 vīsuālis，与 vīsus“看、视觉”有关；经法语及拉丁语传入。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "晚期拉丁语：vīsuālis；法语：visuel",
+        "与视觉有关的"
+      ],
+      [
+        "英语：visual",
+        "视觉的；图像的"
+      ]
+    ],
+    "explanation": "它说明接收或呈现信息的通道，不直接判断东西是否看得清。复数 visuals 常指演示用的图像材料。",
+    "usage": "visual information；visual effects；visual aids；strong visuals。",
+    "contrast": "visual 是视觉方面的；visible 是能被看见的。visual memory 是视觉记忆，不是“可见的记忆”。",
+    "examples": [
+      [
+        "The teacher used visual aids to explain the process.",
+        "老师用图示来解释这个过程。"
+      ],
+      [
+        "The film combines music with striking visuals.",
+        "影片把音乐与醒目的画面结合起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visual#English"
+    ]
+  },
+  {
+    "word": "visible",
+    "ipa": "/ˈvɪzəbəl/",
+    "meaning": "看得见的；明显的",
+    "sense": "visible 先问一件事：它有没有进入你的视线？山在雾后还在，但未必 visible。",
+    "split": "晚期拉丁语 vīsibilis 经法语传入；vis-（看）与表示可能性的 -ible 对应。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "晚期拉丁语：vīsibilis",
+        "能够看见的"
+      ],
+      [
+        "古法语：visible",
+        "可见的"
+      ],
+      [
+        "英语：visible",
+        "看得见的；明显的"
+      ]
+    ],
+    "explanation": "从眼睛能够看见，也扩展为效果、变化等明显可察。visible support 是公开能看出来的支持。",
+    "usage": "visible from…；clearly visible；visible signs；a visible improvement。",
+    "contrast": "visible 不等于清楚可辨：远处的东西可见，但细节未必 clear。",
+    "examples": [
+      [
+        "The island is visible from the beach.",
+        "从海滩能看见那座岛。"
+      ],
+      [
+        "There has been a visible improvement in her confidence.",
+        "她的自信明显增强了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visible#English"
+    ]
+  },
+  {
+    "word": "advisory",
+    "ipa": "英 /ədˈvaɪzəri/；美 /ədˈvaɪzəri/",
+    "meaning": "咨询的；提供建议的；公告、提示",
+    "sense": "advisory 像旁边有人给你提供意见，但是否执行还要看谁有决定权；名词还可以是一则提醒。",
+    "split": "advise + -ory，表示与建议、告知有关。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：avis → aviser",
+        "看法 → 考虑、告知"
+      ],
+      [
+        "英语：advise",
+        "提出建议；告知"
+      ],
+      [
+        "英语：advisory",
+        "提供建议的；提醒公告"
+      ]
+    ],
+    "explanation": "an advisory role 主要提供意见；a travel advisory 则是有关出行情况的正式提示。",
+    "usage": "an advisory committee；an advisory role；a travel advisory。",
+    "contrast": "advisory 意见通常与命令有区别，但具体公告的作用仍要看内容，不能只凭这个词断言没有约束。",
+    "examples": [
+      [
+        "She serves in an advisory role on the project.",
+        "她在项目中担任顾问角色。"
+      ],
+      [
+        "The university issued an advisory about the road closure.",
+        "大学发布了有关道路封闭的提示。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advisory#English"
+    ]
+  },
+  {
+    "word": "provision",
+    "ipa": "/prəˈvɪʒən/",
+    "meaning": "提供；准备；条款；供应品",
+    "sense": "provision 的共同画面是“把可能用到的东西或安排提前放好”。可以备食物，也可以在文件里预先规定。",
+    "split": "来自拉丁语 prōvīsiō，经法语传入；与 provide 同源，不能把英语 provide 画成这个借词的祖先。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre → prōvīsiō",
+        "预先照看 → 准备、供应"
+      ],
+      [
+        "古法语：provision",
+        "预备；供应"
+      ],
+      [
+        "英语：provision",
+        "提供；准备；条款"
+      ]
+    ],
+    "explanation": "准备落实为供应；为特定情况作出的安排成为条款。复数 provisions 常是食物和必需品。",
+    "usage": "the provision of services；make provision for…；a provision in the agreement；food provisions。",
+    "contrast": "provision 是安排、供应或条款；permission 是许可。两者都可能出现在文件里，意思不同。",
+    "examples": [
+      [
+        "The agreement includes a provision for future repairs.",
+        "协议中包含日后维修的条款。"
+      ],
+      [
+        "We packed enough provisions for three days.",
+        "我们装好了够三天用的食物和必需品。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provision#English"
+    ]
+  },
+  {
+    "word": "visa",
+    "ipa": "/ˈviːzə/",
+    "meaning": "签证",
+    "sense": "visa 可以想成证件上的“已查阅并给予相应许可”的签注。今天它是特定入境、停留等许可文件。",
+    "split": "法语 visa 来自拉丁语 charta vīsa“已被看过的文书”；vīsa 是 vidēre 的分词形态。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：charta vīsa",
+        "已经查阅过的文书"
+      ],
+      [
+        "法语：visa",
+        "官方签注"
+      ],
+      [
+        "英语：visa",
+        "签证"
+      ]
+    ],
+    "explanation": "“文书被查看过”发展成正式签注的名称。实际许可范围取决于签证种类，词源本身不说明具体规则。",
+    "usage": "apply for a visa；a student visa；a visa application。",
+    "contrast": "passport 证明持有者身份等信息；visa 是另一类许可。持有护照不等于已持有所有签证。",
+    "examples": [
+      [
+        "She applied for a student visa.",
+        "她申请了学生签证。"
+      ],
+      [
+        "He checked the expiry date on his visa.",
+        "他查看了签证上的到期日。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visa#English"
+    ]
+  },
+  {
+    "word": "overview",
+    "ipa": "英 /ˈəʊvəvjuː/；美 /ˈoʊvərvjuː/",
+    "meaning": "概览；总体介绍",
+    "sense": "overview 像先摊开整张地图，知道有哪些区域，再决定往哪儿细看。",
+    "split": "over-（整体地、从上面）+ view（看）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：over- + view → overview",
+        "看整体 → 概览"
+      ]
+    ],
+    "explanation": "它让读者先建立整体结构，通常不把每个细节都讲完。overview of a subject 是这个主题的全貌介绍。",
+    "usage": "give an overview；a brief overview；an overview of the project。",
+    "contrast": "summary 压缩已有内容；overview 强调范围和结构。两者可能重叠，但关注点不同。",
+    "examples": [
+      [
+        "The first chapter gives an overview of the topic.",
+        "第一章概述了这个主题。"
+      ],
+      [
+        "Could you give us a brief overview of the plan?",
+        "你能简要介绍一下计划的全貌吗？"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/overview#English"
+    ]
+  },
+  {
+    "word": "provider",
+    "ipa": "英 /prəˈvaɪdə/；美 /prəˈvaɪdər/",
+    "meaning": "提供者；服务商；供养者",
+    "sense": "provider 是站在供应一端的人或组织：把网络、服务、生活所需等提供给别人。",
+    "split": "provide + -er，表示做出提供行为的一方。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre",
+        "向前看 → 预作准备、供应"
+      ],
+      [
+        "英语：provide",
+        "提供；为需要作准备"
+      ],
+      [
+        "英语：provider",
+        "提供所需东西的一方"
+      ]
+    ],
+    "explanation": "它可以是商业机构，也可以是家庭中承担供养的人；具体提供什么由前面的修饰词说明。",
+    "usage": "a service provider；an internet provider；the main provider for a family。",
+    "contrast": "supplier 常突出货物供应；provider 特别常用于服务，也能用于生活供养。",
+    "examples": [
+      [
+        "We changed our internet provider last month.",
+        "我们上个月换了网络服务商。"
+      ],
+      [
+        "For years, she was the main provider for the family.",
+        "多年来，她是家里的主要经济支柱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provider#English"
+    ]
+  },
+  {
+    "word": "advise",
+    "ipa": "/ədˈvaɪz/",
+    "meaning": "建议；劝告；告知",
+    "sense": "advise 是把自己的判断告诉对方，帮助对方决定下一步怎么做。正式通知中也可能只是告知信息。",
+    "split": "经古法语 aviser 传入，连接 avis“看法”；它与 advice 同族，词尾发 /z/。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：avis → aviser",
+        "看法 → 考虑、告知"
+      ],
+      [
+        "英语：advise",
+        "提出建议；告知"
+      ]
+    ],
+    "explanation": "“在我看来”从意见发展成提出建议的动作；商务书信中的 advise someone of something 则偏正式告知。",
+    "usage": "advise someone to do…；advise against doing…；advise someone of a change。",
+    "contrast": "advise 是动词，advice 是名词。说 advise me 或 give me advice，不说 advice me。",
+    "examples": [
+      [
+        "She advised me to leave a little earlier.",
+        "她建议我早一点出发。"
+      ],
+      [
+        "Please advise us of any changes to the schedule.",
+        "日程如有变化，请通知我们。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advise#English"
+    ]
+  },
+  {
+    "word": "invisible",
+    "ipa": "/ɪnˈvɪzəbəl/",
+    "meaning": "看不见的；不被注意的",
+    "sense": "invisible 像透明墙后的东西：它可能确实存在，却没有出现在你的视线或注意力里。",
+    "split": "历史上来自拉丁语 invīsibilis，经法语传入；现代对应 in-（不）+ visible。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "晚期拉丁语：invīsibilis",
+        "in- 不 + vīsibilis 可见的"
+      ],
+      [
+        "古法语：invisible",
+        "看不见的"
+      ],
+      [
+        "英语：invisible",
+        "看不见的；被忽视的"
+      ]
+    ],
+    "explanation": "既可以说肉眼看不见，也可形容劳动、群体等没有受到关注。后者并不是物理隐身。",
+    "usage": "invisible to the naked eye；an invisible barrier；feel invisible。",
+    "contrast": "hidden 是被藏起来；invisible 是看不见。微小颗粒不一定被谁藏了起来。",
+    "examples": [
+      [
+        "Some particles are invisible to the naked eye.",
+        "有些颗粒肉眼看不见。"
+      ],
+      [
+        "She felt invisible during the discussion.",
+        "讨论时，她觉得没人注意到自己。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/invisible#English"
+    ]
+  },
+  {
+    "word": "advisor",
+    "ipa": "英 /ədˈvaɪzə/；美 /ədˈvaɪzər/",
+    "meaning": "顾问；指导者",
+    "sense": "advisor 是可以帮你看清选项、给出专业意见的人，而不是替你活出全部决定的人。",
+    "split": "advise + -or；与 adviser 是同一词的不同常用拼写。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：avis → aviser",
+        "看法 → 考虑、告知"
+      ],
+      [
+        "英语：advise",
+        "提出建议；告知"
+      ],
+      [
+        "英语：advisor",
+        "给出建议和指导的人"
+      ]
+    ],
+    "explanation": "常见于职业或机构职位名称。学业 advisor 会帮助选课或规划学习，具体职责依场景而定。",
+    "usage": "an academic advisor；a financial advisor；ask an advisor。",
+    "contrast": "advisor 与 adviser 通常没有稳定的意义区别，采用机构或文本统一的拼写即可。",
+    "examples": [
+      [
+        "My academic advisor helped me choose my classes.",
+        "我的学业顾问帮我选了课程。"
+      ],
+      [
+        "She works as an advisor to the museum.",
+        "她担任博物馆顾问。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advisor#English"
+    ]
+  },
+  {
+    "word": "visitor",
+    "ipa": "英 /ˈvɪzɪtə/；美 /ˈvɪzɪtər/",
+    "meaning": "访客；游客；访问者",
+    "sense": "visitor 是来到某处看看、停留一段时间的人；在网站上则是访问页面的用户。",
+    "split": "既有英语 visit + -er 的发展，也受法语访客名称影响；现代对应 visit + -or。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsere → vīsitāre",
+        "观看 → 前去看望"
+      ],
+      [
+        "古法语：visiter",
+        "探望；访问"
+      ],
+      [
+        "法语访客词与英语 visit 派生形式",
+        "前去看望的人"
+      ],
+      [
+        "英语：visitor",
+        "访客；游客"
+      ]
+    ],
+    "explanation": "重点是这次到访的身份，不一定是朋友，也不必远道旅行。visitor centre 是为来访者服务的中心。",
+    "usage": "a visitor to the city；website visitors；a visitor centre。",
+    "contrast": "guest 常强调受邀请或接受招待；visitor 只需到访，未必受邀。",
+    "examples": [
+      [
+        "Visitors must sign in at reception.",
+        "访客必须在前台登记。"
+      ],
+      [
+        "The museum welcomed its millionth visitor.",
+        "博物馆迎来了第一百万位参观者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visitor#English"
+    ]
+  },
+  {
+    "word": "evident",
+    "ipa": "/ˈevɪdənt/",
+    "meaning": "明显的；清楚可见的",
+    "sense": "evident 是线索已经摆得很清楚，让人容易看出某个情况，而不是靠猜。",
+    "split": "ē-（向外、显露）+ vidēns（看），在拉丁语形成 ēvidēns；经法语借入。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：ēvidēns",
+        "ē- 向外 + 看：显露可见的"
+      ],
+      [
+        "古法语：evident",
+        "明显的"
+      ],
+      [
+        "英语：evident",
+        "清楚可见或可判断的"
+      ]
+    ],
+    "explanation": "从显露可见，引申为道理、感受或结果清楚可判断。It is evident that… 后面说看得出的事实。",
+    "usage": "evident from…；evident in…；it is evident that…；clearly evident。",
+    "contrast": "evident 强调容易看出；evidence 是可用来判断的证据材料，词性不同。",
+    "examples": [
+      [
+        "Her relief was evident in her smile.",
+        "从她的笑容能明显看出她松了口气。"
+      ],
+      [
+        "It was evident that the plan needed more work.",
+        "很明显，这个计划还需要完善。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evident#English"
+    ]
+  },
+  {
+    "word": "preview",
+    "ipa": "/ˈpriːvjuː/",
+    "meaning": "预览；预告；提前观看",
+    "sense": "preview 是正式打开、发布或看完整内容之前，先看一眼。",
+    "split": "pre-（预先）+ view（看）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：pre- + view → preview",
+        "正式呈现之前先看"
+      ]
+    ],
+    "explanation": "电影 preview 展示提前放出的内容，文件 preview 帮你检查打开或输出后的样子。通常还不是最终完整体验。",
+    "usage": "preview a document；a film preview；print preview；a preview of… 。",
+    "contrast": "review 是看过之后检查或评价；preview 是正式进行之前先看。",
+    "examples": [
+      [
+        "Use print preview to check the page layout.",
+        "用打印预览检查页面排版。"
+      ],
+      [
+        "We saw a preview of the new exhibition.",
+        "我们提前看了新展览的部分内容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preview#English"
+    ]
+  },
+  {
+    "word": "supervisor",
+    "ipa": "英 /ˈsuːpəvaɪzə/；美 /ˈsuːpərvaɪzər/",
+    "meaning": "主管；监督者；指导教师",
+    "sense": "supervisor 像站在工作现场能掌握整体的人：检查进展，也指导别人把事情做好。",
+    "split": "来自拉丁语 supervīsor，与 supervidēre“监督”有关；现代对应 supervise + -or。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "中古拉丁语：supervidēre → supervīsus",
+        "从上方察看；监督"
+      ],
+      [
+        "拉丁语：supervīsor",
+        "监督、管理的人"
+      ],
+      [
+        "英语：supervisor",
+        "主管；指导者"
+      ]
+    ],
+    "explanation": "“在上方看”变成承担监督责任的角色。研究生 supervisor 常指指导研究的人，不只负责盯着纪律。",
+    "usage": "a shift supervisor；a research supervisor；report to a supervisor。",
+    "contrast": "supervisor 通常监督具体人员或工作；manager 的管理范围可能更广，实际职位因机构而异。",
+    "examples": [
+      [
+        "Ask your supervisor before changing the schedule.",
+        "调整日程前，先问一下主管。"
+      ],
+      [
+        "My research supervisor suggested a different approach.",
+        "我的研究导师建议采用另一种方法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supervisor#English"
+    ]
+  },
+  {
+    "word": "adviser",
+    "ipa": "英 /ədˈvaɪzə/；美 /ədˈvaɪzər/",
+    "meaning": "顾问；建议者",
+    "sense": "adviser 是帮你作判断的人：先了解情况，再提出建议，不一定拥有最后决定权。",
+    "split": "advise 去掉词尾 e 加 -er；advisor 是另一种常见拼写。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：avis → aviser",
+        "看法 → 考虑、告知"
+      ],
+      [
+        "英语：advise",
+        "提出建议；告知"
+      ],
+      [
+        "英语：adviser",
+        "提供意见的人"
+      ]
+    ],
+    "explanation": "在 careers adviser 中是职业规划顾问；在政府等机构中可指某领域的咨询人员。",
+    "usage": "a careers adviser；a senior adviser；an adviser on education。",
+    "contrast": "adviser 和 advisor 通常同义；advisory 则多是形容词，表示提供咨询的。",
+    "examples": [
+      [
+        "The careers adviser helped him prepare for the interview.",
+        "职业顾问帮他准备面试。"
+      ],
+      [
+        "She became an adviser on education policy.",
+        "她成了教育政策顾问。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/adviser#English"
+    ]
+  },
+  {
+    "word": "supervision",
+    "ipa": "英 /ˌsuːpəˈvɪʒən/；美 /ˌsuːpərˈvɪʒən/",
+    "meaning": "监督；指导；看护",
+    "sense": "supervision 是有人负责留意过程，必要时指点、纠正或照看，而不是只在结束时看结果。",
+    "split": "来自中古拉丁语 supervīsiō；与 supervise 同源，是独立借入的名词。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "中古拉丁语：supervidēre → supervīsus",
+        "从上方察看；监督"
+      ],
+      [
+        "中古拉丁语：supervīsiō",
+        "监督的行为"
+      ],
+      [
+        "英语：supervision",
+        "监督、指导或看护"
+      ]
+    ],
+    "explanation": "它突出持续承担责任。under supervision 表示有人看护或指导；需要多少干预取决于任务。",
+    "usage": "under supervision；close supervision；adult supervision；without supervision。",
+    "contrast": "supervision 是监督过程；supervisor 是承担这项工作的人。",
+    "examples": [
+      [
+        "The students used the equipment under supervision.",
+        "学生们在指导下使用设备。"
+      ],
+      [
+        "Young children need adult supervision near water.",
+        "幼儿在水边需要成人看护。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supervision#English"
+    ]
+  },
+  {
+    "word": "envy",
+    "ipa": "/ˈenvi/",
+    "meaning": "羡慕；嫉妒",
+    "sense": "envy 的画面是盯着别人拥有的东西，心里想“我也想有”；语气可能只是羡慕，也可能带不满。",
+    "split": "来自拉丁语 invidia，源于 invidēre“带恶意地看”，经法语 envie 传入。这里 in- 不是“不”。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：invidēre → invidia",
+        "带着恶意看 → 嫉妒"
+      ],
+      [
+        "古法语：envie",
+        "嫉妒；羡慕"
+      ],
+      [
+        "英语：envy",
+        "羡慕；嫉妒"
+      ]
+    ],
+    "explanation": "早期偏向恶意的目光，现代也能温和地说 I envy your free time，表示羡慕对方的时间。",
+    "usage": "envy someone；envy someone something；be green with envy；the envy of… 。",
+    "contrast": "envy 常想得到别人所有的东西；jealousy 也常担心自己珍视的关系被夺走，日常用法有重叠。",
+    "examples": [
+      [
+        "I envy your ability to stay calm.",
+        "我很羡慕你保持冷静的能力。"
+      ],
+      [
+        "His success filled her with envy.",
+        "他的成功让她心生嫉妒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/envy#English"
+    ]
+  },
+  {
+    "word": "revision",
+    "ipa": "/rɪˈvɪʒən/",
+    "meaning": "修订；修改稿；复习",
+    "sense": "revision 是重新看过后作出的改动；英式学习语境中，也指把学过的内容再过一遍。",
+    "split": "经法语 révision 来自拉丁语 revīsiō“再次审看”；与 revise 是同族旁支。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre → revīsiō",
+        "再看 → 再审查"
+      ],
+      [
+        "法语：révision",
+        "重新审查、修订"
+      ],
+      [
+        "英语：revision",
+        "修订；复习"
+      ]
+    ],
+    "explanation": "再次审看可以为了改善文字，也可以为了巩固知识。a revision 常是一项改动或新版，revision 不可数时常指过程。",
+    "usage": "a revision to the plan；major revisions；exam revision；revision notes。",
+    "contrast": "revision 可以只改局部；rewriting 通常更突出重新写。复习义主要见于英式英语。",
+    "examples": [
+      [
+        "The editor requested several revisions to the article.",
+        "编辑要求对文章作几处修改。"
+      ],
+      [
+        "I spent the evening doing revision for the exam.",
+        "我花了一晚上复习考试内容。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/revision",
+      "https://en.wiktionary.org/wiki/revision#English"
+    ]
+  },
+  {
+    "word": "providence",
+    "ipa": "英 /ˈprɒvɪdəns/；美 /ˈprɑːvɪdəns/",
+    "meaning": "天意；上天的照顾；远见",
+    "sense": "providence 常把人生中的安排看成有一种更高力量在照顾；普通旧义则是为未来作周到打算。",
+    "split": "由拉丁语 prōvidentia“远见、预先照顾”，经法语传入。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns",
+        "预先看见、考虑周全的"
+      ],
+      [
+        "拉丁语：prōvidentia；法语：providence",
+        "预先照顾；远见"
+      ],
+      [
+        "英语：providence",
+        "远见；神意的安排和照顾"
+      ]
+    ],
+    "explanation": "人能预先安排，宗教观念中神也被认为预知并照顾万事，因此产生神意义。这里是在说明词的信仰用法。",
+    "usage": "divine providence；trust in providence；an act of providence。",
+    "contrast": "providence 不是普通 provider“供应者”；宗教语境中往往是不可数的抽象观念。",
+    "examples": [
+      [
+        "She saw their chance meeting as an act of providence.",
+        "她把他们的偶遇看作天意的安排。"
+      ],
+      [
+        "The poem expresses trust in divine providence.",
+        "这首诗表达了对上天照顾的信赖。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/providence#English"
+    ]
+  },
+  {
+    "word": "visibility",
+    "ipa": "/ˌvɪzəˈbɪləti/",
+    "meaning": "能见度；可见性；受关注程度",
+    "sense": "visibility 像一个“看得到多少”的旋钮：雾大时调低，站到公众面前时又提高。",
+    "split": "经法语 visibilité，来自晚期拉丁语 vīsibilitās；现代对应 visible + -ity。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "晚期拉丁语：vīsibilis",
+        "能够看见的"
+      ],
+      [
+        "晚期拉丁语：vīsibilitās；法语：visibilité",
+        "能够被看到的状态"
+      ],
+      [
+        "英语：visibility",
+        "能见度；可见性"
+      ]
+    ],
+    "explanation": "既描述天气条件下能看多远，也描述某个人或问题有多容易被公众注意。",
+    "usage": "poor visibility；high visibility；increase visibility；visibility of a problem。",
+    "contrast": "visibility 是可见程度；vision 是视力或愿景。visibility 差不一定是你的眼睛出了问题。",
+    "examples": [
+      [
+        "Fog reduced visibility on the road.",
+        "雾降低了道路上的能见度。"
+      ],
+      [
+        "The campaign increased the visibility of local artists.",
+        "这次活动提高了当地艺术家的知名度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visibility#English"
+    ]
+  },
+  {
+    "word": "viewer",
+    "ipa": "英 /ˈvjuːə/；美 /ˈvjuːər/",
+    "meaning": "观看者；观众；查看程序",
+    "sense": "viewer 是正在看内容的一方，也可以是让你打开图像、文件来看的软件。",
+    "split": "view + -er，指实施查看的人或工具。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：viewer",
+        "观看的人；查看工具"
+      ]
+    ],
+    "explanation": "电视 viewers 是观众；image viewer 是图像查看器。后者不一定能编辑图像。",
+    "usage": "television viewers；a regular viewer；an image viewer。",
+    "contrast": "audience 可以指听众、读者等整体受众；viewer 明确强调观看。",
+    "examples": [
+      [
+        "The programme attracted millions of viewers.",
+        "这个节目吸引了数百万观众。"
+      ],
+      [
+        "Open the file in an image viewer.",
+        "用图像查看器打开这个文件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/viewer#English"
+    ]
+  },
+  {
+    "word": "vista",
+    "ipa": "/ˈvɪstə/",
+    "meaning": "远景；开阔景色；前景",
+    "sense": "vista 像道路、山谷或窗框打开后，向远处延展的一幅宽阔画面。",
+    "split": "借自意大利语 vista“视野”，经 vedere 回到拉丁语 vidēre。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "意大利语：vedere → vista",
+        "看 → 看到的景象"
+      ],
+      [
+        "英语：vista",
+        "开阔远景；新的前景"
+      ]
+    ],
+    "explanation": "辽阔视野也被用来比喻突然展开的可能性，new vistas 就是新的发展天地。",
+    "usage": "a mountain vista；a panoramic vista；open up new vistas。",
+    "contrast": "view 是普通的景色、视野；vista 通常更有纵深、开阔感，语气也较有描写性。",
+    "examples": [
+      [
+        "The path opened onto a beautiful mountain vista.",
+        "小路尽头展开了一片美丽的山间远景。"
+      ],
+      [
+        "The discovery opened up new vistas for research.",
+        "这个发现为研究开辟了新的前景。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/vista#English"
+    ]
+  },
+  {
+    "word": "visually",
+    "ipa": "/ˈvɪʒuəli/",
+    "meaning": "在视觉上；通过观看",
+    "sense": "visually 是把判断交给眼睛：外观怎样，或是否靠看就能辨认。",
+    "split": "visual + -ly，把“视觉的”变成“在视觉方面”。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "晚期拉丁语：vīsuālis；法语：visuel",
+        "与视觉有关的"
+      ],
+      [
+        "英语：visual",
+        "视觉的；图像的"
+      ],
+      [
+        "英语：visually",
+        "从视觉角度；通过观看"
+      ]
+    ],
+    "explanation": "visually attractive 评价外观；check visually 说明检查的方式是看，而非称重或测量。",
+    "usage": "visually appealing；visually inspect；visually impaired。",
+    "contrast": "visually 不等于 visibly：前者是从视觉方面，后者是明显看得出来。",
+    "examples": [
+      [
+        "The two versions are visually similar.",
+        "这两个版本在外观上很相似。"
+      ],
+      [
+        "She checked the parts visually before measuring them.",
+        "她先目视检查零件，再进行测量。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visually#English"
+    ]
+  },
+  {
+    "word": "provisional",
+    "ipa": "/prəˈvɪʒənəl/",
+    "meaning": "暂定的；临时的；有待确认的",
+    "sense": "provisional 像在计划上用铅笔先写一个答案：目前先这样，但还有可能改。",
+    "split": "provision + -al，并有相关法语形式影响；在“预先安排”上形成暂定义。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre → prōvīsiō",
+        "预先照看 → 准备、供应"
+      ],
+      [
+        "古法语：provision",
+        "预备；供应"
+      ],
+      [
+        "英语：provision → provisional",
+        "安排 → 暂时作出的安排"
+      ]
+    ],
+    "explanation": "不是所有安排都永久有效，暂为应付当前需要而作的安排，就可以是 provisional。",
+    "usage": "a provisional agreement；a provisional date；provisional results。",
+    "contrast": "temporary 主要表示时间有限；provisional 还常强调尚未最终确认。",
+    "examples": [
+      [
+        "We set a provisional date for the meeting.",
+        "我们给会议定了一个暂定日期。"
+      ],
+      [
+        "The results are provisional until all checks are complete.",
+        "全部核查完成前，结果仍是暂定的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provisional#English"
+    ]
+  },
+  {
+    "word": "viewpoint",
+    "ipa": "/ˈvjuːpɔɪnt/",
+    "meaning": "观点；观察角度；观景点",
+    "sense": "viewpoint 是你站着看东西的那个点：换个位置，看到的风景和理解可能就变了。",
+    "split": "view（看法、视野）+ point（点、位置）。point 经古法语 point / pointe 来自拉丁 punctum / puncta，远接 pungere“刺”：刺出的点，逐渐也指位置。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：view + point → viewpoint",
+        "观察的位置 → 观点、观景点"
+      ]
+    ],
+    "explanation": "具体位置是观景点，抽象位置是考虑事情时采取的立场。",
+    "usage": "from my viewpoint；a different viewpoint；a scenic viewpoint。",
+    "contrast": "viewpoint 强调看问题的角度；fact 是事情本身，不能把所有事实差异都归为观点不同。",
+    "examples": [
+      [
+        "Try to understand the issue from her viewpoint.",
+        "试着从她的角度理解这个问题。"
+      ],
+      [
+        "We stopped at a viewpoint above the valley.",
+        "我们在山谷上方的观景点停了下来。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/viewpoint",
+      "https://www.etymonline.com/word/point"
+    ]
+  },
+  {
+    "word": "evidently",
+    "ipa": "/ˈevɪdəntli/",
+    "meaning": "显然；据现有迹象看来",
+    "sense": "evidently 像说“从眼前这些线索看，事情大概就是这样”。说话人可能是推断，不是亲眼见证全过程。",
+    "split": "evident + -ly。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：ēvidēns",
+        "ē- 向外 + 看：显露可见的"
+      ],
+      [
+        "古法语：evident",
+        "明显的"
+      ],
+      [
+        "英语：evident",
+        "清楚可见或可判断的"
+      ],
+      [
+        "英语：evidently",
+        "根据明显迹象判断"
+      ]
+    ],
+    "explanation": "它能加强“明显”的语气，也能标出从迹象所得的结论。具体确定程度要结合上下文。",
+    "usage": "evidently pleased；evidently unaware；evidently, … 。",
+    "contrast": "evidently 与 apparently 都可引入判断；不要把用了 evidently 的句子自动当成已有最终证明。",
+    "examples": [
+      [
+        "He was evidently pleased with the result.",
+        "显然，他对结果很满意。"
+      ],
+      [
+        "The lights are off; evidently, everyone has gone home.",
+        "灯都关了，看来大家已经回家了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evidently#English"
+    ]
+  },
+  {
+    "word": "interviewer",
+    "ipa": "英 /ˈɪntəvjuːə/；美 /ˈɪntərvjuːər/",
+    "meaning": "面试官；采访者",
+    "sense": "interviewer 是问问题的一方，把话题带向需要了解的内容。",
+    "split": "interview + -er，表示主持问答的人。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：entre- + veoir → entreveue",
+        "相互看见 → 会面"
+      ],
+      [
+        "英语：interview",
+        "通过问答了解对方的会面"
+      ],
+      [
+        "英语：interviewer",
+        "进行采访或面试的人"
+      ]
+    ],
+    "explanation": "求职场景是面试官，节目场景是采访者；同一个词跟随活动变化。",
+    "usage": "an experienced interviewer；the interviewer’s question；a panel of interviewers。",
+    "contrast": "interviewer 问，interviewee 接受采访或面试。两者的后缀标明角色方向。",
+    "examples": [
+      [
+        "The interviewer asked about my previous experience.",
+        "面试官问起我以前的经历。"
+      ],
+      [
+        "A good interviewer leaves room for detailed answers.",
+        "好的采访者会给对方充分回答的空间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interviewer#English"
+    ]
+  },
+  {
+    "word": "revise",
+    "ipa": "/rɪˈvaɪz/",
+    "meaning": "修改；修订；复习",
+    "sense": "revise 像拿起铅笔重新看一遍稿子，边看边改；英式英语里还可以是考前重看知识。",
+    "split": "经法语 réviser，来自拉丁语反复“再看”的词形。现代可联系 re-（再）与 vis-（看）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre → revīsere",
+        "再次看；重新察看"
+      ],
+      [
+        "法语：réviser",
+        "再检查、修订"
+      ],
+      [
+        "英语：revise",
+        "修改；复习"
+      ]
+    ],
+    "explanation": "“再看”发展成以改进为目的的重新检查；英国学习语境把重温知识也叫 revise。",
+    "usage": "revise a draft；revise an estimate；revise for an exam。",
+    "contrast": "revise the plan 通常含修改；review the plan 可以只是审查，尚未改动。",
+    "examples": [
+      [
+        "We revised the plan after hearing your suggestions.",
+        "听取你的建议后，我们修改了计划。"
+      ],
+      [
+        "She is revising for her biology exam.",
+        "她正在复习生物考试。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revise#English"
+    ]
+  },
+  {
+    "word": "reviewer",
+    "ipa": "英 /rɪˈvjuːə/；美 /rɪˈvjuːər/",
+    "meaning": "评论者；评审者；审稿人",
+    "sense": "reviewer 是看完作品或材料后给出评价的人：指出价值，也指出需要改进的地方。",
+    "split": "review + -er。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre；古法语：reveoir",
+        "再看"
+      ],
+      [
+        "古法语：reveue",
+        "回看；审视"
+      ],
+      [
+        "英语：review",
+        "检查；回顾；评论"
+      ],
+      [
+        "英语：reviewer",
+        "审查或撰写评论的人"
+      ]
+    ],
+    "explanation": "书评人评价读物，论文 reviewer 评审稿件；购物网站上的评价者也可以叫 reviewer。",
+    "usage": "a book reviewer；a peer reviewer；an anonymous reviewer。",
+    "contrast": "reviewer 侧重审看评价；editor 还可能负责选稿、修改和出版流程。",
+    "examples": [
+      [
+        "The reviewer praised the novel’s dialogue.",
+        "书评人称赞了小说中的对话。"
+      ],
+      [
+        "An anonymous reviewer suggested a clearer explanation.",
+        "一位匿名审稿人建议把解释写得更清楚。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reviewer#English"
+    ]
+  },
+  {
+    "word": "visionary",
+    "ipa": "英 /ˈvɪʒənəri/；美 /ˈvɪʒəneri/",
+    "meaning": "有远见的；富于想象的；有远见的人",
+    "sense": "visionary 是能在别人还没看见时，把一种未来图景想清楚的人；有时也暗示过于理想化。",
+    "split": "vision + -ary，表示拥有或体现某种愿景。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsiō",
+        "看见；所见之物"
+      ],
+      [
+        "古法语：vision",
+        "景象；幻象"
+      ],
+      [
+        "英语：vision",
+        "视力；眼前或心中的景象"
+      ],
+      [
+        "英语：visionary",
+        "能想见未来图景的人或特质"
+      ]
+    ],
+    "explanation": "vision 从心中图景发展出愿景，visionary 则描述创造这种图景的能力或人物。褒贬取决于是否赞赏其构想。",
+    "usage": "a visionary leader；a visionary idea；an architectural visionary。",
+    "contrast": "practical 强调能落实；visionary 强调有远景。一个方案可以兼具两者，也可能只有想象。",
+    "examples": [
+      [
+        "Her visionary plan transformed the old factory into a park.",
+        "她富有远见的计划把旧工厂改成了公园。"
+      ],
+      [
+        "Some dismissed him as a visionary with unrealistic dreams.",
+        "有些人把他看作满怀不切实际梦想的空想家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visionary#English"
+    ]
+  },
+  {
+    "word": "prudent",
+    "ipa": "/ˈpruːdənt/",
+    "meaning": "审慎的；明智稳妥的",
+    "sense": "prudent 像先朝路前方看一眼，想到可能的后果，再决定怎么走。",
+    "split": "拉丁语 prōvidēns 缩合成 prūdēns，经法语传入；它与 provident 同源，不来自 prude。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns → prūdēns",
+        "能预见的 → 明智、审慎的（词形缩合）"
+      ],
+      [
+        "古法语：prudent",
+        "审慎的"
+      ],
+      [
+        "英语：prudent",
+        "考虑后果、行事稳妥的"
+      ]
+    ],
+    "explanation": "提前看见变成提前考虑风险和需要。谨慎不是永远不行动，而是行动前有判断。",
+    "usage": "a prudent decision；prudent to do…；prudent planning。",
+    "contrast": "careful 可只是细心；prudent 更强调长远后果与判断。prude 是拘谨守旧的人，不能混作同词。",
+    "examples": [
+      [
+        "It would be prudent to keep a copy of the file.",
+        "保留一份文件副本会比较稳妥。"
+      ],
+      [
+        "She made a prudent choice after considering the costs.",
+        "考虑成本后，她作出了审慎的选择。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prudent#English"
+    ]
+  },
+  {
+    "word": "visibly",
+    "ipa": "/ˈvɪzəbli/",
+    "meaning": "明显看得出地",
+    "sense": "visibly 是变化已经写在脸上或摆在眼前，不需要对方开口说明也能看出来。",
+    "split": "visible 的 -le 改为 -ly，形成副词。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "晚期拉丁语：vīsibilis",
+        "能够看见的"
+      ],
+      [
+        "古法语：visible",
+        "可见的"
+      ],
+      [
+        "英语：visible",
+        "看得见的；明显的"
+      ],
+      [
+        "英语：visibly",
+        "以看得见的方式；明显地"
+      ]
+    ],
+    "explanation": "常搭配 upset、shaken、relieved，说明情绪有可见表现；不保证知道情绪的全部原因。",
+    "usage": "visibly upset；visibly relieved；visibly different。",
+    "contrast": "visibly upset 是明显难过；visually striking 是视觉上醒目，两个副词各管一件事。",
+    "examples": [
+      [
+        "She was visibly relieved when the train arrived.",
+        "火车到站时，她明显松了一口气。"
+      ],
+      [
+        "The paint became visibly darker as it dried.",
+        "油漆干燥时，颜色明显变深了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visibly#English"
+    ]
+  },
+  {
+    "word": "revisit",
+    "ipa": "/ˌriːˈvɪzɪt/",
+    "meaning": "重游；再次探访；重新考虑",
+    "sense": "revisit 是再去一趟，也可以把已经讨论过的问题重新拿回来看看。",
+    "split": "经法语 revisiter 与拉丁语 revīsitāre 相连；现代可分析 re- + visit。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsere → vīsitāre",
+        "观看 → 前去看望"
+      ],
+      [
+        "拉丁语：revīsitāre；法语：revisiter",
+        "再次前去看"
+      ],
+      [
+        "英语：revisit",
+        "再访；重新考虑"
+      ]
+    ],
+    "explanation": "访问对象从地方扩展到问题、观点和记忆。revisit a decision 不一定已经推翻决定，只是重新考虑。",
+    "usage": "revisit a place；revisit an issue；revisit a decision。",
+    "contrast": "revisit 是重新回到对象；revise 则常意味着作出修改。",
+    "examples": [
+      [
+        "We revisited the village where we first met.",
+        "我们重游了初次相遇的村庄。"
+      ],
+      [
+        "Let’s revisit this question after we have more information.",
+        "等信息更多时，我们再讨论这个问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revisit#English"
+    ]
+  },
+  {
+    "word": "surveyor",
+    "ipa": "英 /səˈveɪə/；美 /sərˈveɪər/",
+    "meaning": "测量员；勘察员；房屋查验人员",
+    "sense": "surveyor 带着专业工具看土地或建筑，把“看上去怎样”转成位置、尺寸、状况等可靠信息。",
+    "split": "经法语 sorveor、盎格鲁诺曼语 surveour 传入；现代对应 survey + -or。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：sur- + veoir → surveer",
+        "从上方看；统览"
+      ],
+      [
+        "古法语／盎格鲁诺曼语：sorveor / surveour",
+        "察看、监督者"
+      ],
+      [
+        "英语：surveyor",
+        "测量或查验的专业人员"
+      ]
+    ],
+    "explanation": "survey 的仔细察看、测量义发展成职业名称；不同修饰词限定土地、建筑等工作。",
+    "usage": "a land surveyor；a building surveyor；a surveyor’s report。",
+    "contrast": "surveyor 不只是做问卷的人；此词常用于专业测量、勘察或建筑查验。",
+    "examples": [
+      [
+        "The surveyor marked the boundary of the property.",
+        "测量员标出了地块边界。"
+      ],
+      [
+        "We asked a surveyor to inspect the old house.",
+        "我们请房屋查验人员检查了那座老房子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surveyor#English"
+    ]
+  },
+  {
+    "word": "visitation",
+    "ipa": "/ˌvɪzɪˈteɪʃən/",
+    "meaning": "正式访问；探视；降临、侵袭",
+    "sense": "visitation 比普通 visit 更正式：可能是按制度安排的探视，也可能是故事里神秘力量或灾祸突然降临。",
+    "split": "拉丁语 vīsitātiō 经法语、盎格鲁诺曼语传入；不是英语 visit 才创造出的名词。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsere → vīsitāre",
+        "观看 → 前去看望"
+      ],
+      [
+        "拉丁语：vīsitātiō；古法语：visitacion",
+        "访问、察看"
+      ],
+      [
+        "英语：visitation",
+        "正式探访；探视；降临"
+      ]
+    ],
+    "explanation": "visit 的看望义发展出制度化探视；“某物来访”的比喻又用于灾难或超自然故事。",
+    "usage": "visitation hours；family visitation；a visitation of illness。",
+    "contrast": "普通去朋友家一般用 visit。visitation 常带正式、制度或文学语气。",
+    "examples": [
+      [
+        "The notice lists the centre’s visitation hours.",
+        "通知列出了该中心的探视时间。"
+      ],
+      [
+        "The tale describes a mysterious visitation at midnight.",
+        "故事描写了午夜的一次神秘来访。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visitation#English"
+    ]
+  },
+  {
+    "word": "surveying",
+    "ipa": "英 /səˈveɪɪŋ/；美 /sərˈveɪɪŋ/",
+    "meaning": "测量工作；勘测；正在调查",
+    "sense": "surveying 常是把地面和建筑的位置、距离、高度测出来，再变成图纸或数据。",
+    "split": "survey + -ing，可作动作形式，也可指测量这门工作。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：sur- + veoir → surveer",
+        "从上方看；统览"
+      ],
+      [
+        "英语：survey",
+        "调查；测量；查看全貌"
+      ],
+      [
+        "英语：surveying",
+        "调查、勘测的活动"
+      ]
+    ],
+    "explanation": "作专业名词时常指土地、工程测量；在 is surveying residents 中则仍是调查居民的动词形式。",
+    "usage": "land surveying；surveying equipment；a surveying course。",
+    "contrast": "survey 是一次调查或测量；surveying 可指整项活动或专业领域。",
+    "examples": [
+      [
+        "She is studying land surveying.",
+        "她在学习土地测量。"
+      ],
+      [
+        "The team is surveying residents about the new bus route.",
+        "团队正在调查居民对新公交线路的看法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surveying#English"
+    ]
+  },
+  {
+    "word": "supervise",
+    "ipa": "英 /ˈsuːpəvaɪz/；美 /ˈsuːpərvaɪz/",
+    "meaning": "监督；指导；负责照看",
+    "sense": "supervise 不是随便看一眼，而是对过程负有责任：留意是否正确，必要时指导或干预。",
+    "split": "super-（在上）+ vidēre（看）在中古拉丁语形成 supervidēre；英语由其分词形式借入。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "中古拉丁语：supervidēre → supervīsus",
+        "从上方察看；监督"
+      ],
+      [
+        "英语：supervise",
+        "负责指导、监督"
+      ]
+    ],
+    "explanation": "“从上面看”发展为掌握、指导工作。位置是帮助理解的意象，现实中不必真的站在高处。",
+    "usage": "supervise a team；supervise children；supervise construction。",
+    "contrast": "watch 可以只是观看；supervise 通常还包含管理或看护责任。",
+    "examples": [
+      [
+        "She supervises a team of six researchers.",
+        "她负责指导一个六人研究团队。"
+      ],
+      [
+        "An adult must supervise the children during the activity.",
+        "活动期间必须有成人照看孩子们。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/supervise",
+      "https://en.wiktionary.org/wiki/supervise#English"
+    ]
+  },
+  {
+    "word": "supervisory",
+    "ipa": "英 /ˌsuːpəˈvaɪzəri/；美 /ˌsuːpərˈvaɪzəri/",
+    "meaning": "监督的；管理的",
+    "sense": "supervisory 说明岗位或任务含有看管、指导别人的责任，不只是完成自己的那一份。",
+    "split": "supervise + -ory，变成描述监督职责的形容词。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "中古拉丁语：supervidēre → supervīsus",
+        "从上方察看；监督"
+      ],
+      [
+        "英语：supervise",
+        "负责指导、监督"
+      ],
+      [
+        "英语：supervisory",
+        "涉及监督职责的"
+      ]
+    ],
+    "explanation": "它经常与 role、position、responsibility 连用，把工作性质说清楚。",
+    "usage": "a supervisory role；supervisory duties；supervisory experience。",
+    "contrast": "supervisory 是职责性质；supervised 是处在别人监督之下，方向相反。",
+    "examples": [
+      [
+        "She moved into a supervisory position last year.",
+        "她去年转到了管理岗位。"
+      ],
+      [
+        "The job requires some supervisory experience.",
+        "这个职位要求有一定的管理经验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supervisory#English"
+    ]
+  },
+  {
+    "word": "visualize",
+    "ipa": "/ˈvɪʒuəlaɪz/",
+    "meaning": "想象出画面；使可视化",
+    "sense": "visualize 是把没有摆在眼前的东西变成画面：可以在脑中想，也可以画成图让别人看。",
+    "split": "visual + -ize，表示使成为可用视觉把握的形式。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "晚期拉丁语：vīsuālis；法语：visuel",
+        "与视觉有关的"
+      ],
+      [
+        "英语：visual",
+        "视觉的；图像的"
+      ],
+      [
+        "英语：visualize",
+        "在心中或图上形成画面"
+      ]
+    ],
+    "explanation": "既能 visualize a room 想象房间，也能 visualize data 把数据画出来。两种用法都抓住成像。",
+    "usage": "visualize success；visualize a scene；visualize data。",
+    "contrast": "imagine 可涉及声音、感受等；visualize 特别强调图像。visualise 是常见英式拼写。",
+    "examples": [
+      [
+        "Try to visualize the room before choosing the furniture.",
+        "挑家具前，试着在脑中想象房间的样子。"
+      ],
+      [
+        "The chart helps us visualize the changes over time.",
+        "这张图帮助我们直观看出随时间发生的变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visualize#English"
+    ]
+  },
+  {
+    "word": "advisable",
+    "ipa": "/ədˈvaɪzəbəl/",
+    "meaning": "可取的；明智的；值得建议的",
+    "sense": "advisable 是你问“这样做妥不妥”时，别人会点头建议的做法。",
+    "split": "advise + -able，字面是可以建议采用的。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：avis → aviser",
+        "看法 → 考虑、告知"
+      ],
+      [
+        "英语：advise",
+        "提出建议；告知"
+      ],
+      [
+        "英语：advisable",
+        "值得建议采取的"
+      ]
+    ],
+    "explanation": "它评价行动是否稳妥，并不是说某人“很听劝”。常用 It is advisable to… 给出较正式建议。",
+    "usage": "advisable to do…；highly advisable；not advisable。",
+    "contrast": "advisable 描述做法；advisory 描述提供建议的角色或机构。",
+    "examples": [
+      [
+        "It is advisable to save your work frequently.",
+        "经常保存工作内容是明智的。"
+      ],
+      [
+        "A warm jacket is advisable for the evening walk.",
+        "晚上散步最好带件暖和的外套。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advisable#English"
+    ]
+  },
+  {
+    "word": "worldview",
+    "ipa": "英 /ˈwɜːldvjuː/；美 /ˈwɜːrldvjuː/",
+    "meaning": "世界观",
+    "sense": "worldview 像一副长期戴着的眼镜：你认为世界怎样运转、什么值得重视，都通过它来理解。",
+    "split": "world + view，是对德语 Weltanschauung 的意译式组合。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：world + view → worldview",
+        "对于整个世界的总体看法"
+      ]
+    ],
+    "explanation": "它不只是一条意见，而是互相联系的一组基本认识，影响对许多事情的判断。",
+    "usage": "shape someone’s worldview；a scientific worldview；different worldviews。",
+    "contrast": "opinion 可以是对一件小事的看法；worldview 是更整体、更基础的认识框架。",
+    "examples": [
+      [
+        "Travel changed her worldview.",
+        "旅行改变了她的世界观。"
+      ],
+      [
+        "The novel brings two very different worldviews into conflict.",
+        "小说让两种很不相同的世界观发生冲突。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/worldview#English"
+    ]
+  },
+  {
+    "word": "envious",
+    "ipa": "/ˈenviəs/",
+    "meaning": "羡慕的；嫉妒的",
+    "sense": "envious 是看着别人有的东西，心里生出“真想换成我”的感觉。",
+    "split": "拉丁语 invidiōsus 经法语 envieus 进入英语；与 envy 相连，也与 invidious 同源。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：invidēre → invidia",
+        "带着恶意看 → 嫉妒"
+      ],
+      [
+        "拉丁语：invidiōsus；古法语：envieus",
+        "带有嫉妒的"
+      ],
+      [
+        "英语：envious",
+        "感到羡慕、嫉妒的"
+      ]
+    ],
+    "explanation": "它形容产生羡慕的人或目光。是否带恶意要看上下文，日常中可以只是轻微羡慕。",
+    "usage": "envious of someone；an envious glance；feel envious。",
+    "contrast": "envious 是自己羡慕别人；enviable 是让别人羡慕的。",
+    "examples": [
+      [
+        "I was envious of her flexible schedule.",
+        "我羡慕她灵活的工作安排。"
+      ],
+      [
+        "He gave the new bicycle an envious glance.",
+        "他羡慕地看了一眼那辆新自行车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/envious#English"
+    ]
+  },
+  {
+    "word": "envision",
+    "ipa": "/ɪnˈvɪʒən/",
+    "meaning": "设想；展望",
+    "sense": "envision 是在心里把一个尚未出现的场景看出来：你设想它将怎样运作、会是什么样。",
+    "split": "en- + vision，把愿景或图景变成形成图景的动作。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsiō",
+        "看见；所见之物"
+      ],
+      [
+        "古法语：vision",
+        "景象；幻象"
+      ],
+      [
+        "英语：vision",
+        "视力；眼前或心中的景象"
+      ],
+      [
+        "英语：envision",
+        "在心中形成某种未来图景"
+      ]
+    ],
+    "explanation": "经常用于未来计划，也可以是一般想象。表达的是构想，不能自动等于预测会成真。",
+    "usage": "envision a future；envision doing…；envision something as… 。",
+    "contrast": "envision 与 envisage 很接近；predict 则更明确是在预测实际会发生什么。",
+    "examples": [
+      [
+        "We envision a city with more trees and fewer cars.",
+        "我们设想一座树更多、汽车更少的城市。"
+      ],
+      [
+        "I cannot envision him giving up so easily.",
+        "我想象不出他会这么轻易放弃。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/envision#English"
+    ]
+  },
+  {
+    "word": "improvisation",
+    "ipa": "英 /ˌɪmprəvaɪˈzeɪʃən/；美 /ɪmˌprɑːvəˈzeɪʃən/",
+    "meaning": "即兴创作；临场应变；临时凑成的办法",
+    "sense": "improvisation 是没有现成脚本时，边做边想出下一步；爵士乐独奏和临时搭雨棚都可能如此。",
+    "split": "借自法语 improvisation；与 improvise 同族，现代对应 improvise + -ation。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvīsus → imprōvīsus",
+        "预先看到的 → 未预见、未准备的"
+      ],
+      [
+        "意大利语：improvisare；法语：improviser",
+        "临场作诗、演说或表演"
+      ],
+      [
+        "法语：improvisation",
+        "即兴创作的行为"
+      ],
+      [
+        "英语：improvisation",
+        "即兴表演；临场应变"
+      ]
+    ],
+    "explanation": "未提前准备的状态，发展出现场创造的活动。即兴可以依赖很强的经验和训练，并不等于胡来。",
+    "usage": "musical improvisation；a piece of improvisation；room for improvisation。",
+    "contrast": "improvisation 强调当场产生；preparation 是事先准备。优秀即兴常建立在长期准备上。",
+    "examples": [
+      [
+        "The performance included several minutes of improvisation.",
+        "表演中有几分钟的即兴发挥。"
+      ],
+      [
+        "With no proper tools, the repair required some improvisation.",
+        "没有合适的工具，这次修理需要临时想办法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/improvisation#English"
+    ]
+  },
+  {
+    "word": "prudence",
+    "ipa": "/ˈpruːdəns/",
+    "meaning": "审慎；稳妥的判断",
+    "sense": "prudence 是先把后果放到眼前，再决定行动的习惯；不是一味胆小，而是知道怎样留余地。",
+    "split": "来自拉丁语 prūdentia，经法语传入，与 prudent 同族。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns → prūdēns",
+        "能预见的 → 明智、审慎的（词形缩合）"
+      ],
+      [
+        "拉丁语：prūdentia",
+        "审慎；远见"
+      ],
+      [
+        "法语：prudence",
+        "明智、谨慎"
+      ],
+      [
+        "英语：prudence",
+        "审慎的判断与做法"
+      ]
+    ],
+    "explanation": "远见转为审慎判断这一品质。常在谈安排、用钱或重大决定时出现。",
+    "usage": "exercise prudence；financial prudence；a matter of prudence。",
+    "contrast": "caution 强调小心危险；prudence 更包含周全、长远而合适的判断。",
+    "examples": [
+      [
+        "Prudence suggested that we leave some extra time.",
+        "稳妥起见，我们最好多留一些时间。"
+      ],
+      [
+        "Her prudence helped the project stay within budget.",
+        "她的审慎安排使项目没有超出预算。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prudence#English"
+    ]
+  },
+  {
+    "word": "prudential",
+    "ipa": "/pruːˈdenʃəl/",
+    "meaning": "审慎的；出于稳妥考虑的",
+    "sense": "prudential 常把“谨慎”放在制度或决策层面：不是只看眼前方便，还要防止以后出问题。",
+    "split": "由拉丁语 prūdentia“审慎”与形容词后缀相连；现代联系 prudence 理解。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns → prūdēns",
+        "能预见的 → 明智、审慎的（词形缩合）"
+      ],
+      [
+        "拉丁语：prūdentia",
+        "审慎；远见"
+      ],
+      [
+        "法语：prudence",
+        "明智、谨慎"
+      ],
+      [
+        "英语：prudential",
+        "与审慎判断有关的"
+      ]
+    ],
+    "explanation": "日常形容人明智多用 prudent；prudential 更常用于正式理由、管理原则和风险安排。",
+    "usage": "prudential reasons；prudential considerations；prudential oversight。",
+    "contrast": "prudent 是常用的审慎；prudential 语气更制度化，不表示“保诚”以外只有某个公司名。",
+    "examples": [
+      [
+        "They delayed the move for prudential reasons.",
+        "出于稳妥考虑，他们推迟了搬迁。"
+      ],
+      [
+        "The report separates moral arguments from prudential considerations.",
+        "报告把道德理由与利弊上的审慎考虑分开讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prudential#English"
+    ]
+  },
+  {
+    "word": "videotape",
+    "ipa": "英 /ˈvɪdiəʊteɪp/；美 /ˈvɪdioʊteɪp/",
+    "meaning": "录像带；用录像带录制",
+    "sense": "videotape 是把活动画面存进磁带，也可以指这盘磁带里的录像。",
+    "split": "video + tape（磁带），现代英语组合。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "现代构词：video（仿 audio）",
+        "借拉丁语词形命名图像信号"
+      ],
+      [
+        "英语：video",
+        "视频；录像"
+      ],
+      [
+        "英语：video + tape → videotape",
+        "储存视频的磁带"
+      ]
+    ],
+    "explanation": "实体录像带曾是常见载体；今天数字录像常直接说 video。动词仍可见于保留旧习惯的表达。",
+    "usage": "an old videotape；record on videotape；videotape a ceremony。",
+    "contrast": "audiotape 只记录声音；videotape 记录图像，通常也带声音。",
+    "examples": [
+      [
+        "We found a videotape of the school play.",
+        "我们找到了一盘学校话剧的录像带。"
+      ],
+      [
+        "My uncle videotaped the ceremony.",
+        "我叔叔录下了那场仪式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/videotape#English"
+    ]
+  },
+  {
+    "word": "improvise",
+    "ipa": "/ˈɪmprəvaɪz/",
+    "meaning": "即兴创作；临时应变",
+    "sense": "improvise 是计划突然用不上时，抓住手边材料和已有经验，现场想办法继续。",
+    "split": "远源是拉丁语 im-（不）+ prōvīsus（预先看见的）；经意大利语和法语相关表演动词进入英语。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvīsus → imprōvīsus",
+        "预先看到的 → 未预见、未准备的"
+      ],
+      [
+        "意大利语：improvisare；法语：improviser",
+        "临场作诗、演说或表演"
+      ],
+      [
+        "英语：improvise",
+        "即兴发挥；临时想办法"
+      ]
+    ],
+    "explanation": "没预先准备好，便在现场创造；既可说音乐表演，也能说临时用箱子当桌子。",
+    "usage": "improvise a melody；improvise a shelter；learn to improvise。",
+    "contrast": "improvise 不等于 improve“改进”；前者临场创造，后者让已有东西变好。",
+    "examples": [
+      [
+        "The pianist improvised a melody while we waited.",
+        "我们等候时，钢琴师即兴弹了一段旋律。"
+      ],
+      [
+        "We improvised a table from two boxes and a board.",
+        "我们用两个箱子和一块木板临时搭了张桌子。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/improvise",
+      "https://en.wiktionary.org/wiki/improvise#English"
+    ]
+  },
+  {
+    "word": "visor",
+    "ipa": "英 /ˈvaɪzə/；美 /ˈvaɪzər/",
+    "meaning": "面罩；帽舌；遮阳板",
+    "sense": "visor 是放在脸或眼睛前方的防护、遮光部分：头盔面罩、帽檐和汽车遮阳板都能用这个词。",
+    "split": "经法语 visiere“头盔面罩”，连接 vis“面容”和拉丁语 vīsus。不是英语 vis + 表人的 -or。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：vis → visiere",
+        "面容 → 护住面部的部分"
+      ],
+      [
+        "英语：visor",
+        "面罩；帽舌；遮阳板"
+      ]
+    ],
+    "explanation": "从头盔前的护脸部分，扩展到挡在眼前遮光的结构。能透视的面罩和不透明帽舌都属于这种用途。",
+    "usage": "a helmet visor；a sun visor；lower the visor。",
+    "contrast": "visor 不等于整个 helmet；它通常只是其中面部或眼睛前方的部分。",
+    "examples": [
+      [
+        "She lowered the visor on her helmet.",
+        "她把头盔的面罩放了下来。"
+      ],
+      [
+        "He pulled down the sun visor to block the glare.",
+        "他放下遮阳板挡住刺眼的光。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/visor",
+      "https://en.wiktionary.org/wiki/visor#English"
+    ]
+  },
+  {
+    "word": "invisibility",
+    "ipa": "/ɪnˌvɪzəˈbɪləti/",
+    "meaning": "不可见性；隐形；被忽略的状态",
+    "sense": "invisibility 是“存在却看不到”的状态，故事里可以是隐身，现实讨论里也可能是没有得到关注。",
+    "split": "来自拉丁语 invīsibilitās，经法语传入；现代对应 invisible 与 -ity。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "晚期拉丁语：invīsibilis",
+        "in- 不 + vīsibilis 可见的"
+      ],
+      [
+        "拉丁语：invīsibilitās；法语：invisibilité",
+        "不能被看见的性质"
+      ],
+      [
+        "英语：invisibility",
+        "隐形；不可见性"
+      ]
+    ],
+    "explanation": "把 invisible 的性质单独拿出来谈，就得到这个抽象名词。社会意义中的隐形是比喻。",
+    "usage": "a cloak of invisibility；social invisibility；the invisibility of unpaid work。",
+    "contrast": "invisibility 是状态；invisible 是形容词，不能说 an invisibility person。",
+    "examples": [
+      [
+        "The story gives the hero the power of invisibility.",
+        "故事赋予主人公隐身能力。"
+      ],
+      [
+        "The essay discusses the invisibility of unpaid care work.",
+        "文章讨论了无偿照护劳动被忽略的现象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/invisibility#English"
+    ]
+  },
+  {
+    "word": "enviable",
+    "ipa": "/ˈenviəbəl/",
+    "meaning": "令人羡慕的",
+    "sense": "enviable 是别人看了会想“我也希望有”的好处，比如自由的时间、稳定的表现或好口碑。",
+    "split": "envy 去 y 加 -iable，对应 envy + -able。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：invidēre → invidia",
+        "带着恶意看 → 嫉妒"
+      ],
+      [
+        "古法语：envie",
+        "嫉妒；羡慕"
+      ],
+      [
+        "英语：envy",
+        "羡慕；嫉妒"
+      ],
+      [
+        "英语：enviable",
+        "足以让人羡慕的"
+      ]
+    ],
+    "explanation": "这里形容引起羡慕的条件，通常是赞赏；不是说拥有者自己正在嫉妒。",
+    "usage": "an enviable reputation；an enviable position；an enviable record。",
+    "contrast": "enviable 令人羡慕，envious 感到羡慕；主客方向不同。",
+    "examples": [
+      [
+        "The school has an enviable reputation for music.",
+        "这所学校在音乐方面的声誉令人羡慕。"
+      ],
+      [
+        "She has the enviable freedom to choose her own hours.",
+        "她有可以自行安排工作时间的自由，令人羡慕。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/enviable#English"
+    ]
+  },
+  {
+    "word": "purview",
+    "ipa": "英 /ˈpɜːvjuː/；美 /ˈpɜːrvjuː/",
+    "meaning": "职责范围；考虑范围",
+    "sense": "purview 像给责任画的一圈边界：圈内是这件事归谁管、这次讨论准备谈到哪儿。",
+    "split": "来自法语法律措辞 purveu“已经规定”；最终连接 prōvidēre。现代拼写受 view 影响，不是 pure + view。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre",
+        "向前看 → 预作准备、供应"
+      ],
+      [
+        "盎格鲁诺曼语：purveu est / purveu que",
+        "已作规定；以此为条件"
+      ],
+      [
+        "英语：purview",
+        "规定所涉及的内容 → 职责、考虑范围"
+      ]
+    ],
+    "explanation": "从文书规定所覆盖的内容，转为机构权限或讨论范围。用“视野范围”记忆方便，但只是近似联想。",
+    "usage": "within the purview of…；outside someone’s purview；fall under the purview of… 。",
+    "contrast": "purview 强调职权或讨论边界；view 是观点或景色，不能直接互换。",
+    "examples": [
+      [
+        "This question falls outside the committee’s purview.",
+        "这个问题不在委员会的职责范围内。"
+      ],
+      [
+        "The review brings online services within its purview.",
+        "这次审查把线上服务也纳入了范围。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/purview#English"
+    ]
+  },
+  {
+    "word": "provisionally",
+    "ipa": "/prəˈvɪʒənəli/",
+    "meaning": "暂定地；有待确认地",
+    "sense": "provisionally 就是说“先这样记下或同意，最后还要确认”。",
+    "split": "provisional + -ly。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre → prōvīsiō",
+        "预先照看 → 准备、供应"
+      ],
+      [
+        "古法语：provision",
+        "预备；供应"
+      ],
+      [
+        "英语：provision → provisional",
+        "安排 → 暂时作出的安排"
+      ],
+      [
+        "英语：provisionally",
+        "以暂定、有条件的方式"
+      ]
+    ],
+    "explanation": "常修饰 agree、accept、schedule，说明动作已经有初步结果，但尚未锁定。",
+    "usage": "provisionally agree；provisionally accept；provisionally scheduled。",
+    "contrast": "finally 表示最终；provisionally 明确留有后续确认或修改的余地。",
+    "examples": [
+      [
+        "We provisionally agreed to meet next Thursday.",
+        "我们暂定下星期四见面。"
+      ],
+      [
+        "The event is provisionally scheduled for June.",
+        "活动暂定在六月举行。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provisionally#English"
+    ]
+  },
+  {
+    "word": "visage",
+    "ipa": "/ˈvɪzɪdʒ/",
+    "meaning": "面容；脸",
+    "sense": "visage 常像小说镜头停在一个人的脸上，让你看见神情、气色或岁月留下的痕迹。",
+    "split": "经法语 visage，远源是拉丁语 vīsus“外观、所见”；俗拉丁语中间形式常写作重建的 *vīsāticum。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "法语：visage",
+        "面容；外观"
+      ],
+      [
+        "英语：visage",
+        "脸；面容（偏文学）"
+      ]
+    ],
+    "explanation": "“看见的样子”集中到最能代表人的脸。今天比 face 更书面，常用于人物描写。",
+    "usage": "a stern visage；a familiar visage；a weathered visage。",
+    "contrast": "face 是日常用词；visage 带文学色彩，普通说洗脸一般不用它。",
+    "examples": [
+      [
+        "A smile softened his stern visage.",
+        "一个微笑使他严肃的面容柔和下来。"
+      ],
+      [
+        "The portrait captures her thoughtful visage.",
+        "肖像画捕捉到了她沉思的面容。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visage#English"
+    ]
+  },
+  {
+    "word": "rearview",
+    "ipa": "英 /ˈrɪəvjuː/；美 /ˈrɪrvjuː/",
+    "meaning": "后视的；向后看的视野",
+    "sense": "rearview 让你看见身后，最熟悉的搭配是汽车里那块向后照的镜子。",
+    "split": "rear（后方）+ view（视野）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：rear + view → rearview",
+        "看向后方的视野"
+      ]
+    ],
+    "explanation": "常作定语修饰 mirror 或 camera。它只说明方向，不表示重新检查以前的决定。",
+    "usage": "a rearview mirror；a rearview camera；rearview visibility。",
+    "contrast": "rearview 向后看位置；review 是再看、审查，不是 rearview 的缩写。",
+    "examples": [
+      [
+        "She checked the rearview mirror before slowing down.",
+        "减速前，她看了看后视镜。"
+      ],
+      [
+        "The rearview camera showed a bicycle behind the car.",
+        "后视摄像头显示车后有一辆自行车。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rearview#English"
+    ]
+  },
+  {
+    "word": "envisage",
+    "ipa": "英 /ɪnˈvɪzɪdʒ/；美 /enˈvɪzɪdʒ/",
+    "meaning": "设想；预计",
+    "sense": "envisage 是把某种未来情况在脑中摆出一个样子，看看它可能怎样发生。",
+    "split": "法语 en- + visage 形成 envisager，原来有正视、看着脸的含义；英语借入后常指设想。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "法语：visage → envisager",
+        "面容 → 正视、设想"
+      ],
+      [
+        "英语：envisage",
+        "在心里设想某种情景"
+      ]
+    ],
+    "explanation": "从面对眼前的样子，转到面对心里设想的情景。可以设想结果，也可以预计某种需要。",
+    "usage": "envisage doing…；envisage something as…；envisage a future。",
+    "contrast": "envisage 与 envision 很接近，前者在英式英语中常见；不等于已经作出承诺。",
+    "examples": [
+      [
+        "We envisage completing the work by autumn.",
+        "我们预计在秋天前完成工作。"
+      ],
+      [
+        "She envisaged the empty building as a community centre.",
+        "她设想把这栋空楼变成社区中心。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/envisage#English"
+    ]
+  },
+  {
+    "word": "interviewee",
+    "ipa": "英 /ˌɪntəvjuːˈiː/；美 /ˌɪntərvjuːˈiː/",
+    "meaning": "受访者；参加面试的人",
+    "sense": "interviewee 是坐在回答问题那一边的人，可能是求职者，也可能是新闻受访者。",
+    "split": "interview + -ee；-ee 常标出接受某种动作的人，重音落在末尾。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：entre- + veoir → entreveue",
+        "相互看见 → 会面"
+      ],
+      [
+        "英语：interview",
+        "通过问答了解对方的会面"
+      ],
+      [
+        "英语：interviewee",
+        "接受采访或面试的人"
+      ]
+    ],
+    "explanation": "后缀把相同会面中的角色区分开。不是凡参加面试的人都一定是将被录用的人。",
+    "usage": "an interviewee’s response；select interviewees；an interviewee for a documentary。",
+    "contrast": "interviewee 回答，interviewer 提问；别仅因都有 interview 就混用。",
+    "examples": [
+      [
+        "Each interviewee was asked the same opening question.",
+        "每位受访者都被问了同一个开场问题。"
+      ],
+      [
+        "The interviewee paused before describing her experience.",
+        "受访者停顿了一下，然后描述自己的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/interviewee#English"
+    ]
+  },
+  {
+    "word": "lakeview",
+    "ipa": "/ˈleɪkvjuː/",
+    "meaning": "湖景；能看见湖的",
+    "sense": "lakeview 是窗外或观景位置望得到湖的那种视野，常出现在住宿和房产描述里。",
+    "split": "lake（湖）+ view（景色），可连写；也常见分开写的 lake view。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：lake + view → lakeview",
+        "湖的景色"
+      ]
+    ],
+    "explanation": "它说的是视线能到湖面，并不保证房屋紧贴湖岸。大写 Lakeview 也可能是地名。",
+    "usage": "a lakeview room；a lakeview property；a lakeview balcony。",
+    "contrast": "lakeview 是能看湖；lakefront 是临湖岸。广告中的两种位置条件可能很不同。",
+    "examples": [
+      [
+        "We booked a lakeview room for the weekend.",
+        "我们为周末订了一间湖景房。"
+      ],
+      [
+        "The lakeview balcony was her favourite part of the house.",
+        "能看到湖的阳台是她最喜欢的房屋部分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/lakeview#English"
+    ]
+  },
+  {
+    "word": "voyeur",
+    "ipa": "英 /vɔɪˈjɜː/；美 /vɔɪˈjɜːr/",
+    "meaning": "窥视者；窥探他人隐私的人",
+    "sense": "voyeur 不是普通旁观者，而是从窥看别人私密生活中获得满足的人；也可批评旁观他人痛苦的心态。",
+    "split": "借自法语 voyeur“看的人”，来自 voir，远源为 vidēre。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "法语：voir → voyeur",
+        "看 → 窥看的人"
+      ],
+      [
+        "英语：voyeur",
+        "窥视者；热衷窥探隐私的人"
+      ]
+    ],
+    "explanation": "原本的看被特化成带有窥私意味的观看，常带贬义。具体语境可偏性意味，也可比喻隐私猎奇。",
+    "usage": "a voyeur；act like a voyeur；a passive voyeur。",
+    "contrast": "viewer 是中性的观看者；voyeur 暗含对隐私的窥探，不适合随便称普通观众。",
+    "examples": [
+      [
+        "The film makes the audience feel uncomfortably like voyeurs.",
+        "这部电影让观众不舒服地觉得自己像在窥探别人。"
+      ],
+      [
+        "The novel criticizes the voyeur who treats private grief as entertainment.",
+        "小说批评了把私人悲痛当娱乐的窥探者。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/voyeur#English"
+    ]
+  },
+  {
+    "word": "provident",
+    "ipa": "英 /ˈprɒvɪdənt/；美 /ˈprɑːvɪdənt/",
+    "meaning": "有远虑的；为将来作打算的",
+    "sense": "provident 像秋天就把冬天要用的粮食备好，关心的是以后需要时有没有准备。",
+    "split": "来自拉丁语 prōvidēns“预先看到的”，与 prudent 同源，但词形没有缩短那么多。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns",
+        "预先看见、考虑周全的"
+      ],
+      [
+        "英语：provident",
+        "为将来打算的"
+      ]
+    ],
+    "explanation": "远见落到生活安排，常指节制开销、储备或预留资源。语气较书面。",
+    "usage": "a provident person；provident planning；a provident household。",
+    "contrast": "prudent 泛指判断审慎；provident 更突出为将来的需要作准备。",
+    "examples": [
+      [
+        "A provident family keeps some supplies for emergencies.",
+        "有远虑的家庭会为紧急情况备些物资。"
+      ],
+      [
+        "Her provident planning left us enough time for delays.",
+        "她周到的提前安排给可能的延误留足了时间。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provident#English"
+    ]
+  },
+  {
+    "word": "clairvoyant",
+    "ipa": "英 /ˌkleəˈvɔɪənt/；美 /ˌklerˈvɔɪənt/",
+    "meaning": "声称有超常感知能力的人；有此能力的",
+    "sense": "clairvoyant 在故事或信仰语境里，像是看见普通眼睛无法看到的事，包括远处或未来的事情。",
+    "split": "法语 clair（清楚）+ voyant（看着的），后者来自 voir。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "法语：voir → voyant；clair",
+        "看着的；清楚的"
+      ],
+      [
+        "法语：clairvoyant",
+        "有洞察力的；被认为能超常感知的"
+      ],
+      [
+        "英语：clairvoyant",
+        "声称有超常感知能力的人；有此能力的"
+      ]
+    ],
+    "explanation": "“看得清”发展出超出普通感官的感知含义。这个词描述一种声称或角色设定，本身不证明能力真实。",
+    "usage": "a clairvoyant；clairvoyant powers；a supposedly clairvoyant figure。",
+    "contrast": "clairvoyant 不是“视力特别好”的日常说法；keen eyesight 才是敏锐视力。",
+    "examples": [
+      [
+        "The story features a clairvoyant who predicts the storm.",
+        "故事中有个能预见暴风雨的通灵者。"
+      ],
+      [
+        "He claimed to have clairvoyant powers.",
+        "他声称自己有超常感知能力。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clairvoyant#English"
+    ]
+  },
+  {
+    "word": "proviso",
+    "ipa": "英 /prəˈvaɪzəʊ/；美 /prəˈvaɪzoʊ/",
+    "meaning": "附带条件；限制性条款",
+    "sense": "proviso 像一句“可以，不过有一个条件”，给前面的同意加上一道边界。",
+    "split": "来自拉丁语 prōvīsō“在已作规定的情况下”，是 prōvidēre 的分词形式用法。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre",
+        "向前看 → 预作准备、供应"
+      ],
+      [
+        "拉丁语：prōvīsō",
+        "在已作安排、规定的情况下"
+      ],
+      [
+        "英语：proviso",
+        "附带条件；保留条款"
+      ]
+    ],
+    "explanation": "法律和正式文书中的条件表达进入一般语言，常用 with the proviso that… 。",
+    "usage": "with the proviso that…；one important proviso；subject to a proviso。",
+    "contrast": "proviso 是附加条件；provision 范围更大，可以是一般条款、供应或安排。",
+    "examples": [
+      [
+        "You may borrow the camera, with the proviso that you return it tomorrow.",
+        "你可以借相机，但条件是明天归还。"
+      ],
+      [
+        "She accepted the offer with one proviso.",
+        "她接受了提议，但附加了一个条件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/proviso#English"
+    ]
+  },
+  {
+    "word": "viewable",
+    "ipa": "/ˈvjuːəbəl/",
+    "meaning": "可观看的；可查看的",
+    "sense": "viewable 表示内容能打开、展示给人看，像文件已经放在可以访问的页面上。",
+    "split": "view + -able，表示能够被查看。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：viewable",
+        "可以被观看或查看的"
+      ]
+    ],
+    "explanation": "常见于数字内容的访问与显示。能查看不代表有权编辑或下载。",
+    "usage": "viewable online；viewable by members；viewable on a phone。",
+    "contrast": "visible 是看得见；viewable 常关心是否能访问、播放或查看内容。",
+    "examples": [
+      [
+        "The photographs are viewable online.",
+        "这些照片可以在线查看。"
+      ],
+      [
+        "The file is viewable but cannot be edited.",
+        "这个文件可以查看，但不能编辑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/viewable#English"
+    ]
+  },
+  {
+    "word": "evidentiary",
+    "ipa": "英 /ˌevɪˈdenʃəri/；美 /ˌevɪˈdenʃieri/",
+    "meaning": "证据的；与举证有关的",
+    "sense": "evidentiary 是给材料或程序贴上“关于证据”的标签，常用在正式调查和法律讨论中。",
+    "split": "拉丁语 ēvidentia“证据、清楚”与 -ary 对应；不把它当成 evident 的普通“明显”义。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：ēvidēns",
+        "ē- 向外 + 看：显露可见的"
+      ],
+      [
+        "拉丁语：ēvidentia",
+        "清楚；证明"
+      ],
+      [
+        "英语：evidentiary",
+        "与证据及其使用有关的"
+      ]
+    ],
+    "explanation": "指向证据的性质、价值或处理程序，并不表示某份材料已经足够证明所有事情。",
+    "usage": "evidentiary value；an evidentiary hearing；evidentiary material。",
+    "contrast": "evident 是明显的；evidentiary 是关于证据的。evidentiary rules 不是“明显的规则”。",
+    "examples": [
+      [
+        "The report discusses the evidentiary value of the photograph.",
+        "报告讨论了这张照片的证据价值。"
+      ],
+      [
+        "The hearing focused on evidentiary questions.",
+        "听证集中讨论了证据方面的问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evidentiary#English"
+    ]
+  },
+  {
+    "word": "viewfinder",
+    "ipa": "英 /ˈvjuːfaɪndə/；美 /ˈvjuːfaɪndər/",
+    "meaning": "取景器",
+    "sense": "viewfinder 是拍照时让你先看清“这张照片会装进什么”的小窗口或显示装置。",
+    "split": "view（画面、视野）+ finder（帮助寻找、确定的东西）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：view + finder → viewfinder",
+        "帮助确定画面的装置"
+      ]
+    ],
+    "explanation": "通过它安排主体的位置与边界，再决定什么时候按快门。它可以是光学的，也可以是电子的。",
+    "usage": "look through the viewfinder；an electronic viewfinder；frame a shot in the viewfinder。",
+    "contrast": "viewfinder 用于取景；lens 是镜头。它们在某些相机系统中有关联，但不是同一部件名称。",
+    "examples": [
+      [
+        "She looked through the viewfinder and adjusted the frame.",
+        "她透过取景器看了看，调整了构图。"
+      ],
+      [
+        "The electronic viewfinder displays the exposure settings.",
+        "电子取景器会显示曝光设置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/viewfinder#English"
+    ]
+  },
+  {
+    "word": "purveyor",
+    "ipa": "英 /pəˈveɪə/；美 /pərˈveɪər/",
+    "meaning": "供应商；提供者；传播者",
+    "sense": "purveyor 是不断把某类东西送到人们面前的一方：可以供应食品，也可以传播消息和观念。",
+    "split": "经法语 purveour 等形式，来自“提供、预备”的 porveoir；现代可联系 purvey + -or。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre",
+        "预作准备；提供"
+      ],
+      [
+        "古法语：porveoir",
+        "准备；供应"
+      ],
+      [
+        "古法语：purveour",
+        "供应所需物品的人"
+      ],
+      [
+        "英语：purveyor",
+        "供应者；传播者"
+      ]
+    ],
+    "explanation": "早期提供生活必需品的角色，发展为较书面的供应者；搭配 misinformation 时含批评意味。",
+    "usage": "a purveyor of fine food；a purveyor of news；a purveyor of misinformation。",
+    "contrast": "supplier 很通用；purveyor 更书面，有时用于商家宣传或批评传播者。",
+    "examples": [
+      [
+        "The shop is a purveyor of local cheeses.",
+        "这家店供应当地奶酪。"
+      ],
+      [
+        "The article criticizes purveyors of false rumours.",
+        "文章批评了传播虚假传闻的人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/purveyor#English"
+    ]
+  },
+  {
+    "word": "visualise",
+    "ipa": "/ˈvɪʒuəlaɪz/",
+    "meaning": "想象出画面；使可视化",
+    "sense": "visualise 就是让东西在脑中或图表上有一个能看见的样子，与 visualize 做的是同一件事。",
+    "split": "visual + -ise；-ise 是 -ize 的常见拼写变体。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "晚期拉丁语：vīsuālis；法语：visuel",
+        "与视觉有关的"
+      ],
+      [
+        "英语：visual",
+        "视觉的；图像的"
+      ],
+      [
+        "英语：visualise",
+        "形成可观看或想象的画面"
+      ]
+    ],
+    "explanation": "拼写差别不改变词义。英式文本常见 visualise，英式英语也会用 visualize。",
+    "usage": "visualise a scene；visualise the result；visualise data。",
+    "contrast": "visualise 和 visualize 通常只差拼写惯例；同一篇文章保持一致更清楚。",
+    "examples": [
+      [
+        "Close your eyes and visualise a quiet beach.",
+        "闭上眼睛，想象一片安静的海滩。"
+      ],
+      [
+        "This diagram helps readers visualise the flow of water.",
+        "这张图帮助读者直观看出水的流向。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visualise#English"
+    ]
+  },
+  {
+    "word": "improvisational",
+    "ipa": "英 /ˌɪmprəvaɪˈzeɪʃənəl/；美 /ɪmˌprɑːvəˈzeɪʃənəl/",
+    "meaning": "即兴的；重视临场发挥的",
+    "sense": "improvisational 说明表演或工作留有当场创造的空间，下一步会回应现场正在发生的事。",
+    "split": "improvisation + -al，把即兴创作变成性质描述。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvīsus → imprōvīsus",
+        "预先看到的 → 未预见、未准备的"
+      ],
+      [
+        "意大利语：improvisare；法语：improviser",
+        "临场作诗、演说或表演"
+      ],
+      [
+        "法语／英语：improvisation",
+        "即兴创作"
+      ],
+      [
+        "英语：improvisational",
+        "具有即兴创作性质的"
+      ]
+    ],
+    "explanation": "它描述一种方式或风格。即兴表演也可以有规则、主题和训练，并非毫无结构。",
+    "usage": "improvisational theatre；improvisational skills；an improvisational style。",
+    "contrast": "improvised 常指某次临时做成的东西；improvisational 常描述长期风格、能力或方法。",
+    "examples": [
+      [
+        "The workshop teaches improvisational theatre.",
+        "这个工作坊教授即兴戏剧。"
+      ],
+      [
+        "Her improvisational skills helped when the script changed.",
+        "剧本变化时，她的即兴能力派上了用场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/improvisational#English"
+    ]
+  },
+  {
+    "word": "clairvoyance",
+    "ipa": "英 /kleəˈvɔɪəns/；美 /klerˈvɔɪəns/",
+    "meaning": "超常感知；千里眼式洞察",
+    "sense": "clairvoyance 是被声称能获知普通感官没有提供的信息的能力，常见于神秘故事或相关信仰。",
+    "split": "借自法语 clairvoyance；连接 clair“清楚”与 voir“看”的词族。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "法语：voir → voyant；clair",
+        "看着的；清楚的"
+      ],
+      [
+        "法语：clairvoyant",
+        "有洞察力的；被认为能超常感知的"
+      ],
+      [
+        "法语：clairvoyance",
+        "清楚的洞察；超常感知"
+      ],
+      [
+        "英语：clairvoyance",
+        "被认为超越普通感官的感知能力"
+      ]
+    ],
+    "explanation": "从清楚看见引申到超常知道。这里的词义不为相关能力提供证据，也不等于一般视力。",
+    "usage": "claims of clairvoyance；a gift of clairvoyance；belief in clairvoyance。",
+    "contrast": "clairvoyance 是能力名称，clairvoyant 可指声称拥有它的人或相应形容词。",
+    "examples": [
+      [
+        "The novel treats clairvoyance as a rare gift.",
+        "小说把超常感知写成一种罕见天赋。"
+      ],
+      [
+        "The experiment was designed to test claims of clairvoyance.",
+        "这项实验是为检验有关超常感知的声称而设计的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/clairvoyance#English"
+    ]
+  },
+  {
+    "word": "voyeurism",
+    "ipa": "英 /ˈvɔɪərɪzəm/；美 /ˈvɔɪərɪzəm/",
+    "meaning": "窥视行为；窥私欲",
+    "sense": "voyeurism 把窥看别人私密生活当成满足或娱乐；媒体讨论中也会用它批评消费他人隐私。",
+    "split": "voyeur + -ism，表示相应行为或倾向。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "法语：voir → voyeur",
+        "看 → 窥看的人"
+      ],
+      [
+        "英语：voyeur",
+        "窥视者；热衷窥探隐私的人"
+      ],
+      [
+        "英语：voyeurism",
+        "窥视、窥私的行为或倾向"
+      ]
+    ],
+    "explanation": "从具体的窥视者，变成对这种观看方式的概括。词义常含贬义，不能把普通好奇都等同于它。",
+    "usage": "media voyeurism；an accusation of voyeurism；encourage voyeurism。",
+    "contrast": "curiosity 是广泛的好奇；voyeurism 更明确牵涉私密观看，且可能具有性意味。",
+    "examples": [
+      [
+        "The critic accused the programme of encouraging voyeurism.",
+        "评论者指责节目助长窥私欲。"
+      ],
+      [
+        "The film examines the uneasy link between watching and voyeurism.",
+        "影片探讨了观看与窥私之间令人不安的联系。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/voyeurism#English"
+    ]
+  },
+  {
+    "word": "advisement",
+    "ipa": "/ədˈvaɪzmənt/",
+    "meaning": "考虑；斟酌；建议",
+    "sense": "advisement 最常见的画面是把建议先收下，认真想一想，还没有马上答应。",
+    "split": "经法语 avisement 传入，来自 aviser“考虑、告知”；现代对应 advise + -ment。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：avis → aviser",
+        "看法 → 考虑、告知"
+      ],
+      [
+        "古法语：avisement",
+        "考虑；建议"
+      ],
+      [
+        "英语：advisement",
+        "斟酌；建议"
+      ]
+    ],
+    "explanation": "现代尤其见于 take something under advisement，意思是纳入考虑，不等于采纳。",
+    "usage": "take something under advisement；under advisement。",
+    "contrast": "take advice 可表示听从建议；take it under advisement 只是承诺考虑。",
+    "examples": [
+      [
+        "We will take your proposal under advisement.",
+        "我们会认真考虑你的提案。"
+      ],
+      [
+        "The committee kept the matter under advisement.",
+        "委员会继续审慎考虑这件事。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/advisement#English"
+    ]
+  },
+  {
+    "word": "imprudent",
+    "ipa": "/ɪmˈpruːdənt/",
+    "meaning": "不审慎的；欠考虑的",
+    "sense": "imprudent 像没有看前面有没有坑就迈出大步：问题在于没充分想到后果。",
+    "split": "拉丁语 im-（不）+ prūdēns，经法语 imprudent 传入。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns → prūdēns",
+        "能预见的 → 明智、审慎的（词形缩合）"
+      ],
+      [
+        "拉丁语：imprūdēns；法语：imprudent",
+        "缺少预见和审慎的"
+      ],
+      [
+        "英语：imprudent",
+        "欠考虑的"
+      ]
+    ],
+    "explanation": "它批评判断或行动不够稳妥，不一定说人有恶意。常评价一个具体决定。",
+    "usage": "an imprudent decision；imprudent to do…；financially imprudent。",
+    "contrast": "imprudent 是欠考虑；improvident 更具体地指不为将来准备。",
+    "examples": [
+      [
+        "It would be imprudent to leave without checking the weather.",
+        "不看天气就出发会很欠考虑。"
+      ],
+      [
+        "He regretted his imprudent remarks.",
+        "他后悔自己说了欠考虑的话。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/imprudent#English"
+    ]
+  },
+  {
+    "word": "prudently",
+    "ipa": "/ˈpruːdəntli/",
+    "meaning": "审慎地；稳妥地",
+    "sense": "prudently 让你看到行动前留了心：多检查一次、预留一点资源，都是为了后面更稳妥。",
+    "split": "prudent + -ly。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns → prūdēns",
+        "能预见的 → 明智、审慎的（词形缩合）"
+      ],
+      [
+        "古法语：prudent",
+        "审慎的"
+      ],
+      [
+        "英语：prudent",
+        "考虑后果、行事稳妥的"
+      ],
+      [
+        "英语：prudently",
+        "以考虑后果的方式行事"
+      ]
+    ],
+    "explanation": "它描述做事方式，常可译成稳妥起见或谨慎地。强调明智安排，而非动作缓慢。",
+    "usage": "act prudently；manage prudently；spend prudently。",
+    "contrast": "slowly 只是速度慢；prudently 是判断周全，行动也可以很迅速。",
+    "examples": [
+      [
+        "She prudently saved a copy before editing the document.",
+        "她稳妥地先存了一份副本，再编辑文档。"
+      ],
+      [
+        "The team used its limited resources prudently.",
+        "团队审慎使用了有限的资源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/prudently#English"
+    ]
+  },
+  {
+    "word": "evidential",
+    "ipa": "/ˌevɪˈdenʃəl/",
+    "meaning": "证据性的；表明信息来源的",
+    "sense": "evidential 通常说“这东西能不能作为依据”；在语言学里，还指说话者怎样标明自己是看见、听说还是推断。",
+    "split": "来自中古拉丁语 ēvidentiālis，连接 ēvidentia“证据、显明”。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：ēvidēns",
+        "ē- 向外 + 看：显露可见的"
+      ],
+      [
+        "拉丁语：ēvidentia",
+        "清楚；证明"
+      ],
+      [
+        "中古拉丁语：ēvidentiālis",
+        "与证据有关的"
+      ],
+      [
+        "英语：evidential",
+        "证据性的；标记信息来源的"
+      ]
+    ],
+    "explanation": "证据不仅可以是法庭材料，也可以是说话人得知信息的渠道，于是有语言学的专门用法。",
+    "usage": "evidential support；evidential value；an evidential marker。",
+    "contrast": "evidentiary 常见于正式证据程序；evidential 也很常用于语言学，不只是另一种拼写。",
+    "examples": [
+      [
+        "The claim has little evidential support.",
+        "这个说法缺少证据支持。"
+      ],
+      [
+        "An evidential marker can show that the speaker heard the news from someone else.",
+        "传信标记可以表明说话人是从别人那里听到消息的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evidential#English"
+    ]
+  },
+  {
+    "word": "invisibly",
+    "ipa": "/ɪnˈvɪzəbli/",
+    "meaning": "看不见地；不露痕迹地",
+    "sense": "invisibly 像后台默默运作的齿轮：过程在发生，观察者却看不到它。",
+    "split": "invisible 变为副词 invisibly，词尾 -le 对应 -ly。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "晚期拉丁语：invīsibilis",
+        "in- 不 + vīsibilis 可见的"
+      ],
+      [
+        "古法语：invisible",
+        "看不见的"
+      ],
+      [
+        "英语：invisible",
+        "看不见的；被忽视的"
+      ],
+      [
+        "英语：invisibly",
+        "以不被看见的方式"
+      ]
+    ],
+    "explanation": "既可描述实际难以察觉的物理变化，也可说技术、劳动在幕后进行。",
+    "usage": "work invisibly；move invisibly；almost invisibly。",
+    "contrast": "secretly 强调故意保密；invisibly 只说明不被看见，不一定有人刻意隐瞒。",
+    "examples": [
+      [
+        "The software saves changes invisibly in the background.",
+        "软件在后台自动保存修改，用户看不到这个过程。"
+      ],
+      [
+        "Moisture spread almost invisibly beneath the paint.",
+        "湿气在漆面下面几乎不露痕迹地扩散。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/invisibly#English"
+    ]
+  },
+  {
+    "word": "unenviable",
+    "ipa": "/ʌnˈenviəbəl/",
+    "meaning": "令人不羡慕的；棘手的；难堪的",
+    "sense": "unenviable 常是“这个差事可没人想接”：要处理麻烦，或处在两难位置。",
+    "split": "un-（不）+ enviable（令人羡慕的）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：invidēre → invidia",
+        "带着恶意看 → 嫉妒"
+      ],
+      [
+        "古法语：envie",
+        "嫉妒；羡慕"
+      ],
+      [
+        "英语：envy",
+        "羡慕；嫉妒"
+      ],
+      [
+        "英语：enviable → unenviable",
+        "令人羡慕的 → 不值得羡慕的处境"
+      ]
+    ],
+    "explanation": "字面是否定羡慕，实际常委婉地说处境艰难，而不是冷淡地说没什么特别。",
+    "usage": "an unenviable task；an unenviable position；an unenviable choice。",
+    "contrast": "envious 是人的羡慕情绪；unenviable 评价某种处境不理想。",
+    "examples": [
+      [
+        "She had the unenviable task of announcing the delay.",
+        "她不得不承担宣布延期这个棘手任务。"
+      ],
+      [
+        "The mistake left him in an unenviable position.",
+        "这个错误让他陷入难堪的处境。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unenviable#English"
+    ]
+  },
+  {
+    "word": "voyeuristic",
+    "ipa": "英 /ˌvɔɪəˈrɪstɪk/；美 /ˌvɔɪəˈrɪstɪk/",
+    "meaning": "窥私的；满足窥探欲的",
+    "sense": "voyeuristic 把镜头对准别人本不想公开的生活，让观看带上窥探的味道。",
+    "split": "voyeur + -istic，表示具有窥视者式的特点。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "法语：voir → voyeur",
+        "看 → 窥看的人"
+      ],
+      [
+        "英语：voyeur",
+        "窥视者；热衷窥探隐私的人"
+      ],
+      [
+        "英语：voyeuristic",
+        "带有窥探隐私倾向的"
+      ]
+    ],
+    "explanation": "常用于评价报道、影像或兴趣，指出其中消费隐私的倾向，通常带批评色彩。",
+    "usage": "voyeuristic curiosity；a voyeuristic camera angle；voyeuristic entertainment。",
+    "contrast": "observational 可以是中性观察；voyeuristic 则凸显窥私意味。",
+    "examples": [
+      [
+        "She criticized the report’s voyeuristic focus on private grief.",
+        "她批评报道带着窥私心态盯着别人的私人悲痛。"
+      ],
+      [
+        "The director avoids voyeuristic shots of the family.",
+        "导演避免用窥私式镜头拍摄这个家庭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/voyeuristic#English"
+    ]
+  },
+  {
+    "word": "inadvisable",
+    "ipa": "/ˌɪnədˈvaɪzəbəl/",
+    "meaning": "不明智的；不宜采取的",
+    "sense": "inadvisable 是考虑过后会劝你“最好别这样做”的选择。",
+    "split": "in-（不）+ advisable（值得建议的）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "古法语：avis → aviser",
+        "看法 → 考虑、告知"
+      ],
+      [
+        "英语：advise",
+        "提出建议；告知"
+      ],
+      [
+        "英语：advisable → inadvisable",
+        "可取的 → 不宜建议的"
+      ]
+    ],
+    "explanation": "它否定行动的明智程度，常是建议语气，不必然表示被规则禁止。",
+    "usage": "inadvisable to do…；highly inadvisable；consider something inadvisable。",
+    "contrast": "inadvisable 是不推荐；forbidden 是被禁止，约束强度不同。",
+    "examples": [
+      [
+        "It is inadvisable to change every setting at once.",
+        "不宜一次把所有设置都改掉。"
+      ],
+      [
+        "They considered a late departure inadvisable.",
+        "他们认为太晚出发并不稳妥。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inadvisable#English"
+    ]
+  },
+  {
+    "word": "viewport",
+    "ipa": "英 /ˈvjuːpɔːt/；美 /ˈvjuːpɔːrt/",
+    "meaning": "观察窗；视口；可见区域",
+    "sense": "viewport 像框在眼前的一扇窗口：内容可能很大，但你此刻只能通过这个框看到其中一部分。",
+    "split": "view（观看）+ port（开口、窗口）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：view + port → viewport",
+        "观看的窗口 → 可见区域"
+      ]
+    ],
+    "explanation": "实体装置可以有观察窗；屏幕、网页或三维软件中则指用于显示内容的区域。",
+    "usage": "a browser viewport；viewport size；a viewport into the chamber。",
+    "contrast": "screen 是整个屏幕；viewport 是特定内容显示的可见区域，不一定占满屏幕。",
+    "examples": [
+      [
+        "The layout changes when the viewport becomes narrower.",
+        "视口变窄时，布局会发生变化。"
+      ],
+      [
+        "We watched the experiment through a small viewport.",
+        "我们通过一个小观察窗观看实验。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/viewport#English"
+    ]
+  },
+  {
+    "word": "reviewable",
+    "ipa": "/rɪˈvjuːəbəl/",
+    "meaning": "可审查的；可复核的",
+    "sense": "reviewable 表示决定或材料还能拿出来重新看、重新评价，并非永远定死。",
+    "split": "review + -able。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre；古法语：reveoir",
+        "再看"
+      ],
+      [
+        "古法语：reveue",
+        "回看；审视"
+      ],
+      [
+        "英语：review",
+        "检查；回顾；评论"
+      ],
+      [
+        "英语：reviewable",
+        "可以接受审查或复核的"
+      ]
+    ],
+    "explanation": "用于正式流程时，说明某种决定在规定条件下能被重新审视；一般也可说文件便于审看。",
+    "usage": "a reviewable decision；a reviewable process；easily reviewable changes。",
+    "contrast": "reviewable 不等于会被改变；重新审查以后也可能维持原决定。",
+    "examples": [
+      [
+        "The policy states that the decision is reviewable.",
+        "政策说明这一决定可以复核。"
+      ],
+      [
+        "Small changes make the document more easily reviewable.",
+        "把修改控制在小范围内，会让文档更容易审查。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reviewable#English"
+    ]
+  },
+  {
+    "word": "invidious",
+    "ipa": "/ɪnˈvɪdiəs/",
+    "meaning": "招致怨恨的；令人难堪的；不公正的",
+    "sense": "invidious 常像被迫在两个人中偏向一个：无论怎么选，都容易惹来不满或显得不公平。",
+    "split": "直接借自拉丁语 invidiōsus，与 envy 的拉丁祖先相连；不是 in- + 英语 video。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：invidēre → invidia",
+        "带着恶意看 → 嫉妒"
+      ],
+      [
+        "拉丁语：invidiōsus",
+        "带嫉妒、引起反感的"
+      ],
+      [
+        "英语：invidious",
+        "招怨的；不公的；令人难堪的"
+      ]
+    ],
+    "explanation": "它与 envious 同源，但现代通常不只是说某个人嫉妒，而是评价比较、差别待遇或尴尬位置。",
+    "usage": "an invidious comparison；an invidious position；invidious distinctions。",
+    "contrast": "envious 描述羡慕或嫉妒的心情；invidious 常描述容易造成怨恨和不公的做法或处境。",
+    "examples": [
+      [
+        "It would be invidious to compare the two children.",
+        "把这两个孩子作比较，会让人难堪，也容易显得不公平。"
+      ],
+      [
+        "The decision put her in an invidious position.",
+        "这个决定使她陷入容易招人不满的两难位置。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/invidious#English"
+    ]
+  },
+  {
+    "word": "imprudence",
+    "ipa": "/ɪmˈpruːdəns/",
+    "meaning": "欠考虑；不审慎的行为",
+    "sense": "imprudence 是没把后果想清楚就行动的那一面，比如匆忙答应自己做不到的事。",
+    "split": "来自拉丁语 imprūdentia，经法语传入；现代可联系 im- + prudence。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns → prūdēns",
+        "能预见的 → 明智、审慎的（词形缩合）"
+      ],
+      [
+        "拉丁语：imprūdentia；法语：imprudence",
+        "缺少预见、审慎"
+      ],
+      [
+        "英语：imprudence",
+        "欠考虑；不审慎行为"
+      ]
+    ],
+    "explanation": "把 imprudent 的性质作为问题来谈；也能指某一件欠考虑的事，语气较正式。",
+    "usage": "an act of imprudence；financial imprudence；regret one’s imprudence。",
+    "contrast": "imprudence 是判断欠周全；ignorance 是不知道。人知道事实，也可能仍然行动草率。",
+    "examples": [
+      [
+        "He regretted the imprudence of making that promise.",
+        "他后悔自己欠考虑地作出了承诺。"
+      ],
+      [
+        "A moment of imprudence created weeks of extra work.",
+        "一时欠考虑，造成了好几周的额外工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/imprudence#English"
+    ]
+  },
+  {
+    "word": "purvey",
+    "ipa": "英 /pəˈveɪ/；美 /pərˈveɪ/",
+    "meaning": "供应；提供；传播",
+    "sense": "purvey 是持续把一类东西供给别人，常带一点正式或旧式商业口吻。",
+    "split": "古法语 porveoir 来自 prōvidēre；与 provide 是同一拉丁来源走出的不同英语词形。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre",
+        "预作准备；提供"
+      ],
+      [
+        "古法语：porveoir",
+        "准备；供应"
+      ],
+      [
+        "英语：purvey",
+        "供应；传播"
+      ]
+    ],
+    "explanation": "为需求作准备，发展成供应；对象也能从食品变为消息、观点等。",
+    "usage": "purvey food；purvey goods；purvey information。",
+    "contrast": "provide 更日常通用；purvey 常用于较书面地谈商品供应或信息传播。",
+    "examples": [
+      [
+        "The small shop purveys bread and local cheese.",
+        "这家小店供应面包和本地奶酪。"
+      ],
+      [
+        "The website purveys rumours as if they were facts.",
+        "这个网站把传闻当作事实来传播。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/purvey#English"
+    ]
+  },
+  {
+    "word": "visuality",
+    "ipa": "/ˌvɪʒuˈæləti/",
+    "meaning": "视觉性；视觉呈现；外观",
+    "sense": "visuality 把“我们如何看、内容如何被看见”当成一个整体来讨论，常见于艺术和文化研究。",
+    "split": "与拉丁语 visuālitās 相连，现代对应 visual + -ity。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "晚期拉丁语：vīsuālis；法语：visuel",
+        "与视觉有关的"
+      ],
+      [
+        "英语：visuality",
+        "视觉方面的性质与呈现"
+      ]
+    ],
+    "explanation": "它不是日常的视力检查用词。艺术论述常借它讨论图像、观看方式与外观的作用。",
+    "usage": "the visuality of a work；modern visuality；visuality and culture。",
+    "contrast": "visibility 多问能不能看见、受不受注意；visuality 更常讨论视觉呈现本身。",
+    "examples": [
+      [
+        "The essay explores the visuality of silent cinema.",
+        "文章探讨了默片的视觉表现。"
+      ],
+      [
+        "The exhibition draws attention to the visuality of everyday objects.",
+        "展览让人注意日常物品的视觉呈现。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/visuality",
+      "https://en.wiktionary.org/wiki/visuality#English"
+    ]
+  },
+  {
+    "word": "improvident",
+    "ipa": "英 /ɪmˈprɒvɪdənt/；美 /ɪmˈprɑːvɪdənt/",
+    "meaning": "没有远虑的；不为将来准备的",
+    "sense": "improvident 像把今天能用的全用掉，却没想明天还需要什么。",
+    "split": "拉丁语 improvidēns 含 in-（不）与 prōvidēns（预先看到）；现代对应 im- + provident。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns",
+        "预先看见、考虑周全的"
+      ],
+      [
+        "拉丁语：improvidēns",
+        "不作预先考虑的"
+      ],
+      [
+        "英语：improvident",
+        "不为未来准备的"
+      ]
+    ],
+    "explanation": "它特别容易用于资源和生活安排，但重点是不考虑将来，并不等于贫穷。",
+    "usage": "improvident spending；an improvident decision；an improvident habit。",
+    "contrast": "improvident 是缺少打算；poor 是贫穷。资源少的人也可以十分 provident。",
+    "examples": [
+      [
+        "His improvident spending left nothing for repairs.",
+        "他花钱没有远虑，结果没留下维修的钱。"
+      ],
+      [
+        "It was improvident to use all the supplies on the first day.",
+        "第一天就用完所有物资，是没有考虑长远需要。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/improvident#English"
+    ]
+  },
+  {
+    "word": "purveyance",
+    "ipa": "英 /pəˈveɪəns/；美 /pərˈveɪəns/",
+    "meaning": "供应；筹办物资；旧时王室征购制度",
+    "sense": "purveyance 是把需要的物资筹集起来供给某人；历史书中还会专指英国王室的一种征购特权。",
+    "split": "经盎格鲁诺曼语 purveaunce 进入英语，与 purvey 的法语祖先同族。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre",
+        "预作准备；提供"
+      ],
+      [
+        "古法语：porveoir",
+        "准备；供应"
+      ],
+      [
+        "盎格鲁诺曼语：purveaunce",
+        "准备、筹供物资"
+      ],
+      [
+        "英语：purveyance",
+        "供应；历史上的王室征购"
+      ]
+    ],
+    "explanation": "普通义是供应活动；历史专义涉及为王室按估定价格取得物资。不要把这一旧制度套到现代普通采购。",
+    "usage": "the purveyance of supplies；royal purveyance；the history of purveyance。",
+    "contrast": "purveyance 偏旧式或历史用语；现代一般供应工作常用 supply 或 provision。",
+    "examples": [
+      [
+        "The steward organized the purveyance of food for the journey.",
+        "管事安排了旅途食品的筹供。"
+      ],
+      [
+        "The chapter examines royal purveyance in medieval England.",
+        "这一章研究中世纪英格兰的王室征购制度。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/us/dictionary/english/purveyance",
+      "https://en.wiktionary.org/wiki/purveyance#English"
+    ]
+  },
+  {
+    "word": "revisionary",
+    "ipa": "英 /rɪˈvɪʒənəri/；美 /rɪˈvɪʒəneri/",
+    "meaning": "修订性的；重新审视既有说法的",
+    "sense": "revisionary 是不把旧版本照单全收，而是带着重新调整、重新解释的方向去处理。",
+    "split": "revision + -ary。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre → revīsiō",
+        "再看 → 再审查"
+      ],
+      [
+        "法语：révision",
+        "重新审查、修订"
+      ],
+      [
+        "英语：revision",
+        "修订；复习"
+      ],
+      [
+        "英语：revisionary",
+        "带有修订或重新解释性质的"
+      ]
+    ],
+    "explanation": "常见于较学术的文章，描述对理论、解读或既有文本的改写性质。",
+    "usage": "a revisionary account；a revisionary reading；a revisionary approach。",
+    "contrast": "revisionary 描述修订性质；revisionist 有时指特定思潮或重解历史的立场，含义依语境而定。",
+    "examples": [
+      [
+        "The book offers a revisionary account of the movement.",
+        "这本书重新解释了那场运动。"
+      ],
+      [
+        "Her revisionary reading challenges the usual interpretation.",
+        "她的重新解读挑战了通常的解释。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revisionary#English"
+    ]
+  },
+  {
+    "word": "videlicet",
+    "ipa": "/vɪˈdelɪset/",
+    "meaning": "即；也就是说",
+    "sense": "videlicet 像在较老或正式的文字里停一下，接着把前面说的对象具体点名。",
+    "split": "来自拉丁语 vidēlicet，是 vidēre licet“可以看见”的缩合；常缩写 viz.。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vidēre licet → vidēlicet",
+        "可以看见 → 显然、即"
+      ],
+      [
+        "英语：videlicet",
+        "即；具体说就是"
+      ]
+    ],
+    "explanation": "从“可以看见是这样”成为引出具体说明的连接副词。现代普通文章用 namely 更自然。",
+    "usage": "videlicet, …；常见缩写 viz.。",
+    "contrast": "viz. 用来具体说明“即”；e.g. 是“例如”，后面未必列出全部项目。",
+    "examples": [
+      [
+        "Two items were missing, videlicet, the key and the map.",
+        "少了两样东西，即钥匙和地图。"
+      ],
+      [
+        "The note names one obstacle, videlicet, the lack of time.",
+        "便条指出了一个障碍，即时间不足。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/videlicet#English"
+    ]
+  },
+  {
+    "word": "evidentiality",
+    "ipa": "/ˌevɪˌdenʃiˈæləti/",
+    "meaning": "传信性；信息来源的语言标记",
+    "sense": "evidentiality 关注一句话背后的“你怎么知道”：亲眼看到、听别人说，还是根据线索推出来。",
+    "split": "evidential + -ity，把与信息依据有关的性质变成语言学术语。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：ēvidēns",
+        "ē- 向外 + 看：显露可见的"
+      ],
+      [
+        "拉丁语：ēvidentia",
+        "清楚；证明"
+      ],
+      [
+        "英语：evidential",
+        "标明信息依据的"
+      ],
+      [
+        "英语：evidentiality",
+        "语言中对信息来源的表达"
+      ]
+    ],
+    "explanation": "有些语言用专门语法形式区分亲见、传闻、推断等。它首先说明来源，不等于给陈述自动判定真假。",
+    "usage": "grammatical evidentiality；a system of evidentiality；evidentiality markers。",
+    "contrast": "certainty 是确定程度；evidentiality 主要是信息来源，两者可有关联但不能混为一谈。",
+    "examples": [
+      [
+        "The course examines how languages express evidentiality.",
+        "这门课研究语言怎样表达信息来源。"
+      ],
+      [
+        "Evidentiality can distinguish a witnessed event from a reported one.",
+        "传信标记可以区分亲眼见到的事件和听说的事件。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/evidentiality#English",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC1890020/"
+    ]
+  },
+  {
+    "word": "improvidence",
+    "ipa": "英 /ɪmˈprɒvɪdəns/；美 /ɪmˈprɑːvɪdəns/",
+    "meaning": "缺乏远虑；不作储备",
+    "sense": "improvidence 是只安排眼前、不顾以后需要的习惯，像出门带够去程的钱，却没想回程。",
+    "split": "im-（不）+ providence（预先打算、远见）；这里否定普通远见义，不是在否定天意。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēns",
+        "预先看见、考虑周全的"
+      ],
+      [
+        "英语：providence 的远见义 → improvidence",
+        "有预备 → 缺乏未来打算"
+      ]
+    ],
+    "explanation": "常见于较书面地评价花费或筹划。重点是未作准备，而不是遭遇困难就一定该受责备。",
+    "usage": "financial improvidence；a habit of improvidence；suffer from improvidence。",
+    "contrast": "imprudence 泛指不审慎；improvidence 更集中于没有为将来安排资源。",
+    "examples": [
+      [
+        "The story contrasts her careful planning with his improvidence.",
+        "故事对比了她的精心规划和他的缺乏远虑。"
+      ],
+      [
+        "Their improvidence left the expedition short of supplies.",
+        "他们未作长远准备，导致探险队物资不足。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/improvidence#English"
+    ]
+  },
+  {
+    "word": "provisory",
+    "ipa": "/prəˈvaɪzəri/",
+    "meaning": "附带条件的；暂时的",
+    "sense": "provisory 常表示“先作这个安排，但要带着条件或等最终确定”，语气较少见、较正式。",
+    "split": "来自中古拉丁语 prōvīsōrius，连接 prōvidēre 的分词词干；与 proviso、provisional 同族。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre",
+        "向前看 → 预作准备、供应"
+      ],
+      [
+        "中古拉丁语：prōvīsōrius",
+        "关于安排、预备的"
+      ],
+      [
+        "英语：provisory",
+        "有条件的；暂定的"
+      ]
+    ],
+    "explanation": "可以强调含有限制条件，也可近似 provisional“暂定”。具体侧重点由名词和上下文判断。",
+    "usage": "a provisory arrangement；a provisory clause；a provisory agreement。",
+    "contrast": "provisory 的元音是 /aɪ/；provisional 通常 /ɪ/。日常说暂定，用 provisional 更常见。",
+    "examples": [
+      [
+        "They reached a provisory agreement pending further talks.",
+        "他们达成了临时协议，等待进一步会谈。"
+      ],
+      [
+        "The document includes a provisory clause limiting its duration.",
+        "文件包含一项限制有效期的附条件条款。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/provisory",
+      "https://en.wiktionary.org/wiki/provisory#English"
+    ]
+  },
+  {
+    "word": "counterview",
+    "ipa": "英 /ˈkaʊntəvjuː/；美 /ˈkaʊntərvjuː/",
+    "meaning": "相反观点；对照看法",
+    "sense": "counterview 是有人往一个方向解释时，你从另一边提出的看法，让讨论有对照。",
+    "split": "counter-（相反、相对）+ view（观点）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：counter- + view → counterview",
+        "与原观点相对的看法"
+      ]
+    ],
+    "explanation": "主要在较书面的讨论中指反面观点；旧用法也有对面相向、以对比相衬的意思。",
+    "usage": "present a counterview；offer a counterview；a counterview to… 。",
+    "contrast": "counterview 不必完全否认对方每句话，可能只是提出另一种解释；日常说 opposing view 更常见。",
+    "examples": [
+      [
+        "The final chapter presents a counterview to the author’s argument.",
+        "最后一章提出了与作者论点相对的看法。"
+      ],
+      [
+        "She offered a counterview based on the same evidence.",
+        "她依据同样的证据提出了另一种相反的解释。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/counterview#English"
+    ]
+  },
+  {
+    "word": "envisagement",
+    "ipa": "/ɪnˈvɪzɪdʒmənt/",
+    "meaning": "设想；构想",
+    "sense": "envisagement 是把未来的样子先放进脑中这一动作或结果，是 envisage 的较少见名词。",
+    "split": "envisage + -ment。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "法语：visage → envisager",
+        "面容 → 正视、设想"
+      ],
+      [
+        "英语：envisage",
+        "在心里设想某种情景"
+      ],
+      [
+        "英语：envisagement",
+        "形成某种设想的行为或结果"
+      ]
+    ],
+    "explanation": "常出现在较抽象的论述中。它没有增加神秘含义，只是把“设想”变成能单独谈论的名词。",
+    "usage": "an envisagement of the future；the envisagement of a plan。",
+    "contrast": "envisioning 或 vision 在许多现代语境更自然；envisagement 认识即可，不必为了高级而频繁使用。",
+    "examples": [
+      [
+        "The essay offers an envisagement of a quieter city.",
+        "文章构想了一座更安静的城市。"
+      ],
+      [
+        "Her envisagement of the project changed after the discussion.",
+        "讨论后，她对项目的设想发生了变化。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/envisagement#English",
+      "https://www.merriam-webster.com/dictionary/envisagement"
+    ]
+  },
+  {
+    "word": "inevident",
+    "ipa": "/ɪnˈevɪdənt/",
+    "meaning": "不明显的；难以看出的",
+    "sense": "inevident 说某个联系或原因没有摆明在眼前，得花力气才能看出来，是少见书面词。",
+    "split": "来自晚期拉丁语 inevidēns，含 in-（不）+ ēvidēns（明显的）；现代对应 in- + evident。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：ēvidēns",
+        "ē- 向外 + 看：显露可见的"
+      ],
+      [
+        "晚期拉丁语：inevidēns",
+        "不明显的"
+      ],
+      [
+        "英语：inevident",
+        "不明显；不易判断的"
+      ]
+    ],
+    "explanation": "它是否定显明程度，不表示事情不存在。普通英语通常直接说 not evident 或 unclear。",
+    "usage": "an inevident connection；remain inevident；inevident causes。",
+    "contrast": "inevident 是不明显；irrelevant 是不相关。看不出关系，不等于已经证明没有关系。",
+    "examples": [
+      [
+        "The connection remained inevident to the reader.",
+        "读者仍看不出其中的联系。"
+      ],
+      [
+        "The essay explores causes that are initially inevident.",
+        "文章探讨了起初并不明显的原因。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inevident#English",
+      "https://www.merriam-webster.com/dictionary/inevident"
+    ]
+  },
+  {
+    "word": "nonevidentiary",
+    "ipa": "英 /ˌnɒnevɪˈdenʃəri/；美 /ˌnɑːnevɪˈdenʃieri/",
+    "meaning": "非证据性的；不涉及举证的",
+    "sense": "nonevidentiary 像把资料分成两摞时贴的标签：这一摞不作为证据，或这一步不处理举证。",
+    "split": "non-（非）+ evidentiary（证据的）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：ēvidēns",
+        "ē- 向外 + 看：显露可见的"
+      ],
+      [
+        "拉丁语：ēvidentia",
+        "清楚；证明"
+      ],
+      [
+        "英语：evidentiary → nonevidentiary",
+        "关于证据的 → 非证据性的"
+      ]
+    ],
+    "explanation": "它可以描述材料的用途，也可描述程序性质；并不自动说内容虚假或毫无帮助。",
+    "usage": "nonevidentiary material；a nonevidentiary discussion；nonevidentiary information。",
+    "contrast": "nonevidentiary 是证据角色的否定；false 才是虚假的。真实资料也可能不作为证据使用。",
+    "examples": [
+      [
+        "The appendix contains nonevidentiary background material.",
+        "附录包含不作证据使用的背景材料。"
+      ],
+      [
+        "The meeting was limited to nonevidentiary procedural questions.",
+        "会议仅讨论不涉及举证的程序问题。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonevidentiary#English"
+    ]
+  },
+  {
+    "word": "nonsupervisory",
+    "ipa": "英 /ˌnɒnsuːpəˈvaɪzəri/；美 /ˌnɑːnsuːpərˈvaɪzəri/",
+    "meaning": "不承担监督职责的；非管理岗位的",
+    "sense": "nonsupervisory 指工作的重点是完成自己的任务，不承担监督别人工作的职责。",
+    "split": "non-（非）+ supervisory（监督的）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "中古拉丁语：supervidēre → supervīsus",
+        "从上方察看；监督"
+      ],
+      [
+        "英语：supervise",
+        "负责指导、监督"
+      ],
+      [
+        "英语：supervisory → nonsupervisory",
+        "承担监督职责 → 不承担这类职责"
+      ]
+    ],
+    "explanation": "常用于人员或岗位分类。它不评价能力高低，也不表示工作不受任何监督。",
+    "usage": "nonsupervisory employees；a nonsupervisory role；nonsupervisory duties。",
+    "contrast": "nonsupervisory 是不管别人；unsupervised 是没有别人监督自己，两者方向不同。",
+    "examples": [
+      [
+        "The training is open to nonsupervisory employees.",
+        "培训面向不承担管理职责的员工。"
+      ],
+      [
+        "He preferred a nonsupervisory role focused on design.",
+        "他更喜欢专注设计、无需管理他人的岗位。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonsupervisory#English"
+    ]
+  },
+  {
+    "word": "nonvisual",
+    "ipa": "英 /ˌnɒnˈvɪʒuəl/；美 /ˌnɑːnˈvɪʒuəl/",
+    "meaning": "非视觉的；不依赖观看的",
+    "sense": "nonvisual 把眼睛这条通道暂时拿开，改用声音、触觉或其他方式获取信息。",
+    "split": "non-（非）+ visual（视觉的）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "晚期拉丁语：vīsuālis；法语：visuel",
+        "与视觉有关的"
+      ],
+      [
+        "英语：visual",
+        "视觉的；图像的"
+      ],
+      [
+        "英语：non- + visual → nonvisual",
+        "不属于视觉通道的"
+      ]
+    ],
+    "explanation": "它描述信息或方法不依靠视觉，不是在说某个人完全看不见。",
+    "usage": "nonvisual information；nonvisual cues；nonvisual navigation。",
+    "contrast": "invisible 是看不见；nonvisual 是不靠视觉。一声提示音属于 nonvisual 信息。",
+    "examples": [
+      [
+        "The app provides nonvisual cues through sound.",
+        "应用通过声音提供非视觉提示。"
+      ],
+      [
+        "Touch offers a nonvisual way to explore the sculpture.",
+        "触摸提供了一种无需观看也能了解雕塑的方式。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/nonvisual#English"
+    ]
+  },
+  {
+    "word": "previse",
+    "ipa": "/prɪˈvaɪz/",
+    "meaning": "预见；预先告知",
+    "sense": "previse 是在事情真正来到之前先看见趋势，或把即将发生的事提前告诉别人，是少见词。",
+    "split": "拉丁语 prae-（在前）+ vidēre，形成 praevidēre；英语词形连接其分词 praevisus。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：praevidēre → praevisus",
+        "预先看见；预见"
+      ],
+      [
+        "英语：previse",
+        "预见；预先通知"
+      ]
+    ],
+    "explanation": "与 preview 都有提前看的意象，但 previse 用于预见或提醒，不是打开预览窗口。",
+    "usage": "previse a difficulty；previse someone of… 。",
+    "contrast": "现代普通表达多用 foresee 或 warn in advance；不要把 previse 当常用软件按钮名。",
+    "examples": [
+      [
+        "Few could previse the difficulties that lay ahead.",
+        "很少有人能预见前面的困难。"
+      ],
+      [
+        "The letter prevised them of a possible delay.",
+        "信中提前告知他们可能会延误。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/previse",
+      "https://en.wiktionary.org/wiki/previse#English"
+    ]
+  },
+  {
+    "word": "provisionality",
+    "ipa": "/prəˌvɪʒəˈnæləti/",
+    "meaning": "暂定性；临时性",
+    "sense": "provisionality 是在结论旁边留着一个铅笔标记：目前接受，但新情况出现时愿意再改。",
+    "split": "provisional + -ity，后缀使重音移到后面的音节。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：prōvidēre → prōvīsiō",
+        "预先照看 → 准备、供应"
+      ],
+      [
+        "古法语：provision",
+        "预备；供应"
+      ],
+      [
+        "英语：provision → provisional",
+        "安排 → 暂时作出的安排"
+      ],
+      [
+        "英语：provisionality",
+        "暂定而非最终确定的性质"
+      ]
+    ],
+    "explanation": "常在学术讨论中说明知识、解释或安排仍可修正；不是简单说它只持续几分钟。",
+    "usage": "the provisionality of a conclusion；acknowledge provisionality。",
+    "contrast": "temporariness 强调存在时间短；provisionality 常强调尚未最后定论。",
+    "examples": [
+      [
+        "The author acknowledges the provisionality of her conclusions.",
+        "作者承认自己的结论仍属暂定。"
+      ],
+      [
+        "The arrangement’s provisionality made long-term planning difficult.",
+        "安排的暂定性质使长期规划变得困难。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/provisionality#English"
+    ]
+  },
+  {
+    "word": "reviewal",
+    "ipa": "/rɪˈvjuːəl/",
+    "meaning": "审查；复看；回顾",
+    "sense": "reviewal 就是把材料再看一遍、重新评估这件事，是 review 的较少见名词形式。",
+    "split": "review + -al；这里 -al 构成动作名词，不是通常的形容词后缀用法。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre；古法语：reveoir",
+        "再看"
+      ],
+      [
+        "古法语：reveue",
+        "回看；审视"
+      ],
+      [
+        "英语：review",
+        "检查；回顾；评论"
+      ],
+      [
+        "英语：reviewal",
+        "重新查看的行为"
+      ]
+    ],
+    "explanation": "它与名词 review 基本重合，偏书面或旧式。学习时认得即可，日常通常用 review。",
+    "usage": "a reviewal of the evidence；careful reviewal；after reviewal。",
+    "contrast": "reviewal 只是审看，不保证修改；revisal 更贴近修订。",
+    "examples": [
+      [
+        "The proposal was returned for further reviewal.",
+        "提案被退回进一步审查。"
+      ],
+      [
+        "A careful reviewal of the notes revealed the mistake.",
+        "仔细复看笔记后，发现了那个错误。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/reviewal",
+      "https://en.wiktionary.org/wiki/reviewal#English"
+    ]
+  },
+  {
+    "word": "revisal",
+    "ipa": "/rɪˈvaɪzəl/",
+    "meaning": "修订；修订过程",
+    "sense": "revisal 像把旧稿翻出来，在原有内容上重新改过，是 revision 的少见近义词。",
+    "split": "revise + -al，构成修订动作的名词。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre → revīsere",
+        "再次看；重新察看"
+      ],
+      [
+        "法语：réviser",
+        "再检查、修订"
+      ],
+      [
+        "英语：revise",
+        "修改；复习"
+      ],
+      [
+        "英语：revisal",
+        "再次检查并修改的行为"
+      ]
+    ],
+    "explanation": "和 reviewal 不同，它更贴近 revise 的修改义。现代普通文本多使用 revision。",
+    "usage": "a revisal of the text；a thorough revisal；undergo revisal。",
+    "contrast": "revisal 读 /aɪ/；revision 读 /ɪ/。意思接近，但后者远更常用。",
+    "examples": [
+      [
+        "The manuscript required a thorough revisal.",
+        "这份手稿需要全面修订。"
+      ],
+      [
+        "The editor completed a revisal of the final chapter.",
+        "编辑完成了最后一章的修订。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/revisal",
+      "https://en.wiktionary.org/wiki/revisal#English"
+    ]
+  },
+  {
+    "word": "surview",
+    "ipa": "英 /ˈsɜːvjuː/；美 /ˈsɜːrvjuː/",
+    "meaning": "统览；察看（旧词）",
+    "sense": "surview 像从高处把一片地方尽收眼底，是与 survey 相近的旧式词形。",
+    "split": "中古英语 survewe 来自古法语 surveoir；sur- 表上方，veoir 表看。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：sur- + veoir → surveer",
+        "从上方看；统览"
+      ],
+      [
+        "中古英语：survewe",
+        "统览；察看"
+      ],
+      [
+        "英语旧词：surview",
+        "概览；察看"
+      ]
+    ],
+    "explanation": "这个形式没有像 survey 那样留在日常英语中。以下例句特意采用旧式叙述语气，帮助读旧文。",
+    "usage": "a surview of the land；a general surview（旧式表达）。",
+    "contrast": "现代通常选 survey 或 overview；surview 不应当作这些词的新潮拼写。",
+    "examples": [
+      [
+        "From the tower, he took a surview of the valley.",
+        "他从塔上统览了山谷。"
+      ],
+      [
+        "The account begins with a general surview of the country.",
+        "这份记述先对该国作了总体概览。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/surview#English"
+    ]
+  },
+  {
+    "word": "visualization",
+    "ipa": "英 /ˌvɪʒuəlaɪˈzeɪʃən/；美 /ˌvɪʒuələˈzeɪʃən/",
+    "meaning": "可视化；在脑中形成画面",
+    "sense": "visualization 是把数字、关系或想象变成一幅能看懂的图景，让你不必只盯着抽象符号。",
+    "split": "visualize + -ation，表示形成图像的过程或结果。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：vīsus",
+        "看见；所见的样子"
+      ],
+      [
+        "晚期拉丁语：vīsuālis；法语：visuel",
+        "与视觉有关的"
+      ],
+      [
+        "英语：visual",
+        "视觉的；图像的"
+      ],
+      [
+        "英语：visualize → visualization",
+        "形成画面 → 成像、可视化"
+      ]
+    ],
+    "explanation": "既可指数据图，也可指在心里排演一个场景。图形有助于理解，但仍要看它如何选取和呈现信息。",
+    "usage": "data visualization；a visualization of the process；mental visualization。",
+    "contrast": "visualization 强调把内容转成图像；illustration 也能是装饰或具体插图，范围不完全相同。",
+    "examples": [
+      [
+        "The visualization makes the seasonal pattern easy to see.",
+        "这幅可视化图让季节性规律一目了然。"
+      ],
+      [
+        "She used visualization to rehearse the performance in her mind.",
+        "她用想象画面的方式在脑中排练演出。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/visualization#English"
+    ]
+  },
+  {
+    "word": "viewership",
+    "ipa": "英 /ˈvjuːəʃɪp/；美 /ˈvjuːərʃɪp/",
+    "meaning": "观众群；观众人数",
+    "sense": "viewership 像把所有看这个节目的人放到一起，既可以谈这群人，也可以谈他们有多少。",
+    "split": "viewer + -ship，形成表示群体或总体情况的名词。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "古法语：veoir → veue",
+        "看 → 看见的景象"
+      ],
+      [
+        "英语：view",
+        "景色；视野；看法；查看"
+      ],
+      [
+        "英语：viewer → viewership",
+        "观看者 → 观众群及其规模"
+      ]
+    ],
+    "explanation": "媒体常用它比较节目受欢迎程度。具体数据是人数、家庭数还是某段时间的观看规模，要看统计口径。",
+    "usage": "television viewership；a rise in viewership；attract a large viewership。",
+    "contrast": "views 是播放或查看次数；viewership 关注观众群和规模，不能随便把次数当人数。",
+    "examples": [
+      [
+        "The programme’s viewership grew during its second season.",
+        "这个节目第二季的观众规模扩大了。"
+      ],
+      [
+        "The channel hopes to attract a younger viewership.",
+        "这个频道希望吸引更年轻的观众群。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/viewership#English"
+    ]
+  },
+  {
+    "word": "revisionist",
+    "ipa": "/rɪˈvɪʒənɪst/",
+    "meaning": "重新解释既有观点的人；修正主义的",
+    "sense": "revisionist 是拿出新解释，要求重新看待某套旧说法的人；可能是在认真纠错，也可能带有争议。",
+    "split": "revision + -ist，表示主张或进行修订的一方；也可作形容词。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre → revīsiō",
+        "再看 → 再审查"
+      ],
+      [
+        "法语：révision",
+        "重新审查、修订"
+      ],
+      [
+        "英语：revision",
+        "修订；复习"
+      ],
+      [
+        "英语：revisionist",
+        "主张重新解释或修正的人、观点"
+      ]
+    ],
+    "explanation": "常用于历史、理论或政治思想的争论。这个词本身不能代替对证据和论证的检查。",
+    "usage": "a revisionist historian；a revisionist account；revisionist ideas。",
+    "contrast": "revisionist 不自动等于造假者，也不自动等于发现真相的人；褒贬和准确性都要看具体工作。",
+    "examples": [
+      [
+        "The historian offered a revisionist account of the conflict.",
+        "这位历史学家重新解释了那场冲突。"
+      ],
+      [
+        "Critics challenged the revisionist argument with new evidence.",
+        "批评者用新证据质疑了那种重新解释的论点。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revisionist#English"
+    ]
+  },
+  {
+    "word": "revisionism",
+    "ipa": "/rɪˈvɪʒənɪzəm/",
+    "meaning": "对既有理论或历史解释的修正；修正主义",
+    "sense": "revisionism 是把既有解释重新打开，试图改写其中一部分或整个框架的立场与做法。",
+    "split": "revision + -ism，构成学说、倾向或实践的名称。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "拉丁语：revidēre → revīsiō",
+        "再看 → 再审查"
+      ],
+      [
+        "法语：révision",
+        "重新审查、修订"
+      ],
+      [
+        "英语：revision",
+        "修订；复习"
+      ],
+      [
+        "英语：revisionism",
+        "重新解释既有说法的倾向或学说"
+      ]
+    ],
+    "explanation": "它有特定政治史用法，也可广义用于重新解释历史。评价时要看是否有证据，不能仅凭标签判断。",
+    "usage": "historical revisionism；accusations of revisionism；debates over revisionism。",
+    "contrast": "revision 是一次具体修订；revisionism 常是更成体系的立场或倾向。",
+    "examples": [
+      [
+        "The seminar examined debates about historical revisionism.",
+        "研讨课研究了有关历史重新解释的争论。"
+      ],
+      [
+        "The review asks whether the book’s revisionism is supported by evidence.",
+        "书评追问这本书对旧观点的修正是否有证据支持。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/revisionism#English"
+    ]
+  },
+  {
+    "word": "unsupervised",
+    "ipa": "英 /ˌʌnˈsuːpəvaɪzd/；美 /ˌʌnˈsuːpərvaɪzd/",
+    "meaning": "无人监督的；无指导的",
+    "sense": "unsupervised 是现场没有专人盯着并指导，可以独立进行，也可能表示缺少应有照看。",
+    "split": "un-（不、没有）+ supervised（受监督的）。",
+    "history": [
+      [
+        "拉丁语：vidēre（videō）",
+        "看；看见"
+      ],
+      [
+        "中古拉丁语：supervidēre → supervīsus",
+        "从上方察看；监督"
+      ],
+      [
+        "英语：supervise",
+        "负责指导、监督"
+      ],
+      [
+        "英语：supervised → unsupervised",
+        "有人监督 → 没有监督"
+      ]
+    ],
+    "explanation": "普通用法描述监督条件；技术中的 unsupervised learning 则专指学习时不依赖给定目标标签，不是完全没有人参与。",
+    "usage": "leave someone unsupervised；unsupervised access；unsupervised work。",
+    "contrast": "nonsupervisory 是不负责监督别人；unsupervised 是自己没有受到监督。",
+    "examples": [
+      [
+        "The equipment must not be left running unsupervised.",
+        "设备运转时不得无人看管。"
+      ],
+      [
+        "After training, she was allowed to work unsupervised.",
+        "培训之后，她获准独立工作，无需监督。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unsupervised#English",
+      "https://scikit-learn.org/stable/unsupervised_learning.html"
+    ]
+  }
+]

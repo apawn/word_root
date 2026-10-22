@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>policing：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">古希腊语：pólis → polítēs</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">城邦 → 城邦的公民</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">古希腊语：politeía → 拉丁语 polītīa</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">公民身份；公共事务的组织与治理</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">中古法语：police</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">社会治理、公共秩序</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：police</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">治理、维持秩序 → 警察机关及其人员</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：police → policing</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">维持秩序 → 警务、监督活动</text>
+</svg>

@@ -1,0 +1,14 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+B=[['古希腊 tymbos','坟丘；坟墓'],['拉丁 tumba → 古法语 tombe → 英语 tomb','坟墓；墓室']]
+W=[
+E('tomb','/tuːm/','坟墓；墓室；陵墓','把安放死者的地方想成一个可封闭的空间，可能在地下，也可能是石砌或大型建筑。','经古法语 tombe、拉丁 tumba 接希腊 tymbos 坟丘、坟墓；常见英美读音中末尾 b 不发音。',B,'a royal tomb 是王室陵墓；an ancient tomb 是古墓。tomb 常让人想到墓穴、墓室或较明显的墓葬结构，范围不只是一块立起来的碑。','an ancient tomb；a royal tomb；a burial tomb；the entrance to a tomb。','grave 常指埋葬的墓穴或墓地位置；tomb 更容易强调墓室或结构，但实际用法有重叠。tombstone 才是墓碑。',('The archaeologists found paintings inside the ancient tomb.','考古学家在古墓内部发现了壁画。'),('Visitors waited outside the entrance to the royal tomb.','游客在王陵入口外等候。'),sources=['https://en.wiktionary.org/wiki/tomb']),
+E('tombstone','英 /ˈtuːmstəʊn/；美 /ˈtuːmstoʊn/','墓碑','坟墓边竖着的一块石头，上面写着逝者是谁、何时生卒，供人辨认和纪念。','英语 tomb 坟墓 + stone 石头；这是透明的英语合成词，tomb 中的 b 仍不发音。',B+[['英语 tomb + stone → tombstone','墓葬旁用来标记的石碑']],'read a tombstone 是读墓碑上的字；the name on the tombstone 是碑上的姓名。软件资料也会借它表示留下的删除标记，但日常阅读先掌握实际墓碑义即可。','an inscription on a tombstone；a weathered tombstone；a name carved on a tombstone。','tomb 是墓葬空间或结构，tombstone 是标识它的碑。它不等于 coffin 棺材，三者的位置和用途不同。',('The inscription on the tombstone had faded with age.','墓碑上的碑文年深日久，已经模糊了。'),('She placed flowers beside her grandfather’s tombstone.','她把鲜花放在祖父的墓碑旁。'),sources=['https://en.wiktionary.org/wiki/tombstone']),
+E('entomb','/ɪnˈtuːm/','埋葬于墓中；掩埋；封在里面','像把东西封进墓室，四周包住，难以再出来或被看见。','借自古法语 entomber，来自表示进入的 en- 与 tombe 坟墓；现代可对应 en- + tomb，但借入时已有整词。',B+[['古法语 en- + tombe → entomber','放入墓中'],['英语 entomb','葬入墓中；封埋']],'be entombed in stone 可说遗体被安置于石质墓葬，也能比喻某物被岩层或废墟包裹。这个词比 bury 更容易让人想到密闭、被封住的感觉。','be entombed in；be entombed beneath；entomb remains。','bury 泛指埋在土、雪或其他物质下面；entomb 更强调如同入墓般封埋。两者都不应一律理解为某个人已经死亡，要看具体句子。',('The ruler was entombed in a chamber beneath the monument.','这位统治者被安葬在纪念建筑下方的墓室里。'),('The eruption entombed the settlement beneath layers of ash.','火山喷发把这处聚落埋在层层火山灰下面。'),sources=['https://en.wiktionary.org/wiki/entomb'])
+]
+ROOT=dict(id='C1567',meaning='坟丘；坟墓',core='TYMB / TOMB = TOMB',image='先是一座安葬死者的坟丘，再是墓室；旁边立的石碑是 tombstone，把人或东西封进去则是 entomb。',intro='历史来源是希腊 tymbos“坟丘、墓”，经拉丁 tumba、法语 tombe 进入英语成为 tomb。英语常见词形已经是 tomb-，学习时把古典根和实际拼写接起来即可。',forms='tomb 的常见英美读音是 /tuːm/，b 不发音；tombstone、entomb 中也如此。tombstone 是英语合成词；entomb 则有古法语整词借入的历史。',branches=[['墓葬的空间','tomb'],['墓葬的标记','tombstone'],['封入或掩埋','entomb']],contrasts='tomb 是墓，tombstone 是墓碑，coffin 是棺材。grave 与 tomb 的用法有重叠，不能简单规定所有墓都必须按大小二选一。',practice='The tombstone marked the entrance to an old family tomb.\n\n墓碑标示着一座古老家族墓的入口。',words=[x['word'] for x in W],exclude={})
+if __name__=='__main__':
+ for name,data in [('roots_tymb',[ROOT]),('words_tymb',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

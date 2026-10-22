@@ -1,0 +1,30 @@
+[
+  {
+    "source": "english.jsonl",
+    "url": "https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl",
+    "bytes": 3335546346,
+    "sha256": "9978ce34256e4143c3498387564d293a9a2971ef376c1e038d369a2021c02195",
+    "download_date": "2026-10-21"
+  },
+  {
+    "source": "ecdict.csv",
+    "url": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/ecdict.csv",
+    "bytes": 65933428,
+    "sha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+    "download_date": "2026-10-21"
+  },
+  {
+    "source": "classical.html",
+    "url": "https://www.uvm.edu/~jbailly/courses/Etymology/additionalNotes/wikipedia_Derived%20list%20Greek%20and%20Latin%20roots.html",
+    "bytes": 1839245,
+    "sha256": "a40d9549e031e9af9a32c7148ea183a700881de48818609a24f9dd84e29268c2",
+    "download_date": "2026-10-21"
+  },
+  {
+    "source": "tatoeba-english.tsv.bz2",
+    "url": "https://downloads.tatoeba.org/exports/per_language/eng/eng_sentences_detailed.tsv.bz2",
+    "bytes": 34943159,
+    "sha256": "24f742143d9079308d8c6b9c8cb4f6efb54e908a37d27fd5e40f22ab841b3d0d",
+    "download_date": "2026-10-21"
+  }
+]

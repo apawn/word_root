@@ -1,0 +1,9 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+W=[E('etymologist','英 /ˌetɪˈmɒlədʒɪst/；美 /ˌetɪˈmɑːlədʒɪst/','词源学家；研究词语历史的人','像查家谱一样，追查一个词何时出现、从哪里借来、后来怎样改变。','英语 etymology + -ist，表示研究这门学问的人；etymology 最终来自希腊 etymon 本来意义与 -logia 研究、论述。',[['希腊 etymon + -logia → etymologia','本来意义 + 研究 → 追究词的来历'],['拉丁、法语路线 → 英语 etymology','词源、词的历史研究'],['英语 etymology + -ist → etymologist','研究词源的人']],'etymologist 会查看旧文献、比较不同语言的词形和声音变化。不是看到几个字母相同就能断定同源，也不是编一个好记的故事就算找到历史。一个词可能有可靠的来源，也可能只能保留几种解释。','an etymologist’s research；etymologists trace a word；an etymologist’s explanation。','etymologist 研究词语来源；entomologist 研究昆虫，两者拼写和读音相近。linguist 是更宽泛的语言研究者。',('The etymologist traced the word back to an old trading term.','这位词源学家把这个词追溯到一个古老的贸易用语。'),('Etymologists compare historical spellings rather than relying on resemblance alone.','词源学家会比较历史拼写，而不只凭外形相似作判断。'),sources=['https://www.etymonline.com/word/etymologist','https://en.wiktionary.org/wiki/etymologist#English'])]
+ROOT=dict(id='C0392',meaning='真实的；词的原本意义',core='ETYM = TRUE / ORIGINAL SENSE',image='翻开一个词的旧档案，追查它以前怎样写、怎样读、怎样用。',intro='希腊 etymos 表示真实的，etymon 曾指一个词的本来意思。现代词源学研究词语的来源和演变，不是宣称最早的意思才是今天唯一正确的意思。',forms='etymon + -logia → etymologia → 拉丁 etymologia → 法语 etimologie → 英语 etymology。英语再形成 etymological 与 etymologist 等词。',branches=[['这门研究及词的历史','etymology；etymological'],['做这门研究的人','etymologist']],contrasts='词源说明怎么走到今天，不替今天的全部用法划死界限。etymology 是词源学，entomology 是昆虫学；形似词也要分清。',practice='An etymologist studies etymology and evaluates etymological evidence.\n\n词源学家研究词的历史，并评估词源证据。',words=['etymology','etymological','etymologist'],exclude={w:'词源学内部术语、少用变体或旧词，先掌握三个基本词。' for w in ['etymon','etymologic','etymologicon','etymologize']})
+if __name__=='__main__':
+ for name,data in [('roots_etym',[ROOT]),('words_etym',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

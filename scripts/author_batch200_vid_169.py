@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""C0861 odont: teeth, their support and a fossil name."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[
+E('periodontal','英 /ˌperiəˈdɒntl/；美 /ˌperiəˈdɑːntl/','牙周的；牙齿周围支持组织的','把牙齿想成固定在地上的柱子：periodontal 关注的不只是柱子本身，而是围住、托住它的那些组织。','现代医学构词：peri-“在周围” + 希腊 odous、词干 odont-“牙” + -al。periodontal 不从英语 period“时期”派生；词里的 peri- 到这里就结束了。',[['希腊 peri + odous／odont-','周围 + 牙'],['医学构词 peri- + odont- + -al → periodontal','与牙齿周围支持组织有关的']],'牙周包括牙龈及其他支撑牙齿的组织，不能只理解为“牙齿表面”。所以 periodontal disease 是影响这套支持系统的疾病；它和牙齿本身被蛀出洞的 dental caries 不是同一概念。这里 -al 只是说“有关的”，没有自动表示发炎。','periodontal health；periodontal tissue；periodontal disease；a periodontal examination。','dental 广泛指牙齿、牙科；periodontal 更具体指牙周支持组织。orthodontic 则关心牙齿与咬合排列，不能因为都含 odont 就互换。',('The leaflet explains how periodontal disease affects the tissues supporting the teeth.','这份宣传册解释牙周病怎样影响支撑牙齿的组织。'),('The study compared periodontal health in the two groups.','研究比较了两组人的牙周健康状况。'),sources=['https://www.etymonline.com/word/periodontal','https://www.oxfordlearnersdictionaries.com/definition/english/periodontal','https://www.nidcr.nih.gov/health-info/gum-disease']),
+E('mastodon','英 /ˈmæstədɒn/；美 /ˈmæstədɑːn/ 或 /ˈmæstədən/','乳齿象','这个名字的线索在臼齿上：牙冠不是平平的磨盘，而有一座座突起。命名者把那些突起看成乳头状，于是起了“乳房状的牙”这个名字。','借自近代拉丁属名 Mastodon，由居维叶用希腊 mastos“乳房” + -odon“牙”命名。这里描述的是牙齿形状，不是说牙长在乳房上。',[['希腊 mastos + odous／-odon','乳房 + 牙'],['近代拉丁动物名称 Mastodon','按臼齿牙冠上的乳头状突起命名'],['英语 mastodon','这类已经灭绝的象形哺乳动物的名称']],'乳齿象是象类的古老亲属，不是恐龙，也不是 mammoth 的另一个名字。臼齿形状是一个好记的区别：乳齿象高低突起的牙适合处理树叶、枝条；猛犸象的牙有更适合磨草的结构。中文“乳齿象”中的“乳齿”也不要误读成小孩换掉的乳牙。','a mastodon skeleton；mastodon fossils；a mastodon molar。动物名称通常小写；属名或以它命名的专名按各自规则大写。','mammoth 是猛犸象；mastodon 是乳齿象。它们外形都有长鼻、象牙，却属于不同谱系，不能只凭外形当作同一种动物。',('The museum displayed a mastodon skeleton beside a mammoth model.','博物馆在猛犸象模型旁展出了一具乳齿象骨架。'),('The raised points on the molar helped identify it as a mastodon tooth.','臼齿上凸起的尖峰帮助研究人员认出这是一颗乳齿象的牙。'),sources=['https://www.etymonline.com/word/mastodon','https://en.wiktionary.org/wiki/mastodon','https://www.nps.gov/articles/000/mammut_americanum.htm','https://www.nps.gov/articles/mammoth-or-mastodon.htm']),
+]
+SH=['orthodontist','orthodontics'];m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());r=next(x for x in m['roots'] if x['id']=='C0861')
+EX={w:'专门牙科细分、古生物分类或形态术语，按当前通用阅读范围暂略。' for w in list(r['family'])+['Thrinaxodon','Zanclodon'] if '-' not in w and w not in SH+[e['word'] for e in W]}
+ROOT=dict(id='C0861',meaning='牙、牙齿',core='odont- 是希腊“牙”的词干。前面加“周围”，就关注牙周；加“直、正确”，就关注牙齿排列；古动物名称则可能拿牙的形状作识别标记。',image='odous／odont- 牙 → peri- 周围的 periodontal；ortho- 正的 orthodontics；masto- 乳房形的 mastodon。',intro='先把牙齿本身、牙周支持系统、牙齿排列三件事分开，再看古生物学如何用一颗牙命名整种动物。',forms='希腊 odous 的属格 odontos 展示 odont- 词干；组合形式常为 odonto-，动物名称里也见 -odon。拉丁 dent- 与它有更早的同源关系，但不是由英语 dentist 改出来的。',branches=[['牙齿周围的支持组织','periodontal'],['牙齿排列与专业人员','orthodontics, orthodontist'],['按牙冠形状命名的古动物','mastodon']],contrasts='牙周健康、正畸排列和蛀牙是不同关注点；含 odont 只能提示与牙有关，不能据此判断具体疾病。mastodon 与 mammoth 也不是同一个名称的两种拼法。',practice='看到 peri-odont-al，按“周围—牙—有关的”理解；看到 mastodon，记住它被用来命名的牙冠突起。',words=[e['word'] for e in W]+SH,exclude=EX)
+if __name__=='__main__':
+ assert {e['word'] for e in W}<=set(m['owned_words'])
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_169.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('odont:',len(W),'words;',sum(len(e['examples']) for e in W),'examples')

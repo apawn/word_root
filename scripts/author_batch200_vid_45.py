@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""C0360 eco-: reuse verified shared lessons, add ecotourism; no figures."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[E('ecotourism','英 /ˌiːkəʊˈtʊərɪzəm/；美 /ˌiːkoʊˈtʊrɪzəm/','生态旅游','去自然环境里旅行，同时尽量少打扰那里原本的生命与生活，并让保护环境、当地社区也能从旅游中受益。','现代 eco- 生态、环境 + tourism 旅游；这里的 eco- 从 ecology、ecological 等词中抽出，远接希腊 oikos“家、生活的地方”。不是 economy“省钱”加旅游。',[['希腊 oikos → 近代德语 Ökologie → 英语 ecology','家、居处 → 研究生物与环境关系的生态学'],['从 ecology／ecological 抽出的 eco- + tourism → ecotourism','重视环境保护、学习和社区利益的自然旅游']],'看野生动物或进山本身还不够说明是 ecotourism。这个概念还重视理解当地环境、减少负面影响，并支持保护和当地居民；因此它说的是旅游的组织方式与目标，不只是目的地很绿。','an ecotourism project；develop ecotourism；community ecotourism；income from ecotourism。','nature tourism 突出到自然环境游览；ecotourism 还强调负责任的方式。economical travel 则是省钱出行，属于另一条意义。',('The village’s ecotourism project trains local guides and supports habitat restoration.','村里的生态旅游项目培训当地导游，并支持栖息地修复。'),('The course asks students how ecotourism can reduce pressure on fragile environments.','这门课让学生思考生态旅游怎样减轻脆弱环境承受的压力。'),sources=['https://www.etymonline.com/word/ecotourism','https://www.etymonline.com/word/eco-','https://en.wiktionary.org/wiki/ecotourism','https://www.merriam-webster.com/dictionary/ecotourism','https://www.untourism.int/sustainable-development/ecotourism-and-protected-areas'])]
+ROOT=dict(id='C0360',meaning='家；生活的地方；环境',core='先想一个家：资源要安排，成员与周围环境相互影响。前一面发展成经济词汇，后一面发展成生态词汇。',image='管好家里的资源 → economy；研究生命怎样在自己的环境中生活 → ecology；把旅行安排得尊重自然与社区 → ecotourism。',intro='希腊 oikos 是家、住所，oikonomia 是持家与管理资源。近代科学借这个构件形成生态学用语；后来 eco- 又常单独表示生态、环境。eco- 与 oec-、oik- 是同一来源的不同形式，但不能把所有现代词都只译成环保。',forms='econom- 接希腊 oikonom- 这条管理资源的支线；ecolog- 接近代 ecology；现代 eco- 常从 ecology／ecological 抽出。ecumen- 则与希腊“有人居住的世界”oikoumene 有关，不是 economy 的缩略。',branches=[['经济体系、学科与研究者','economy, economics, economist, economic, macroeconomics, microeconomics'],['节省与资源效率','economical, economically, economize, uneconomical'],['生物与生活环境','ecology, ecological, ecologically, ecologist, ecosystem'],['把环境意识带进旅行','ecotourism'],['有人居住的世界到教会联合','ecumenical, ecumenism']],contrasts='economic 常说经济相关，economical 常说省钱省资源；economically 可以承接两者的意义。ecology 是学科，ecosystem 是生物及其环境相互作用的系统。ecumenism 则进入宗教联合语境，不是生态保护。',practice='A policy has economic effects. An economical engine saves fuel. An ecologist studies an ecosystem. 把经济影响、节省资源、生态研究各配一个场景，三个词就不容易混。',words=[],exclude={})
+if __name__=='__main__':
+ m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());r=next(x for x in m['roots'] if x['id']==ROOT['id']);ROOT['words']=[w for w in r['family'] if '-' not in w]
+ assert set(ROOT['words'])&set(m['owned_words'])=={e['word'] for e in W}
+ assert all(len(e['examples'])>=2 and len(e['history'])>=2 for e in W)
+ OUT.mkdir(parents=True,exist_ok=True)
+ (OUT/'roots_batch200_vid_45.json').write_text(json.dumps([ROOT],ensure_ascii=False,indent=2));(OUT/'words_batch200_vid_45.json').write_text(json.dumps(W,ensure_ascii=False,indent=2))
+ print('eco:',len(W),'words;',sum(len(e['examples']) for e in W),'examples;',len(ROOT['words']),'references')

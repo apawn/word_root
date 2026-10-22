@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+"""C0892 ont: being, philosophical existence, and data ontologies."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[
+E('ontology','英 /ɒnˈtɒlədʒi/；美 /ɑːnˈtɑːlədʒi/','本体论；本体、概念及关系的形式化描述〔信息技术〕','先问：“我们认为这个世界或这个领域里，有哪些种类的东西？它们是什么关系？”哲学与信息技术用法都能从这个问题入门，但研究目标不同。','借入近代拉丁 ontologia，由希腊 ōn、属格 ontos“存在着的、存在物”的词干与 -logia 构成。现代可拆 onto-“存在” + -logy“研究”；这里的 onto- 不是英语介词 onto“到……上”。',[['希腊 ōn／ontos → onto-','存在着的；存在物'],['近代拉丁 ontologia → 英语 ontology','以古典材料命名研究存在的哲学领域'],['信息技术中的 an ontology','形式化描述某领域的概念类别、属性及关系']],'哲学中的 ontology 会讨论物体、事件、数等究竟以什么方式存在。信息系统里的一套 ontology 则可以说明：书是何种对象，作者是什么，书与作者怎样关联，让不同系统对这些概念有一致理解。它通常比一份只列词名的清单表达得更多。','philosophical ontology；a domain ontology；build an ontology；ontologies for data integration。学科义一般不可数；具体模型可数。','taxonomy 主要安排分类层次；信息技术中的 ontology 还可表达更多关系与约束。epistemology 则问我们如何知道、何以算知识，关注点不同于存在什么。',('The philosophy course introduces basic questions in ontology.','这门哲学课介绍本体论中的一些基本问题。'),('The team built an ontology linking books, authors, and publishers.','团队建立了一套本体，把书籍、作者和出版机构的概念关联起来。'),sources=['https://www.etymonline.com/word/ontology','https://www.oxfordlearnersdictionaries.com/definition/english/ontology','https://plato.stanford.edu/entries/logic-ontology/','https://www.w3.org/TR/owl2-overview/']),
+E('ontological','英 /ˌɒntəˈlɒdʒɪkl/；美 /ˌɑːntəˈlɑːdʒɪkl/','本体论的；关于存在方式或基本实体类别的','某场争论不是在数有多少东西，而是在问“这种东西到底算什么，是否算一种独立存在”。这就可能触及 ontological 问题。','英语 ontology 与形容词构词成分 -ical 配合，形成 ontological。现代词尾 -logical 在这里是学科形容词的部分，不等于把整个词理解成“合乎逻辑的”。',[['近代拉丁 ontologia → 英语 ontology','研究存在；后来也指领域概念模型'],['英语 ontology + -ical → ontological','与本体论或本体的安排有关的']],'an ontological question 可以是：一个数字的存在方式，是否与一块石头相同？数据建模里的 ontological assumptions 则可能是：把事件算作一种独立对象，还是只当作对象之间的关系。它提醒你看模型认定了哪些基本东西，不只是数据字段拼写是否正确。','ontological questions；ontological assumptions；an ontological distinction；ontological status。较正式，常见于哲学与理论性文章。','logical 问推理或结构是否合乎逻辑；ontological 问存在及基本对象的安排。一个模型逻辑自洽，仍可能采用有争议的 ontological assumptions。',('The essay asks an ontological question about the existence of numbers.','这篇文章提出了一个关于数字如何存在的本体论问题。'),('The two models make different ontological assumptions about events.','这两个模型在事件算哪种基本对象这一点上，采用了不同假设。'),sources=['https://www.etymonline.com/word/ontological','https://www.oxfordlearnersdictionaries.com/definition/english/ontological','https://plato.stanford.edu/entries/logic-ontology/','https://www.w3.org/TR/owl2-overview/']),
+]
+m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());r=next(x for x in m['roots'] if x['id']=='C0892')
+EX={w:'专业胚胎发育或古典神学、哲学细分术语，按当前通用阅读范围暂略。' for w in list(r['family'])+['homoousia'] if '-' not in w and w not in {e['word'] for e in W}}
+ROOT=dict(id='C0892',meaning='存在、存在物',core='ont- 来自希腊“存在着的”这一分词词干。它把问题从“怎么做”转到“究竟有什么、是什么”，后来也进入信息系统对概念的描述。',image='ōn／ontos 存在 → 近代拉丁 ontologia → ontology；英语形容词 ontological。',intro='不要被“本体论”三个字吓住。先想一个具体问题：数字、事件和石头是不是同一种存在？再想数据库需要先约定“书”和“作者”各是什么。两种场景分别解释哲学与技术用法。',forms='ōn 是希腊相关分词形式，ontos 展示 ont- 词干；onto- 为组合形式。ontology 是近代拉丁命名后借入英语，ontological 是后来的英语形容词派生。',branches=[['学科、概念模型与属性','ontology, ontological']],contrasts='onto- 的存在义不等于英语介词 onto 的“到上面”。ontology 也不是把任何复杂分类表换个高深名字；具体技术用法强调概念及关系的明确描述。',practice='先列一份领域里的“有什么”，再问这些东西怎样关联，帮助理解技术 ontology；再把问题推进到它们究竟以什么方式存在，理解哲学用法。',words=[e['word'] for e in W],exclude=EX)
+if __name__=='__main__':
+ assert {w for w in r['family'] if '-' not in w}<=set(ROOT['words'])|set(EX)
+ assert {e['word'] for e in W}<=set(m['owned_words'])
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_166.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('ont:',len(W),'words;',sum(len(e['examples']) for e in W),'examples')

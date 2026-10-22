@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>nonhabitual：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：habēre</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">拿着；拥有；保持某种状态</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：habitus</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">保持的状态；姿态、衣着、习性</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">中世纪拉丁语：habituālis</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">与习性、经常状态有关的</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：habitual</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">惯常的；习惯性的</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：nonhabitual</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">不构成惯常模式的</text>
+</svg>

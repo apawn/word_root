@@ -1,0 +1,62 @@
+[
+  {
+    "id": "C0700",
+    "meaning": "更大；更主要；地位更高",
+    "core": "把同类放在一起，分量、份额或地位更高的一边。",
+    "image": "两堆石头，一堆更大 → 更多选票、更高地位、更大影响。",
+    "intro": "maj- 这一组来自拉丁语 maior / maius“更大”，是 magnus“大”的比较级。它不只是物理尺寸：数量、重要性、地位都可以比较。",
+    "forms": "maior / maius：拉丁语的不同形式，英语常写成 major。\n\nmayor：经法语 maire 传入，词形变了，仍与 major 同源。\n\nmaiestas → majesty：从更大、尊贵发展为庄严与尊号。\n\nmajuscul-：稍大的字母，进入大写体术语。",
+    "branches": [
+      [
+        "重要或主要",
+        "major, majorly"
+      ],
+      [
+        "人数更多",
+        "majority, supermajority"
+      ],
+      [
+        "多数决定",
+        "majoritarian, majoritarianism"
+      ],
+      [
+        "城镇负责人",
+        "mayor, mayoral"
+      ],
+      [
+        "雄伟与尊严",
+        "majesty, majestic"
+      ],
+      [
+        "专业与表演",
+        "majordomo, majorette"
+      ],
+      [
+        "字母与几何",
+        "majuscule, semimajor"
+      ]
+    ],
+    "contrasts": "major / mayor 同源，但 major 不是 mayor 的现代词根拆分。\n\nmajor 的专业、军衔和音乐义不是一个接一个串起来的故事。\n\nmajority 的过半数、领先票数、成年身份要按搭配区分。\n\nmaj- 不能把所有 ma- 开头的单词都拉进来；muscular 是肌肉，不是这一组。",
+    "practice": "用 major problem 写一件重要的事，用 majority 写一次表决，再用 majestic 写一处景色，比较“更大”在三处怎样变化。",
+    "words": [
+      "major",
+      "majority",
+      "mayor",
+      "majesty",
+      "majestic",
+      "majestically",
+      "mayoral",
+      "mayoralty",
+      "mayoress",
+      "majorly",
+      "majoritarian",
+      "majoritarianism",
+      "supermajority",
+      "semimajor",
+      "majuscule",
+      "majuscular",
+      "majordomo",
+      "majorette"
+    ]
+  }
+]

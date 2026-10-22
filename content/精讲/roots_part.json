@@ -1,0 +1,67 @@
+[
+  {
+    "id": "C0961",
+    "meaning": "一部分；一份；一方；分开",
+    "core": "PART = A SHARE / A SIDE",
+    "image": "把整体分成几份；看你占哪一份、站在哪一方",
+    "intro": "**part-** 来自拉丁语 **pars**“一部分”，相关形式里出现 part-。一份东西是 part，拿到自己的一份参与是 participate，站在某一方是 partisan，切出的独立空间是 apartment 或 compartment。抓住“一份、一方”，比死背“部分”更容易串起来。",
+    "forms": "**particula** 是“小部分”，留下 particle；它的法语支线还留下 parcel。**partīre** 是“分开、分配”，留下 depart、partition、party。**particip-** 还含与 capere“拿取”有关的成分。partner 则经过法语与中古英语音形变化，不是任意把 -ner 当后缀。",
+    "branches": [
+      [
+        "部分与细节",
+        "part · particular · particle"
+      ],
+      [
+        "分开与空间",
+        "apart · apartment · compartment"
+      ],
+      [
+        "一起有份",
+        "participate · partner · partnership"
+      ],
+      [
+        "站在哪一边",
+        "partial · impartial · partisan · party"
+      ],
+      [
+        "划分与分配",
+        "partition · parcel · impart"
+      ],
+      [
+        "离开原处",
+        "depart · departure · department"
+      ]
+    ],
+    "contrasts": "**partial / impartial**：偏向一方 / 不偏袒；impartial 并不表示“全部的”。\n\n**apart / a part**：分开 / 一个部分，空格会改变意思。\n\n**departure / department**：一个是离开或出发，另一个是划分出的部门。它们保留了“分开”的不同去向。\n\n**participate / attend**：真正参与 / 到场。光到场不一定有参与讨论。",
+    "practice": "**Each participant took part in the discussion, while an impartial moderator listened to every side.**\n\n每位参与者都加入讨论，公正的主持人听取各方意见。participant 是有份参与的人，take part 是参与，impartial 是不偏向一方。",
+    "words": [
+      "part",
+      "particular",
+      "particularly",
+      "apart",
+      "apartment",
+      "participate",
+      "participant",
+      "participation",
+      "participatory",
+      "partial",
+      "partially",
+      "impartial",
+      "impartially",
+      "particle",
+      "nanoparticle",
+      "partisan",
+      "depart",
+      "departure",
+      "department",
+      "parcel",
+      "partition",
+      "compartment",
+      "bipartite",
+      "partner",
+      "partnership",
+      "impart",
+      "party"
+    ]
+  }
+]

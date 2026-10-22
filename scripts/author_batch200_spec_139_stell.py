@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+S=['拉丁语 stella','星']
+W=[
+E('stellar','英 /ˈstelə/；美 /ˈstelər/','恒星的；星的；出色的','天文学里谈星，评价表现时则像在说“明星级的出色”。','借自晚期拉丁 stellaris，来自 stella“星”加形容词后缀。现代英语不能把 stellar 拆成独立词 stell 加 -ar。',[S,['晚期拉丁 stellaris → 英语 stellar','与星有关的'],['英语 stellar 的比喻用法','通过明星、杰出人物的联想表示出众']],'stellar evolution 说恒星如何演化，a stellar performance 则夸表现很棒。后一个意思借了“明星”的显眼和优秀，并不是观众真的在看天体。','stellar evolution；stellar mass；a stellar performance；a stellar reputation。','astronomical 可以说天文学的，也能夸张数字巨大；stellar 的常见比喻是出色，不是价格高得离谱。',('The course introduces the main stages of stellar evolution.','这门课介绍恒星演化的主要阶段。'),('She gave a stellar performance in her first leading role.','她第一次担任主角就有非常出色的表现。'),sources=['https://www.etymonline.com/word/stellar','https://en.wiktionary.org/wiki/stellar']),
+E('constellation','英 /ˌkɒnstəˈleɪʃən/；美 /ˌkɑːnstəˈleɪʃən/','星座；一组相关的人或事物','把夜空里的星联系成图案，也可以把许多相关因素看成一个组合。','英语经古法语 constellacion 或直接从晚期拉丁 constellatio、constellationem 借入。拉丁构词含 con-“共同”与 stella“星”，不是从现代英语 constellation 中随意拆出一个动词。',[S,['晚期拉丁 constellatio、constellationem','星的组合；历史上也与占星中的位置关系有关'],['古法语 constellacion；或直接拉丁借入','英语词的两条借入路线'],['中古英语 constellacioun → 英语 constellation','星座；后来也比喻相关事物的组合']],'日常说星座，常想到连线图案；现代天文学还把星座规定为有边界的天空区域。看起来在一起的星，离地球的距离可能差很远，因此 constellation 不等于真实聚在一处的星团。','recognise a constellation；the constellation of Orion；a constellation of factors；a constellation of talents。','star cluster 是物理上聚集的星团；constellation 首先是从地球看天空的划分。比喻中的 a constellation of factors 说一组因素，不涉及占星预测。',('We used the star chart to identify the constellation of Orion.','我们借助星图辨认猎户座。'),('The decision resulted from a constellation of financial and practical concerns.','这个决定是多种财务和实际因素共同作用的结果。'),sources=['https://www.etymonline.com/word/constellation','https://en.wiktionary.org/wiki/constellation','https://science.nasa.gov/skywatching/faq/','https://spaceplace.nasa.gov/constellations/en/'])
+]
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(r for r in m['roots']if r['id']=='C1413');family=r['family'];keep={w['word']for w in W}|{'interstellar'}
+ROOT=[dict(id='C1413',meaning='星',core='stell-：星；可以说天体，也可以借明星来形容出色。',image='一颗星、一片星座，以及在舞台上十分出众的人。',intro='拉丁 stella 给英语带来 stellar 与 constellation 等词。stellar 可以从恒星转到优秀表现；constellation 从群星的组合转到相关因素的组合；interstellar 则明确说恒星之间。',forms='stellar 接拉丁 stellaris；constellation 经法语或拉丁名词借入。英语 star 与 stella 有更早同源联系，但不是一个把另一个缩短而来。',branches=[['恒星与杰出表现','stellar'],['星座与组合','constellation'],['恒星之间','interstellar']],contrasts='constellation 不等于物理星团，stellar 的比喻也不是“巨大”。先看语境是在谈天空、人物还是一组因素。',practice='把 stellar mass 与 stellar performance 分别译成中文，并解释为什么 constellation 的星不一定彼此很近。',words=[w for w in family if w in keep],exclude={'constellate':'按用户范围暂略少用动词，优先掌握 constellation。'},sources=['https://www.etymonline.com/word/stellar','https://www.etymonline.com/word/constellation'])]
+assert keep==set(family)-set(ROOT[0]['exclude'])
+assert all(w['word']in m['owned_words']for w in W)
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history']),w['word']
+for k,d in [('roots',ROOT),('words',W)]: (OUT/f'{k}_batch200_spec_139_stell.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print('C1413',len(W),'new',sum(len(w['examples'])for w in W),'examples')

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "C0023",
+    "meaning": "推动；行动；做成某事",
+    "core": "AG / ACT：让事情动起来、做起来",
+    "image": "先推动，再行动；人在做事，事情也在起作用",
+    "intro": "先想一双手把东西向前推：**让它动起来，也让一件事开始发生。** 拉丁语 agere（词典形式 agō）兼有推动、做、执行的意思。act 把事情做出来，agent 是执行或起作用的一方，agenda 是“应该做的那些事”。这条线能帮助理解很多词，但现代意思还要顺着各自的历史走。",
+    "forms": "**ag- 与 act- 属于同一个拉丁动词的不同词干。** agent、agile 保留 ag- 一支；act、action、active 联系 act- 一支。复合中还可出现 ig-，如 ambigere 形成 ambiguous。**不要把所有 -ig- 都当作确定的 ag- 变体：** navigate、mitigate、castigate 的传统词源常把使动成分与 agere 联系起来，但拉丁 -igāre 的更早来源有不同分析。本页保留传统联系，同时逐词说明已确定的直接来源。",
+    "branches": [
+      [
+        "做出来的行为",
+        "act · action · active · activity"
+      ],
+      [
+        "谁做、该做什么",
+        "actor · agent · agenda"
+      ],
+      [
+        "对别的作用作回应",
+        "react · interact · counteract"
+      ],
+      [
+        "启动与停止",
+        "activation · deactivation · reactivation"
+      ],
+      [
+        "推动身体与思想",
+        "agile · agitate · cogitate"
+      ],
+      [
+        "把事情办完、走通",
+        "transaction · navigate · cogent"
+      ]
+    ],
+    "contrasts": "**action / activity / activation**：采取行动 / 活动或活跃程度 / 使进入有效状态。\n\n**reactive / proactive**：事情出现后回应 / 提前准备和行动。proactive 不能简单等于“很忙”。\n\n**actor / agent / agitator**：参与行动者或演员 / 代表别人做事或产生作用的一方 / 搅动局面的人或装置。\n\n**reactor / reactant / reaction**：反应装置 / 反应物 / 反应过程。\n\n**ambiguous / vague**：意思有岔路 / 细节或边界不清。**cogent / forceful**：理由有说服力 / 力量或语气强。抓住具体差别，比把它们都译成“有力”更有用。",
+    "practice": "把行动线串起来：**The agent put a clear plan on the agenda, and the team took proactive action.**\n\n代理人把一项清晰的计划列入议程，团队随后提前采取了行动。agent 是办事的一方，agenda 是待处理的事项，action 是真正做起来，proactive 说明行动赶在问题前面。",
+    "words": [
+      "act",
+      "action",
+      "active",
+      "activity",
+      "acting",
+      "agent",
+      "reaction",
+      "actor",
+      "actress",
+      "agenda",
+      "transaction",
+      "react",
+      "interact",
+      "navigation",
+      "activation",
+      "reactor",
+      "navigate",
+      "ambiguous",
+      "mitigate",
+      "reactive",
+      "agile",
+      "proactive",
+      "ambiguity",
+      "agility",
+      "counteract",
+      "inaction",
+      "inactivity",
+      "actionable",
+      "deactivate",
+      "radioactivity",
+      "transactional",
+      "unambiguous",
+      "hyperactivity",
+      "overreact",
+      "proactively",
+      "inactivation",
+      "cogent",
+      "agitate",
+      "deactivation",
+      "agitator",
+      "reactivation",
+      "ambiguously",
+      "reactant",
+      "newsagent",
+      "reactance",
+      "castigate",
+      "cogitate",
+      "cogitation",
+      "excogitate"
+    ]
+  }
+]

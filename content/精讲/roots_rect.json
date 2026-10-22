@@ -1,0 +1,259 @@
+[
+  {
+    "id": "C1209",
+    "meaning": "使直；引导；治理；竖起",
+    "core": "把偏着的东西摆正，把正在走的东西引到一个方向。",
+    "image": "想象一根指路杆：摆正是 correct；指路是 direct；竖起来是 erect；从下面挺起、涌出是 surge。",
+    "intro": "来自拉丁语 regere“引导、使直、治理”，分词 rectus 表示“直的、正的”。直线可以变成做事的方向，带方向可以变成管理人的行为，向上摆直又可以变成竖起。各条支线进入英语的路线不同，不能把现代英语里长得像的词都互相接成祖先。",
+    "forms": "reg- 在 dirigere、corrigere 等复合词里出现 -rig-；rect- 常来自分词词干。surge、source 经 surgere 和法语变化后，外形已经看不出 reg-；dress、address 则经过 directus 的罗曼语后代。rigid 来自 rigere“僵硬”的另一直接词根，不因有 rig 就并入。",
+    "branches": [
+      [
+        "扶正、改错",
+        "correct, correction, rectify, incorrigible"
+      ],
+      [
+        "直线、直角与正直",
+        "rectangle, rectilinear, rectitude"
+      ],
+      [
+        "引导与安排",
+        "direct, direction, director, directory"
+      ],
+      [
+        "摆正、整理、对准对象",
+        "dress, address, adroit"
+      ],
+      [
+        "竖起与高处警戒",
+        "erect, erection, alert"
+      ],
+      [
+        "划界与区域",
+        "region, regional, subregion"
+      ],
+      [
+        "治理与制度",
+        "regent, regime, regimen, regiment"
+      ],
+      [
+        "上涌、源头与可用资源",
+        "surge, source, resource"
+      ],
+      [
+        "再度兴起与奋起反抗",
+        "resurgence, resurrection, insurgent"
+      ],
+      [
+        "专门名称与争议支线",
+        "rectum, rector；ergo 的远源仅属可能"
+      ]
+    ],
+    "contrasts": "direct、dress、address 是同族的不同路线；rectify 与 correction 也不能靠结尾不同就互相推出。regime 多讲制度或政权，regimen 多讲生活训练安排，regiment 通常是军队的团。royal/regal 来自 rex 的同源旁支，另列 reg-/rex-；regular/rule 由 regula“直尺、准则”展开，另列 regul-。",
+    "practice": "用一封寄错的信来记：incorrect address 是地址有误；correct the address 是改正地址；redirect the letter 是转寄；follow the directions 是照着指路走。再看 source 是东西从哪来，resource 是有什么可以拿来用，别只靠字形记成同一个汉语意思。",
+    "words": [
+      "correct",
+      "correctly",
+      "correctness",
+      "correction",
+      "corrective",
+      "incorrect",
+      "incorrectly",
+      "correctable",
+      "incorrigible",
+      "corrigible",
+      "corrigendum",
+      "escort",
+      "rectify",
+      "rectification",
+      "rectifier",
+      "rectitude",
+      "rectangle",
+      "rectangular",
+      "rectilinear",
+      "rectum",
+      "rectal",
+      "rector",
+      "rectory",
+      "direct",
+      "directly",
+      "directness",
+      "direction",
+      "directional",
+      "director",
+      "directory",
+      "indirect",
+      "indirectly",
+      "redirect",
+      "redirection",
+      "misdirect",
+      "misdirection",
+      "dirigible",
+      "address",
+      "dress",
+      "dressing",
+      "undress",
+      "dresser",
+      "adroit",
+      "maladroit",
+      "erect",
+      "erection",
+      "erectile",
+      "alert",
+      "alertness",
+      "region",
+      "regional",
+      "regionally",
+      "regionalism",
+      "subregion",
+      "regent",
+      "regency",
+      "regime",
+      "regimen",
+      "regiment",
+      "regimental",
+      "regimented",
+      "regimentation",
+      "surge",
+      "upsurge",
+      "resurgent",
+      "resurgence",
+      "insurgent",
+      "insurgency",
+      "insurrection",
+      "resurrection",
+      "resurrect",
+      "source",
+      "resource",
+      "resourceful",
+      "resourcefulness",
+      "outsource",
+      "outsourcing",
+      "ergo"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1211",
+    "meaning": "直尺；准则；按规则调节",
+    "core": "先有一把让线画直的尺，再有一套让行为、数量和过程不乱跑的准则。",
+    "image": "尺上的刻度均匀是 regular；拿规则调节运行是 regulate；执行调整的东西是 regulator；去掉部分管制是 deregulate。",
+    "intro": "拉丁语 regula 表示直尺、直条，也表示准则，与 regere“引导、使直”相连。英语 rule 经法语缩短了词形；regular、regulate 则保留较清楚的 regul-。它们的本质不是“国王”，而是按一定标准组织、控制或重复。",
+    "forms": "regular 来自 regularis；regulate 联系 regulare / regulatus；rule 的名词与动词分别经法语相关形式借入。irregular 里的 ir- 是否定 in- 在 r 前的同化，deregulation 的 de- 是去除，dysregulation 的 dys- 是失常。",
+    "branches": [
+      [
+        "按固定模式重复",
+        "regular, regularly, regularity"
+      ],
+      [
+        "不规则或偏离标准",
+        "irregular, irregularly, irregularity"
+      ],
+      [
+        "制定规则、持续调节",
+        "regulate, regulation, regulator, regulatory"
+      ],
+      [
+        "减少管制与使状态正规",
+        "deregulate, deregulation, regularize, regularization"
+      ],
+      [
+        "身体和细胞的调节",
+        "dysregulation, upregulation"
+      ],
+      [
+        "规则、管理与裁定",
+        "rule, ruler, ruling, overrule, unruly"
+      ]
+    ],
+    "contrasts": "regular 不只表示经常，也表示有规律或普通规格；regulate 不等于 regularize。ruler 的尺子和统治者两义都与 rule 有关，却不是因为古代国王拿着尺子。upregulation 是某个指标上调，dysregulation 是调节失常，不要把变化方向当成好坏判断。",
+    "practice": "观察一个水箱：regulator 调节水流，regulation 是调节过程，regular readings 是规律读取的数据，irregular readings 可能提示异常。搬到组织里，同一组词又能讲规则、监管和是否守规则。",
+    "words": [
+      "regular",
+      "regularly",
+      "regularity",
+      "irregular",
+      "irregularly",
+      "irregularity",
+      "regulate",
+      "regulation",
+      "regulator",
+      "regulatory",
+      "deregulate",
+      "deregulation",
+      "regularize",
+      "regularization",
+      "dysregulation",
+      "upregulation",
+      "rule",
+      "ruler",
+      "ruling",
+      "overrule",
+      "unruly"
+    ],
+    "exclude": {}
+  },
+  {
+    "id": "C1210",
+    "meaning": "王；王权；王室",
+    "core": "从君主本人，延伸到王室身份、统治时期、象征物和由权利产生的费用。",
+    "image": "先想王座上的人：royal 说明王室归属；regal 说明王者气派；reign 是在位及其时期；royalty 还沿特权发展出使用费。",
+    "intro": "拉丁语 rex 意为王，变格时能看到 reg-，例如 regis“王的”、regem“王〔宾格〕”。它与 regere“引导、治理”有共同远源，但不是 rectus“直的”在英语里变成国王。regal 和 royal 都追到 regalis，只是前者保留拉丁外形更多，后者经过法语变化。",
+    "forms": "rex 的 reg- 见于 regal、regicide；regalis 经古法语 roial 走到 royal。reign 追到 regnum / regnare，借入的名词和动词各有路线。realm 的古法语来源可靠，更早是否由 regimen、regalis 或两者相混形成则有分歧。",
+    "branches": [
+      [
+        "王室身份和气派",
+        "royal, regal, royally, regally"
+      ],
+      [
+        "王室、权利与使用费",
+        "royalty"
+      ],
+      [
+        "支持者与王权标志",
+        "royalist, regalia"
+      ],
+      [
+        "在位与统治空档",
+        "reign, interregnum"
+      ],
+      [
+        "代表王权与反王权行为",
+        "viceroy, regicide"
+      ],
+      [
+        "拉丁称号与抽象领域",
+        "rex, realm"
+      ],
+      [
+        "相关治理旁支：来自 regere",
+        "regent, regency"
+      ]
+    ],
+    "contrasts": "royal 常指王室归属，regal 常指气派。reign 与 rein 同音不同源；royal 与 loyal 也不是同一词根。regency 来自 regere 的治理支线，本页作为摄政概念旁支复用，不画成 rex 的直接后代。regulation、deregulation、dysregulation、upregulation 来自 regula，放到 regul- 页解释。",
+    "practice": "想象历史叙事：一位君主开始 reign，居住在 royal palace，典礼穿戴 regalia；年幼时由 regent 代管，形成 regency；两段统治之间的空档则可叫 interregnum。读现代出版业时，royalties 已经是权利使用费，无须再想象有国王来收钱。",
+    "words": [
+      "royal",
+      "regal",
+      "regally",
+      "royally",
+      "royalty",
+      "royalist",
+      "reign",
+      "regicide",
+      "rex",
+      "regalia",
+      "viceroy",
+      "interregnum",
+      "realm",
+      "regent",
+      "regency"
+    ],
+    "exclude": {
+      "regulation": "直接来源为 regula“准则”及其调节支线；与 rex 只有共同远源，改在 regul- 页完整讲解。",
+      "deregulation": "直接来源为 regula“准则”及其调节支线；与 rex 只有共同远源，改在 regul- 页完整讲解。",
+      "dysregulation": "直接来源为 regula“准则”及其调节支线；与 rex 只有共同远源，改在 regul- 页完整讲解。",
+      "upregulation": "直接来源为 regula“准则”及其调节支线；与 rex 只有共同远源，改在 regul- 页完整讲解。",
+      "Regis": "原记录为专名词条；拉丁语 regis“王的”已在词根说明中解释，不把专名混作普通英语学习词。"
+    }
+  }
+]

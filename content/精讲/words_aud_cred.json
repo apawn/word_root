@@ -1,0 +1,1792 @@
+[
+  {
+    "word": "audience",
+    "ipa": "英 /ˈɔːdiəns/；美 /ˈɑːdiəns/",
+    "meaning": "听众；观众；受众；正式会见",
+    "sense": "audience 先想台下正在接收你表达的人：他们可能听演讲、看节目，也可能读文章。",
+    "split": "来自拉丁语 audientia，与 audiēns“正在听的”有关，再经法语进入英语。现代 audience 不是 audio + ence。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "拉丁语：audiēns → audientia",
+        "听着的 → 倾听；听取"
+      ],
+      [
+        "古法语：audience",
+        "听取；听众"
+      ],
+      [
+        "英语：audience",
+        "听众；观看或接收内容的人群"
+      ]
+    ],
+    "explanation": "“听”的动作转向参与听的人，再扩展到视觉媒体和文字内容的接受者。an audience with someone 还保留正式获准见面、陈述的意思。",
+    "usage": "a live audience；a target audience；address an audience；an audience with a leader。",
+    "contrast": "audience 常是作为整体的受众；spectators 更突出在现场看比赛或活动的人。网页的 audience 也可以从未坐到同一间屋里。",
+    "examples": [
+      [
+        "The audience fell silent as the music began.",
+        "音乐响起时，观众安静下来。"
+      ],
+      [
+        "The article was written for a young audience.",
+        "这篇文章是写给年轻读者看的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audience#English"
+    ]
+  },
+  {
+    "word": "audio",
+    "ipa": "英 /ˈɔːdiəʊ/；美 /ˈɑːdioʊ/",
+    "meaning": "音频；声音部分；音频的",
+    "sense": "audio 就是媒体里“用耳朵接收”的那一部分：画面正常但听不见，可以说音频出了问题。",
+    "split": "现代英语把与 audīre 有关的构词形式 audio- 独立用作词。它也继续出现在 audiobook 等组合中。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "现代构词形式：audio-",
+        "与声音、听觉有关"
+      ],
+      [
+        "英语：audio",
+        "声音部分；音频"
+      ]
+    ],
+    "explanation": "它常指录制、传输或播放的声音信号，不只是自然界中任何一种声响。audio quality 评价的是声音记录或播放得怎样。",
+    "usage": "audio quality；an audio file；record audio；the audio track；audio equipment。",
+    "contrast": "sound 范围更宽，风声、脚步声都算；audio 常让人想到声音内容或技术中的声音信号。",
+    "examples": [
+      [
+        "The video is clear, but the audio is distorted.",
+        "画面很清楚，但声音失真了。"
+      ],
+      [
+        "She sent me an audio recording of the interview.",
+        "她把采访录音发给了我。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audio#English"
+    ]
+  },
+  {
+    "word": "audiobook",
+    "ipa": "英 /ˈɔːdiəʊbʊk/；美 /ˈɑːdioʊbʊk/",
+    "meaning": "有声书",
+    "sense": "audiobook 就是把书的内容变成可以听的版本，眼睛不用盯着页面，也能跟着故事走。",
+    "split": "audio-（声音）+ book（书），是现代英语组合词，不是古代拉丁语已经有了有声书。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "现代构词形式：audio-",
+        "与声音、听觉有关"
+      ],
+      [
+        "英语：audio",
+        "声音部分；音频"
+      ],
+      [
+        "英语：audiobook",
+        "以声音呈现书的内容"
+      ]
+    ],
+    "explanation": "book 提供内容形式，audio 说明接收方式。朗读可以完整，也可以是删节版，是否完整还要看版本说明。",
+    "usage": "listen to an audiobook；an audiobook narrator；an unabridged audiobook（完整版有声书）。",
+    "contrast": "audiobook 通常对应书籍；podcast 是按节目或系列发布的音频，内容不一定来自一本书。",
+    "examples": [
+      [
+        "I listened to an audiobook on the train.",
+        "我在火车上听了一本有声书。"
+      ],
+      [
+        "The author narrated the audiobook herself.",
+        "这本有声书由作者亲自朗读。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audiobook#English"
+    ]
+  },
+  {
+    "word": "audiovisual",
+    "ipa": "英 /ˌɔːdiəʊˈvɪʒuəl/；美 /ˌɑːdioʊˈvɪʒuəl/",
+    "meaning": "视听的；同时涉及声音与画面的",
+    "sense": "audiovisual 把耳朵和眼睛一起用上：有声音，也有图像，比如带讲解的演示视频。",
+    "split": "audio-（听、声音）+ visual（视觉的）。两个成分分别点明接收信息的通道。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "现代构词形式：audio-",
+        "与声音、听觉有关"
+      ],
+      [
+        "英语：audio",
+        "声音部分；音频"
+      ],
+      [
+        "英语：audio- + visual → audiovisual",
+        "声音与视觉结合"
+      ]
+    ],
+    "explanation": "它可形容内容，也可形容录制、播放这类内容的设备。不能因为词里有两个感官，就理解成所有感官都参与。",
+    "usage": "audiovisual equipment；audiovisual materials；an audiovisual presentation；audiovisual aids。",
+    "contrast": "audio 只强调声音；visual 只强调视觉；audiovisual 把两者结合。multimedia 的范围还可以更广。",
+    "examples": [
+      [
+        "The classroom has modern audiovisual equipment.",
+        "这间教室配有现代视听设备。"
+      ],
+      [
+        "The museum uses audiovisual displays to explain the excavation.",
+        "博物馆用视听展示来介绍这次发掘。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audiovisual#English"
+    ]
+  },
+  {
+    "word": "audiotape",
+    "ipa": "英 /ˈɔːdiəʊteɪp/；美 /ˈɑːdioʊteɪp/",
+    "meaning": "录音磁带；磁带录音",
+    "sense": "audiotape 是把声音记录在磁带上的载体，也可以指磁带里保存的录音。",
+    "split": "audio（音频）+ tape（带子、磁带）。它的词源构成直接说明“记录声音的带子”。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "现代构词形式：audio-",
+        "与声音、听觉有关"
+      ],
+      [
+        "英语：audio",
+        "声音部分；音频"
+      ],
+      [
+        "英语：audiotape",
+        "记录声音的磁带"
+      ]
+    ],
+    "explanation": "早期录音保存常依赖实体磁带，因此这个组合把媒体类型和材料连在一起。如今谈数字文件一般直接说 audio file。",
+    "usage": "an old audiotape；record something on audiotape；an audiotape recording；transfer audiotapes to digital files。",
+    "contrast": "audiotape 是声音磁带；videotape 通常记录视频及其声音。不要把手机里的每个录音文件都叫 audiotape。",
+    "examples": [
+      [
+        "We found an audiotape of my grandfather telling stories.",
+        "我们找到一盘祖父讲故事的录音磁带。"
+      ],
+      [
+        "The archive is converting its audiotapes into digital recordings.",
+        "档案馆正在把录音磁带转成数字录音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audiotape#English"
+    ]
+  },
+  {
+    "word": "audible",
+    "ipa": "英 /ˈɔːdɪbəl/；美 /ˈɑːdɪbəl/",
+    "meaning": "听得见的",
+    "sense": "audible 只先过一关：“耳朵能不能捕捉到这个声音？”不要求它特别响，也不保证内容清楚。",
+    "split": "来自晚期拉丁语 audibilis，经法语传入；aud- 是听，-ible 表示可以被这样感知。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "晚期拉丁语：audibilis",
+        "能够被听到的"
+      ],
+      [
+        "中古法语：audible",
+        "听得见的"
+      ],
+      [
+        "英语：audible",
+        "能听见的"
+      ]
+    ],
+    "explanation": "这里要从声音这一边看：它能被听见。barely audible 是声音勉强越过听见的门槛，不是声音很悦耳。",
+    "usage": "barely audible；clearly audible；audible to someone；an audible sigh。",
+    "contrast": "audible 是听得见；clear 是听得清或表达清楚。隔着墙的人声可能 audible，却听不清每个字。",
+    "examples": [
+      [
+        "Her voice was barely audible above the traffic.",
+        "在车流声中，她的声音几乎听不见。"
+      ],
+      [
+        "There was an audible sigh of relief from the audience.",
+        "观众席传来明显可闻的松了一口气的声音。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audible#English"
+    ]
+  },
+  {
+    "word": "inaudible",
+    "ipa": "英 /ɪnˈɔːdɪbəl/；美 /ɪnˈɑːdɪbəl/",
+    "meaning": "听不见的；微弱得听不到的",
+    "sense": "inaudible 是声音没有进入听者的耳朵：可能太轻、太远，或被其他声音盖住。",
+    "split": "in-（不）+ audible。这里的 in- 是否定，否定的是“可听到”。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "晚期拉丁语：audibilis",
+        "能够被听到的"
+      ],
+      [
+        "中古法语：audible",
+        "听得见的"
+      ],
+      [
+        "英语：audible",
+        "能听见的"
+      ],
+      [
+        "英语：inaudible",
+        "无法听见的"
+      ]
+    ],
+    "explanation": "它不一定表示完全没有发声，只表示在当前条件下听不到。录音里某一段 inaudible，也不能自动断定说话人没有讲话。",
+    "usage": "almost inaudible；be inaudible to…；an inaudible whisper；the final words were inaudible。",
+    "contrast": "silent 是没有声音或保持安静；inaudible 是听不到。声源可能在发声，只是听者无法捕捉。",
+    "examples": [
+      [
+        "The final sentence was inaudible because of the applause.",
+        "最后一句被掌声盖住了，听不见。"
+      ],
+      [
+        "At that distance, the engine was almost inaudible.",
+        "隔着那么远，发动机的声音几乎听不到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/inaudible#English"
+    ]
+  },
+  {
+    "word": "audibly",
+    "ipa": "英 /ˈɔːdɪbli/；美 /ˈɑːdɪbli/",
+    "meaning": "听得见地；明显发出声音地",
+    "sense": "audibly 让你留意：这个动作伴随着别人确实能听到的声音，而不只是心里发生了变化。",
+    "split": "audible + -ly，词尾 -le 改成 -ly，得到 audibly。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "晚期拉丁语：audibilis",
+        "能够被听到的"
+      ],
+      [
+        "中古法语：audible",
+        "听得见的"
+      ],
+      [
+        "英语：audible",
+        "能听见的"
+      ],
+      [
+        "英语：audibly",
+        "以能被听见的方式"
+      ]
+    ],
+    "explanation": "audible 描述声音可听，audibly 用来描述说话、叹气、喘气等怎样发生。它不一定意味着故意大声。",
+    "usage": "sigh audibly；gasp audibly；speak audibly；breathe audibly。",
+    "contrast": "audibly 是确实听得到；loudly 是声音大。轻轻一叹，只要周围安静，也可以 audibly。",
+    "examples": [
+      [
+        "He sighed audibly when the meeting was extended.",
+        "会议宣布延长时，他叹了口气，大家都听见了。"
+      ],
+      [
+        "She spoke audibly, but only the front row heard every word.",
+        "她的声音能听见，但只有前排听清了每个词。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audibly#English"
+    ]
+  },
+  {
+    "word": "auditory",
+    "ipa": "英 /ˈɔːdɪtəri/；美 /ˈɑːdɪtɔːri/",
+    "meaning": "听觉的；与听觉有关的",
+    "sense": "auditory 不是问声音有多响，而是把注意力放在听觉这条通道上：耳朵收到什么，大脑怎样处理。",
+    "split": "来自拉丁语 audītōrius“与听或听者有关的”，属于 audīre 词族。-ory 在这里构成相关性质的形容词。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "拉丁语：audītōrius",
+        "与听有关的"
+      ],
+      [
+        "英语：auditory",
+        "听觉的；听觉系统的"
+      ]
+    ],
+    "explanation": "auditory memory 是对听到内容的记忆，auditory signal 是通过声音传达的信号。常见于学习、心理与生理讨论。",
+    "usage": "auditory perception；auditory memory；the auditory system；an auditory signal。",
+    "contrast": "audible 评价一个声音能否听见；auditory 说明它属于听觉领域。auditory system 不能换成 audible system。",
+    "examples": [
+      [
+        "The task tests auditory memory rather than visual memory.",
+        "这项任务测试听觉记忆，而不是视觉记忆。"
+      ],
+      [
+        "An auditory signal warned us that the door was closing.",
+        "一声提示音提醒我们门正在关闭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auditory#English"
+    ]
+  },
+  {
+    "word": "auditorium",
+    "ipa": "英 /ˌɔːdɪˈtɔːriəm/；美 /ˌɑːdɪˈtɔːriəm/",
+    "meaning": "礼堂；讲堂；观众厅",
+    "sense": "auditorium 是把许多人聚在一起听演讲、音乐或观看表演的空间，画面重点是台下容纳听众的大厅。",
+    "split": "来自拉丁语 audītōrium，基础是 audītōrius“与听有关的”；-ium 在这类词里常与地点或空间名称有关。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "拉丁语：audītōrius → audītōrium",
+        "与听有关的 → 供人听讲的地方"
+      ],
+      [
+        "英语：auditorium",
+        "礼堂；供观众入座的厅"
+      ]
+    ],
+    "explanation": "从“听的地方”发展为今天的礼堂或观众厅。它可以是一整间大厅，也可指剧院中观众坐的部分，未必包含舞台后台。",
+    "usage": "a school auditorium；a packed auditorium；seats in the auditorium。",
+    "contrast": "audience 是人群；auditorium 是人群所在的空间。hall 范围更广，未必专供观看或听讲。",
+    "examples": [
+      [
+        "The students gathered in the auditorium for the concert.",
+        "学生们聚集到礼堂里听音乐会。"
+      ],
+      [
+        "The auditorium can seat five hundred people.",
+        "这个观众厅能容纳五百人就座。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auditorium#English"
+    ]
+  },
+  {
+    "word": "audition",
+    "ipa": "英 /ɔːˈdɪʃən/；美 /ɑːˈdɪʃən/",
+    "meaning": "试演；试唱；参加试演",
+    "sense": "audition 像让选角的人先听、先看你表演一小段，再决定你是否适合某个角色。",
+    "split": "来自法语 audicion 和拉丁语 audītiō“听、听取”。现代动词由名词发展，不是 audit“审计”加上 -ion 就得到试镜。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "拉丁语：audītiō",
+        "听；听取"
+      ],
+      [
+        "法语：audicion",
+        "听取"
+      ],
+      [
+        "英语：audition",
+        "早期指听觉、听取 → 表演者试演"
+      ]
+    ],
+    "explanation": "“让人听一听”后来成为表演者接受评选的机会，现代扩展到演员、舞者等，不只用耳朵评价歌手。名词试演义先于相关动词。",
+    "usage": "an audition for a role；audition for a part；hold auditions；audition a performer。",
+    "contrast": "interview 通常主要通过交谈了解人；audition 要展示表演能力。两者可以出现在同一次选拔中。",
+    "examples": [
+      [
+        "She has an audition for the lead role tomorrow.",
+        "她明天要参加主角的试演。"
+      ],
+      [
+        "More than fifty singers auditioned for the choir.",
+        "五十多名歌手参加了合唱团的试唱。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audition#English",
+      "https://www.etymonline.com/word/audition"
+    ]
+  },
+  {
+    "word": "audit",
+    "ipa": "英 /ˈɔːdɪt/；美 /ˈɑːdɪt/",
+    "meaning": "审计；系统核查；旁听课程",
+    "sense": "audit 像逐项听取说明，再检查“说的和记录对不对得上”。现代可以审查账目，也可以核查流程和系统。",
+    "split": "来自拉丁语 audītus“听、听取”，属于 audīre 词族。英语先有核查账目的名词，再发展出相关动词。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "拉丁语：audītus",
+        "听；听取"
+      ],
+      [
+        "英语：audit",
+        "听取账目陈述后核查 → 审计；旁听"
+      ]
+    ],
+    "explanation": "早期账目检查包含口头陈述，检查者要听取汇报，听与核查因此连在一起。audit a course 则是去听课但通常不取得该课学分。",
+    "usage": "conduct an audit；audit the accounts；a security audit；an internal audit；audit a course。",
+    "contrast": "audit 常指按一定范围和程序进行检查，比随手 check 一下更系统。它不等于听见一点声音，也不自动等于发现造假。",
+    "examples": [
+      [
+        "The organization commissioned an independent audit of its accounts.",
+        "该组织委托外部人员对账目进行独立审计。"
+      ],
+      [
+        "I decided to audit the course without taking it for credit.",
+        "我决定旁听这门课，不修读它的学分。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audit#English",
+      "https://www.etymonline.com/word/audit"
+    ]
+  },
+  {
+    "word": "auditor",
+    "ipa": "英 /ˈɔːdɪtə/；美 /ˈɑːdɪtər/",
+    "meaning": "审计人员；核查者；旁听生",
+    "sense": "auditor 是负责听取说明、核对记录的人；在课程场景，也可以是坐下来学习却不修学分的旁听者。",
+    "split": "经盎格鲁诺曼语 auditour，来自拉丁语 audītor“听者”。现代 audit + -or 很好记，但整词并非最初在英语里这样拼出来。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "拉丁语：audītor",
+        "听者"
+      ],
+      [
+        "盎格鲁诺曼语：auditour",
+        "听取并核查的人"
+      ],
+      [
+        "英语：auditor",
+        "审计人员；旁听生"
+      ]
+    ],
+    "explanation": "职业义保留了听取并检查的历史角色；现代审计当然还会查阅材料和数据。旁听生义则更直接回到“来听课的人”。",
+    "usage": "an external auditor；an internal auditor；the auditor’s report；attend as an auditor。",
+    "contrast": "accountant 常处理会计记录和财务工作；auditor 重点检查记录与流程。两种专业角色有关，但不是同一个词。",
+    "examples": [
+      [
+        "The auditor asked for supporting records for the payments.",
+        "审计人员要求提供这些付款的证明记录。"
+      ],
+      [
+        "She joined the history course as an auditor.",
+        "她以旁听生身份参加了历史课程。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/auditor#English"
+    ]
+  },
+  {
+    "word": "audiology",
+    "ipa": "英 /ˌɔːdiˈɒlədʒi/；美 /ˌɑːdiˈɑːlədʒi/",
+    "meaning": "听力学",
+    "sense": "audiology 把“听得怎样”变成研究对象：声音怎样被感知，听力出现问题时怎样评估和帮助。",
+    "split": "audio-（听觉）+ -logy（研究、学科），是现代科学利用古典成分组成的术语。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "现代构词：audio- + -logy",
+        "听觉 + 研究、学科"
+      ],
+      [
+        "英语：audiology",
+        "研究听觉和听力问题的学科"
+      ]
+    ],
+    "explanation": "它研究的是人的听觉及相关问题，不是研究歌曲是否好听，也不是一般的音响器材评论。",
+    "usage": "an audiology department；audiology services；a degree in audiology；an audiology assessment。",
+    "contrast": "audiology 关注听觉与听力；acoustics“声学”更广泛研究声音的产生、传播等性质。",
+    "examples": [
+      [
+        "She chose audiology because she wanted to help people with hearing difficulties.",
+        "她选择学习听力学，因为她希望帮助听力有困难的人。"
+      ],
+      [
+        "The hospital expanded its audiology services.",
+        "这家医院扩大了听力学相关服务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audiology#English"
+    ]
+  },
+  {
+    "word": "audiologist",
+    "ipa": "英 /ˌɔːdiˈɒlədʒɪst/；美 /ˌɑːdiˈɑːlədʒɪst/",
+    "meaning": "听力学专业人员；听力师",
+    "sense": "audiologist 是专门研究和评估听力、帮助处理相关问题的专业人员。不是负责给演出调音的人。",
+    "split": "audiology + -ist，把学科名变成从事该领域的人；-logy 对应 -logist。",
+    "history": [
+      [
+        "拉丁语：audīre（词典形式 audiō）",
+        "听；听见"
+      ],
+      [
+        "现代构词：audio- + -logy",
+        "听觉 + 研究、学科"
+      ],
+      [
+        "英语：audiology",
+        "研究听觉和听力问题的学科"
+      ],
+      [
+        "英语：audiologist",
+        "从事听力学工作的专业人员"
+      ]
+    ],
+    "explanation": "audiology 是领域，audiologist 是在这个领域工作的人。具体职业资格和职责因地区不同而异，不能一概等同于耳科医生。",
+    "usage": "see an audiologist；a clinical audiologist；an appointment with an audiologist。",
+    "contrast": "audiologist 主要关注听力评估和相关支持；audio engineer 则处理录音、扩声等音频技术。",
+    "examples": [
+      [
+        "The audiologist explained the results of the hearing test.",
+        "听力师解释了听力检查的结果。"
+      ],
+      [
+        "She works as an audiologist in a children’s clinic.",
+        "她在一家儿童诊所担任听力师。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/audiologist#English"
+    ]
+  },
+  {
+    "word": "credit",
+    "ipa": "/ˈkredɪt/",
+    "meaning": "信用；赊购；功劳；学分；记入账户",
+    "sense": "credit 可以先想一笔“相信与认可”：相信你会还钱，允许先买后付；认可你做过的贡献，把功劳记给你。",
+    "split": "经法语 crédit，来自拉丁语 crēditum“托付之物、借贷”，属于 crēdere“相信”的词族。英语动词由名词发展。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēditum",
+        "托付之物；借贷"
+      ],
+      [
+        "法语：crédit",
+        "信任；信用"
+      ],
+      [
+        "英语：credit",
+        "信用；赊购；认可；记入账户"
+      ]
+    ],
+    "explanation": "信任走进交易，形成信用和赊购；认可贡献，形成 give credit。学分也是对完成课程的正式认可。不同场景都要结合搭配理解，不能一律译成信用。",
+    "usage": "buy on credit；give someone credit；take credit for…；earn course credits；credit money to an account。",
+    "contrast": "credit 既有信任与金融义，也有功劳和学分义。Give her credit 常是“认可她的贡献”，不是“借钱给她”。",
+    "examples": [
+      [
+        "Give Maya credit for solving the problem.",
+        "这个问题是玛雅解决的，功劳应该归她。"
+      ],
+      [
+        "The shop allows customers to buy furniture on credit.",
+        "这家店允许顾客赊购家具。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credit#English"
+    ]
+  },
+  {
+    "word": "creditor",
+    "ipa": "英 /ˈkredɪtə/；美 /ˈkredɪtər/",
+    "meaning": "债权人；别人欠其钱的一方",
+    "sense": "creditor 是把钱或付款信任先交出去、现在有权收回的人或机构。记住方向：钱是别人欠它的。",
+    "split": "经盎格鲁诺曼语 creditour，来自拉丁语 crēditor，与 crēditum“借贷”相连。现代 credit + -or 的画面也容易理解。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēditum → crēditor",
+        "借贷 → 出借、享有债权的一方"
+      ],
+      [
+        "盎格鲁诺曼语：creditour",
+        "债权人"
+      ],
+      [
+        "英语：creditor",
+        "别人欠其款项的一方"
+      ]
+    ],
+    "explanation": "它不只指银行。商家已经交货、买方尚未付款，也可能形成债权关系。核心是存在应向它偿付的款项。",
+    "usage": "pay creditors；owe money to a creditor；a major creditor；meet with creditors。",
+    "contrast": "creditor 是应收款的一方；debtor 是欠款的一方。二者站在同一笔债务的两端。",
+    "examples": [
+      [
+        "The company contacted its creditors to discuss a repayment plan.",
+        "公司联系了各债权人，讨论还款安排。"
+      ],
+      [
+        "The supplier became a creditor when the invoice went unpaid.",
+        "账单未获支付后，那家供应商成了应收款的债权人。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creditor#English"
+    ]
+  },
+  {
+    "word": "creditable",
+    "ipa": "/ˈkredɪtəbəl/",
+    "meaning": "值得称赞的；过得硬的",
+    "sense": "creditable 是“这个表现值得记上一笔好评”。不一定惊艳到第一名，但足以让人尊重。",
+    "split": "credit（功劳、荣誉）+ -able。现代常用义沿 credit 的认可与声誉这一支发展。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēditum",
+        "托付之物；借贷"
+      ],
+      [
+        "法语：crédit",
+        "信任；信用"
+      ],
+      [
+        "英语：credit",
+        "信用；赊购；认可；记入账户"
+      ],
+      [
+        "英语：creditable",
+        "能赢得认可、称赞的"
+      ]
+    ],
+    "explanation": "a creditable performance 常是在给定条件下表现不错。它说的是值得肯定，不只是内容听起来像真的。",
+    "usage": "a creditable performance；a creditable result；a creditable effort；finish a creditable third。",
+    "contrast": "credible 是可信；creditable 是值得赞许；credulous 是轻信别人。三个词的评价方向不同。",
+    "examples": [
+      [
+        "Finishing third was a creditable result for such a young team.",
+        "对这么年轻的队伍来说，获得第三名是值得称赞的成绩。"
+      ],
+      [
+        "She made a creditable attempt to explain a difficult topic.",
+        "她努力解释这个难题，做得颇有可取之处。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creditable#English"
+    ]
+  },
+  {
+    "word": "credited",
+    "ipa": "/ˈkredɪtɪd/",
+    "meaning": "被认可为有贡献的；被归功于的；已入账的",
+    "sense": "credited 像把一笔功劳、创作署名或金额正式记到某个名字下面。",
+    "split": "credit + -ed。作过去分词时，常与 with、to 搭配，交代贡献或款项被记给谁。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēditum",
+        "托付之物；借贷"
+      ],
+      [
+        "法语：crédit",
+        "信任；信用"
+      ],
+      [
+        "英语：credit",
+        "信用；赊购；认可；记入账户"
+      ],
+      [
+        "英语：credited",
+        "得到归功、署名或入账"
+      ]
+    ],
+    "explanation": "be credited with an invention 是被认为对发明有贡献；be credited to an account 是金额记入账户。两者共享“记在某一方名下”的画面。",
+    "usage": "be credited with…；be credited as…；be credited to an account；a credited contributor。",
+    "contrast": "credited 不等于一定独自完成，也不保证历史归属毫无争议。它先说明获得了怎样的认可或记录。",
+    "examples": [
+      [
+        "She is credited with designing the original prototype.",
+        "最初原型的设计被归功于她。"
+      ],
+      [
+        "The refund was credited to my account yesterday.",
+        "退款昨天已经记入我的账户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credited#English"
+    ]
+  },
+  {
+    "word": "creditworthiness",
+    "ipa": "英 /ˈkredɪtˌwɜːðinəs/；美 /ˈkredɪtˌwɜːrðinəs/",
+    "meaning": "信用可靠程度；偿债信用",
+    "sense": "creditworthiness 问的是：把钱借给这一方，按约还回来的把握有多大？它是一种借贷语境的判断。",
+    "split": "credit + worthy（值得的）形成 creditworthy，再加 -ness 表示性质。中间词不必单列，也能看清构造。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēditum",
+        "托付之物；借贷"
+      ],
+      [
+        "法语：crédit",
+        "信任；信用"
+      ],
+      [
+        "英语：credit",
+        "信用；赊购；认可；记入账户"
+      ],
+      [
+        "英语：creditworthy → creditworthiness",
+        "值得提供信用的 → 偿债信用程度"
+      ]
+    ],
+    "explanation": "信任被具体化为对履行债务承诺的评价。它涉及财务状况、还款记录等信息，不等于一个人的全部道德或人生价值。",
+    "usage": "assess creditworthiness；a borrower’s creditworthiness；evidence of creditworthiness。",
+    "contrast": "creditworthiness 是对信用的整体评价；credit score 是某套方法给出的分数，两者不能完全画等号。",
+    "examples": [
+      [
+        "The lender reviewed the company’s creditworthiness before offering a loan.",
+        "出借方在提供贷款前评估了公司的偿债信用。"
+      ],
+      [
+        "The report contains information relevant to the borrower’s creditworthiness.",
+        "报告包含了与借款人信用状况有关的信息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creditworthiness#English"
+    ]
+  },
+  {
+    "word": "microcredit",
+    "ipa": "英 /ˈmaɪkrəʊˌkredɪt/；美 /ˈmaɪkroʊˌkredɪt/",
+    "meaning": "小额信贷",
+    "sense": "microcredit 是把信贷规模缩小：较小金额的借款，常用于帮助难以获得传统贷款的人开展生产或经营。",
+    "split": "micro-（小）+ credit（信贷）。这里 micro- 表示规模小，不表示没有还款责任。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēditum",
+        "托付之物；借贷"
+      ],
+      [
+        "法语：crédit",
+        "信任；信用"
+      ],
+      [
+        "英语：credit",
+        "信用；赊购；认可；记入账户"
+      ],
+      [
+        "英语：microcredit",
+        "小额的信贷服务"
+      ]
+    ],
+    "explanation": "它沿 credit 的借贷义造词，不是“小小的赞扬”。与小生意、社区融资等话题联系密切，效果仍要看具体安排。",
+    "usage": "a microcredit program；access to microcredit；microcredit borrowers；provide microcredit。",
+    "contrast": "microcredit 重点是小额贷款；microfinance 范围更广，还可能包括储蓄、支付、保险等金融服务。",
+    "examples": [
+      [
+        "The cooperative launched a microcredit program for local shop owners.",
+        "合作社为当地店主推出了小额信贷项目。"
+      ],
+      [
+        "She used microcredit to buy equipment for her repair business.",
+        "她用小额贷款为自己的维修生意购买了设备。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/microcredit#English"
+    ]
+  },
+  {
+    "word": "credible",
+    "ipa": "/ˈkredəbəl/",
+    "meaning": "可信的；有说服力的",
+    "sense": "credible 是“有足够理由认真相信它”。证人说法有根据，计划有现实支撑，都可以 credible。",
+    "split": "来自拉丁语 crēdibilis“值得相信的”，经法语传入。cred- 是相信，-ible 表示能够被相信。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēdibilis",
+        "值得相信的"
+      ],
+      [
+        "中古法语：credible",
+        "可信的"
+      ],
+      [
+        "英语：credible",
+        "有理由相信的"
+      ]
+    ],
+    "explanation": "它通常评价被相信的对象，而不是评价一个人多容易信别人。credible explanation 不保证绝对正确，但值得纳入判断。",
+    "usage": "a credible witness；a credible explanation；credible evidence；a credible alternative。",
+    "contrast": "credible 是值得别人相信；credulous 是自己容易相信别人。一个 credible witness 和一个 credulous listener 是不同角色。",
+    "examples": [
+      [
+        "We need credible evidence before making that claim.",
+        "提出那个说法前，我们需要可信的证据。"
+      ],
+      [
+        "Her plan offers a credible alternative to closing the school.",
+        "她的计划为避免关闭学校提供了一个可信可行的替代方案。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credible#English"
+    ]
+  },
+  {
+    "word": "credibility",
+    "ipa": "/ˌkredəˈbɪləti/",
+    "meaning": "可信度；信誉",
+    "sense": "credibility 像别人愿意给你的“相信额度”：前后说法一致、证据可靠，额度就高；反复说错话，就会下降。",
+    "split": "经法语 crédibilité，来自中世纪拉丁语 credibilitas；现代可对照 credible + -ity，-ible 对应 -ibility。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēdibilis",
+        "可信的"
+      ],
+      [
+        "中世纪拉丁语：credibilitas",
+        "可信这一性质"
+      ],
+      [
+        "法语：crédibilité",
+        "可信度"
+      ],
+      [
+        "英语：credibility",
+        "让人相信的程度"
+      ]
+    ],
+    "explanation": "它把“这条消息可信”变成“这条消息或这个来源有多大可信度”。这里的额度只是帮助理解的比喻，不是词源里真的有一张计分卡。",
+    "usage": "gain credibility；lose credibility；damage credibility；the credibility of a source。",
+    "contrast": "credibility 看可信程度；popularity 看受欢迎程度。一个说法传播很广，也可能缺少 credibility。",
+    "examples": [
+      [
+        "The unexplained changes damaged the report’s credibility.",
+        "这些没有解释的改动损害了报告的可信度。"
+      ],
+      [
+        "Admitting the mistake helped restore her credibility.",
+        "承认错误帮助她恢复了信誉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credibility#English"
+    ]
+  },
+  {
+    "word": "credibly",
+    "ipa": "/ˈkredəbli/",
+    "meaning": "可信地；令人信服地",
+    "sense": "credibly 是把事情说得或表现得让人有理由相信：细节对得上，解释也经得起追问。",
+    "split": "credible + -ly，结尾 -le 改为 -ly，形成副词。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēdibilis",
+        "值得相信的"
+      ],
+      [
+        "中古法语：credible",
+        "可信的"
+      ],
+      [
+        "英语：credible",
+        "有理由相信的"
+      ],
+      [
+        "英语：credibly",
+        "以可信的方式"
+      ]
+    ],
+    "explanation": "它常修饰声称、解释、描述，也可形容演员把角色演得可信。重点是能让人相信，不是音量大或态度自信。",
+    "usage": "credibly explain；credibly claim；credibly portray；be credibly accused（有可信依据地被指控）。",
+    "contrast": "confidently 是自信地；credibly 是令人信服地。说得很自信，证据却可能不足。",
+    "examples": [
+      [
+        "She could not credibly explain why the figures had changed.",
+        "她无法令人信服地解释这些数字为何改变。"
+      ],
+      [
+        "The actor credibly portrayed a doctor under intense pressure.",
+        "演员把一名承受巨大压力的医生演得很可信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credibly#English"
+    ]
+  },
+  {
+    "word": "incredible",
+    "ipa": "/ɪnˈkredəbəl/",
+    "meaning": "难以置信的；惊人的；极棒的",
+    "sense": "incredible 原本是“这也能信？”现代赞叹时常是“好得、强得让人不敢相信”。",
+    "split": "拉丁语 in-（不）+ crēdibilis（可信），形成 incrēdibilis。现代也能看清 in- + credible。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：incrēdibilis",
+        "难以相信的"
+      ],
+      [
+        "英语：incredible",
+        "难以置信的；惊人的"
+      ]
+    ],
+    "explanation": "否定“可相信”之后，一条路是真不可信，另一条路是夸张地形容出色、惊人。听到 an incredible performance，通常是在赞扬，并非指表演造假。",
+    "usage": "an incredible story；an incredible achievement；an incredible amount；It is incredible that… 。",
+    "contrast": "incredible 可以评价事情；incredulous 常描述人的不相信。an incredible look 多半是惊人的外观，an incredulous look 才是难以置信的神情。",
+    "examples": [
+      [
+        "The climbers showed incredible courage.",
+        "这些登山者展现出了惊人的勇气。"
+      ],
+      [
+        "His account sounded so incredible that we checked every detail.",
+        "他的说法听起来太难以置信，我们核查了每一个细节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incredible#English"
+    ]
+  },
+  {
+    "word": "incredibly",
+    "ipa": "/ɪnˈkredəbli/",
+    "meaning": "极其；难以置信地",
+    "sense": "incredibly 常像给形容词加一档很强的程度：“特别、特别……”。",
+    "split": "incredible + -ly，变成修饰程度或整个陈述的副词。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：incrēdibilis",
+        "难以相信的"
+      ],
+      [
+        "英语：incredible",
+        "难以置信的；惊人的"
+      ],
+      [
+        "英语：incredibly",
+        "到让人惊讶的程度；极其"
+      ]
+    ],
+    "explanation": "从“难以相信的方式”扩展成日常程度词。incredibly helpful 通常就是帮了大忙，不是说这份帮助不可信。",
+    "usage": "incredibly difficult；incredibly useful；incredibly fast；Incredibly, … 。",
+    "contrast": "incredibly 修饰事物或程度；incredulously 描写一个人不敢相信的反应。两者不能因为都含“不信”就互换。",
+    "examples": [
+      [
+        "The instructions were incredibly easy to follow.",
+        "这些说明特别容易照着操作。"
+      ],
+      [
+        "Incredibly, no one noticed the missing page.",
+        "令人难以置信的是，竟然没人发现少了一页。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incredibly#English"
+    ]
+  },
+  {
+    "word": "credulous",
+    "ipa": "英 /ˈkredjələs/；美 /ˈkredʒələs/",
+    "meaning": "轻信的；容易上当的",
+    "sense": "credulous 像门槛设得太低：别人一说，你还没核查就让这个说法进来了。",
+    "split": "来自拉丁语 crēdulus“容易相信的”，属于 crēdere。结尾 -ous 是形容词形式，不是 credible 的同义写法。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēdulus",
+        "容易相信的"
+      ],
+      [
+        "英语：credulous",
+        "轻信的"
+      ]
+    ],
+    "explanation": "它评价相信别人的习惯，通常带批评意味，暗示没有充分核查就接受了说法。",
+    "usage": "a credulous audience；credulous readers；be too credulous；exploit credulous people。",
+    "contrast": "credible 是可信的对象；credulous 是容易相信的接受者。trusting 可以只是信任别人，credulous 常暗示相信得过头。",
+    "examples": [
+      [
+        "The advertisement targeted credulous buyers with impossible promises.",
+        "这则广告用不可能兑现的承诺吸引轻信的买家。"
+      ],
+      [
+        "He was too credulous to question the stranger’s story.",
+        "他太容易相信别人，没有质疑那个陌生人的说法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credulous#English"
+    ]
+  },
+  {
+    "word": "credulity",
+    "ipa": "英 /krɪˈdjuːləti/；美 /krɪˈduːləti/",
+    "meaning": "轻信；轻信的倾向",
+    "sense": "credulity 是把“别人一说就信”当作一种倾向来讨论，往往意味着判断的门槛太低。",
+    "split": "经法语 credulité，来自拉丁语 crēdulitās；现代与 credulous 的性质名词对应。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēdulus → crēdulitās",
+        "容易相信的 → 轻信"
+      ],
+      [
+        "中古法语：credulité",
+        "轻信"
+      ],
+      [
+        "英语：credulity",
+        "轻信的倾向"
+      ]
+    ],
+    "explanation": "credulous 描述一个人，credulity 讨论这种容易相信的性质。strain credulity 则说某种说法离谱到让人很难继续相信。",
+    "usage": "exploit someone’s credulity；human credulity；strain credulity；test someone’s credulity。",
+    "contrast": "credulity 是轻信；credibility 是可信度。报道可能利用读者的 credulity，却没有多少 credibility。",
+    "examples": [
+      [
+        "The scheme depended on people’s credulity.",
+        "这个骗局依赖人们轻易相信它。"
+      ],
+      [
+        "That explanation strains credulity.",
+        "那个解释实在让人难以相信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credulity#English"
+    ]
+  },
+  {
+    "word": "incredulous",
+    "ipa": "英 /ɪnˈkredjələs/；美 /ɪnˈkredʒələs/",
+    "meaning": "不敢相信的；表示怀疑的",
+    "sense": "incredulous 是听到消息后瞪大眼睛：“不会吧？”它描述接收消息的人的反应。",
+    "split": "来自拉丁语 incrēdulus“不相信的”，in- 是否定，后面属于 crēdere“相信”的词族。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：incrēdulus",
+        "不相信的"
+      ],
+      [
+        "英语：incredulous",
+        "不敢相信的；怀疑的"
+      ]
+    ],
+    "explanation": "它可以是惊讶到不敢信，也可以是真的怀疑对方。an incredulous stare 让“不相信”从心里显露到眼神上。",
+    "usage": "an incredulous look；sound incredulous；be incredulous at…；an incredulous audience。",
+    "contrast": "incredible 是事情惊人或难以相信；incredulous 是人不相信。常见搭配是 an incredible story 和 an incredulous listener。",
+    "examples": [
+      [
+        "She gave me an incredulous look when I told her the price.",
+        "我告诉她价格时，她露出难以置信的神情。"
+      ],
+      [
+        "The audience was incredulous at the claim.",
+        "观众对那个说法表示怀疑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incredulous#English"
+    ]
+  },
+  {
+    "word": "incredulity",
+    "ipa": "英 /ˌɪnkrɪˈdjuːləti/；美 /ˌɪnkrɪˈduːləti/",
+    "meaning": "怀疑；难以置信的反应",
+    "sense": "incredulity 是把“怎么可能”的反应当成一件事来说，可以从脸色、语气或沉默里看出来。",
+    "split": "经法语 incredulité，来自晚期拉丁语 incrēdulitās；现代与 incredulous 对应为性质或状态名词。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：incrēdulus",
+        "不相信的"
+      ],
+      [
+        "晚期拉丁语：incrēdulitās",
+        "不相信的状态"
+      ],
+      [
+        "古法语：incredulité",
+        "怀疑"
+      ],
+      [
+        "英语：incredulity",
+        "不敢相信；怀疑"
+      ]
+    ],
+    "explanation": "credulity 是轻易相信；加否定成分后的这一支是难以接受某个说法。它不自动表示已经查明消息是假的。",
+    "usage": "with incredulity；a look of incredulity；react with incredulity；express incredulity。",
+    "contrast": "incredulity 描写不相信的反应；disproof 是反证。表示怀疑与真正证明错误，是不同的步骤。",
+    "examples": [
+      [
+        "He stared at the bill with incredulity.",
+        "他盯着账单，满脸难以置信。"
+      ],
+      [
+        "The announcement was met with widespread incredulity.",
+        "这项宣布引来了普遍的怀疑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incredulity#English"
+    ]
+  },
+  {
+    "word": "incredulously",
+    "ipa": "英 /ɪnˈkredjələsli/；美 /ɪnˈkredʒələsli/",
+    "meaning": "怀疑地；难以置信地",
+    "sense": "incredulously 常给一句话配上表情和语气：话说出来时，眼睛和声音都在问“你当真？”",
+    "split": "incredulous + -ly，形成描写反应方式的副词。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：incrēdulus",
+        "不相信的"
+      ],
+      [
+        "英语：incredulous",
+        "不敢相信的；怀疑的"
+      ],
+      [
+        "英语：incredulously",
+        "以不敢相信的语气或神态"
+      ]
+    ],
+    "explanation": "它常跟 ask、stare、look 等词，说明这个人怎样说话或看东西。重点在人的反应。",
+    "usage": "ask incredulously；stare incredulously；look at someone incredulously。",
+    "contrast": "incredibly expensive 是极贵；ask incredulously 是不敢相信地问。不要把 incredibly 当作表示人物怀疑神态的副词。",
+    "examples": [
+      [
+        "“You finished all of it today?” she asked incredulously.",
+        "“你今天就全部做完了？”她难以置信地问。"
+      ],
+      [
+        "He looked at the empty shelves incredulously.",
+        "他难以置信地看着空荡荡的货架。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/incredulously#English"
+    ]
+  },
+  {
+    "word": "credence",
+    "ipa": "/ˈkriːdəns/",
+    "meaning": "相信；信任；使人相信的支持",
+    "sense": "credence 常出现在“给不给这个说法相信的分量”里。give credence to a rumor，就是把传闻当成有可能可信的事。",
+    "split": "经古法语 credence，来自中世纪拉丁语 crēdentia“相信”，与 crēdere 的分词 crēdēns 有关。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēdēns",
+        "相信着的"
+      ],
+      [
+        "中世纪拉丁语：crēdentia",
+        "相信；信任"
+      ],
+      [
+        "古法语：credence",
+        "相信"
+      ],
+      [
+        "英语：credence",
+        "对说法的相信与认可"
+      ]
+    ],
+    "explanation": "它比 belief 更常见于固定搭配。lend credence to 某说法，是新增的信息让那个说法更有理由被相信。",
+    "usage": "give credence to…；lend credence to…；little credence；gain credence。",
+    "contrast": "credibility 是对象有多可信；credence 是人给予的相信，或支持这种相信的分量。",
+    "examples": [
+      [
+        "I would not give much credence to an anonymous rumor.",
+        "我不会太相信一条匿名传闻。"
+      ],
+      [
+        "The new records lent credence to her account.",
+        "新发现的记录让她的叙述更可信了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credence#English"
+    ]
+  },
+  {
+    "word": "creed",
+    "ipa": "/kriːd/",
+    "meaning": "信条；一套坚持的信念",
+    "sense": "creed 像写下来的“我们相信这些”：可以是宗教信仰，也可以是一群人或一个人坚持的原则。",
+    "split": "从拉丁语 crēdō“我相信”进入古英语 crēda / crēdo，再发展成 creed。它与现代英语 credo 是同源的不同路径。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēdō",
+        "我相信；信经的开头"
+      ],
+      [
+        "古英语：crēda / crēdo",
+        "信仰陈述"
+      ],
+      [
+        "中古英语：crede",
+        "信条"
+      ],
+      [
+        "英语：creed",
+        "信条；共同信念"
+      ]
+    ],
+    "explanation": "“我相信”在宗教文本开头出现，逐渐用来称整套信仰声明。后来范围扩展，不再只限宗教。",
+    "usage": "a religious creed；a political creed；live by a creed；regardless of creed。",
+    "contrast": "creed 常是一组原则或明确的信仰立场；opinion 可以只是对一件事的看法，不一定构成整套信念。",
+    "examples": [
+      [
+        "The organization welcomes people of every creed.",
+        "这个组织欢迎持有各种信仰的人。"
+      ],
+      [
+        "“Do the work well” became the team’s simple creed.",
+        "“把工作做好”成了团队简单的信条。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/creed#English"
+    ]
+  },
+  {
+    "word": "credo",
+    "ipa": "英 /ˈkriːdəʊ/、/ˈkreɪdəʊ/；美 /ˈkriːdoʊ/、/ˈkreɪdoʊ/",
+    "meaning": "信条；行为准则",
+    "sense": "credo 常像一句你愿意一直照着做的宣言：“遇到问题先问清楚”“对人诚实”。",
+    "split": "保留拉丁语 crēdō“我相信”的形式，经法语等路径进入英语。这里的 -o 不是英语后缀，而是拉丁语词形的一部分。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēdō",
+        "我相信"
+      ],
+      [
+        "古法语：credo",
+        "信经；信仰声明"
+      ],
+      [
+        "英语：credo",
+        "信条；指导行动的原则"
+      ]
+    ],
+    "explanation": "从宗教中的信仰陈述，扩展到个人、团体的原则。它与 creed 意思接近，现代用来概括个人理念时很自然。",
+    "usage": "a personal credo；a professional credo；live by a credo；adopt a credo。",
+    "contrast": "creed 和 credo 可以重叠；creed 较常让人想到一套共同信仰，credo 常用于简明概括个人或组织的做事原则。",
+    "examples": [
+      [
+        "Her personal credo is to leave things better than she found them.",
+        "她的人生信条是：让经手的事物比原来更好。"
+      ],
+      [
+        "The studio’s credo puts clarity before decoration.",
+        "这家工作室的理念是：清楚表达优先于装饰。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credo#English",
+      "https://www.etymonline.com/word/credo"
+    ]
+  },
+  {
+    "word": "credentials",
+    "ipa": "/krɪˈdenʃəlz/",
+    "meaning": "资历；资格证明；身份证明；登录凭据",
+    "sense": "credentials 像你拿出来让对方放心的那一包证据：我有这项能力、代表这个机构，或确实是这个账号的使用者。",
+    "split": "历史上与 letters credential“证明身份或授权的文书”有关，背后是拉丁语 crēdentiālis“给予信任的”。今天语法上也是 credential 的复数，但不能把历史先后简单倒过来。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "中世纪拉丁语：crēdentia → crēdentiālis",
+        "信任 → 给予信任、权威的"
+      ],
+      [
+        "英语：letters credential → credentials",
+        "证明身份、权限的文书"
+      ],
+      [
+        "现代英语：credentials",
+        "资历；资格证明；登录凭据"
+      ]
+    ],
+    "explanation": "早期重在文书带来的信任，后来扩展到学历、经验和资格，再进入数字身份场景。strong credentials 可以指实在的资历，不只是一张证书。",
+    "usage": "professional credentials；check someone’s credentials；login credentials；present one’s credentials。",
+    "contrast": "credentials 是支持身份、资格或权限的证据；credibility 是让人相信的程度。有一份证件，仍可能需要核实它是否真实有效。",
+    "examples": [
+      [
+        "The committee checked the applicant’s professional credentials.",
+        "委员会核查了申请人的专业资历。"
+      ],
+      [
+        "Enter your login credentials to access your account.",
+        "输入登录凭据以访问你的账户。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credentials#English",
+      "https://www.etymonline.com/word/credentials"
+    ]
+  },
+  {
+    "word": "credential",
+    "ipa": "/krɪˈdenʃəl/",
+    "meaning": "资格证明；身份凭据；授予资格",
+    "sense": "credential 常指一项具体的证明：一张专业证书，或系统用来确认身份与权限的一项数字凭据。",
+    "split": "源头是中世纪拉丁语 crēdentiālis。英语名词单数可能由较早常用的 credentials 逆构而成；现代可把 credential 与复数 credentials 配对使用。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "中世纪拉丁语：crēdentia → crēdentiālis",
+        "信任 → 给予信任、权威的"
+      ],
+      [
+        "英语：credentials",
+        "证明身份、资格的文书"
+      ],
+      [
+        "英语：credential（名词可能为逆构）",
+        "一项资格或身份凭据"
+      ]
+    ],
+    "explanation": "它把成套证明中的一个单位单独拿出来说。也可作动词 credential someone，表示审核并授予所需资格或凭证。",
+    "usage": "a professional credential；a digital credential；earn a credential；credential staff。",
+    "contrast": "certificate 是一种证书形式；credential 的范围更广，可以是证明资格、身份或权限的多种材料。",
+    "examples": [
+      [
+        "She earned a teaching credential after completing the program.",
+        "完成项目后，她取得了教学资格证明。"
+      ],
+      [
+        "The system rejected the expired credential.",
+        "系统拒绝了已经过期的身份凭据。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/credential#English",
+      "https://www.etymonline.com/word/credential"
+    ]
+  },
+  {
+    "word": "accredit",
+    "ipa": "/əˈkredɪt/",
+    "meaning": "正式认可；认证；授权代表身份",
+    "sense": "accredit 像有资格判断的机构盖下认可的章：这个项目达到了相应要求，这个人可以以某种身份参加或代表。",
+    "split": "来自法语 accréditer，与 à“向、给予”和 crédit“信用、信任”有关。现代可认出与 credit 的联系，但不是普通地“赞扬一下”。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "法语：crédit → accréditer",
+        "信用 → 给予认可、授权"
+      ],
+      [
+        "英语：accredit",
+        "正式认可；授予资格"
+      ]
+    ],
+    "explanation": "给予信任在机构语境里变成正式承认或授权。既能用于院校和项目，也能用于记者、外交代表等的身份。",
+    "usage": "accredit an institution；accredit a course；accredit someone as…；accredit a representative to… 。",
+    "contrast": "accredit 通常涉及正式认可或授权；credit someone with something 常只是把贡献归给某人。",
+    "examples": [
+      [
+        "The board accredits programs that meet its standards.",
+        "该委员会认证符合其标准的项目。"
+      ],
+      [
+        "The organizers accredited her as a photographer for the event.",
+        "主办方认可了她作为该活动摄影记者的身份。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accredit#English"
+    ]
+  },
+  {
+    "word": "accreditation",
+    "ipa": "/əˌkredɪˈteɪʃən/",
+    "meaning": "正式认证；认可资格；授权",
+    "sense": "accreditation 是那次正式认可的过程，也可以是得到认可之后的资格状态。",
+    "split": "accredit + -ation，是英语动作名词派生。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "法语：crédit → accréditer",
+        "信用 → 给予认可、授权"
+      ],
+      [
+        "英语：accredit",
+        "正式认可；授予资格"
+      ],
+      [
+        "英语：accreditation",
+        "正式认可的过程或结果"
+      ]
+    ],
+    "explanation": "它把“谁认可谁”的动作变成机构可以申请、获得、维持的资格。具体认可什么，由认证范围决定。",
+    "usage": "apply for accreditation；gain accreditation；maintain accreditation；institutional accreditation。",
+    "contrast": "accreditation 不等于笼统地保证一切优秀。它通常说明符合某项认可体系的要求，仍要看范围与有效状态。",
+    "examples": [
+      [
+        "The school applied for accreditation of its new program.",
+        "学校为新项目申请了认证。"
+      ],
+      [
+        "The laboratory renewed its accreditation this year.",
+        "这家实验室今年续办了认证资格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accreditation#English"
+    ]
+  },
+  {
+    "word": "accredited",
+    "ipa": "/əˈkredɪtɪd/",
+    "meaning": "获正式认可的；经认证的；获授权的",
+    "sense": "accredited 表示已经拿到了相应的认可，不是只在宣传中声称自己很专业。",
+    "split": "accredit + -ed，描述正式认可之后的状态。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "法语：crédit → accréditer",
+        "信用 → 给予认可、授权"
+      ],
+      [
+        "英语：accredit",
+        "正式认可；授予资格"
+      ],
+      [
+        "英语：accredited",
+        "已经得到正式认可的"
+      ]
+    ],
+    "explanation": "看见 accredited institution，还需要看 by whom“由谁认可”、for what“认可什么”。词本身不把不同机构的标准变成一样。",
+    "usage": "an accredited institution；an accredited course；an accredited representative；accredited by… 。",
+    "contrast": "credited 常说获得功劳或署名；accredited 常说获得正式认可与身份。差一个 a，使用场景明显不同。",
+    "examples": [
+      [
+        "She completed the course at an accredited institution.",
+        "她在一家经认证的机构完成了这门课程。"
+      ],
+      [
+        "Only accredited reporters could enter the press area.",
+        "只有获得采访资格的记者才能进入媒体区。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/accredited#English"
+    ]
+  },
+  {
+    "word": "discredit",
+    "ipa": "/dɪsˈkredɪt/",
+    "meaning": "使不再可信；损害名誉",
+    "sense": "discredit 像把一个说法脚下的支撑抽掉：原来有人信，现在证据或反驳使它站不住了。",
+    "split": "dis-（取消、相反）+ credit（信任、声誉），是英语的否定性构词。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēditum",
+        "托付之物；借贷"
+      ],
+      [
+        "法语：crédit",
+        "信任；信用"
+      ],
+      [
+        "英语：credit",
+        "信用；赊购；认可；记入账户"
+      ],
+      [
+        "英语：discredit",
+        "损害可信度或名誉"
+      ]
+    ],
+    "explanation": "可以用证据推翻一个理论，也可以用攻击手段损害一个人的可信度。动词只说明使其失去信任，不保证使用的手段公正。",
+    "usage": "discredit a claim；discredit a theory；discredit a witness；bring discredit on… 。",
+    "contrast": "disagree 是不同意；discredit 要进一步损害说法或来源的可信度。单说“我不喜欢”通常还谈不上 discredit。",
+    "examples": [
+      [
+        "The new evidence discredited the original explanation.",
+        "新证据使原先的解释失去了可信度。"
+      ],
+      [
+        "They tried to discredit her by spreading false rumors.",
+        "他们试图散布虚假传闻来损害她的名誉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discredit#English"
+    ]
+  },
+  {
+    "word": "discredited",
+    "ipa": "/dɪsˈkredɪtɪd/",
+    "meaning": "不再被相信的；信誉受损的",
+    "sense": "discredited 描述信任已经塌下来的状态：曾经被接受的理论，经过核查后不再站得住脚。",
+    "split": "discredit + -ed，是失去可信度之后的状态。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "拉丁语：crēditum",
+        "托付之物；借贷"
+      ],
+      [
+        "法语：crédit",
+        "信任；信用"
+      ],
+      [
+        "英语：credit",
+        "信用；赊购；认可；记入账户"
+      ],
+      [
+        "英语：discredit",
+        "损害可信度或名誉"
+      ],
+      [
+        "英语：discredited",
+        "已失去可信度或信誉的"
+      ]
+    ],
+    "explanation": "它常用于理论、说法、方法或人物。但要分清因事实被推翻，与因不实攻击而名誉受损；词形本身不交代全部原因。",
+    "usage": "a discredited theory；a discredited claim；a discredited official；widely discredited。",
+    "contrast": "controversial 是有争议，未必已经失去可信度；discredited 则强调原有信任已受到严重破坏。",
+    "examples": [
+      [
+        "The textbook no longer includes the discredited theory.",
+        "教材不再收录那个已被推翻、失去可信度的理论。"
+      ],
+      [
+        "The article relied on a source that had already been discredited.",
+        "这篇文章依赖了一个早已失去可信度的来源。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/discredited#English"
+    ]
+  },
+  {
+    "word": "miscreant",
+    "ipa": "/ˈmɪskriənt/",
+    "meaning": "恶棍；作恶的人；捣乱者",
+    "sense": "miscreant 今天主要指做了坏事或违法事情的人，语气书面，有时也被故意夸张地用来骂淘气鬼。",
+    "split": "来自古法语 mescreant，与 mes-（错误地）+ creire（相信）有关；creire 追溯到拉丁语 crēdere。中间不是 create“创造”。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "古法语：creire → mescreire",
+        "相信 → 被指为信错或不信"
+      ],
+      [
+        "古法语：mescreant",
+        "被斥为异端、不信者"
+      ],
+      [
+        "英语：miscreant",
+        "早期宗教贬称 → 作恶者、恶棍"
+      ]
+    ],
+    "explanation": "早期这是宗教立场带来的贬称，后来扩展成对道德行为的谴责。这段历史反映使用者当时的偏见，不表示不同信仰真的等于作恶。",
+    "usage": "a gang of miscreants；catch the miscreant；some young miscreants。",
+    "contrast": "现代主要关注作恶行为；不要拿它当中性的“不同信仰者”。offender、troublemaker 往往更符合一般具体语境。",
+    "examples": [
+      [
+        "The novel follows a band of miscreants planning a robbery.",
+        "小说讲述一群恶棍策划抢劫的故事。"
+      ],
+      [
+        "Some miscreant had painted a moustache on the poster.",
+        "不知哪个捣蛋鬼给海报上的人画了胡子。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/miscreant#English",
+      "https://www.etymonline.com/word/miscreant"
+    ]
+  },
+  {
+    "word": "recreant",
+    "ipa": "/ˈrekriənt/",
+    "meaning": "怯懦的；背弃职责的；懦夫或叛徒",
+    "sense": "recreant 可以想成旧故事里临阵认输、抛弃誓约的人。它的批评很重，而且今天很少在普通对话中使用。",
+    "split": "经法语 recreant，来自 recroire“在决斗中屈服、放弃效忠”，其中 croire“相信、信任”追溯到 crēdere。不是 re- + create。",
+    "history": [
+      [
+        "拉丁语：crēdere（词典形式 crēdō）",
+        "相信；信任；托付"
+      ],
+      [
+        "法语：croire → recroire",
+        "相信、信任 → 认输、放弃效忠"
+      ],
+      [
+        "法语：recreant",
+        "认输的；怯弱的"
+      ],
+      [
+        "英语：recreant",
+        "怯懦的；背弃职责的人"
+      ]
+    ],
+    "explanation": "历史上从承认战败扩展到怯懦、失忠。把它理解为“收回承诺、放弃立场”是一种词义联系的解释；更早为什么由“相信”走到“屈服”，并不能靠前缀直接算定。",
+    "usage": "a recreant knight；a recreant follower；prove recreant to one’s duty（背弃职责，文学用法）。",
+    "contrast": "cowardly 是更常见的怯懦；recreant 还可能带背弃职责和效忠的意思。它与 recreation“娱乐、恢复活力”不是同一词源。",
+    "examples": [
+      [
+        "The poem condemns the recreant knight who abandons his companions.",
+        "这首诗谴责那名抛弃同伴的怯懦骑士。"
+      ],
+      [
+        "In the tale, the king calls his disloyal followers recreants.",
+        "故事里，国王把那些不忠的追随者斥为叛徒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/recreant#English",
+      "https://www.etymonline.com/word/recreant"
+    ]
+  }
+]

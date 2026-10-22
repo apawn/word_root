@@ -1,0 +1,544 @@
+[
+  {
+    "word": "family",
+    "ipa": "英 /ˈfæməli/、/ˈfæmli/；美 /ˈfæməli/、/ˈfæmli/",
+    "meaning": "家庭；家人；家族；相关的一组",
+    "sense": "先想同一个家里的人，再扩大到有亲缘关系的人；事物有共同来源或特征，也能被说成“一家”。",
+    "split": "来自拉丁语 familia，起初与 famulus“家仆、奴仆”相关，后来包括家内人员、亲属等。现代 family 的范围不是古罗马家户制度的原样复制。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "中古英语 famylye → 英语 family",
+        "一家人 → 家庭、家族；相关的一组"
+      ]
+    ],
+    "explanation": "family 可以是同住的一家，也可以是分住各地的亲属。a language family 是语系；生物分类的 family 是科。",
+    "usage": "family life；a family member；a family of languages；start a family。",
+    "contrast": "family 强调亲属或被视为家人的关系；household 强调共同居住的住户，二者不完全相同。",
+    "examples": [
+      [
+        "My family lives in several different cities.",
+        "我的家人住在几个不同的城市。"
+      ],
+      [
+        "English belongs to the Germanic branch of the Indo-European language family.",
+        "英语属于印欧语系的日耳曼语族。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/family",
+      "https://en.wiktionary.org/wiki/family#English"
+    ]
+  },
+  {
+    "word": "familiar",
+    "ipa": "英 /fəˈmɪliə/；美 /fəˈmɪljər/",
+    "meaning": "熟悉的；熟络的；过于随便的",
+    "sense": "像家里常见的人和东西，不用第一次重新认识，一眼、一听就有“我知道”的感觉。",
+    "split": "经法语等路线来自拉丁语 familiāris“家里的、亲近的”，与 familia 同族；不是由现代英语 family 临时改拼写而来。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语：familiāris",
+        "家里的；亲近的"
+      ],
+      [
+        "古法语 famelier 等路线 → 英语 familiar",
+        "像熟人一样亲近 → 熟悉的"
+      ]
+    ],
+    "explanation": "I am familiar with it 是我熟悉它；It is familiar to me 是它对我来说很熟悉。a familiar tone 还可表示熟络，若越过关系边界，也可能显得失礼。 奇幻或民俗中的名词 a familiar 指与巫师相伴、为其服务的精灵或动物形象，来自 familiar spirit 的用法。",
+    "usage": "familiar with；familiar to；a familiar face；sound familiar。",
+    "contrast": "familiar 是熟悉；familial 是家庭相关。a familiar voice 是熟悉的声音，不一定来自亲属。",
+    "examples": [
+      [
+        "Her face looks familiar, but I cannot remember her name.",
+        "她看起来面熟，但我想不起她的名字。"
+      ],
+      [
+        "Are you familiar with this software?",
+        "你熟悉这个软件吗？"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/familiar",
+      "https://en.wiktionary.org/wiki/familiar#English"
+    ]
+  },
+  {
+    "word": "unfamiliar",
+    "ipa": "英 /ˌʌnfəˈmɪliə/；美 /ˌʌnfəˈmɪljər/",
+    "meaning": "不熟悉的；陌生的",
+    "sense": "眼前的东西没有接上已有的经验：地方不认识、规则没用过、声音没听惯。",
+    "split": "un- 否定 familiar。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语：familiāris",
+        "家里的；亲近的"
+      ],
+      [
+        "古法语 famelier 等路线 → 英语 familiar",
+        "像熟人一样亲近 → 熟悉的"
+      ],
+      [
+        "英语：unfamiliar",
+        "还不熟悉的"
+      ]
+    ],
+    "explanation": "可以说 I am unfamiliar with the rules，也可以说 The rules are unfamiliar to me。陌生不一定奇怪或危险。",
+    "usage": "an unfamiliar place；unfamiliar with；unfamiliar to…。",
+    "contrast": "unfamiliar 是对某人不熟悉；strange 还可以说事物本身奇怪，含义更宽。",
+    "examples": [
+      [
+        "The map helped us find our way through an unfamiliar city.",
+        "地图帮助我们在陌生的城市里找到路。"
+      ],
+      [
+        "The terminology was unfamiliar to most of the students.",
+        "大多数学生都不熟悉这些术语。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfamiliar#English"
+    ]
+  },
+  {
+    "word": "familiarity",
+    "ipa": "英 /fəˌmɪliˈærəti/；美 /fəˌmɪliˈerəti/",
+    "meaning": "熟悉程度；亲近、熟络；过分随便",
+    "sense": "见过、用过很多次，东西在脑中有了位置；人与人相处久了，也可能越来越不拘礼节。",
+    "split": "经法语 familiarité 来自拉丁语 familiāritās，名词有自己的借入历史；现代与 familiar + -ity 对应。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语：familiāris → familiāritās",
+        "亲近的 → 亲近关系、熟识"
+      ],
+      [
+        "法语 familiarité → 英语 familiarity",
+        "熟悉；熟络"
+      ]
+    ],
+    "explanation": "familiarity with a subject 是熟悉某领域；excessive familiarity 则是过度亲昵。词尾变化时主重音移到后部。",
+    "usage": "familiarity with the system；a sense of familiarity；excessive familiarity。",
+    "contrast": "familiarity 是熟悉，不保证 competence“胜任能力”：常见过一种工具，未必会熟练操作。",
+    "examples": [
+      [
+        "The job requires some familiarity with basic accounting.",
+        "这份工作要求对基础会计有所了解。"
+      ],
+      [
+        "He spoke with a familiarity that made her uncomfortable.",
+        "他说话过于熟络，让她感到不自在。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/familiarity#English",
+      "https://dictionary.cambridge.org/pronunciation/english/familiarity"
+    ]
+  },
+  {
+    "word": "unfamiliarity",
+    "ipa": "英 /ˌʌnfəˌmɪliˈærəti/；美 /ˌʌnfəˌmɪliˈerəti/",
+    "meaning": "不熟悉；缺乏了解",
+    "sense": "事情难做，不一定是能力不够，也可能只是还不知道这套环境怎样运转。",
+    "split": "un- 否定 familiarity；也对应 unfamiliar 的名词形式。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语：familiāris → familiāritās",
+        "亲近的 → 亲近关系、熟识"
+      ],
+      [
+        "法语 familiarité → 英语 familiarity",
+        "熟悉；熟络"
+      ],
+      [
+        "英语：unfamiliarity",
+        "缺少熟悉和了解的状态"
+      ]
+    ],
+    "explanation": "常用 unfamiliarity with，说明不熟悉什么；是较正式的名词表达。",
+    "usage": "unfamiliarity with the procedure；initial unfamiliarity。",
+    "contrast": "unfamiliarity 是缺少经验或接触；inability 是做不到，两者不能直接画等号。",
+    "examples": [
+      [
+        "Her mistakes came from unfamiliarity with the new system.",
+        "她的失误来自对新系统不熟悉。"
+      ],
+      [
+        "Initial unfamiliarity soon gave way to confidence.",
+        "起初的陌生感很快被信心取代。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unfamiliarity#English"
+    ]
+  },
+  {
+    "word": "familiarize",
+    "ipa": "英 /fəˈmɪliəraɪz/；美 /fəˈmɪljəraɪz/",
+    "meaning": "使熟悉；让自己熟悉",
+    "sense": "带一个人认路、试用工具、了解规则，让原本陌生的东西逐渐变得顺手。",
+    "split": "现代可拆 familiar + -ize“使……”。历史上也有法语 familiariser 的借入分析，不能只认定为英语新造词；英式也常写 familiarise。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语 familiāris → 法语 familier / familiariser",
+        "家里的、亲近的 → 使熟悉"
+      ],
+      [
+        "英语：familiarize",
+        "使人逐渐熟悉；也可按 familiar + -ize 分析"
+      ]
+    ],
+    "explanation": "常见 familiarize yourself with，也可说 familiarize someone with。需要说明谁变熟悉，以及熟悉什么。",
+    "usage": "familiarize yourself with；familiarize new staff with…。",
+    "contrast": "familiarize 是使熟悉的过程；be familiar 是已经熟悉的状态。",
+    "examples": [
+      [
+        "Take a few minutes to familiarize yourself with the controls.",
+        "花几分钟熟悉一下这些控制装置。"
+      ],
+      [
+        "The tour familiarized new students with the campus.",
+        "这次参观让新生熟悉了校园。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/familiarize",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/familiarize"
+    ]
+  },
+  {
+    "word": "familiarization",
+    "ipa": "英 /fəˌmɪliəraɪˈzeɪʃən/；美 /fəˌmɪljərəˈzeɪʃən/",
+    "meaning": "熟悉过程；入门熟悉训练",
+    "sense": "正式开始之前，先认环境、看操作、试一下，让人不再摸不着头脑。",
+    "split": "familiarize + -ation，也可分析 familiar + -ization；英式有 familiarisation。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语 familiāris → 法语 familier / familiariser",
+        "家里的、亲近的 → 使熟悉"
+      ],
+      [
+        "英语：familiarize → familiarization",
+        "使熟悉 → 熟悉过程或活动"
+      ]
+    ],
+    "explanation": "多见于培训、设备操作和新员工入门。一次 familiarization 不必等于完整专业训练。",
+    "usage": "a familiarization session；equipment familiarization。",
+    "contrast": "familiarity 是已经熟悉的程度；familiarization 是逐渐熟悉的过程。",
+    "examples": [
+      [
+        "New employees attend a familiarization session on their first day.",
+        "新员工第一天参加入门熟悉活动。"
+      ],
+      [
+        "The programme includes familiarization with the laboratory equipment.",
+        "项目包括熟悉实验室设备的环节。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/familiarization#English"
+    ]
+  },
+  {
+    "word": "familiarly",
+    "ipa": "英 /fəˈmɪliəli/；美 /fəˈmɪljərli/",
+    "meaning": "熟络地；随便亲近地；以熟知的方式",
+    "sense": "说话做事像已经认识很久，少了陌生人之间的客气距离。",
+    "split": "familiar + -ly，中古英语已有 familierly 等形式。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语：familiāris",
+        "家里的；亲近的"
+      ],
+      [
+        "古法语 famelier 等路线 → 英语 familiar",
+        "像熟人一样亲近 → 熟悉的"
+      ],
+      [
+        "英语：familiarly",
+        "以熟识、亲近的方式"
+      ]
+    ],
+    "explanation": "可描述友善亲近，也可能暗示不合时宜的随便；是否合适要看双方关系。familiarly known as 还可引出常用昵称。",
+    "usage": "speak familiarly；address someone familiarly；familiarly known as…。",
+    "contrast": "familiarly 是熟络或熟知的方式；familially 才是较少见的“在家庭关系方面”，不要混读词形。",
+    "examples": [
+      [
+        "He greeted the regular customers familiarly.",
+        "他熟络地招呼那些老顾客。"
+      ],
+      [
+        "The building is familiarly known as the Red House.",
+        "这栋楼被大家习惯地称为“红房子”。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/familiarly#English"
+    ]
+  },
+  {
+    "word": "familial",
+    "ipa": "英 /fəˈmɪliəl/；美 /fəˈmɪljəl/",
+    "meaning": "家庭的；家族相关的",
+    "sense": "把问题放回家庭关系里：家人之间的责任、联系、习惯或共同出现的特点。",
+    "split": "借自法语 familial，来自拉丁语 familia；现代可理解为 family 词族 + -al，但与 familiar 是不同的借词。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "法语：familial",
+        "与家庭、家族有关的"
+      ],
+      [
+        "英语：familial",
+        "家庭关系或家族层面的"
+      ]
+    ],
+    "explanation": "较正式，常用于 familial bonds、familial obligations。日常简单表达时，family 作定语通常更自然。",
+    "usage": "familial ties；familial responsibilities；familial relationships。",
+    "contrast": "familiar 是熟悉的；familial 是家庭相关的。某个人很 familiar，不说明他是亲属。",
+    "examples": [
+      [
+        "The novel explores love and familial obligations.",
+        "小说探讨爱与家庭责任。"
+      ],
+      [
+        "They maintained strong familial ties despite living far apart.",
+        "尽管相隔很远，他们仍保持着紧密的家庭联系。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/familial",
+      "https://en.wiktionary.org/wiki/familial#English"
+    ]
+  },
+  {
+    "word": "overfamiliar",
+    "ipa": "英 /ˌəʊvəfəˈmɪliə/；美 /ˌoʊvərfəˈmɪljər/",
+    "meaning": "过于熟络的；亲昵失礼的；熟悉过头的",
+    "sense": "关系还没到那一步，却先叫很私人的昵称、开越界的玩笑，让对方觉得“我们有这么熟吗？”",
+    "split": "over- 过度 + familiar；这是英语里直接组合的形容词。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语：familiāris",
+        "家里的；亲近的"
+      ],
+      [
+        "古法语 famelier 等路线 → 英语 familiar",
+        "像熟人一样亲近 → 熟悉的"
+      ],
+      [
+        "英语：overfamiliar",
+        "熟络超过合适界限；过分熟悉"
+      ]
+    ],
+    "explanation": "通常批评对人过分随便；形容故事、曲调时也可指熟悉得缺乏新鲜感。",
+    "usage": "an overfamiliar manner；overfamiliar jokes；an overfamiliar tune。",
+    "contrast": "friendly 是友善；overfamiliar 加入了“超过关系允许的距离”的负面判断。",
+    "examples": [
+      [
+        "His overfamiliar jokes made the new colleague uncomfortable.",
+        "他那些过于熟络的玩笑让新同事不舒服。"
+      ],
+      [
+        "The film relies on an overfamiliar plot.",
+        "这部电影依赖一个过于老套、大家太熟悉的情节。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/us/dictionary/english/overfamiliar"
+    ]
+  },
+  {
+    "word": "overfamiliarity",
+    "ipa": "英 /ˌəʊvəfəˌmɪliˈærəti/；美 /ˌoʊvərfəˌmɪliˈerəti/",
+    "meaning": "过于熟络；熟悉过头",
+    "sense": "亲近感超过了边界，或因为见得太多而失去了新鲜感。",
+    "split": "over- 过度 + familiarity；也可看作 overfamiliar 对应的性质名词。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "拉丁语：familiāris → familiāritās",
+        "亲近的 → 亲近关系、熟识"
+      ],
+      [
+        "法语 familiarité → 英语 familiarity",
+        "熟悉；熟络"
+      ],
+      [
+        "英语：overfamiliarity",
+        "过度熟络或过度熟悉"
+      ]
+    ],
+    "explanation": "谈人际态度时常带失礼、唐突的意味；谈作品时可能是熟悉到厌倦。",
+    "usage": "a tone of overfamiliarity；avoid overfamiliarity。",
+    "contrast": "familiarity 可以是宝贵的了解；overfamiliarity 多了一层“过头”的评价。",
+    "examples": [
+      [
+        "The manager’s tone crossed from friendliness into overfamiliarity.",
+        "经理的语气从友善越过了界，显得过分熟络。"
+      ],
+      [
+        "Overfamiliarity with the story reduced its surprise.",
+        "对这个故事太熟悉，削弱了其中的惊喜。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/overfamiliarity"
+    ]
+  },
+  {
+    "word": "multifamily",
+    "ipa": "英 /ˌmʌltiˈfæməli/；美 /ˌmʌltiˈfæməli/，也读 /ˌmʌltaɪˈfæməli/",
+    "meaning": "多家庭的；多户住宅的",
+    "sense": "一栋建筑里分成几个住户单元，各住各的一家；不只是同一个大家庭人数多。",
+    "split": "multi- 多 + family。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "中古英语 famylye → 英语 family",
+        "一家人 → 家庭、家族；相关的一组"
+      ],
+      [
+        "英语：multifamily",
+        "涉及多个家庭或住户的"
+      ]
+    ],
+    "explanation": "常修饰 housing、building、property，特别常见于住房与城市规划语境。",
+    "usage": "multifamily housing；a multifamily building。",
+    "contrast": "multifamily housing 说多个住户单元；a large family 只是一个家庭人数多。",
+    "examples": [
+      [
+        "The project will add more multifamily housing near the station.",
+        "这个项目将在车站附近增加多户住宅。"
+      ],
+      [
+        "The old house was converted into a multifamily building.",
+        "老房子被改成了供多户居住的建筑。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/multifamily",
+      "https://en.wiktionary.org/wiki/multifamily#English"
+    ]
+  },
+  {
+    "word": "subfamily",
+    "ipa": "英 /ˈsʌbˌfæməli/；美 /ˈsʌbˌfæməli/",
+    "meaning": "亚科；一个大族中的次级分组",
+    "sense": "先圈出一个大家族，再在内部把联系更近的成员圈成较小的一组。",
+    "split": "sub- 在下、次一级 + family 族、科。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "中古英语 famylye → 英语 family",
+        "一家人 → 家庭、家族；相关的一组"
+      ],
+      [
+        "英语：subfamily",
+        "科以下的分组；族内次级群"
+      ]
+    ],
+    "explanation": "生物分类中低于科、高于属；语言分类等语境也可用来表示一个大族内的分支。不是某个家庭社会地位低。",
+    "usage": "a subfamily of insects；classify into subfamilies。",
+    "contrast": "subfamily 的 sub- 表分类层级更细；superfamily 则比 family 更宽。",
+    "examples": [
+      [
+        "The chart divides the family into three subfamilies.",
+        "图表把这一科分成三个亚科。"
+      ],
+      [
+        "These insects belong to the same subfamily.",
+        "这些昆虫属于同一个亚科。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/subfamily",
+      "https://en.wiktionary.org/wiki/subfamily#English"
+    ]
+  },
+  {
+    "word": "superfamily",
+    "ipa": "英 /ˈsuːpəˌfæməli/；美 /ˈsuːpərˌfæməli/",
+    "meaning": "总科；超家族",
+    "sense": "几个相关的小家族，还能往外套一个更大的圈；这个更宽的分组就是 superfamily。",
+    "split": "super- 在上、更高层级 + family。",
+    "history": [
+      [
+        "拉丁语：famulus → familia",
+        "家仆、奴仆 → 家内人员与家户"
+      ],
+      [
+        "中古英语 famylye → 英语 family",
+        "一家人 → 家庭、家族；相关的一组"
+      ],
+      [
+        "英语：superfamily",
+        "把多个相关科或家族纳入更大一组"
+      ]
+    ],
+    "explanation": "生物分类中高于科、低于目；分子生物学里的 protein superfamily 指相关蛋白质家族构成的较大群。",
+    "usage": "a superfamily of proteins；a biological superfamily。",
+    "contrast": "super- 在这里不表示“特别优秀”，而是分类范围更大。",
+    "examples": [
+      [
+        "Several related families are grouped into one superfamily.",
+        "几个相关的科被归入同一个总科。"
+      ],
+      [
+        "The protein belongs to a large superfamily.",
+        "这种蛋白质属于一个很大的超家族。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/superfamily",
+      "https://en.wiktionary.org/wiki/superfamily#English"
+    ]
+  }
+]

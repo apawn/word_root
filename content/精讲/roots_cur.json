@@ -1,0 +1,104 @@
+[
+  {
+    "id": "C0288",
+    "meaning": "照料；用心关注；由免于担忧发展出安全与确信",
+    "core": "CUR = CARE",
+    "image": "把注意力放在一件事上，认真照料它",
+    "intro": "**先想有人把一件事放在心上，愿意照看、料理。** 拉丁语 cūra 是关心、照料，也可以是忧虑；cūrāre 是照管、处理。照顾病人形成 cure，照看藏品的人是 curator，认真处理到位得到 accurate。另一条很有用的路线是 sēcūrus：不用再操心 → 安全、放心 → secure 和 sure。",
+    "forms": "cur- 是照料这一族，别和 curr- / curs-“跑”混为一谈。secure 中 sē- 表示离开、没有，sure 是经过法语变化后的同源形式。pro- 在 procure 中带出代为办理；manicure、pedicure 分别说明照料手和脚。curate 的牧师名词与策展动词各有来路，读音也不同。scour 的清洗义与本族可能相关，搜寻义还有另一来源，图中作了区分。",
+    "branches": [
+      [
+        "照护与处理",
+        "cure · curable · curative"
+      ],
+      [
+        "认真与准确",
+        "accurate · accuracy"
+      ],
+      [
+        "关注与好奇",
+        "curious · curiosity · curio"
+      ],
+      [
+        "照管与策展",
+        "curator · curate · curatorial"
+      ],
+      [
+        "安心与保障",
+        "sure · secure · insurance"
+      ],
+      [
+        "代为操办",
+        "procure · proctor · proxy"
+      ]
+    ],
+    "contrasts": "**assure / ensure / insure**：向人保证；确保事情实现；提供保险。\n\n**cure / treat / heal**：治好；治疗；愈合、恢复。可治疗不一定等于可治愈。\n\n**curious / curiosity / curio**：好奇的或奇特的；好奇心或奇物；小型珍奇物件。\n\n**curator / curate**：馆藏管理人、策展人；curate 作动词是策展，作名词却是牧师职位。\n\n**secure / sure / sinecure**：安全牢靠；心里确信；有报酬而少有实际职责的职位。同根的“免于操心”走出了不同方向。",
+    "practice": "The **curator** was **curious** about the object, checked the record for **accuracy**, and **ensured** that it was stored **securely**.\n\n馆藏管理人对这件物品很好奇，核查记录是否准确，并确保它得到安全保存。\n\n连起来记：照管东西的人 → curator；注意力被吸引、想知道 → curious；用心核对得准确 → accuracy；安排好让人放心 → ensure、securely。",
+    "words": [
+      "sure",
+      "surely",
+      "unsure",
+      "ensure",
+      "assure",
+      "assurance",
+      "reassure",
+      "reassurance",
+      "secure",
+      "security",
+      "securely",
+      "insecure",
+      "insecurity",
+      "unsecure",
+      "cybersecurity",
+      "biosecurity",
+      "insure",
+      "insurance",
+      "insurer",
+      "reinsure",
+      "reinsurance",
+      "coinsurance",
+      "insurable",
+      "insurability",
+      "accurate",
+      "accuracy",
+      "accurately",
+      "inaccurate",
+      "inaccuracy",
+      "inaccurately",
+      "curious",
+      "curiosity",
+      "curiously",
+      "curio",
+      "cure",
+      "curable",
+      "incurable",
+      "curative",
+      "curability",
+      "curator",
+      "curate",
+      "curatorial",
+      "curacy",
+      "manicure",
+      "pedicure",
+      "curette",
+      "curettage",
+      "procure",
+      "procurement",
+      "procurable",
+      "procurator",
+      "procuration",
+      "procuracy",
+      "proxy",
+      "proctor",
+      "proctorial",
+      "proctorage",
+      "surety",
+      "sinecure",
+      "sinecural",
+      "assecure",
+      "pococurante",
+      "scour",
+      "scourage"
+    ]
+  }
+]

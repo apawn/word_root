@@ -1,0 +1,170 @@
+[
+  {
+    "id": "C0415",
+    "meaning": "带、携带；承受；生出、产出",
+    "core": "FER：把东西带去、托住，或生出来",
+    "image": "想象两只手托着东西：可以递给别人、搬到别处，也可以顶住落下来的重量；植物托出果实，则是“生出、产出”",
+    "intro": "**fer- 最好先记成“带着、承载着”。** 把东西带到人面前，是 **offer**；把一个选项放在前面，是 **prefer**；带到另一处，是 **transfer**。承受落到自己身上的痛苦，是 **suffer**。土地能生出庄稼、头脑能生出点子，则是 **fertile**。这些画面帮助理解词义，但具体历史要看下面各词的演化链。",
+    "forms": "本族主源是拉丁语 **ferre**“带、承受、生出”，**ferō** 是它的第一人称形式。复合词中，前缀常被后面的 f 影响：ob- → of-〔offer〕、sub- → suf-〔suffer〕、ad- → af-〔afferent〕；这叫发音同化，不是现代英语可以任意改字母。**-fer / -ferous** 常表示承载、带有，如 aquifer、coniferous。\n\n**defer** 要分两条线：推迟义来自 **differre〔dis- + ferre〕**，与 differ 同源；听从义来自 **deferre〔de- + ferre〕**，联系把事情交给别人判断。两条线最后合成相同的英语拼写。\n\n**preference、conference、inference、fertility** 等有拉丁或法语名词来源；**reference** 还有英语内部派生的分析，**referent** 也有拉丁分词来源的分析。不能统一画成英语动词或形容词刚加了后缀。**coniferous** 在英语中比名词 conifer 更早，来源节点使用拉丁 conifer。**luciferin / luciferase** 是法语科学命名借入，取“带来光”的意思。\n\n**ferry、ferrier、ferryman、ferryboat** 属于日耳曼语“使渡过、运送”家族，远源通常追到 *per-，不是拉丁 ferre。本页纠正原词根表的误归类。**ferocious** 的 fer- 来自 ferus“野的”，**inferno** 关联 infernus“下面的世界”，也不能按拼写塞进本族。",
+    "branches": [
+      [
+        "递到面前",
+        "offer · offering · offeror · offeree · proffer · counteroffer"
+      ],
+      [
+        "排在前面，优先选择",
+        "prefer · preference · preferable · preferably · preferential · preferment"
+      ],
+      [
+        "把注意力或问题带到另一处",
+        "refer · reference · referral · referee · referent · referential"
+      ],
+      [
+        "带入结论",
+        "infer · inference · inferential"
+      ],
+      [
+        "把意见带到一起；授予",
+        "confer · conference · conferencing · conferral · conferee"
+      ],
+      [
+        "隔空开会",
+        "teleconference · videoconference"
+      ],
+      [
+        "移到以后；把判断交给他人",
+        "defer · deferred · deferral · deferment · deference · deferential"
+      ],
+      [
+        "带开到不同方向",
+        "differ · different · difference · differentiate · indifferent"
+      ],
+      [
+        "带到另一边",
+        "transfer · transferable · nontransferable · transference · transferee · transferor · transferase"
+      ],
+      [
+        "在下面承受",
+        "suffer · suffering · sufferer · sufferance · insufferable"
+      ],
+      [
+        "能够生出、产出",
+        "fertile · fertility · fertilize · fertilizer · fertilization · infertility"
+      ],
+      [
+        "绕着外边一圈",
+        "circumference · circumferential"
+      ],
+      [
+        "承载水、球果、声音与光",
+        "aquifer · conifer · coniferous · vociferous · Lucifer · luciferin · luciferase"
+      ],
+      [
+        "传入与传出",
+        "afferent · efferent"
+      ]
+    ],
+    "contrasts": "**offer / provide**：主动提出给，未必已收下 / 实际供应。**offeror / offeree**：提出要约 / 收到要约。**offer / offering**：一项提议 / 拿出来的供品、产品或作品。\n\n**prefer / preferable / preferred / preferential**：更喜欢 / 更值得选择 / 被优先选择的 / 给出特殊优待的。**preferably / preferentially**：最好 / 有倾向地优先给予。\n\n**refer / reference / referral / referee**：指向、转交 / 参照、依据、推荐证明 / 转交行为 / 接收事项并作判断或证明的人。**infer / imply**：根据线索推断 / 通过表达暗示。\n\n**conference / conferral**：一起商谈的会议 / 正式授予。**defer a decision / defer to someone**：把决定延后 / 尊重某人的判断。**deferral / deference**：延期 / 尊重而让步。\n\n**transferor / transferee**：转让的一方 / 接收的一方。**suffering / sufferance**：痛苦 / 容忍，后者常见 on sufferance“在勉强容许之下”。\n\n**fertility / fertilization**：生育能力、肥力 / 受精或施肥过程。**coniferous / evergreen**：松柏类 / 常绿，分类角度不同。**afferent / efferent**：向指定中心传入 / 从指定中心传出。**luciferin / luciferase**：发光反应的底物 / 催化反应的酶。",
+    "practice": "**At the conference, Maya offered a new plan. Some members preferred to defer the vote, so the chair referred the issue to a smaller group. They conferred for an hour and inferred from the figures that a transfer of funds would help.**\n\n会上，玛雅提出了一个新方案。一些成员更希望推迟投票，于是主席把问题交给一个较小的工作组。大家商议了一小时，根据数字推断，调拨资金会有所帮助。offer 是递出提议，prefer 是优先选择，defer 是往后放，refer 是交给合适的人，confer 是一起商议，infer 是由线索推结论，transfer 是把东西转到另一处。",
+    "words": [
+      "different",
+      "offer",
+      "conference",
+      "difference",
+      "reference",
+      "transfer",
+      "offering",
+      "prefer",
+      "suffering",
+      "refer",
+      "suffer",
+      "preferred",
+      "differently",
+      "preference",
+      "differ",
+      "referee",
+      "differential",
+      "fertility",
+      "preferably",
+      "differentiate",
+      "fertile",
+      "referral",
+      "deferred",
+      "differentiation",
+      "indifferent",
+      "preferable",
+      "Lucifer",
+      "fertilizer",
+      "indifference",
+      "differentiated",
+      "inference",
+      "preferential",
+      "defer",
+      "confer",
+      "circumference",
+      "infertility",
+      "infer",
+      "transferable",
+      "fertilization",
+      "deference",
+      "sufferer",
+      "aquifer",
+      "infertile",
+      "insufferable",
+      "transference",
+      "conferencing",
+      "preferentially",
+      "referential",
+      "fertilize",
+      "deferral",
+      "conifer",
+      "coniferous",
+      "differentially",
+      "undifferentiated",
+      "vociferous",
+      "deferential",
+      "circumferential",
+      "deferment",
+      "differentiable",
+      "teleconference",
+      "referent",
+      "afferent",
+      "proffer",
+      "vociferously",
+      "transferase",
+      "efferent",
+      "indifferently",
+      "inferential",
+      "preferment",
+      "transferee",
+      "luciferase",
+      "insufferably",
+      "videoconference",
+      "offeror",
+      "counteroffer",
+      "sufferance",
+      "conferral",
+      "transferor",
+      "nontransferable",
+      "diffeomorphism",
+      "luciferin",
+      "offeree",
+      "deferentially",
+      "differentiability",
+      "inferentially",
+      "diffeomorphic",
+      "conferee"
+    ],
+    "exclude": {
+      "ferry": "ferry 来自古英语 ferian、日耳曼 *farjaną，远接 *per-“渡过”，不是拉丁 ferre；其派生也不属于本族。见 https://www.etymonline.com/word/ferry 与 https://en.wiktionary.org/wiki/ferry#English。",
+      "ferrier": "ferry 来自古英语 ferian、日耳曼 *farjaną，远接 *per-“渡过”，不是拉丁 ferre；其派生也不属于本族。见 https://www.etymonline.com/word/ferry 与 https://en.wiktionary.org/wiki/ferry#English。",
+      "ferryman": "ferry 来自古英语 ferian、日耳曼 *farjaną，远接 *per-“渡过”，不是拉丁 ferre；其派生也不属于本族。见 https://www.etymonline.com/word/ferry 与 https://en.wiktionary.org/wiki/ferry#English。",
+      "ferryboat": "ferry 来自古英语 ferian、日耳曼 *farjaną，远接 *per-“渡过”，不是拉丁 ferre；其派生也不属于本族。见 https://www.etymonline.com/word/ferry 与 https://en.wiktionary.org/wiki/ferry#English。"
+    },
+    "sources": [
+      "https://www.etymonline.com/word/ferry",
+      "https://www.etymonline.com/word/ferocious",
+      "https://www.etymonline.com/word/inferno"
+    ]
+  }
+]

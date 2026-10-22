@@ -1,0 +1,112 @@
+[
+  {
+    "id": "C1235",
+    "meaning": "轮子；圆形；旋转；由卷轴发展的词族",
+    "core": "ROT = WHEEL, TURN",
+    "image": "一个轮子 → 圆形、转动 → 卷起来的纸 → 名单、台词、核账与控制",
+    "intro": "**先看见一个轮子，再看它怎样把意义带出去。** 拉丁语 **rota** 是轮子，**rotāre** 是让它转，**rotundus** 是圆的。英语里 rotate、rotation 保留了转动，round 则经过法语，变得不太像原词。\n\n另一条路更有意思：纸卷起来像小圆筒，**rotulus** 成了卷轴、登记卷。演员的台词卷发展成 **role**“角色”；名字写进登记卷，发展成 **enroll**“报名”；拿另一卷账目来核对，发展成 **control**“控制、监督”。这些词不能只看现代字母猜，历史上的实物把它们连了起来。",
+    "forms": "**rot- / round / roll / role 是同族中的不同路线，不是任意换字母。** round 经法语发生了较大变化；rotund 又从拉丁语借入。role 与 roll 读音一样，但 role 的角色义经过法语戏剧用法发展。\n\n**现代拆分与传入历史分开看。** rotation、controller、enrollment 等有自己的拉丁语、法语来源，不能全画成由现代英语 rotate、control、enroll 才造出的词。enrol / enroll、enrolment / enrollment 是拼写变体。\n\n**看见 rot 不一定就是这一族。** rot“腐烂”属于另一条日耳曼来源；routine 来自 route 的道路词族，也不能因为开头相近就当作轮子。round 旧时的“低声说话”义同样另有来源。",
+    "branches": [
+      [
+        "轮子转起来",
+        "rotate · rotation · rotary · rotor"
+      ],
+      [
+        "轮流完成一圈",
+        "rota · rolling · rotational"
+      ],
+      [
+        "圆的形状",
+        "round · rounded · rotund · rotunda"
+      ],
+      [
+        "卷纸变成名册",
+        "roll · enroll · enrollment · enrollee"
+      ],
+      [
+        "台词卷变成职责",
+        "role · multirole"
+      ],
+      [
+        "对照账册、监督",
+        "control · controller · comptroller"
+      ],
+      [
+        "圆圈与反复回返",
+        "rondo · rondeau · rondel · roundelay"
+      ],
+      [
+        "按轮状外形命名",
+        "rotavirus · rotifer · rotelle · rotiform"
+      ]
+    ],
+    "contrasts": "**rotate / roll / revolve**：rotate 重点是绕轴旋转；roll 常是沿表面滚动或把东西卷起；revolve 也可说围绕某中心转动。球可以原地 rotate，也可以沿地板 roll。\n\n**role / roll**：role 是角色、职责、作用；roll 是滚动、卷物或名册。两词同音且同源，现代用法已经分开。\n\n**control / controller / controllable / controlled**：control 是控制；controller 是控制者、控制器；controllable 是能够控制；controlled 是已经受控。uncontrolled 与 uncontrollable 分别否定实际受控状态和可控制能力。\n\n**round / rotund / rotunda**：round 最普通，圆桌、围绕、一轮都可用；rotund 较书面，常描写圆胖或声音圆润；rotunda 是圆形大厅或建筑。\n\n**enroll / enrollment / enrollee**：enroll 报名；enrollment 注册这件事或人数；enrollee 是注册者。enrol 和 enrolment 是常见英式拼写。\n\n**rotational / irrotational**：普通语境谈转动；流体数学里要看局部旋度、涡量。路线弯曲并不自动表示有局部自转。",
+    "practice": "把一张纸卷起来，再摊开想象三种内容：写名字，是 **a roll of names**；写演员台词，连接到 **a role**；与另一份账目核对，连接到 **control**。\n\n再把日常场景串起来：**The names are on the roll, everyone has a role, and the duties rotate each week.** 名字都在名册上，每个人都有职责，任务每周轮换。这样记住的不是一串相似字母，而是从轮子、纸卷到组织工作的几条具体路线。",
+    "words": [
+      "control",
+      "role",
+      "round",
+      "roll",
+      "controller",
+      "rotation",
+      "enrollment",
+      "rotary",
+      "rotate",
+      "rodeo",
+      "enroll",
+      "roulette",
+      "rotational",
+      "rondo",
+      "controllable",
+      "rotunda",
+      "rotator",
+      "arrondissement",
+      "microcontroller",
+      "rotund",
+      "rotavirus",
+      "rotatable",
+      "rondeau",
+      "roundel",
+      "enrollee",
+      "multirole",
+      "roundelay",
+      "rondel",
+      "rotatory",
+      "rotifer",
+      "decontrol",
+      "irrotational",
+      "rowel",
+      "rotundity",
+      "rondelle",
+      "circumrotation",
+      "contrarotation",
+      "redondilla",
+      "reenroll",
+      "rotelle",
+      "rotiferous",
+      "rotiform",
+      "rotula",
+      "rotundifolious",
+      "roundlet",
+      "semiround",
+      "around",
+      "comptroller",
+      "controlled",
+      "enrol",
+      "enrolment",
+      "roller",
+      "rolling",
+      "rota",
+      "rotor",
+      "roundabout",
+      "rounded",
+      "roundly",
+      "roundness",
+      "roundup",
+      "uncontrollable",
+      "uncontrollably",
+      "uncontrolled",
+      "unroll"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+# coding: utf-8
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+ID='C0493';TAG='263_glyph';SHARED=['hieroglyph','hieroglyphic','petroglyph'];EXCLUDE_REASON='按当前范围暂略：冷门雕刻、建筑、古生物及蛇类形态术语。'
+W=[E('glyph','/ɡlɪf/','刻出的符号；字形','一个符号具体长什么样，而不只是它代表哪个字符。','借法语 glyphe，来自希腊 glyphḗ“雕刻”，与 glýphein“刻出”相连。早期指雕刻或建筑凹槽，后来用于刻写符号，再进入字体与计算机排版。',[['希腊 glýphein → glyphḗ','雕刻 → 刻出的形状'],['法语 glyphe → 英语 glyph','雕刻凹槽；刻写符号'],['现代排版与计算机 glyph','字符的具体视觉形态']],'同一个字母换两种字体，字符身份可以不变，画出来的 glyph 却不同。合字又可能把多个字符合成一个字形，所以字符与字形并不总是一一对应；这个区别在字体设计中很实用。','a missing glyph；a glyph in a font；a carved glyph。','character 偏向抽象字符，glyph 偏向显示出来的形状；font 则提供一组字形及相关排版信息。',('The font uses a distinctive glyph for the lowercase letter a.','这款字体的小写字母 a 有独特的字形。'),('The stone bears a row of carved glyphs.','石头上刻着一排符号。'),sources=['https://www.etymonline.com/word/glyph','https://www.unicode.org/glossary/#glyph']),
+E('anaglyph','/ˈænəɡlɪf/','浅浮雕；双色立体图','原来把图案刻得凸出来，后来让平面图像看起来凸出来。','经后期拉丁 anaglyphus，来自希腊 anáglyphos／anaglýphein“浮雕、刻出凸纹”，可追到 ana- 向上与 glýphein 雕刻。现代能拆成 ana- + glyph，但不是在英语 glyph 后直接发明了古代浮雕。',[['希腊 ana-〔向上〕与 glýphein〔雕刻〕','组成浮雕相关词'],['希腊 anáglyphos → 后期拉丁 anaglyphus → 英语 anaglyph','浅浮雕'],['立体视觉用法 anaglyph','叠加两种颜色的左右视图，配合滤色眼镜形成深度感']],'常见的是红青双色立体图：两只眼睛经不同滤色片看到不同视图，合起来产生深度感。它借用了浮雕“凸出来”的效果，不意味着显示屏真的变得凹凸。','an anaglyph image；anaglyph glasses；a red-and-cyan anaglyph。','anaglyph 是一种特定立体图像方式；不是所有 3D 图像或所有双色图片都叫 anaglyph。',('The museum displayed a small anaglyph carved in stone.','博物馆展示了一件刻在石头上的小型浅浮雕。'),('The anaglyph appears three-dimensional through the coloured glasses.','透过滤色眼镜看，这幅双色图呈现出立体效果。'),sources=['https://www.merriam-webster.com/dictionary/anaglyph','https://en.wiktionary.org/wiki/anaglyph'])]
+ROOT=dict(meaning='刻；雕刻出的形状或符号',core='先把形状刻进材料，再把“刻出的符号”用于文字和现代字形。',image='石上刻痕变成文字符号；屏幕中的字形继承可见形状的概念；浮雕的凸起感又借给双色立体图。',intro='glyph 在字体、界面和历史文字文章中都很有用。把“实际画出来的形状”记住，就能区分字符与字形，也能看懂 hieroglyph、petroglyph 中的雕刻意象。',forms='希腊 glýphein“雕刻”提供 glyph-；glyph 经法语借入。hieroglyph 与 petroglyph 各结合神圣、岩石材料，不能把它们当成同一种书写系统。',branches=[['可见符号与现代字形','glyph'],['古代符号与岩石雕刻','hieroglyph、hieroglyphic、petroglyph'],['凸起的外形与立体效果','anaglyph']],contrasts='glyph 是形状；character 是字符身份。petroglyph 可以是图案，不一定是文字；hieroglyph 也不能概括为“每个符号都画一个物体”。',practice='用两个字体中的同一个字母解释 glyph 与 character，再说明 anaglyph 为什么借用了浮雕名字。',sources=['https://www.etymonline.com/word/glyph','https://www.unicode.org/glossary/#glyph','https://www.merriam-webster.com/dictionary/anaglyph'])
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(x for x in m['roots']if x['id']==ID);c=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text())if x['id']==ID);keep={w['word']for w in W}|set(SHARED);excluded={w:EXCLUDE_REASON for w in(set(r['family'])|set(c['family'])|set(c.get('unmatched',[])))-keep}
+ROOT['id']=ID;ROOT['words']=list(dict.fromkeys([w for w in r['family']if w in keep]+[w for w in SHARED if w not in r['family']]));ROOT['exclude']=excluded
+assert all(w['word']in m['owned_words']for w in W)
+assert not(set(c['family'])|set(c.get('unmatched',[])))-set(ROOT['words'])-set(excluded)
+assert {w['word']for w in W}<=set(ROOT['words'])
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history'])
+for k,d in [('roots',[ROOT]),('words',W)]: (OUT/f'{k}_batch200_spec_{TAG}.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print(ID,len(W),'new,',len(SHARED),'shared')

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "C1064",
+    "meaning": "填满；补足；完成",
+    "core": "把少的那一块补上，让数量、内容或任务达到应有的完整程度。",
+    "image": "想象一张还有空格的清单：全填好是 complete；把缺的物资送来是 supply；再加材料是 supplement；存量被抽走则是 deplete。",
+    "intro": "拉丁语 plēre 的核心是“填满”。它常保存在 complēre、implēre、supplēre 等带前缀的动词里，分词词干能见到 plēt-。从填容器到完成任务，再到履行要求，这个动作逐渐走进抽象生活。plēnus“满的”属于同源的形容词支线，另列 plen-；两支有关，不必硬画成一个直接生出另一个。",
+    "forms": "ple-/plet- 来自拉丁语不同词形。complete、replete 保留明显的 -plete；complement、implement、supplement 保留 -plement；supply、comply、accomplish 经过法语等语言后，表面已经不那么像。-tion 名词有些早在拉丁语形成，甚至比对应英语动词更早出现。",
+    "branches": [
+      [
+        "把事情做完整",
+        "complete, completion, accomplish, accomplishment"
+      ],
+      [
+        "补足整体、相互搭配",
+        "complement, complementary"
+      ],
+      [
+        "履行礼节、表达赞美",
+        "compliment, complimentary"
+      ],
+      [
+        "履行并实施",
+        "implement, implementation"
+      ],
+      [
+        "供应与额外补充",
+        "supply, supplier, supplement, supplementary"
+      ],
+      [
+        "按要求做足",
+        "comply, compliance, compliant"
+      ],
+      [
+        "填满与消耗",
+        "replete, repletion, deplete, depletion"
+      ],
+      [
+        "特殊位置的填充",
+        "suppletion, suppletive, expletive, compline"
+      ]
+    ],
+    "contrasts": "complement 是补足、相配；compliment 是赞美，它们同源而分工不同。complaint“抱怨”来自 plangere“捶击、哀叹”的另一族。supple“柔软”和 suppliant“恳求的”也不是“填满”词族。complete 不等于 perfect，deplete 也不保证已经耗到零。",
+    "practice": "用一个项目串起来：complete the form 是填好表；supply the materials 是供材料；implement the plan 是实行计划；comply with the rules 是按规则做；accomplish the goal 是最终把目标实现。不要只译成五个抽象汉语词，要想各自到底做了哪一步。",
+    "words": [
+      "complete",
+      "completely",
+      "completeness",
+      "completion",
+      "incomplete",
+      "incompletely",
+      "incompleteness",
+      "autocomplete",
+      "compleat",
+      "complement",
+      "complementary",
+      "complementarity",
+      "compliment",
+      "complimentary",
+      "implement",
+      "implementation",
+      "implementer",
+      "replete",
+      "repletion",
+      "deplete",
+      "depletion",
+      "supply",
+      "supplier",
+      "resupply",
+      "oversupply",
+      "undersupply",
+      "supplement",
+      "supplemental",
+      "supplementary",
+      "supplementation",
+      "suppletion",
+      "suppletive",
+      "comply",
+      "compliance",
+      "compliant",
+      "noncompliance",
+      "noncompliant",
+      "accomplish",
+      "accomplishment",
+      "accomplished",
+      "expletive",
+      "compline"
+    ],
+    "exclude": []
+  },
+  {
+    "id": "C1069",
+    "meaning": "满的；充足的；完整的",
+    "core": "一个容器、一个集合或一份权限已经给足，不再缺少应有的部分。",
+    "image": "仓库货物充足是 plenty；用掉一些再补回来是 replenish；分组会议重新聚成全体是 plenary；代表的授权给足则是 plenipotentiary。",
+    "intro": "来自拉丁语形容词 plēnus“满的、完整的、丰富的”。plenty 经法语变化后已经看不到完整的 plen-，plenary 与 plenitude 则保留得较清楚。它与 plēre“填满”的词族同源；这里从“满的状态”讲起，不把所有 plen- 单词硬接在一个英语母词后面。",
+    "forms": "plen- 见于 plenary、plenitude、plenum；plēnitās 经法语 plenté 走到 plenty，再形成 plentiful、aplenty。replenish 经过古法语 replenir / repleniss-，结尾 -ish 不是“有点儿”的那个现代后缀。",
+    "branches": [
+      [
+        "日常数量充足",
+        "plenty, plentiful, aplenty"
+      ],
+      [
+        "补回存量",
+        "replenish, replenishment"
+      ],
+      [
+        "全体与完整",
+        "plenary, plenum"
+      ],
+      [
+        "书面的丰富、丰盈",
+        "plenitude, plenteous"
+      ],
+      [
+        "充分授权",
+        "plenipotentiary"
+      ]
+    ],
+    "contrasts": "plenty of time 是时间充足；a full hour 是完整的一小时，两种“满”用法不同。replenish 是补存量，replace 是换东西。plenteous 与 plentiful 近义但更古旧、文学化；plenitude 不要按 plenty 的拼写多塞一个 t。",
+    "practice": "想象组织一次会议：先有 plenty of food，食物足够；吃掉一部分后 replenish the supplies，补物资；最后所有小组汇合，举行 a plenary session。这几步把“充足—补回—全体”连成一个清楚场景。",
+    "words": [
+      "plenty",
+      "plentiful",
+      "plentifully",
+      "aplenty",
+      "replenish",
+      "replenishment",
+      "plenary",
+      "plenitude",
+      "plenteous",
+      "plenum",
+      "plenipotentiary"
+    ],
+    "exclude": []
+  }
+]

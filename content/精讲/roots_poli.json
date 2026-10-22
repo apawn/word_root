@@ -1,0 +1,99 @@
+[
+  {
+    "id": "C1090",
+    "meaning": "城邦；公民与公共治理；城市",
+    "core": "POLI = CITY / CITIZEN / PUBLIC LIFE",
+    "image": "人聚成一座城 → 成为共同体的公民 → 一起决定公共事务怎么管",
+    "intro": "**poli-** 的本质不只是“楼房很多的地方”，而是希腊语 **pólis：一群人组成的城邦**。从这里很自然地分出两条线：一条谈城市的形态与范围，如 metropolis；另一条谈公民怎样一起生活、谁作决定、规则怎样执行，于是出现 politics、policy、police。先看懂这幅画面，再分别记每个词实际走过的历史。",
+    "forms": "**pólis → polítēs → politikós**：城邦 → 公民 → 与公民、公共事务有关的。politic、political、politics 属于这一支。\n\n**politeía → 拉丁语 polītīa → 不同法语借词路线**，分出 policy、police、polity。它们是同源分支，不是“政策变成警察，再变成政体”。\n\n**-polis** 常保留城市义：acro- 高处，metro- 在这里是母亲，mega- / megalo- 巨大，cosmo- 世界；前半部分改变我们怎样看这座城。现代人也继续用希腊语材料造新词。\n\n**三个边界要记住**：policy 的“保险合同”义来自另一条“证明、凭证”的路线；polite“礼貌”和 polish“抛光”属于拉丁语 polīre / polītus，不在本族；poly-“多”也不是 poli-“城邦”。",
+    "branches": [
+      [
+        "公共事务与政治参与",
+        "politics · political · politician · politicize"
+      ],
+      [
+        "采取什么方针",
+        "policy · policymaker · policymaking"
+      ],
+      [
+        "维持秩序、执行规则",
+        "police · policing · policeman · policewoman"
+      ],
+      [
+        "怎样组织共同体",
+        "polity · politeia · isopolity"
+      ],
+      [
+        "怎样判断局面",
+        "politic · impolitic"
+      ],
+      [
+        "城市中心与城市规模",
+        "metropolis · metropolitan · megalopolis"
+      ],
+      [
+        "跨地域的文化和身份",
+        "cosmopolitan · cosmopolite · cosmopolitanism"
+      ],
+      [
+        "数一组城有几座",
+        "tetrapolis · pentapolis · hexapolis · heptapolis · Decapolis"
+      ]
+    ],
+    "contrasts": "**politics / policy / polity**：围绕公共事务和权力的活动 / 采用的方针 / 按制度组织的共同体或其治理形式。\n\n**political / politic / polite**：与政治有关 / 做法明智、有分寸 / 有礼貌。前两个同族；第三个另源。\n\n**metropolis / megalopolis / cosmopolis**：中心大城市 / 常指相连的广大都市带 / 不同文化汇聚的国际城市。\n\n**apolitical / impolitic**：不涉政治或不关心政治 / 不明智、考虑不周。\n\n**polis / police**：古希腊城邦概念 / 警方与执法监督。polis 不是 police 的英语单数。",
+    "practice": "**A politician proposed a new transport policy for the metropolitan area, but the debate soon became highly politicized.**\n\n一位政治人物为都市圈提出了一项新的交通政策，但讨论很快就带上了强烈的政治色彩。politician 是人，policy 是办法，metropolitan 说地区，politicized 说讨论发生的变化。",
+    "words": [
+      "police",
+      "political",
+      "policy",
+      "politics",
+      "politician",
+      "politically",
+      "policeman",
+      "policewoman",
+      "policing",
+      "policymaker",
+      "policymaking",
+      "politic",
+      "impolitic",
+      "apolitical",
+      "nonpolitical",
+      "politicize",
+      "politicized",
+      "politicization",
+      "depoliticize",
+      "depoliticization",
+      "politicking",
+      "polity",
+      "geopolitics",
+      "geopolitical",
+      "geopolitically",
+      "politburo",
+      "metropolis",
+      "metropolitan",
+      "cosmopolitan",
+      "cosmopolite",
+      "cosmopolitanism",
+      "cosmopolis",
+      "polis",
+      "acropolis",
+      "megalopolis",
+      "megapolis",
+      "Tripoli",
+      "propolis",
+      "biopolitics",
+      "Decapolis",
+      "politeia",
+      "isopolity",
+      "pentapolis",
+      "tetrapolis",
+      "hexapolis",
+      "heptapolis",
+      "ecumenopolis",
+      "eperopolis",
+      "politology",
+      "politologist",
+      "politonym"
+    ]
+  }
+]

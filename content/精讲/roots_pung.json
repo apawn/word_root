@@ -1,0 +1,130 @@
+[
+  {
+    "id": "C1169",
+    "meaning": "刺、扎；刺出的小点、尖端",
+    "core": "pungere = 刺、戳；punct- = 同一拉丁动词的另一词干形态",
+    "image": "一根针落在纸上：动作是“刺”，留下的是“点”，针头本身是“尖端”。",
+    "intro": "从一针刺下去，可以分清三种画面：puncture 是刺出的洞，point 是小点或尖端，pungent / poignant 是像被刺了一下的强烈感觉。点又能成为确定的时刻、安排和文字记号：punctual 守时，appoint 定下安排，punctuation 用标点组织文字。这些是有历史关联的分支，不能把每个现代词都硬拆成同一套英语零件。",
+    "forms": "pung-：拉丁语 pungere“刺”；可见于 pungent、expunge；punct-：同一动词的分词词干；可见于 puncture、punctual、punctuation；point-：经法语发展的“小点、尖端”词族；poign-：经法语 poindre“刺”留下的形式；现代常说情感触动；punch-：经法语尖工具、戳刺词族发展；饮料同形词须分开。",
+    "branches": [
+      [
+        "点、尖端和指向",
+        "point, pointed, pointer, pointy, pinpoint"
+      ],
+      [
+        "位置和观察角度",
+        "viewpoint, standpoint, checkpoint, endpoint, midpoint, breakpoint"
+      ],
+      [
+        "缺少目的",
+        "pointless, pointlessly, pointlessness"
+      ],
+      [
+        "定下安排，或使期待落空",
+        "appoint, appointment, appointee, disappoint, disappointment"
+      ],
+      [
+        "准到一个时间点",
+        "punctual, punctuality, punctually, unpunctual"
+      ],
+      [
+        "文字记号与微小细节",
+        "punctuate, punctuation, punctilio, punctilious"
+      ],
+      [
+        "刺孔与点状外形",
+        "puncture, acupuncture, punctate, punctiform"
+      ],
+      [
+        "鼻舌、情感和良心受到刺激",
+        "pungent, poignant, compunction"
+      ],
+      [
+        "标记删除",
+        "expunge, expunction, expungement"
+      ],
+      [
+        "工具、击打与扑取",
+        "punch, puncher, punchy, pounce, puncheon"
+      ],
+      [
+        "用点画画、用音符配合",
+        "pointillism, pointillist, counterpoint, contrapuntal"
+      ]
+    ],
+    "contrasts": "punctual / punctilious：punctual 今天主要说准时；punctilious 说礼节、规矩、细节都做到位。\n\npungent / poignant：pungent 常是蒜、芥末等气味或评论很冲；poignant 常是回忆、场景令人感动而酸楚。\n\npuncture / punctate：puncture 是刺破、刺孔；punctate 描述点状或有小凹点的外观，不必真被针扎过。\n\nappointed / disappointed：一个定好了安排；另一个发展为期待落空。今天 disappoint 不等于简单取消预约。\n\npunch 的分源：工具、击打支线可追到“刺”；饮料常被联系到印地语“五”，但词源有争议，不能拿这个故事当定论。\n\n相近拼写的边界：punish 的惩罚主源不是 pungere；pugnare“搏斗”与 pungere 有更远的关联，也不能把所有 pugn- 词都当作 pungere 的直接后代。",
+    "practice": "想象针落在纸上：哪一部分是 point，哪一个动作留下 puncture？ 把“我失望了”和“结果令人失望”分别用 disappointed、disappointing 说出来。 用 punctual 说时间，用 punctilious 说礼节；分别想一个合适场景。 看到果汁 punch 时，主动断开“拳打水果”的假联想。",
+    "words": [
+      "point",
+      "pointed",
+      "pointedly",
+      "pointer",
+      "pointing",
+      "pointless",
+      "pointlessly",
+      "pointlessness",
+      "pinpoint",
+      "standpoint",
+      "checkpoint",
+      "endpoint",
+      "midpoint",
+      "breakpoint",
+      "ballpoint",
+      "appoint",
+      "appointment",
+      "appointee",
+      "appointed",
+      "reappoint",
+      "reappointment",
+      "disappoint",
+      "disappointed",
+      "disappointing",
+      "disappointment",
+      "disappointingly",
+      "pointy",
+      "pointillism",
+      "pointillist",
+      "counterpoint",
+      "contrapuntal",
+      "punctual",
+      "punctuality",
+      "punctually",
+      "unpunctual",
+      "unpunctuality",
+      "punctuate",
+      "punctuation",
+      "punctuational",
+      "punctuator",
+      "puncture",
+      "punctured",
+      "punctate",
+      "punctiform",
+      "punctation",
+      "punctilio",
+      "punctilious",
+      "punctiliously",
+      "punctiliousness",
+      "pungent",
+      "pungency",
+      "pungently",
+      "poignant",
+      "poignancy",
+      "poignantly",
+      "expunge",
+      "expunction",
+      "expungement",
+      "compunction",
+      "compunctious",
+      "acupuncture",
+      "acupuncturist",
+      "punch",
+      "punchy",
+      "punchline",
+      "puncher",
+      "punchbag",
+      "pounce",
+      "puncheon",
+      "viewpoint"
+    ]
+  }
+]

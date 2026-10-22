@@ -1,0 +1,13 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+B=[['拉丁 scindere；分词词干 sciss-','切开；撕开；分离']]
+W=[
+E('rescind','/rɪˈsɪnd/','正式撤销；废除','一项决定已经挂在那里，现在把它正式剪下来，不让它继续生效。','经法语 rescinder，或直接来自拉丁 rescindere，由 re- 回、反向 + scindere 切开组成。拉丁语里就已有废止的抽象用法。',B+[['拉丁 re- + scindere → rescindere','切除；取消、废止'],['法语 rescinder／直接拉丁借入 → 英语 rescind','正式撤销已经作出的决定等']],'常见对象是 offer、decision、policy、order。不是临时改一下细节，而是把原来作出的东西撤回或取消。词源的剪除只是帮助理解抽象动作，现代用法并不表示真的剪纸。','rescind an offer；rescind a decision；rescind an order。','revise 是修改，suspend 是暂停，rescind 是撤销。cancel 更日常、范围更广；rescind 带正式决定被收回的语气。',('The company rescinded the offer before she signed the paperwork.','在她签署文件之前，公司撤回了录用邀请。'),('The committee voted to rescind its earlier decision.','委员会投票决定撤销先前的决定。'),sources=['https://www.etymonline.com/word/rescind','https://en.wiktionary.org/wiki/rescind','https://www.merriam-webster.com/dictionary/rescind']),
+E('rescission','/rɪˈsɪʒən/','撤销；废止','rescind 是把决定撤掉，rescission 则把“撤销这件事”作为一个名词来讨论。','借自法语及拉丁语的相应名词 rescissio，关联 rescindere 的 sciss- 分词词干。现代可与 rescind 配对记忆，历史上不是简单在英语动词后加 -ion。',B+[['拉丁 rescindere → rescissio','切除、废止 → 撤销行为'],['法语 rescision／拉丁 rescissio → 英语 rescission','撤销；正式语境中的废止']],'这个名词比动词更正式，常出现在公告、合同讨论和政策报道中。理解词义时抓住“把已经作出的安排撤回”；具体合同撤销的法律后果要由语境和适用规则决定，不能仅从词根推出。','the rescission of an offer；announce a rescission；a notice of rescission。','revision 是修订，rescission 是撤销；resignation 是辞职，虽然看起来有一点像，来源和含义都不同。',('The notice announced the rescission of the earlier offer.','通知宣布撤回先前的邀约。'),('The minutes record the committee’s rescission of its previous decision.','会议纪要记录了委员会撤销先前决定一事。'),sources=['https://www.etymonline.com/word/rescission','https://www.merriam-webster.com/dictionary/rescission','https://en.wiktionary.org/wiki/rescission'])
+]
+ROOT=dict(id='C1281',meaning='切开；撕开；分离',core='SCIND / SCISS = SPLIT / CUT APART',image='原来连在一起的东西被切开；抽象到决定或规定上，就是把已经建立的效力撤掉。',intro='来自拉丁 scindere，相关分词词干是 sciss-。最实用的正式词是 rescind 撤销及其对应名词 rescission。原词表还列 scissors，但它主要来自另一条 caedere 切的路线，只在后来的拼写上受 scindere 家族影响。',forms='scind- 与 sciss- 是拉丁语动词不同词干形态，不是英语随意把 nd 改成 ss。rescind 与 rescission 的关系可并列记忆；scissors 的 sc- 则需另作拼写影响说明。',branches=[['把决定撤掉','rescind、rescission'],['拼写受到影响的旁支','scissors']],contrasts='rescind 与 scissors 都能让人想到切，但相似画面不证明直系同源。scissors 的主要历史路线来自 caedere，经法语进入英语；后来才受到拉丁 scissor 的拼写影响。',practice='The committee decided to rescind the rule, and the minutes recorded its rescission.\n\n委员会决定撤销这项规定，会议纪要记下了这次撤销。',words=[x['word'] for x in W]+['scissors'],exclude={})
+if __name__=='__main__':
+ for name,data in [('roots_scind',[ROOT]),('words_scind',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="254" viewBox="0 0 1000 254" role="img">
+<title>isopolity：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="252" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">古希腊语：ísos + polítēs → isopoliteía</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">平等 + 公民 → 公民权平等、互授公民权</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">英语：isopolity</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">用 iso- 与 polity 对应表达这一古典制度概念</text>
+</svg>

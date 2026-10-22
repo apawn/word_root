@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="358" viewBox="0 0 1000 358" role="img">
+<title>individual：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="356" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：dīvidere；分词 dīvīsus</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">分开；分配；di- 在这里有分离的意思</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：in- + dīviduus → indīviduus</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">不 + 可分的 → 不可分的单一整体</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">中世纪拉丁语 indīviduālis → 英语 individual</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">不可分的 → 单独的个体、个人</text>
+</svg>

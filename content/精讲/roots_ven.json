@@ -1,0 +1,108 @@
+[
+  {
+    "id": "C1614",
+    "meaning": "来、到来；从来到某处延伸出发生、相合、发现与干预",
+    "core": "VEN / VENT = COME",
+    "image": "把“来”画成一个箭头：从哪里来、往哪里来、何时来，决定后面的意思",
+    "intro": "**先记一个动作：来到。** 拉丁语 venīre 表示来。往这里来，是 advent“到来”；一起到来、碰到一起，是 convene“集会”，再发展出相合、方便；来到中间，是 intervene“介入”；抢先来到、先一步挡住，是 prevent“防止”。同一个动作，方向和上下文一换，就能长出很不一样的意思。",
+    "forms": "ven- 与 vent- 常分别出现在拉丁动词及其分词、名词等构词中。不要把 vent 当成永远能独立翻译为“来”的英语部件：vent“通风口、发泄”主要走的是拉丁语 ventus“风”这一条线。avenue、revenue、souvenir 等经过法语，字形已变；venture 是 adventure 的截短词。现代能看出相似部分，不等于每个词都是在英语里现拼出来的。",
+    "branches": [
+      [
+        "来到、发生",
+        "advent · event · eventual"
+      ],
+      [
+        "将会遇到的事 → 冒险",
+        "adventure · venture"
+      ],
+      [
+        "来往的路、来到的地点",
+        "avenue · venue"
+      ],
+      [
+        "回来的钱 → 收入",
+        "revenue"
+      ],
+      [
+        "一起到来 → 会合、约定",
+        "convene · convention · covenant"
+      ],
+      [
+        "彼此相合 → 方便",
+        "convenient · convenience"
+      ],
+      [
+        "先来到 → 预防",
+        "prevent · prevention"
+      ],
+      [
+        "来到、遇到 → 发现、发明",
+        "invent · invention · inventory"
+      ],
+      [
+        "来到中间 → 介入",
+        "intervene · intervention"
+      ],
+      [
+        "从四周来、反向来",
+        "circumvent · contravene"
+      ],
+      [
+        "来到心中 → 纪念品",
+        "souvenir"
+      ]
+    ],
+    "contrasts": "**event / invent / prevent**：事情发生；发现、想出新东西；提前行动让事情不发生。\n\n**convenient / conventional**：使用或安排起来方便；符合惯例、传统做法。方便与传统是两回事。\n\n**adventure / venture**：冒险经历；带风险的尝试或事业。创业可以是 venture，也可能成为一段 adventure。\n\n**circumvent / contravene**：设法绕开限制；行为违反要求。绕开是否构成违反，还要看具体规定。\n\n**intervene / intervention**：现代是动词与名词的搭配，但英语名词出现得更早；不应把词尾较长的一律画成短词的后代。",
+    "practice": "The organizers **convened** a meeting to choose a **convenient venue** for the **event**. Their early **intervention** helped **prevent** confusion.\n\n组织者召集会议，为活动选择一个方便的场地。他们及时介入，帮助避免了混乱。\n\n一起聚来 → convene；安排起来合适 → convenient；活动举办处 → venue；发生的活动 → event；进入进程帮忙 → intervention；提前挡住问题 → prevent。",
+    "words": [
+      "event",
+      "eventful",
+      "eventual",
+      "eventually",
+      "advent",
+      "adventure",
+      "adventurer",
+      "adventurous",
+      "venture",
+      "avenue",
+      "venue",
+      "revenue",
+      "convene",
+      "reconvene",
+      "convener",
+      "convenor",
+      "convention",
+      "conventional",
+      "unconventional",
+      "convenient",
+      "conveniently",
+      "convenience",
+      "inconvenient",
+      "inconvenience",
+      "convent",
+      "covenant",
+      "prevent",
+      "prevention",
+      "preventive",
+      "preventable",
+      "preventer",
+      "invent",
+      "invention",
+      "inventor",
+      "inventive",
+      "reinvent",
+      "reinvention",
+      "inventory",
+      "intervention",
+      "intervene",
+      "interventionist",
+      "interventional",
+      "circumvent",
+      "circumvention",
+      "contravene",
+      "contravention",
+      "souvenir",
+      "supervene"
+    ]
+  }
+]

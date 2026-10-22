@@ -1,0 +1,1395 @@
+[
+  {
+    "word": "place",
+    "ipa": "英 /pleɪs/；美 /pleɪs/",
+    "meaning": "地方；位置；名次；放置",
+    "sense": "先是可以站人、通行的一片空间，再是某个东西在其中占的位置。位置也能变成顺序、身份或职责。",
+    "split": "经法语 place 来自拉丁语 platēa，远源是希腊语 plateîa hodós“宽阔的路”。古英语也曾借入相关形式，现代词主要沿法语再借入。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ]
+    ],
+    "explanation": "a quiet place 是安静的地方；first place 是第一名；place the cup on the table 是把杯子放到桌上。take place 整体表示发生。",
+    "usage": "in place；out of place；take place；place an order。",
+    "contrast": "place 常指出一个位置、场所或名额；space 更强调空间和余地。a place to sit 与 enough space to sit 关注点不同。",
+    "examples": [
+      [
+        "Please place the keys on the table.",
+        "请把钥匙放在桌上。"
+      ],
+      [
+        "The concert will take place in the town square.",
+        "音乐会将在镇上的广场举行。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/place",
+      "https://en.wiktionary.org/wiki/place#English"
+    ]
+  },
+  {
+    "word": "plaza",
+    "ipa": "英 /ˈplɑːzə/；美 /ˈplɑːzə/，也读 /ˈplæzə/",
+    "meaning": "广场；商业广场",
+    "sense": "城市里留出一块开敞空间，人们能在那里会合、走动、休息。",
+    "split": "借自西班牙语 plaza，与 place 一样追到拉丁语 platēa“宽街、开敞处”。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "西班牙语：plaza",
+        "城镇广场"
+      ],
+      [
+        "英语：plaza",
+        "广场；商业广场"
+      ]
+    ],
+    "explanation": "可指传统城市广场，也常出现在 shopping plaza 等商业建筑名称中；后者未必真的有一大片露天广场。",
+    "usage": "a public plaza；a shopping plaza；gather in the plaza。",
+    "contrast": "place 是最普通的地方；plaza 通常强调广场或相关商业场所。",
+    "examples": [
+      [
+        "People gathered in the plaza to watch the performance.",
+        "人们聚在广场上观看演出。"
+      ],
+      [
+        "A small café stands at the corner of the plaza.",
+        "广场一角有一家小咖啡馆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plaza#English"
+    ]
+  },
+  {
+    "word": "piazza",
+    "ipa": "英 /piˈætsə/；美 /piˈɑːtsə/，也有 /piˈætsə/ 等读法",
+    "meaning": "意大利式广场；门廊（部分美式用法）",
+    "sense": "想象意大利城镇中央的开敞广场，周围是建筑、咖啡馆，人们在中间散步。",
+    "split": "借自意大利语 piazza，来自拉丁语 platēa；与 place、plaza 是沿不同语言路线进入英语的同源词。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "意大利语：piazza",
+        "城镇广场"
+      ],
+      [
+        "英语：piazza",
+        "意大利式广场；部分地区的门廊义"
+      ]
+    ],
+    "explanation": "最常说意大利或具有意大利风格的广场；某些美国地区的旧用法指长门廊，阅读地方性作品时要留意。",
+    "usage": "a crowded piazza；a café on the piazza。",
+    "contrast": "pizza 是披萨，piazza 是广场，拼写和读音都不同。",
+    "examples": [
+      [
+        "We sat in the piazza and watched people pass by.",
+        "我们坐在广场上，看人们来来往往。"
+      ],
+      [
+        "The hotel overlooks a small Italian piazza.",
+        "这家酒店俯瞰一座小小的意大利广场。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/piazza#English"
+    ]
+  },
+  {
+    "word": "plateau",
+    "ipa": "英 /ˈplætəʊ/；美 /plæˈtoʊ/",
+    "meaning": "高原；稳定平台期；进入平台期",
+    "sense": "地势抬高了，上面却相对平；一条增长曲线爬了一段后变平，也像到了这样的台面。",
+    "split": "借自法语 plateau，与古法语 platel“小平片”、plat“平面”相关，深层通常联系希腊语 platýs。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "古法语：plat / plate",
+        "平的；一片平薄的东西"
+      ],
+      [
+        "古法语 platel → 法语 plateau",
+        "平片、台面 → 高处的平坦地带"
+      ],
+      [
+        "英语：plateau",
+        "高原 → 暂无明显变化的平台期"
+      ]
+    ],
+    "explanation": "既能谈地貌，也能说学习、销量、表现进入平台期。动词 plateau 表示趋于稳定，不自动表示永远不再进步。",
+    "usage": "reach a plateau；a high plateau；sales plateau。",
+    "contrast": "a plateau 是一段相对平稳的阶段；a peak 是最高点，不一定随后保持平稳。",
+    "examples": [
+      [
+        "The road climbs onto a broad plateau.",
+        "公路向上延伸，进入一片宽阔的高原。"
+      ],
+      [
+        "After months of rapid improvement, her progress reached a plateau.",
+        "快速进步几个月后，她进入了平台期。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/plateau#English"
+    ]
+  },
+  {
+    "word": "plate",
+    "ipa": "英 /pleɪt/；美 /pleɪt/",
+    "meaning": "盘子；薄板；板块；镀上金属层",
+    "sense": "抓住一片比较平、比较宽的东西：能盛菜的是盘子，能盖住表面的是板片。",
+    "split": "经古法语 plate 来自中世纪拉丁语 plata“金属薄片”，更早通常联系重建的 *plattus 与希腊语 platýs。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "中世纪拉丁语：plata → 古法语 plate",
+        "金属薄片"
+      ],
+      [
+        "英语：plate",
+        "薄板 → 盘子；覆盖金属层"
+      ]
+    ],
+    "explanation": "a dinner plate 是餐盘；a metal plate 是金属板；a tectonic plate 是岩石圈板块。动词 plate 指覆上金属层，也可指给食物摆盘。",
+    "usage": "a plate of food；metal plates；plate the dessert。",
+    "contrast": "plate 通常较浅、展开；bowl 通常较深。地质 plate 是专业延伸，不是漂在液态海洋上的普通餐盘。",
+    "examples": [
+      [
+        "She put the sliced fruit on a white plate.",
+        "她把切好的水果放在白盘子上。"
+      ],
+      [
+        "A metal plate covers the opening.",
+        "一块金属板盖住了开口。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plate",
+      "https://en.wiktionary.org/wiki/plate#English"
+    ]
+  },
+  {
+    "word": "platform",
+    "ipa": "英 /ˈplætfɔːm/；美 /ˈplætfɔːrm/",
+    "meaning": "站台；平台；施展或交流的载体；纲领",
+    "sense": "先有一个稳稳的台面，人或设备站在上面做事；后来也把让别人做事、发声的环境叫平台。",
+    "split": "来自法语 plateforme：plate“平的”+ forme“形状、形式”，两部分并列构词，后者另有拉丁语 forma 来源。",
+    "history": [
+      [
+        "法语构词：plate + forme",
+        "平的 + 形态、构造"
+      ],
+      [
+        "法语：plateforme",
+        "平坦的台面"
+      ],
+      [
+        "英语：platform",
+        "早期有图样、计划和台面义；后分出纲领、站台、数字平台"
+      ]
+    ],
+    "explanation": "早期英语也有“图样、计划”义。railway platform 是站台；online platform 让人发布内容或交易；a political platform 是一套公开主张，这几项不是依次演变的单线。",
+    "usage": "on the platform；a digital platform；a platform for debate。",
+    "contrast": "platform 可指让活动开展的整体环境；一个单独网页未必足以体现它的功能。",
+    "examples": [
+      [
+        "The train leaves from platform six.",
+        "列车从六号站台发车。"
+      ],
+      [
+        "The forum provides a platform for local artists.",
+        "这个论坛为当地艺术家提供了交流展示的平台。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/platform",
+      "https://en.wiktionary.org/wiki/platform#English"
+    ]
+  },
+  {
+    "word": "platter",
+    "ipa": "英 /ˈplætə/；美 /ˈplætər/",
+    "meaning": "大浅盘；一大盘食物；硬盘盘片",
+    "sense": "比个人餐盘更适合端到桌上供大家分食的宽大盘子。",
+    "split": "来自古法语 platel、盎格鲁诺曼语 plater 一支，与 plateau 同源，但不是现代英语 plate 直接加表示人的 -er。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "古法语：plate → platel",
+        "平薄片 → 较小平片、盘"
+      ],
+      [
+        "盎格鲁诺曼语：plater → 英语 platter",
+        "盘子 → 大浅盘"
+      ]
+    ],
+    "explanation": "a platter of cheese 可以指盛奶酪的大盘，也可连带指整盘食物。计算机语境的 platter 是硬盘内部盘片。",
+    "usage": "a serving platter；a seafood platter；a hard disk platter。",
+    "contrast": "platter 通常比普通 plate 大，多用于上菜、分享；不是所有平盘都非得叫 platter。",
+    "examples": [
+      [
+        "They brought out a large platter of grilled vegetables.",
+        "他们端来一大盘烤蔬菜。"
+      ],
+      [
+        "She arranged the sandwiches on a serving platter.",
+        "她把三明治摆在一个上菜用的大盘里。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/platter#English"
+    ]
+  },
+  {
+    "word": "platen",
+    "ipa": "英 /ˈplætən/；美 /ˈplætən/",
+    "meaning": "压印板；承纸辊；机器承压台",
+    "sense": "纸或材料靠在一个支撑面上，压力或印字才能稳稳地作用上去；这个部件就是 platen。",
+    "split": "借自法语 platine，与 plat“平的”同族。机械名称沿用途扩展，形状不总是平板。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "古法语：plat / plate",
+        "平的；一片平薄的东西"
+      ],
+      [
+        "法语：platine",
+        "平板状部件"
+      ],
+      [
+        "英语：platen",
+        "压印或支撑材料的机器部件"
+      ]
+    ],
+    "explanation": "印刷机里可指压纸的板，打字机里常指承纸的圆辊，扫描仪里也可指放置原稿的玻璃台。",
+    "usage": "the printer’s platen；a glass platen；a rubber platen。",
+    "contrast": "platen 是机器里的功能部件；plate 是更宽泛的板或盘，不能在说明书里任意互换。",
+    "examples": [
+      [
+        "The technician cleaned the typewriter’s rubber platen.",
+        "技术员清洁了打字机的橡胶承纸辊。"
+      ],
+      [
+        "Place the document face down on the scanner’s glass platen.",
+        "把文件正面朝下放在扫描仪的玻璃台上。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/platen#English"
+    ]
+  },
+  {
+    "word": "plateful",
+    "ipa": "英 /ˈpleɪtfʊl/；美 /ˈpleɪtfʊl/",
+    "meaning": "一盘的量；满满一盘",
+    "sense": "不数有多少克，直接拿一个盘子作为这一份食物的大小。",
+    "split": "plate 盘子 + -ful 一容器的量；这个后缀只写一个 l。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "中世纪拉丁语：plata → 古法语 plate",
+        "金属薄片"
+      ],
+      [
+        "英语：plate",
+        "薄板 → 盘子；覆盖金属层"
+      ],
+      [
+        "英语：plate + -ful → plateful",
+        "一个盘子能盛的量"
+      ]
+    ],
+    "explanation": "a plateful of rice 是一盘米饭；复数通常是 platefuls。实际分量随盘子大小和盛法变化。",
+    "usage": "a plateful of vegetables；two platefuls of food。",
+    "contrast": "plateful 说的是盘中食物的量；plate 是容器本身，也可借指一份食物。",
+    "examples": [
+      [
+        "He ate a plateful of vegetables before touching the dessert.",
+        "他吃了一盘蔬菜，才开始吃甜点。"
+      ],
+      [
+        "She brought two platefuls of sandwiches to the table.",
+        "她端了两盘三明治上桌。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/plateful",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/plateful"
+    ]
+  },
+  {
+    "word": "platelet",
+    "ipa": "英 /ˈpleɪtlət/；美 /ˈpleɪtlət/",
+    "meaning": "血小板；小板片",
+    "sense": "名字像“小盘片”；在血液里，这些很小的细胞碎片参与形成凝块，帮助堵住出血处。",
+    "split": "plate 板片 + -let 小，先抓住小而扁的形状，再联系血液里的专门含义。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "中世纪拉丁语：plata → 古法语 plate",
+        "金属薄片"
+      ],
+      [
+        "英语：plate",
+        "薄板 → 盘子；覆盖金属层"
+      ],
+      [
+        "英语：plate + -let → platelet",
+        "小板片 → 血小板"
+      ]
+    ],
+    "explanation": "最常见于 platelet count“血小板计数”。血小板不是红细胞，也不是负责携氧的那一类血液成分。",
+    "usage": "platelet count；blood platelets；platelet function。",
+    "contrast": "platelet 主要按形状命名；另一个术语 thrombocyte 更突出血凝块这一功能联系。",
+    "examples": [
+      [
+        "The blood test included a platelet count.",
+        "这次血液检查包括血小板计数。"
+      ],
+      [
+        "Platelets help form clots at the site of an injury.",
+        "血小板帮助在受损部位形成凝块。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/platelet#English",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/platelet"
+    ]
+  },
+  {
+    "word": "plating",
+    "ipa": "英 /ˈpleɪtɪŋ/；美 /ˈpleɪtɪŋ/",
+    "meaning": "镀层；覆镀；金属板覆盖；摆盘",
+    "sense": "给表面覆上一层薄金属；在厨房里，又可以是把食物安排到盘面上。",
+    "split": "这里的覆镀、摆盘等常用义由 plate 动词 + -ing 形成；不同义项跟着 plate 的不同用法走。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "中世纪拉丁语：plata → 古法语 plate",
+        "金属薄片"
+      ],
+      [
+        "英语：plate",
+        "薄板 → 盘子；覆盖金属层"
+      ],
+      [
+        "英语：plating",
+        "覆盖金属层；把食物摆到盘中"
+      ]
+    ],
+    "explanation": "gold plating 是镀金层或镀金过程；food plating 是摆盘。名字相同，不表示食物表面需要镀金。",
+    "usage": "chrome plating；gold plating；careful plating。",
+    "contrast": "plating 可是过程，也可是覆层；plate 还可以是整块金属板，厚度与结构要看上下文。",
+    "examples": [
+      [
+        "The gold plating had worn away around the edges.",
+        "边缘处的镀金层已经磨掉了。"
+      ],
+      [
+        "The chef paid as much attention to plating as to flavour.",
+        "厨师对摆盘和味道同样重视。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plating",
+      "https://en.wiktionary.org/wiki/plating#English"
+    ]
+  },
+  {
+    "word": "platinum",
+    "ipa": "英 /ˈplætɪnəm/；美 /ˈplætɪnəm/",
+    "meaning": "铂；白金；白金级的",
+    "sense": "一种银白色金属；历史名称把它与银联系起来，但它是另一种元素。",
+    "split": "来自近代拉丁语 platinum，改造自西班牙语 platina；platina 是 plata“银”的小称。plata 本有金属薄片一支，属于 plate 的同源网络。",
+    "history": [
+      [
+        "西班牙语：plata",
+        "银；与金属薄片词族相连"
+      ],
+      [
+        "西班牙语：platina",
+        "以“银”的小称称呼这种金属"
+      ],
+      [
+        "近代拉丁语：platinum → 英语 platinum",
+        "按元素名称形式调整 → 铂"
+      ]
+    ],
+    "explanation": "化学符号 Pt。platinum blonde 是浅得近乎银白的金发；platinum album 是白金唱片称号，具体认证门槛因地区和制度不同。",
+    "usage": "a platinum ring；platinum blonde hair；a platinum album。",
+    "contrast": "platinum 是铂；white gold 是白色金合金，不是同一种材料。",
+    "examples": [
+      [
+        "The ring is made of platinum.",
+        "这枚戒指是铂金做的。"
+      ],
+      [
+        "Her latest album went platinum.",
+        "她最新的专辑获得了白金唱片认证。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/platinum",
+      "https://en.wiktionary.org/wiki/platinum#English"
+    ]
+  },
+  {
+    "word": "boilerplate",
+    "ipa": "英 /ˈbɔɪləpleɪt/；美 /ˈbɔɪlərpleɪt/",
+    "meaning": "锅炉钢板；可反复套用的固定文字或代码",
+    "sense": "同一块版反复印相同内容，后来就像把一段现成文字复制到很多文件里。",
+    "split": "boiler 锅炉 + plate 金属板；原指制造锅炉的板材，后与可重复用于印刷的预制版片相联，发展出套话、固定模板内容义。",
+    "history": [
+      [
+        "英语：boiler + plate",
+        "锅炉 + 金属板"
+      ],
+      [
+        "印刷业的比喻：boilerplate",
+        "现成版片与重复刊用的内容"
+      ],
+      [
+        "现代英语：boilerplate",
+        "重复使用的标准文字或代码"
+      ]
+    ],
+    "explanation": "常见于合同、新闻稿、程序代码。它可以高效地处理固定结构，也可能显得没有针对性。",
+    "usage": "boilerplate language；boilerplate code；standard boilerplate。",
+    "contrast": "boilerplate 重复使用，未必没有用；platitude 多指看似有道理却空泛的陈词。",
+    "examples": [
+      [
+        "The letter was mostly boilerplate, with only the name changed.",
+        "信里大多是固定套用的文字，只改了名字。"
+      ],
+      [
+        "The framework generates the boilerplate code for new projects.",
+        "框架为新项目生成通用的基础代码。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/boilerplate",
+      "https://en.wiktionary.org/wiki/boilerplate#English"
+    ]
+  },
+  {
+    "word": "platitude",
+    "ipa": "英 /ˈplætɪtjuːd/；美 /ˈplætɪtuːd/",
+    "meaning": "陈词滥调；空泛套话",
+    "sense": "话听起来四平八稳，却没有给眼前的问题增加什么理解，就像一块没有起伏的平面。",
+    "split": "借自法语 platitude“平淡、乏味”，来自 plat“平的”；不是把英语 plate 盘子直接加一个后缀。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "古法语：plat / plate",
+        "平的；一片平薄的东西"
+      ],
+      [
+        "法语：platitude",
+        "平淡、乏味 → 平庸的话"
+      ],
+      [
+        "英语：platitude",
+        "陈词滥调"
+      ]
+    ],
+    "explanation": "常批评把人人早已知道的空话说得像重大启发。比如别人需要具体办法，你只说“努力就会成功”，在那个场景中就可能是 platitude。",
+    "usage": "empty platitudes；offer platitudes；repeat a platitude。",
+    "contrast": "a proverb 是谚语，未必空泛；platitude 强调眼下这句话陈旧、没提供帮助。",
+    "examples": [
+      [
+        "She wanted practical advice, not empty platitudes.",
+        "她想要实际建议，不是空泛套话。"
+      ],
+      [
+        "The speech was full of platitudes about working together.",
+        "演讲充满了关于携手合作的陈词滥调。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/platitude",
+      "https://en.wiktionary.org/wiki/platitude#English"
+    ]
+  },
+  {
+    "word": "platitudinous",
+    "ipa": "英 /ˌplætɪˈtjuːdɪnəs/；美 /ˌplætɪˈtuːdənəs/",
+    "meaning": "满是陈词滥调的；空泛平庸的",
+    "sense": "不是偶尔冒出一句套话，而是整段表达都在重复那些听过无数次、又没有具体内容的话。",
+    "split": "platitude 的派生形容词，采用 platitudin- 词干形式 + -ous；不是独立的拉丁古词原封不动进入英语。",
+    "history": [
+      [
+        "通俗拉丁语：*plattus（重建）",
+        "平、宽；通常联系希腊语 platýs"
+      ],
+      [
+        "古法语：plat / plate",
+        "平的；一片平薄的东西"
+      ],
+      [
+        "法语 platitude → 英语 platitude",
+        "平淡乏味 → 陈词"
+      ],
+      [
+        "英语：platitudinous",
+        "具有或充满陈词滥调的"
+      ]
+    ],
+    "explanation": "较书面、明显贬义，可修饰 speech、remarks、advice。学习时可先掌握更常见的 platitude。",
+    "usage": "platitudinous remarks；a platitudinous speech。",
+    "contrast": "plain 是朴素明白；platitudinous 是空泛陈旧。大白话也能有具体内容，并不等于套话。",
+    "examples": [
+      [
+        "The review dismissed the ending as sentimental and platitudinous.",
+        "评论认为结尾煽情而且充满套话。"
+      ],
+      [
+        "His platitudinous advice did little to solve the problem.",
+        "他的空泛建议对解决问题几乎没有帮助。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/platitudinous#English",
+      "https://www.collinsdictionary.com/us/dictionary/english/platitudinous"
+    ]
+  },
+  {
+    "word": "commonplace",
+    "ipa": "英 /ˈkɒmənpleɪs/；美 /ˈkɑːmənpleɪs/",
+    "meaning": "常见的；平常的；老生常谈",
+    "sense": "一种想法或东西常常出现在大家面前，不再让人觉得新鲜。",
+    "split": "common + place 是对拉丁语 locus communis“通用论题”的意译，后者又承接希腊语 koinos topos。这里讲的是观念翻译，不是拉丁字母逐步变成英语。",
+    "history": [
+      [
+        "希腊语观念：koinos topos",
+        "可用于多种场合的通用论题"
+      ],
+      [
+        "拉丁语意译：locus communis",
+        "共同、通用的论题"
+      ],
+      [
+        "英语意译：common + place",
+        "通用说法 → 常见、缺少新意的"
+      ]
+    ],
+    "explanation": "形容词可以只是中性地说常见，也可说平庸；名词 a commonplace 常指惯常说法。a commonplace book 是摘录有用文字的笔记本，并非“很普通的书”。",
+    "usage": "become commonplace；a commonplace observation；a commonplace book。",
+    "contrast": "commonplace 说常见，未必无用；platitude 通常更强烈地批评一句话空泛、无新意。",
+    "examples": [
+      [
+        "Online meetings have become commonplace.",
+        "线上会议已经变得很常见。"
+      ],
+      [
+        "She filled her commonplace book with quotations and observations.",
+        "她在摘录笔记本里写满了引文和观察。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/commonplace",
+      "https://en.wiktionary.org/wiki/commonplace#English"
+    ]
+  },
+  {
+    "word": "placement",
+    "ipa": "英 /ˈpleɪsmənt/；美 /ˈpleɪsmənt/",
+    "meaning": "放置；位置安排；岗位安置；实习安排",
+    "sense": "不仅有一个地方，还要把合适的东西或人安排到那个地方。",
+    "split": "place 动词 + -ment，表示放置的行为、安排或结果。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：placement",
+        "放到适当位置；安排岗位"
+      ]
+    ],
+    "explanation": "placement of furniture 是家具摆放；job placement 是就业安置；英式 work placement 常指实习安排。product placement 指影视等内容中的品牌植入。",
+    "usage": "job placement；a work placement；product placement。",
+    "contrast": "placement 关注安排到某处；replacement 关注换一个来接替原来的。",
+    "examples": [
+      [
+        "The placement of the lights changes the mood of the room.",
+        "灯的位置安排改变了房间的氛围。"
+      ],
+      [
+        "She completed a work placement at a local museum.",
+        "她在当地博物馆完成了一段实习。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/placement#English"
+    ]
+  },
+  {
+    "word": "replace",
+    "ipa": "英 /rɪˈpleɪs/；美 /rɪˈpleɪs/",
+    "meaning": "替换；接替；放回原处",
+    "sense": "原来的位置空出来，由另一个东西接上；有时也是真把原物放回去。",
+    "split": "re- 再、回 + place 放置；由重新放置发展出替换、接替义。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：re- + place → replace",
+        "放回；用新的占原来的位置"
+      ]
+    ],
+    "explanation": "replace A with B 是拿 B 替换 A；replace the lid 可以是把盖子盖回去，不必是换新盖子。",
+    "usage": "replace the battery；replace A with B；replace the lid。",
+    "contrast": "replace A with B 的 A 是被换掉的；不要把两个对象的角色弄反。",
+    "examples": [
+      [
+        "We replaced the old sofa with a smaller one.",
+        "我们把旧沙发换成了一张更小的。"
+      ],
+      [
+        "Please replace the lid after use.",
+        "用后请把盖子盖回去。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/replace#English"
+    ]
+  },
+  {
+    "word": "replacement",
+    "ipa": "英 /rɪˈpleɪsmənt/；美 /rɪˈpleɪsmənt/",
+    "meaning": "替换；替代品；接替者",
+    "sense": "旧的不能继续用了，接上来的那一个，或这个换上的过程，就是 replacement。",
+    "split": "replace + -ment。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：replace → replacement",
+        "换上、接替 → 替换过程或替代者"
+      ]
+    ],
+    "explanation": "a replacement for the broken part 是坏零件的替代品；replacement costs 是更换成本。它不保证新东西与原物完全相同。",
+    "usage": "a replacement part；a replacement for someone；need replacement。",
+    "contrast": "replacement 可指动作也可指新东西；substitute 更容易强调代用品或临时代替者，但用法有重叠。",
+    "examples": [
+      [
+        "The company sent a replacement for the damaged lamp.",
+        "公司寄来一盏灯，替换损坏的那盏。"
+      ],
+      [
+        "The manager is looking for a replacement for the departing employee.",
+        "经理正在找人接替即将离职的员工。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/replacement#English"
+    ]
+  },
+  {
+    "word": "displace",
+    "ipa": "英 /dɪsˈpleɪs/；美 /dɪsˈpleɪs/",
+    "meaning": "移离原位；迫使离开；取代",
+    "sense": "把原来占着位置的东西挤开，让它不再待在原处。",
+    "split": "来自法语 desplacer，现代法语 déplacer；des- 分离、移开 + placer 放置。现代英语可看出 dis- + place。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "法语：place → desplacer / déplacer",
+        "位置 → 移离原位"
+      ],
+      [
+        "英语：displace",
+        "移开；使离开；取代"
+      ]
+    ],
+    "explanation": "物体排开水、技术替代旧方式、灾害使人离开家园，都可以围绕“离开原位”来理解。",
+    "usage": "displace residents；displace older technology；displace water。",
+    "contrast": "replace 常强调谁接上来；displace 更强调原来的谁被挤开、移走，不一定已有合适的新安排。",
+    "examples": [
+      [
+        "The flood displaced hundreds of residents.",
+        "洪水迫使数百名居民离开家园。"
+      ],
+      [
+        "The stone displaces some water when it is lowered into the container.",
+        "石头放进容器时，会排开一些水。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/displace#English"
+    ]
+  },
+  {
+    "word": "displaced",
+    "ipa": "英 /dɪsˈpleɪst/；美 /dɪsˈpleɪst/",
+    "meaning": "被移离原位的；流离失所的",
+    "sense": "东西不在原处了；用在人身上，常是原本的家园已无法继续居住。",
+    "split": "displace + -ed，过去分词描述被移走后的状态。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "法语：place → desplacer / déplacer",
+        "位置 → 移离原位"
+      ],
+      [
+        "英语：displace",
+        "移开；使离开；取代"
+      ],
+      [
+        "英语：displaced",
+        "已离开原位；被迫离开家园的"
+      ]
+    ],
+    "explanation": "displaced people 常用于因冲突或灾害被迫迁离的人。它本身不要求已经越过国界。",
+    "usage": "displaced families；a displaced object；internally displaced people。",
+    "contrast": "displaced 的范围不等于 refugee；后者在法律和国际保护中有专门条件。",
+    "examples": [
+      [
+        "Local groups provided temporary housing for displaced families.",
+        "当地团体为流离失所的家庭提供临时住所。"
+      ],
+      [
+        "The technician returned the displaced component to its proper position.",
+        "技术员把移位的部件放回正确位置。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/displaced",
+      "https://www.unhcr.org/europe/about-unhcr/who-we-protect/internally-displaced-people"
+    ]
+  },
+  {
+    "word": "displacement",
+    "ipa": "英 /dɪsˈpleɪsmənt/；美 /dɪsˈpleɪsmənt/",
+    "meaning": "移位；流离失所；位移；排开量",
+    "sense": "抓住“从原处挪开”这一点，再看具体问的是人搬离、物体位置改变，还是水被排开多少。",
+    "split": "与 displace + -ment 对应；词典也记录法语 déplacement 的借入联系，名词不必经过现代英语的一次临时造词。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "构词与借入联系：displace + -ment / 法语 déplacement",
+        "两种词典分析都围绕“移离原位”"
+      ],
+      [
+        "英语：displacement",
+        "移离原处的过程或量"
+      ]
+    ],
+    "explanation": "物理 displacement 是从起点到终点的带方向位置变化，不等于走过的总路程。人口 displacement 是被迫离开原住处。",
+    "usage": "population displacement；water displacement；net displacement。",
+    "contrast": "绕操场一圈回到起点，distance 不为零，displacement 却为零。",
+    "examples": [
+      [
+        "After a complete lap, the runner’s displacement is zero.",
+        "完整跑一圈回到起点后，跑步者的位移为零。"
+      ],
+      [
+        "The report examines displacement caused by the earthquake.",
+        "报告考察了地震造成的人口迁离。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/displacement#English",
+      "https://www.etymonline.com/word/displacement"
+    ]
+  },
+  {
+    "word": "misplace",
+    "ipa": "英 /mɪsˈpleɪs/；美 /mɪsˈpleɪs/",
+    "meaning": "放错地方；一时找不到",
+    "sense": "东西还在某处，只是你放下时没有把位置记对，现在找不着了。",
+    "split": "mis- 错误 + place 放置，英语派生。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：misplace",
+        "放到不对或记不住的位置"
+      ]
+    ],
+    "explanation": "常说 misplace keys、glasses、documents，语气通常比 lose 温和，暗示可能还在附近。",
+    "usage": "misplace your keys；misplace a document。",
+    "contrast": "misplace 常是放错后找不到；displace 是移开原位，不含“忘了放哪”的必要意思。",
+    "examples": [
+      [
+        "I seem to have misplaced my glasses again.",
+        "我好像又把眼镜放到不记得的地方了。"
+      ],
+      [
+        "She misplaced the receipt but found it in her coat later.",
+        "她一时找不到收据，后来在外套里找到了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/misplace#English"
+    ]
+  },
+  {
+    "word": "misplaced",
+    "ipa": "英 /mɪsˈpleɪst/；美 /mɪsˈpleɪst/",
+    "meaning": "放错位置的；用错对象的；不合时宜的",
+    "sense": "东西放错地方，信任也可能“放错地方”：把希望、信心或责备用在不该用的人和事上。",
+    "split": "misplace + -ed，实物位置错误进一步扩展到判断和感情对象不合适。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：misplace → misplaced",
+        "放错 → 位置或对象不合适的"
+      ]
+    ],
+    "explanation": "misplaced keys 是放错地方的钥匙；misplaced confidence 是不该有的信心；misplaced anger 是迁错对象的愤怒。",
+    "usage": "misplaced trust；misplaced optimism；a misplaced comma。",
+    "contrast": "misplaced trust 不是“不知道信任在哪”，而是信任给错了对象。",
+    "examples": [
+      [
+        "Her trust in the dishonest supplier was misplaced.",
+        "她信任那个不诚实的供应商，实在信错了人。"
+      ],
+      [
+        "A misplaced comma changed the meaning of the sentence.",
+        "一个位置放错的逗号改变了句子的意思。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/misplaced#English"
+    ]
+  },
+  {
+    "word": "workplace",
+    "ipa": "英 /ˈwɜːkpleɪs/；美 /ˈwɜːrkpleɪs/",
+    "meaning": "工作场所；职场",
+    "sense": "人们做工作的地方；进一步也包括那里的关系、规则和氛围。",
+    "split": "work 工作 + place 地方。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：work + place → workplace",
+        "工作的场所与环境"
+      ]
+    ],
+    "explanation": "可以是办公室、工厂、店铺等。workplace culture 不只说房间布置，而是大家怎么一起做事。",
+    "usage": "workplace safety；workplace culture；in the workplace。",
+    "contrast": "workplace 是工作的场所或环境；workstation 是个人工作位或计算机工作站。",
+    "examples": [
+      [
+        "The company wants to improve communication in the workplace.",
+        "公司希望改善职场中的沟通。"
+      ],
+      [
+        "Good lighting makes the workplace more comfortable.",
+        "良好的照明让工作场所更舒适。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/workplace#English"
+    ]
+  },
+  {
+    "word": "birthplace",
+    "ipa": "英 /ˈbɜːθpleɪs/；美 /ˈbɜːrθpleɪs/",
+    "meaning": "出生地；发源地",
+    "sense": "一个人开始生命的地方，也能比喻某种运动、思想或发明最初形成的地方。",
+    "split": "birth 出生 + place 地方，英语复合词。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：birth + place → birthplace",
+        "出生的地方 → 事物发源地"
+      ]
+    ],
+    "explanation": "人的 birthplace 不一定是后来长大的地方。比喻某城是艺术运动的 birthplace，强调它在起源中的地位。",
+    "usage": "someone’s birthplace；the birthplace of an idea。",
+    "contrast": "birthplace 是出生地；hometown 通常是成长或视为家乡的城镇，二者可能不同。",
+    "examples": [
+      [
+        "She returned to her birthplace for the first time in thirty years.",
+        "三十年来，她第一次回到了出生地。"
+      ],
+      [
+        "The city is often described as the birthplace of the movement.",
+        "这座城市常被称为那场运动的发源地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/birthplace#English"
+    ]
+  },
+  {
+    "word": "marketplace",
+    "ipa": "英 /ˈmɑːkɪtpleɪs/；美 /ˈmɑːrkɪtpleɪs/",
+    "meaning": "集市；市场；交易平台",
+    "sense": "买东西的人和卖东西的人聚到一起，交换货物、价格和信息。后来这个“地方”也能搬到网上。",
+    "split": "market 市场 + place 地方。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：market + place → marketplace",
+        "交易聚集的地方 → 市场环境、网上交易场所"
+      ]
+    ],
+    "explanation": "既可指街上的集市，也可说 online marketplace；the global marketplace 强调整体竞争与交易环境。",
+    "usage": "an online marketplace；compete in the marketplace；a crowded marketplace。",
+    "contrast": "marketplace 通常强调买卖双方聚集交易；一家公司自己的单一商品页面未必体现这个含义。",
+    "examples": [
+      [
+        "The marketplace was full of stalls selling fresh produce.",
+        "集市上满是卖新鲜农产品的摊位。"
+      ],
+      [
+        "The website connects buyers and sellers in an online marketplace.",
+        "网站通过一个线上市场连接买家和卖家。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/marketplace#English"
+    ]
+  },
+  {
+    "word": "fireplace",
+    "ipa": "英 /ˈfaɪəpleɪs/；美 /ˈfaɪərpleɪs/",
+    "meaning": "壁炉；室内炉火的位置",
+    "sense": "房间里专门留出一处，让火在里面燃烧并给人取暖。",
+    "split": "fire 火 + place 地方，现代英语复合词。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：plateîa hodós → plateîa",
+        "宽阔的路 → 省去“路”的名词用法"
+      ],
+      [
+        "拉丁语：platēa",
+        "宽街；开敞空间"
+      ],
+      [
+        "古法语 place → 中古英语 place",
+        "地方；一片空间"
+      ],
+      [
+        "英语：place",
+        "地方、位置；放置"
+      ],
+      [
+        "英语：fire + place → fireplace",
+        "供室内燃火取暖的地方"
+      ]
+    ],
+    "explanation": "传统上常嵌在墙内、接烟道；现代也有燃气或电壁炉。词义按用途发展，不是任意着火的地点。",
+    "usage": "sit by the fireplace；an open fireplace；a stone fireplace。",
+    "contrast": "fireplace 是壁炉这一设施或空间；fire 指其中的火；chimney 是排烟的烟囱。",
+    "examples": [
+      [
+        "They sat by the fireplace and talked late into the evening.",
+        "他们坐在壁炉旁聊天，直到夜深。"
+      ],
+      [
+        "The room has an old stone fireplace.",
+        "房间里有一座老石壁炉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/fireplace#English"
+    ]
+  },
+  {
+    "word": "platypus",
+    "ipa": "英 /ˈplætɪpəs/；美 /ˈplætɪpəs/",
+    "meaning": "鸭嘴兽",
+    "sense": "它有鸭嘴般的嘴和适合游泳的蹼足；英文这个名字实际抓住的是“扁宽的脚”。",
+    "split": "来自近代拉丁语属名 Platypus，依据希腊语 platýpous：platýs 宽平 + poús 脚。不是英语 plate + pus。",
+    "history": [
+      [
+        "希腊语：platýs + poús",
+        "宽、扁平 + 脚"
+      ],
+      [
+        "希腊语 platýpous → 近代拉丁语 Platypus",
+        "扁宽脚的 → 曾用属名"
+      ],
+      [
+        "英语：platypus",
+        "鸭嘴兽的通名"
+      ]
+    ],
+    "explanation": "是澳大利亚产的产卵哺乳动物。原属名与已用的甲虫属名冲突，分类名后来改动，但 platypus 留作普通名称。",
+    "usage": "a wild platypus；platypus habitat；platypuses。",
+    "contrast": "中文名抓“鸭嘴”，英文名抓“扁脚”；两种命名可以看同一动物的不同特征。",
+    "examples": [
+      [
+        "We saw a platypus swimming near the riverbank.",
+        "我们看见一只鸭嘴兽在河岸附近游泳。"
+      ],
+      [
+        "The guide explained that the platypus is an egg-laying mammal.",
+        "向导解释说，鸭嘴兽是一种产卵哺乳动物。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/platypus",
+      "https://en.wiktionary.org/wiki/platypus#English"
+    ]
+  },
+  {
+    "word": "plaice",
+    "ipa": "英 /pleɪs/；美 /pleɪs/",
+    "meaning": "鲽鱼；一种食用比目鱼",
+    "sense": "一条身体扁平、贴近海底活动的鱼，名字通常被联系到“宽、扁”的形状。",
+    "split": "经古法语 plaiz / plaise 来自后期拉丁语 platessa；platessa 与希腊语 platýs 的联系常被提出，但更深这一步并不完全确定。",
+    "history": [
+      [
+        "后期拉丁语：platessa",
+        "一种扁鱼；通常联系“宽平”的词族"
+      ],
+      [
+        "古法语：plaiz / plaise",
+        "比目鱼"
+      ],
+      [
+        "英语：plaice",
+        "鲽鱼这一类食用鱼"
+      ]
+    ],
+    "explanation": "常见于海洋生物、菜市场和菜单。作为鱼名，复数常仍用 plaice；不同地区可能指具体不同的相关鱼种。",
+    "usage": "grilled plaice；a fillet of plaice；catch plaice。",
+    "contrast": "plaice 与 place 同音，但一个是鱼，一个是地方；历史路线也不同。",
+    "examples": [
+      [
+        "The restaurant serves grilled plaice with lemon.",
+        "餐厅供应配柠檬的烤鲽鱼。"
+      ],
+      [
+        "The plaice rested on the sandy seabed.",
+        "那条鲽鱼停在沙质海底。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/plaice",
+      "https://en.wiktionary.org/wiki/plaice#English"
+    ]
+  },
+  {
+    "word": "platysma",
+    "ipa": "英 /pləˈtɪzmə/；美 /pləˈtɪzmə/",
+    "meaning": "颈阔肌",
+    "sense": "颈部浅层的一片宽而薄的肌肉，像展开的薄片，这就是名称抓住的形状。",
+    "split": "借自新拉丁语 platysma，来自希腊语 plátysma“平展开的东西”，与 platýnō“使宽”、platýs“宽”相关。",
+    "history": [
+      [
+        "古希腊语：platýs（πλατύς）",
+        "宽的；展开的；扁平的"
+      ],
+      [
+        "希腊语：platýnō → plátysma",
+        "使展开、变宽 → 平展的东西"
+      ],
+      [
+        "新拉丁语：platysma",
+        "以宽薄形状命名的肌肉"
+      ],
+      [
+        "英语：platysma",
+        "颈阔肌"
+      ]
+    ],
+    "explanation": "见于解剖学材料，描述颈部浅层肌肉；不要把它当作整条颈部所有肌肉的统称。",
+    "usage": "the platysma muscle；contraction of the platysma。",
+    "contrast": "platy- 在这里说宽薄，不是 plate“餐盘”的缩写；它与许多形状术语共享希腊来源。",
+    "examples": [
+      [
+        "The diagram labels the platysma at the front of the neck.",
+        "图示标出了颈前部的颈阔肌。"
+      ],
+      [
+        "The anatomy class examined the thin sheet of the platysma.",
+        "解剖课观察了颈阔肌这层薄薄的肌肉。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/platysma#English",
+      "https://www.merriam-webster.com/medical/platysma"
+    ]
+  },
+  {
+    "word": "platyhelminth",
+    "ipa": "英 /ˌplætɪˈhelmɪnθ/；美 /ˌplætɪˈhelmɪnθ/",
+    "meaning": "扁形动物；扁虫",
+    "sense": "名字把两块意思直接摆出来：“扁平”加“虫”。看身体形态就能找到记忆入口。",
+    "split": "来自分类名称 Platyhelminthes，使用希腊来源 platy- 宽、扁 + helminth- 虫。",
+    "history": [
+      [
+        "希腊来源：platy- + helminth-",
+        "扁平 + 蠕虫"
+      ],
+      [
+        "新拉丁语分类名：Platyhelminthes",
+        "扁形动物门"
+      ],
+      [
+        "英语：platyhelminth",
+        "属于这一类的动物"
+      ]
+    ],
+    "explanation": "是 flatworm 的专业对应词。这个类群有自由生活的成员，也有寄生的成员，不能一概等于寄生虫。",
+    "usage": "a platyhelminth；platyhelminth anatomy；parasitic platyhelminths。",
+    "contrast": "flatworm 用日常英语成分，platyhelminth 用希腊来源成分；它们都抓住扁平的虫这一画面。",
+    "examples": [
+      [
+        "The specimen was identified as a platyhelminth.",
+        "这个标本被鉴定为扁形动物。"
+      ],
+      [
+        "The course compares free-living and parasitic platyhelminths.",
+        "课程比较自由生活与寄生生活的扁形动物。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/platyhelminth",
+      "https://en.wiktionary.org/wiki/platyhelminth#English"
+    ]
+  }
+]

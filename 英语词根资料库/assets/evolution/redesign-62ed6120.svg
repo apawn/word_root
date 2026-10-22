@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="774" viewBox="0 0 1000 774" role="img">
+<title>redesign：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="772" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：signum</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">让人认出、明白某事的标记；更早来源有争议</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：signāre</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">做记号、盖印、指明</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">拉丁语：dē- + signāre → dēsignāre</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">标出来、选定、构想</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">古法语 designer；后来的意大利 disegnare / disegno</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">指明、构想；绘图、图样</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">法语动词诸形式；名词 desseign / dessin 等</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">计划与绘图两支传播到英语</text>
+<text class="note" x="500" y="533" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="562" text-anchor="middle" font-size="25" font-weight="600">英语：design（动词、名词）</text>
+<text class="note" x="500" y="598" text-anchor="middle" font-size="20">规划、设计；方案、图样；两词性并非只靠英语内部互转</text>
+<text class="note" x="500" y="637" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="666" text-anchor="middle" font-size="25" font-weight="600">英语：re- + design → redesign</text>
+<text class="note" x="500" y="702" text-anchor="middle" font-size="20">重新规划、设计；改后的方案</text>
+</svg>

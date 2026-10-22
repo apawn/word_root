@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""C1611 ven: vena is a blood vessel, not venire 'come'."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[
+E('vein','/veɪn/','静脉；叶脉；矿脉、纹理；贯穿的倾向或表达方式','先看身体里的细长血管，再看叶片、大理石和岩层中的线条。它们外观相似，于是 vein 也能指“贯穿其中的一条线”；抽象时，这条线可以是一种语气或特点。','拉丁 vena“血管、脉、矿脉等”，经古法语 veine、 中古英语 veine 借入英语。拉丁词本来已有不止一种用法，因此不能把每个矿物、抽象意义都说成现代英语新发明的比喻。',[['拉丁 vena','血管；也有水道、矿脉、禀性等用法'],['古法语 veine → 中古英语 veine → 英语 vein','静脉及脉状结构'],['英语的形态与抽象扩展','叶脉、石中纹理；某种贯穿的特点或表达方式']],'人体静脉把血液带回心脏，动脉把血液带离心脏；区别首先是方向，不能只靠含氧量。a vein of quartz 是岩石里一条石英矿脉；in the same vein 则是“沿用相似的语气、思路”，不是说身体血管。','a vein in the arm；leaf veins；a vein of gold；a vein of humour；in the same vein。','vain“徒劳的、自负的”和 vane“风向标的叶片”等与 vein 同音，但不是同一个词。vein 的静脉义也不能与 artery 动脉互换。',('The diagram shows the veins carrying blood back towards the heart.','图示展示了把血液送回心脏方向的静脉。'),('Fine veins spread across the surface of the leaf.','细细的叶脉布满了叶片表面。'),('A thin vein of quartz ran through the rock.','一条细石英矿脉贯穿了这块岩石。'),('Her next comment continued in the same humorous vein.','她接下来的一句评论仍沿用了同样幽默的语气。'),sources=['https://www.etymonline.com/word/vein','https://www.oxfordlearnersdictionaries.com/definition/english/vein','https://www.nhlbi.nih.gov/health/heart/blood-flow']),
+E('venous','/ˈviːnəs/','静脉的；静脉中的','看到 venous，就把注意力放到静脉系统：血从这些血管返回心脏，相关血液、血流和组织就可以用这个形容词描述。','来自拉丁 venosus“有许多脉的”，接 vena“血管、脉”与 -osus。英语早期也有受 vein 影响的 veinous 拼写，现代 venous 更贴近拉丁形式；不是直接在现代 vein 后加 -ous 就能得到正确拼写。',[['拉丁 vena → venosus','血管、脉 → 有脉的、脉多的'],['拉丁 venosus → 英语 venous','并有早期 veinous 拼写的历史'],['现代医学 venous','属于静脉、在静脉中的']],'venous blood 指静脉里的血，venous return 指血经静脉回到心脏。身体大循环中多数静脉血含氧较少，但肺静脉把富氧血送回心脏，所以 venous 不等于“必然缺氧”。先按血管类型理解，再看具体循环部位。','venous blood；venous circulation；venous return；a venous sample。','venous 是静脉相关，arterial 是动脉相关；intravenous 进一步明确“在静脉内、进入静脉”，比单独 venous 更具体。',('The textbook explains the difference between arterial and venous blood flow.','教材解释了动脉血流与静脉血流的区别。'),('The diagram traces venous return to the heart.','图示追踪了静脉血回流到心脏的路径。'),sources=['https://www.etymonline.com/word/venous','https://www.oxfordlearnersdictionaries.com/definition/english/venous','https://www.nhlbi.nih.gov/health/heart/blood-flow']),
+]
+SH=['intravenous','intravenously'];m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());r=next(x for x in m['roots'] if x['id']=='C1611')
+EX={w:'静脉的专门形态、微细解剖术语，按当前通用阅读范围暂略。' for w in r['family'] if w not in SH+[e['word'] for e in W]}
+ROOT=dict(id='C1611',meaning='血管、静脉、脉',core='这一组 ven- 来自拉丁 vena“血管、脉”。身体里的线状血管又帮助理解叶脉、矿脉和文字中贯穿的一种语气。',image='拉丁 vena → 法语 veine → vein；vena → venosus → venous；intra- + venous → intravenous → intravenously。',intro='先分清 vein 的身体、植物、矿物和比喻用法；再学 venous 的静脉属性，最后用 intra- 说明具体在静脉内部。',forms='vein 经法语传承改变了拼写，venous 保留更明显的拉丁 ven-。这个 ven- 是 vena 的脉，另一个 ven-/vent- 来自 venire“来”，两者不能因开头相似就合并。',branches=[['脉状结构与抽象思路','vein'],['静脉属性与给入途径','venous, intravenous, intravenously']],contrasts='静脉与动脉首先按血流相对于心脏的方向区分，不能只背“静脉血缺氧”。in the same vein 又是语气或思路的比喻，不是医学表述。',practice='见到 vein 先找它指血管、纹理还是说话风格；见到 venous 再判断是否有 intra- 进一步限定位置。',words=[e['word'] for e in W]+SH,exclude=EX)
+if __name__=='__main__':
+ assert {e['word'] for e in W}<=set(m['owned_words'])
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_174.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('ven:',len(W),'words;',sum(len(e['examples']) for e in W),'examples')

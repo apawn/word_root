@@ -1,0 +1,127 @@
+[
+  {
+    "id": "C1119",
+    "meaning": "按、压、挤；留下印痕；把表现压住或放出来",
+    "core": "PREM / PRESS = PRESS",
+    "image": "手往下按，可能压低东西，也可能在表面留下形状",
+    "intro": "**prem- / -prim- / press-** 来自拉丁语 **premere**“按、压、挤”。先想象把手按到软泥上：东西被压低，是 depress；被挤紧，是 compress；留下印痕，是 impress、print。再把画面搬到心理和交往里：留在心里的痕迹是 impression，压住不让显露是 suppress，把意思表现出来是 express。",
+    "forms": "**premere → pressus** 是拉丁语动词与过去分词的形式变化；**-primere** 常出现在带前缀的复合动词中，例如 imprimere、exprimere、deprimere。这里的 prim- 不等于 primus“第一”。\n\n**com-** 一起压 → compress；**de-** 向下压 → depress；**in-** 向内压 → impress；**ex-** 向外 → express；**sub-** 向下压住 → suppress；**re-** 向回按 → repress。这些是理解方向的入口，不代表现代词义只等于字面相加。\n\n**print** 经过法语的语音和词形变化，保留了“压出印记”的意思。**impression、expression、compression、depression** 等名词各有拉丁语或法语借入路线，不能全画成英语动词先出现、再加后缀。",
+    "branches": [
+      [
+        "直接施力与压力",
+        "press · pressure · pressurize"
+      ],
+      [
+        "挤紧与解除压缩",
+        "compress · compression · decompress"
+      ],
+      [
+        "压下、下陷、低落",
+        "depress · depression · depressed"
+      ],
+      [
+        "不公正地压住人",
+        "oppress · oppression · oppressive"
+      ],
+      [
+        "压住显露或发展",
+        "suppress · repress · reprimand"
+      ],
+      [
+        "在心里留下印记",
+        "impress · impression · impressive"
+      ],
+      [
+        "把内在意思表现出来",
+        "express · expression · expressive"
+      ],
+      [
+        "在表面留下图文",
+        "print · imprint · blueprint"
+      ]
+    ],
+    "contrasts": "**impressed / impressive / impressionable**：自己被打动 / 让别人赞叹 / 容易受影响。\n\n**impression / expression**：在别人心里留下的印象 / 自己表现出来的内容或表情。\n\n**depress / oppress / suppress / repress**：压低 / 不公正地压迫 / 按住不让显露或发展 / 按回去、压抑。词义有交叉，但对象和语气不同。\n\n**depressant / antidepressant**：前者强调抑制某种生理活动，后者按治疗抑郁的用途命名，并不是两种药理作用的简单反义。\n\n**express 的特快义** 经“专门、直接的服务”发展，不是把“向外挤压”直接翻译成快。**espresso** 与 express 同族，但咖啡名称的具体命名动机有不同解释。",
+    "practice": "**Her expressive explanation impressed the team, but she felt under pressure to compress the report into two pages.**\n\n她生动的解释让团队印象深刻，但她感到压力，因为必须把报告压缩到两页。expressive 是表达有力，impressed 是听者被打动，pressure 是外部要求带来的压力，compress 是把篇幅压短。",
+    "words": [
+      "press",
+      "pressure",
+      "pressing",
+      "print",
+      "printing",
+      "printer",
+      "impress",
+      "impressed",
+      "unimpressed",
+      "impressive",
+      "impressively",
+      "unimpressive",
+      "impression",
+      "impressionable",
+      "impressionism",
+      "impressionist",
+      "impressionistic",
+      "imprint",
+      "express",
+      "expression",
+      "expressive",
+      "expressiveness",
+      "expressionless",
+      "expressionism",
+      "expressionist",
+      "overexpression",
+      "expressly",
+      "expressway",
+      "inexpressible",
+      "espresso",
+      "compress",
+      "compression",
+      "compressor",
+      "compressible",
+      "incompressible",
+      "decompress",
+      "decompression",
+      "pressurize",
+      "pressurization",
+      "depressurize",
+      "overpressure",
+      "depress",
+      "depression",
+      "depressed",
+      "depressing",
+      "depressive",
+      "depressant",
+      "antidepressant",
+      "oppress",
+      "oppression",
+      "oppressive",
+      "oppressor",
+      "suppress",
+      "suppression",
+      "suppressor",
+      "suppressant",
+      "suppressive",
+      "immunosuppression",
+      "immunosuppressant",
+      "repress",
+      "repression",
+      "repressive",
+      "irrepressible",
+      "reprimand",
+      "footprint",
+      "fingerprint",
+      "thumbprint",
+      "handprint",
+      "blueprint",
+      "reprint",
+      "preprint",
+      "misprint",
+      "newsprint",
+      "printable",
+      "unprintable",
+      "printout",
+      "printmaking",
+      "printmaker",
+      "imprimatur"
+    ]
+  }
+]

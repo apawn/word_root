@@ -1,0 +1,122 @@
+[
+  {
+    "id": "C1602",
+    "meaning": "有力量、有效；值得、有价值；健康",
+    "core": "一个人有力气，一件事站得住，一样东西值得重视：都从“有力量、能起作用”展开。",
+    "image": "想象一只手在试分量：摸到一件有用的工具，想到 value；拿起一张仍能使用的票，想到 valid；感到病后的身体重新有力，想到 convalesce。",
+    "intro": "拉丁语 valēre 表示强健、有力量，也表示有效、有用、值得。它经法语 valoir 形成 value、avail 等支线；经拉丁语 validus 留下 valid；经 praevalēre 留下 prevail。勇气、康复、等值与化学价都能联系到力量或作用，但每个词的实际意思要按自己的演化路线理解。",
+    "forms": "val- 常见于 value、valid；avail、prevail 中的 -vail 来自法语阶段的词形；-valent、-valence 与拉丁语 valēns、valentia 相连。convalesce 的 -valesc- 表示逐渐变强。valedict- 中的 valē 原来是“愿你安好”，加上“说”才成了道别。",
+    "branches": [
+      [
+        "价值与重视",
+        "value, valuable, invaluable, valuation, valuer"
+      ],
+      [
+        "重新或错误估价",
+        "undervalue, overvalue, devalue, revalue, evaluate"
+      ],
+      [
+        "能派上用场",
+        "avail, available, availability, unavailing"
+      ],
+      [
+        "站得住、有效",
+        "valid, validity, validate, invalid, invalidate"
+      ],
+      [
+        "相等的力量或价值",
+        "equivalent, equivalence, equivalency, eigenvalue"
+      ],
+      [
+        "占上风与广泛存在",
+        "prevail, prevailing, prevalent, prevalence"
+      ],
+      [
+        "勇气与恢复力量",
+        "valiant, valor, convalesce, convalescence"
+      ],
+      [
+        "相反的力量与感受",
+        "countervail, countervailing, ambivalence, ambivalent"
+      ],
+      [
+        "结合能力与科学术语",
+        "valence, valency, covalent, divalent, multivalent"
+      ],
+      [
+        "愿你安好的告别",
+        "valediction, valedictory, valedictorian"
+      ]
+    ],
+    "contrasts": "invaluable 是价值难以估量，因此极有价值；valueless 才是没有价值。invalid 的“无效”与旧时“病弱者”有不同重音。ambivalent 表示相反感受并存，indifferent 才是不在乎。valley、valve 虽然字母相似，却不属于 valēre：valley 来自 vallis“山谷”，valve 属于 valva“门扇”一支。",
+    "practice": "用三句话连起核心：Your advice is valuable，建议有分量；This ticket is still valid，这张票仍有效；Common sense prevailed，常理最后占了上风。再比较 I am ambivalent about the move：搬家同时有吸引我和拉住我的两股力量。",
+    "words": [
+      "value",
+      "valuable",
+      "invaluable",
+      "valueless",
+      "valuation",
+      "valuer",
+      "undervalue",
+      "overvalue",
+      "devalue",
+      "devaluation",
+      "revaluation",
+      "evaluate",
+      "evaluation",
+      "evaluator",
+      "evaluative",
+      "reevaluate",
+      "prevail",
+      "prevailing",
+      "prevalent",
+      "prevalence",
+      "valiant",
+      "valiantly",
+      "valor",
+      "valour",
+      "valorous",
+      "convalesce",
+      "convalescent",
+      "convalescence",
+      "countervail",
+      "countervailing",
+      "ambivalence",
+      "ambivalent",
+      "valence",
+      "valency",
+      "covalence",
+      "covalent",
+      "divalent",
+      "bivalent",
+      "monovalent",
+      "trivalent",
+      "multivalent",
+      "polyvalent",
+      "valedictory",
+      "valedictorian",
+      "revalue",
+      "avail",
+      "available",
+      "availability",
+      "unavailable",
+      "unavailing",
+      "valid",
+      "validly",
+      "validity",
+      "invalid",
+      "invalidity",
+      "validate",
+      "validation",
+      "invalidate",
+      "invalidation",
+      "equivalent",
+      "equivalently",
+      "equivalence",
+      "equivalency",
+      "eigenvalue",
+      "valediction"
+    ],
+    "exclude": []
+  }
+]

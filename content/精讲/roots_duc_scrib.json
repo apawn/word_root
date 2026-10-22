@@ -1,0 +1,155 @@
+[
+  {
+    "id": "C0351",
+    "meaning": "带领；引导；拉出",
+    "core": "DUC / DUCT = LEAD",
+    "image": "同一个“带”的动作，换个方向就长出不同意思",
+    "intro": "拉丁语 **dūcere** 是“带领、引导”。先想象一个人把你往某个方向带：**introduce** 带进来，**produce** 带出来，**reduce** 的历史起点是带回去，**abduct** 带离原处。方向还可以抽象化：把证据带进讨论是 adduce，从证据带出结论是 deduce。",
+    "forms": "**duc- 与 duct- 是拉丁语词形变化留下的对应。** dūcere 的分词是 ductus；很多英语名词和形容词保留 duct-，例如 introduce / introduction、produce / product。它不是英语里可以任意把 ce 改成 ct 的万能规则。produce、conduct、adduct 的名词与动词还可能改变重音。",
+    "branches": [
+      [
+        "把东西带出来",
+        "produce · product · production"
+      ],
+      [
+        "把新人、新物带进来",
+        "introduce · introduction · induction"
+      ],
+      [
+        "把程度往回调",
+        "reduce · reduction · reducible"
+      ],
+      [
+        "带着过程进行",
+        "conduct · conductor · conduction"
+      ],
+      [
+        "把推理引向结论",
+        "deduce · deduction · adduce"
+      ],
+      [
+        "离开原路或中线",
+        "seduce · abduct · abduction"
+      ],
+      [
+        "培养与教育",
+        "educate · education · educator"
+      ]
+    ],
+    "contrasts": "**deduce 与 deduct**：前者推断结论，后者扣除数量；两者的名词都可能是 deduction。\n\n**conducive 与 conductive**：前者说条件有利，后者说材料可以传导。安静环境 conducive to study，铜是 conductive material。\n\n**教育词族不能硬讲成口号。** educate 直接连着 ēducāre“养育、训练”，它与 ēdūcere 有历史关系，但“教育原本就是引出潜能”不能当作已经证明的古代定义。\n\n**ab- 与 ad- 的方向很具体。** abduct / abduction 离开身体中线；adduct / adductor 向中线靠近。这是解剖语境的用法，与绑架义分开理解。",
+    "practice": "串成一件事：**Introduce a clearer process, conduct a small trial, and deduce what helps reduce waste.**\n\n引入更清楚的流程，开展一次小规模试验，再推断哪些做法有助于减少浪费。四个“带”的方向分别是引进、带着做、推出结论和把数量降下来。",
+    "words": [
+      "education",
+      "production",
+      "product",
+      "produce",
+      "reduce",
+      "educational",
+      "conduct",
+      "introduction",
+      "producer",
+      "reduction",
+      "introduce",
+      "productive",
+      "productivity",
+      "educate",
+      "conductor",
+      "induction",
+      "duct",
+      "induce",
+      "educator",
+      "deduction",
+      "abduction",
+      "conducive",
+      "seduce",
+      "seduction",
+      "deduct",
+      "conductive",
+      "conduction",
+      "deduce",
+      "abduct",
+      "reintroduce",
+      "inducement",
+      "seducer",
+      "reducer",
+      "adductor",
+      "inducible",
+      "reducible",
+      "inducer",
+      "adduct",
+      "adduce",
+      "conduce",
+      "traduce",
+      "abduce"
+    ]
+  },
+  {
+    "id": "C1288",
+    "meaning": "写；刻写；记录",
+    "core": "SCRIB / SCRIPT = WRITE",
+    "image": "把内容写出来：写在下面、写在前面、写到另一处",
+    "intro": "拉丁语 **scrībere** 是“写”。想象同一支笔换位置：**subscribe** 在下面签名表示同意；**prescribe** 事先写明要求；**inscribe** 写在物品上；**transcribe** 把内容写到另一种记录里。**describe** 则用文字为别人画出事物的样子。",
+    "forms": "**scrib- 与 script- 来自同一个拉丁动词的不同形式。** scrībere 的分词是 scrīptus，所以 describe / description、prescribe / prescription、transcribe / transcription 会成对出现。字母 b 在历史词形中与后面的音发生变化，不是今天见到 -scribe 就能自由拼出一个新词。",
+    "branches": [
+      [
+        "用文字画出来",
+        "describe · description"
+      ],
+      [
+        "在下面签认",
+        "subscribe · subscriber · subscription"
+      ],
+      [
+        "事先写明要求",
+        "prescribe · prescription · prescriber"
+      ],
+      [
+        "写成可使用的文本",
+        "script · manuscript · typescript"
+      ],
+      [
+        "换一种方式记录",
+        "transcribe · transcript · transcription"
+      ],
+      [
+        "把字留在载体上",
+        "inscribe · inscription"
+      ],
+      [
+        "写出归属或界限",
+        "ascribe · circumscribe"
+      ]
+    ],
+    "contrasts": "**describe 与 prescribe**：一个描述实际是什么样，一个规定应该怎样做。description 不等于 prescription。\n\n**subscribe 与 subscript**：两者都能看见“写在下面”的画面，但 subscribe 已发展为签认、赞同和订阅，subscript 保留写在低处的“下标”意思。\n\n**manuscript 不必真的手写。** 它的历史起点是手稿，现代出版语境也包括电脑写成、尚待出版的稿件。\n\n**scribble 的早期路线有不同分析。** 保留它与书写词族的联系，但不把一个猜测写成唯一历史。",
+    "practice": "把动作分开：**Transcribe the interview, describe the main findings, and submit the manuscript.**\n\n先把采访转成文字，再描述主要发现，最后提交文稿。transcribe 尽量保留原话，describe 用语言讲清内容，manuscript 是交给编辑的稿件。",
+    "words": [
+      "description",
+      "describe",
+      "script",
+      "subscription",
+      "subscribe",
+      "prescription",
+      "manuscript",
+      "scripture",
+      "transcript",
+      "inscription",
+      "transcription",
+      "subscriber",
+      "prescribe",
+      "scribe",
+      "scripting",
+      "unsubscribe",
+      "scriptural",
+      "ascribe",
+      "scribble",
+      "transcribe",
+      "typescript",
+      "conscript",
+      "scriptwriter",
+      "subscript",
+      "inscribe",
+      "prescriber",
+      "circumscribe"
+    ]
+  }
+]

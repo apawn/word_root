@@ -1,0 +1,118 @@
+[
+  {
+    "id": "C1297",
+    "meaning": "坐；停留；占据一个位置",
+    "core": "SED / SID / SESS = SIT",
+    "image": "想象坐下来这个动作：坐在前面能主持，坐着留下能居住，东西向下落定能沉积，坐守在周围也能围困。",
+    "intro": "拉丁语 sedēre 表示“坐、停留”，分词相关词干有 sess-；sīdere“坐下、落定”是同源的另一动词。president、resident、session、sediment 分别保留不同方向的变化。英语 sit、seat、settle 经日耳曼语继承，与这组拉丁词共享更早的 *sed-，不是借自拉丁语。",
+    "forms": "**sed- / sedent-**：sedēre 及其相关形式，如 sediment、sedentary。\n\n**sid-**：复合动词中可见 residēre、praesidēre、dissidēre；subside 的 sīdere 则是同源的另一个动词，不必强行当成完全相同的词形。\n\n**sess-**：分词、名词等相关词干，见 session、obsess、assess、possess。\n\n**sit / seat / settle**：日耳曼语这一支的平行亲属；settle 的和解义还受另一古英语词的影响。\n\n**sedulous / sedulity**：本页保留为近形辨析词；它们来自 sēdulus，常联系“真诚、无欺诈”，不能硬接到“坐”。",
+    "branches": [
+      [
+        "坐在前面主持",
+        "preside / president / presidency / presidential"
+      ],
+      [
+        "留下来居住",
+        "reside / resident / residence / residency / residential"
+      ],
+      [
+        "坐定办事、分开持异议",
+        "session / sitting；dissident / dissidence"
+      ],
+      [
+        "沉下来或平息",
+        "sediment / sedimentary / subside / subsidence / sedate"
+      ],
+      [
+        "坐守、包围、占有",
+        "obsess / obsession / insidious；possess / possession"
+      ],
+      [
+        "坐在旁边认真做事",
+        "assess / assessment / assessor；assiduous / assiduity"
+      ],
+      [
+        "后援与残留",
+        "subsidy / subsidiary；residue / residual"
+      ],
+      [
+        "日耳曼语平行亲属",
+        "sit / seat / settle / settlement / resettle"
+      ]
+    ],
+    "contrasts": "president 是坐在前面主持的人；resident 是留下居住的人；同一个动作配上不同方向，职责和状态就分开了。\n\nsedentary 是久坐、定居；sedimentary 是沉积相关。两词同族，但不是换一种拼法表达同一件事。\n\nsediment 强调沉下来的材料；residue 泛指某个过程之后留下来的东西，不一定沉到底部。\n\nsubsidy 是补助金；subsidiary 是辅助的、子公司，现代用法不能互换。\n\nassiduous 确有“持续坐守”的历史联系；sedulous 虽意思接近，来源分析不同。deposit 来自 dēpōnere“放下”，也不因中文可以译“沉积”就归进本族。",
+    "practice": "用 president、resident 各写一句，先确认说的是职位还是居住身份。\n\n想象一杯浑水：颗粒沉下的过程用 sedimentation，底部留下的材料用 sediment。再解释为何标签留下的黏痕用 residue 更自然。\n\n把 settle into a new home、settle a dispute、settle a bill 分别放进生活场景，体会“安顿、落定”的共同画面，也记住和解义的历史旁支。\n\n比较 think about a detail 和 obsess over a detail，说明后一种状态如何占住注意力。",
+    "words": [
+      "president",
+      "session",
+      "presidential",
+      "resident",
+      "residence",
+      "obsession",
+      "residency",
+      "reside",
+      "sediment",
+      "insidious",
+      "sedentary",
+      "sedimentary",
+      "preside",
+      "subside",
+      "subsidence",
+      "supersede",
+      "sedimentation",
+      "assiduously",
+      "nonresident",
+      "assiduous",
+      "insidiously",
+      "sessional",
+      "sedulity",
+      "sedulous",
+      "presidency",
+      "residential",
+      "obsess",
+      "obsessed",
+      "obsessive",
+      "obsessively",
+      "obsessiveness",
+      "assessment",
+      "assess",
+      "assessor",
+      "assiduity",
+      "dissident",
+      "dissidence",
+      "subsidy",
+      "subsidiary",
+      "subsidize",
+      "subsidized",
+      "sedate",
+      "sedation",
+      "sedative",
+      "sit",
+      "sitting",
+      "sitter",
+      "seat",
+      "seating",
+      "settle",
+      "settlement",
+      "settler",
+      "settled",
+      "unsettled",
+      "unsettle",
+      "resettle",
+      "resettlement",
+      "residue",
+      "residual",
+      "possess",
+      "possession",
+      "possessed",
+      "possessive",
+      "possessively",
+      "possessiveness",
+      "possessor",
+      "repossess",
+      "repossession",
+      "dispossess",
+      "dispossession"
+    ]
+  }
+]

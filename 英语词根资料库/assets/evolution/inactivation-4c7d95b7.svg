@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="774" viewBox="0 0 1000 774" role="img">
+<title>inactivation：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="772" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：agere（agō）</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">推动；做；执行</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：āctīvus</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">行动中的；主动的</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">古法语：actif</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">活跃的</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：active</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">活跃的；起作用的；主动的</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：activate</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">使进入活动或有效状态</text>
+<text class="note" x="500" y="533" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="562" text-anchor="middle" font-size="25" font-weight="600">英语：activation</text>
+<text class="note" x="500" y="598" text-anchor="middle" font-size="20">激活；启动过程</text>
+<text class="note" x="500" y="637" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="666" text-anchor="middle" font-size="25" font-weight="600">英语：inactivation</text>
+<text class="note" x="500" y="702" text-anchor="middle" font-size="20">使活性或作用消失</text>
+</svg>

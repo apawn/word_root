@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+S=[['希腊 syrinx，词干 syring-','管子；牧笛、排箫']]
+W=[E('syringe','/sɪˈrɪndʒ/，亦 /ˈsɪrɪndʒ/','注射器；冲洗器；用注射器冲洗','一根能把液体吸进来、再推出去的管状工具。','经中古英语 syring、盎格鲁法语 siringe，接中世纪及后期拉丁 syringa，再往前是希腊 syrinx 的 syring- 词干。现代的 -e 不是一个有独立意思的后缀。',S+[['后期及中世纪拉丁 syringa','管状注入或冲洗工具'],['盎格鲁法语 siringe → 中古英语 syring','工具名称进入英语'],['英语 syringe','注射器；又转作冲洗等动词']],'先记“管内推送液体”，就能理解它不一定指带针头打针的器具：口服药量取工具也可叫 oral syringe。今天常见的针筒只是这类工具的一种。','a disposable syringe；an oral syringe；a syringe barrel。动词 syringe 可指用这类器具冲洗。','needle 是针头；syringe 主要说注射器或冲洗器，二者不是完全同一个部件。',('The nurse opened a sealed package containing a syringe.','护士打开了装有注射器的密封包装。'),('The bottle came with an oral syringe for measuring the liquid.','瓶子附有一个用于量取液体的口服药注射器。'),sources=['https://www.merriam-webster.com/dictionary/syringe','https://www.etymonline.com/word/syringe','https://en.wiktionary.org/wiki/syringe']),
+E('syrinx','/ˈsɪrɪŋks/','排箫；鸟的鸣管','从能吹响的管子，联想到鸟体内发声的管状器官。','这是保留拉丁、希腊字形的学术借词：乐器义经后期拉丁 syrinx；鸟类器官义采用新拉丁形式。它与 syringe 是不同路线借入的同源词，不是删掉 syringe 词尾得到的简称。',S+[['后期拉丁 syrinx；另有新拉丁器官名','分别用于管乐器和鸟类发声结构'],['英语 syrinx','排箫；鸟类鸣管']],'自然科普里通常指鸟的鸣管，位于气管下端附近，参与发声。古代音乐或艺术说明里的 syrinx 则可能是一组管子组成的排箫；医学中还有管状病理空腔的用法。','the bird’s syrinx；the structure of the syrinx。复数可用 syrinxes，学术形式 syringes 的读法不同于 syringe 的常规复数。','人的发声器官通常说 larynx；鸟类这里说 syrinx。Syringe 则是抽送液体的器具。',('The researcher studied how a songbird’s syrinx produces sound.','研究人员研究了鸣禽的鸣管如何发声。'),('The museum label describes the ancient instrument as a syrinx.','博物馆标签把这件古代乐器称为排箫。'),sources=['https://www.merriam-webster.com/dictionary/syrinx','https://www.etymonline.com/word/syrinx'])]
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(x for x in m['roots']if x['id']=='C1463');c=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text())if x['id']=='C1463');keep={w['word']for w in W};excluded={w:'按用户当前范围暂略：细分疾病、属名或其他冷门专业名称。'for w in(set(r['family'])|set(c['family'])|set(c.get('unmatched',[])))-keep}
+ROOT=[dict(id='C1463',meaning='管；笛、排箫',core='syring- 的核心是空心的管子，既能通液体，也能让气流通过。',image='推送液体的管子成为 syringe；发声的管子又连接到 syrinx 的乐器和器官义。',intro='同一个希腊词沿不同借词路线形成两个英语词：syringe 较常见，syrinx 保留古典外形，主要用于音乐和生物学。',forms='希腊主格 syrinx 与其他词形的 syring- 是同一词的形态变化，不是两个完全不同的根。',branches=[['抽送液体的器具','syringe'],['乐器与鸟类发声器官','syrinx']],contrasts='syringe 不等于 needle；syrinx 也不是 syringe 的缩写。',practice='用“空心管”这个共同形象，解释一只针筒和一只鸣禽为何能联系到同一词根。',words=[w for w in r['family']if w in keep],exclude=excluded,sources=['https://www.merriam-webster.com/dictionary/syringe','https://www.merriam-webster.com/dictionary/syrinx'])]
+assert all(w['word']in m['owned_words']for w in W)
+assert not(set(c['family'])|set(c.get('unmatched',[])))-set(ROOT[0]['words'])-set(excluded)
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history'])
+for k,d in [('roots',ROOT),('words',W)]: (OUT/f'{k}_batch200_spec_232_syring.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print('C1463',len(W),'new')

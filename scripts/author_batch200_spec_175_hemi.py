@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+W=[E('hemicycle','英美 /ˈhemɪˌsaɪkəl/','半圆形结构；半圆形会场','像把一个圆对半切开，用半圆的弧线安排座位或建筑。','现代可认 hemi-“半”+ cycle“圆”；历史上接希腊 hēmikyklion，经拉丁 hemicyclium，亦有法语 hémicycle 中介的借入分析。不能只把它当成英语 cycle 的新造前缀词。',[['希腊 hēmi-“半”+ kyklos“圆”→ hēmikyklion','半圆形'],['拉丁 hemicyclium；亦经法语 hémicycle → 英语 hemicycle','半圆形结构、空间或排列'],['现代建筑、议会语境','可指半圆形议场']],'一般几何里的半圆说 semicircle 更普通。hemicycle 较常出现在建筑、议会报道和参观介绍中：座席沿弧线围着前方布置，整个议场便可叫 hemicycle。','a parliamentary hemicycle；enter the hemicycle；a semicircular hemicycle。','cycle 在这里接古义“圆”，不是“周期”或“自行车”；hemicycle 因此不是半个周期，更不是少一个车轮的自行车。',('The delegates took their seats in the hemicycle before the debate.','辩论开始前，代表们在半圆形议场就座。'),('From the gallery, visitors could see the full curve of the hemicycle.','参观者从旁听席能看到半圆形议场完整的弧线。'),sources=['https://www.merriam-webster.com/dictionary/hemicycle','https://www.collinsdictionary.com/dictionary/english/hemicycle','https://visiting.europarl.europa.eu/en/visitor-offer/brussels/hemicycle'])]
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(x for x in m['roots']if x['id']=='C0534');c=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text())if x['id']=='C0534');keep={'hemisphere','hemispherical','hemispheric','hemicycle'};excluded={w:'按用户要求暂略：专门疾病、昆虫发育、细胞连接或音乐分类术语。'for w in(set(r['family'])|set(c['family'])|set(c.get('unmatched',[])))-keep}
+ROOT=[dict(id='C0534',meaning='一半',core='hēmi-：一半；常把完整的形体或结构分成两半。',image='把球分成两半得到半球，把圆取一半得到半圆；词根负责“半”，后半词告诉你切的是什么。',intro='hemisphere 是半球，hemispherical 形容半球形状，hemispheric 常谈半球相关的事；hemicycle 则把“半”加到圆形上，在建筑和议会语境里指半圆形结构或会场。',forms='希腊 hēmi- 进入英语成为 hemi-，通常读 /hemɪ/。它与 haem-/hem-“血”不是一个来源，不能因为前三个字母相同就混在一起。',branches=[['半球与半球形','hemisphere、hemispherical、hemispheric'],['半圆形结构','hemicycle']],contrasts='hemi- 与拉丁来源 semi- 都能表示半，但不是所有现成单词都能随意替换前缀。hemisphere 有固定拼法，不把它任意改成 semisphere 当作同样常用。',practice='用 hemisphere 和 hemicycle 比较：同样是“半”，后面的 sphere 与 cycle 分别指球还是圆？',words=[w for w in r['family']if w in keep],exclude=excluded,sources=['https://www.etymonline.com/word/hemi-','https://www.merriam-webster.com/dictionary/hemicycle'])]
+assert all(w['word']in m['owned_words']for w in W)
+assert not(set(c['family'])|set(c.get('unmatched',[])))-set(ROOT[0]['words'])-set(excluded)
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history'])
+for k,d in [('roots',ROOT),('words',W)]: (OUT/f'{k}_batch200_spec_175_hemi.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print('C0534',len(W),'new',len(ROOT[0]['words']),'retained')

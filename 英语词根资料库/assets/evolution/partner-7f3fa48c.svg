@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>partner：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：pars，词干 part-</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">部分；一份；一方</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：partītiō</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">分配；分割</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">古法语：parçonier</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">共同有份的人；共同继承人</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">中古英语：parcener → partener</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">受 part 影响改变拼写</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：partner</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">伙伴；合伙人；伴侣</text>
+</svg>

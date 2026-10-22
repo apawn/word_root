@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="670" viewBox="0 0 1000 670" role="img">
+<title>recommendation：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="668" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：manus；manū 是“用手、在手中”等屈折形式</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">手；由手引申的操作、掌握、权力</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：mandāre（mandō）</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">交付、委托、命令；传统解释联系“交到手里”</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">拉丁语：com- + mandāre → commendāre</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">郑重托付；推荐、称赞</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">中古拉丁语 recommendāre → recommendātiō</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">推荐、托付 → 推荐意见</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">盎格鲁法语 recomendacion → 中古英语 recommendacioun</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">推荐、建议</text>
+<text class="note" x="500" y="533" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="562" text-anchor="middle" font-size="25" font-weight="600">英语：recommendation</text>
+<text class="note" x="500" y="598" text-anchor="middle" font-size="20">建议；推荐意见</text>
+</svg>

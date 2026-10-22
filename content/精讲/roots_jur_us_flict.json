@@ -1,0 +1,160 @@
+[
+  {
+    "id": "C0627",
+    "meaning": "权利；法律；正当；公道",
+    "core": "JUS / JUR = RIGHT, LAW",
+    "image": "用一把“应不应该”的尺，判断是否合乎公道",
+    "intro": "**jus-、jur-** 追溯到拉丁语 **iūs**“权利、法律、公道”。先想一把判断“这件事该不该做”的尺：合乎这把尺，可以是 just；拿出理由让它站得住，是 justify；做了侵害他人的事，则通向 injury。另一支通过“发誓保证”形成 jury、perjury。",
+    "forms": "拉丁语 **iūs** 在不同语法形式中有 **iūr-**，如 iūris；英语拼写常用 j，所以看到 jus-、jur-。**iūstus**“公正、合适”形成 just 这一支，**iūrāre**“宣誓”形成 jury、abjure 等。这是拉丁语历史词形的关系，不是英语里遇到 s 就能随意换成 r。",
+    "branches": [
+      [
+        "合乎公道",
+        "just · justice · justly"
+      ],
+      [
+        "证明站得住",
+        "justify · justification · justifiable"
+      ],
+      [
+        "法律与权限",
+        "jurisdiction · jurist · jurisprudence"
+      ],
+      [
+        "誓言与承诺",
+        "jury · perjury · abjure"
+      ],
+      [
+        "侵害与伤害",
+        "injury · injure · injurious"
+      ]
+    ],
+    "contrasts": "**justice 与 just**：justice 关心公道和司法；just 除了公正，还有恰好、仅仅、刚刚等常用义，不能逢 just 就译成正义。\n\n**injury 与 injure**：injury 较早，英语从它反向形成 injure；现代词形看起来简单，不代表历史顺序也是“动词加后缀”。\n\n**jury** 的陪审团、评审团义和宣誓有关；表示临时装配的另一支 jury 不按这个词源解释。",
+    "practice": "**She tried to justify the decision, but others called it an injustice.**\n\n她想拿出理由说明这个决定合理，其他人却认为这是一件不公的事。justify 是“让理由站得住”，injustice 是“事情没有按公道来”。",
+    "words": [
+      "just",
+      "justice",
+      "jury",
+      "injustice",
+      "perjury",
+      "jurisprudence",
+      "abjure",
+      "objurgate",
+      "justly",
+      "unjust",
+      "unjustly",
+      "justify",
+      "justification",
+      "justifiable",
+      "jurisdiction",
+      "jurist",
+      "juridical",
+      "injury",
+      "injure",
+      "injurious"
+    ]
+  },
+  {
+    "id": "C1594",
+    "meaning": "使用；用处；由反复使用形成的习惯",
+    "core": "UT / US = USE",
+    "image": "把东西拿来派用场；反复这样做，就成了平常习惯",
+    "intro": "**ut-、us-** 来自拉丁语 **ūtī**“使用”和相关形式 **ūsus**“使用、习惯”。核心画面是“把东西拿来完成一件事”。一条路走向 useful、utility“有用”；另一条路是经常这样用，形成 usual、usually“惯常”。",
+    "forms": "拉丁语词典常列 **ūtor**，不定式是 **ūtī**；相关形式 **ūsus** 出现 s。**ūtilis**“有用的”留下 util- 这一支。它们是历史词形关系，不是英语拼写里可随意互换的字母。use、reuse、misuse、abuse 都要留意名词 /s/ 与动词 /z/ 的差别。",
+    "branches": [
+      [
+        "使用与使用者",
+        "use · user · usage"
+      ],
+      [
+        "能否帮上忙",
+        "useful · useless · utility"
+      ],
+      [
+        "能用与好用",
+        "usable · usability"
+      ],
+      [
+        "反复使用成为常态",
+        "usual · usually · unusual"
+      ],
+      [
+        "再次用或用得不对",
+        "reuse · misuse · abuse"
+      ],
+      [
+        "资源与整体效果",
+        "utilize · utilization · utilitarianism"
+      ]
+    ],
+    "contrasts": "**useful / usable / usability**：能帮上忙 / 能用 / 用起来顺不顺。三个问题接近，却不相同。\n\n**misuse / abuse**：misuse 可以是用错；abuse 常突出严重滥用或伤害。两者有重叠，不能简单按无意与故意划开。\n\n**utilitarianism** 的哲学义关心受影响者的整体利益与痛苦，不是“只看谁对我有用”。",
+    "practice": "**The old laptop is still usable, but it is no longer useful for my work.**\n\n这台旧笔记本还能用，却已经帮不了我完成现在的工作。usable 过了“能运行”这一关，useful 还要看它是否满足具体需要。",
+    "words": [
+      "use",
+      "usually",
+      "usual",
+      "useful",
+      "usefulness",
+      "useless",
+      "uselessness",
+      "usage",
+      "user",
+      "usable",
+      "usability",
+      "reuse",
+      "misuse",
+      "abuse",
+      "abusive",
+      "unusual",
+      "unusually",
+      "utility",
+      "utilize",
+      "utilization",
+      "disuse",
+      "utilitarian",
+      "utilitarianism"
+    ]
+  },
+  {
+    "id": "C0434",
+    "meaning": "撞击；击打；使受到打击",
+    "core": "FLIG / FLICT = STRIKE",
+    "image": "两股力量撞在一起；一次打击落到某人身上",
+    "intro": "**flig-、flict-** 来自拉丁语 **flīgere**“击打、撞击”。两股力量相撞，形成 conflict；把伤害加到某人身上，是 inflict；病痛或困境持续让人受苦，是 afflict。先抓住动作方向，几组近似拼写就容易分清。",
+    "forms": "拉丁语 **flīg-** 与相关分词词干 **flīct-** 对应，所以英语既有 profligate，也有 conflict、inflict。前缀 con- 让力量相撞，in- 在 inflict 中表示向某处施加，ad- 遇到 f 同化成 af-，形成 afflict 这一支。不要把 inflict 的 in- 当成否定。",
+    "branches": [
+      [
+        "两边互相抵触",
+        "conflict · conflicting"
+      ],
+      [
+        "心里两边拉扯",
+        "conflicted"
+      ],
+      [
+        "把伤害施加过去",
+        "inflict · infliction"
+      ],
+      [
+        "承受病痛或磨难",
+        "afflict · affliction"
+      ],
+      [
+        "从败坏到挥霍",
+        "profligate · profligacy"
+      ]
+    ],
+    "contrasts": "**conflicted / conflicting**：conflicted 常形容人心里矛盾；conflicting 常形容两条信息、两种要求互相冲突。\n\n**inflict / afflict**：inflict pain on someone 把痛苦施加给某人；a disease afflicts someone 是疾病使某人受苦。前者跟着伤害看方向，后者跟着受苦者看处境。\n\n**profligate** 的现代义不能靠“向前打”硬猜；需要经过“击倒、毁坏 → 败坏、放荡 → 挥霍无度”这条历史变化。",
+    "practice": "**The conflict inflicted heavy losses on a region already afflicted by drought.**\n\n冲突给一个已经深受干旱之苦的地区造成了重大损失。conflict 是双方冲突；inflicted 说损失被造成；afflicted 说当地一直承受困境。",
+    "words": [
+      "conflict",
+      "conflicted",
+      "conflicting",
+      "inflict",
+      "infliction",
+      "afflict",
+      "affliction",
+      "profligate",
+      "profligacy"
+    ]
+  }
+]

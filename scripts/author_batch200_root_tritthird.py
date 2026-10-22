@@ -1,0 +1,9 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+W=[E('tritium','/ˈtrɪtiəm/','氚；氢的放射性同位素','还是氢，但原子核里是一枚质子加两枚中子。','新拉丁科学名称 tritium，由希腊 tritos 第三与 -ium 构成。名字联系质量数3：原子核中质子、中子的总数是3。',[['希腊 tritos + 科学命名后缀 -ium','第三 + 物质名称形式'],['新拉丁 tritium → 英语 tritium','质量数为3的氢同位素，中文氚']],'它和普通氢一样有一个质子，所以仍属于氢；不同在于多了两个中子。它有放射性，可在同位素示踪和聚变研究等语境出现。名字里的三不是三枚质子，也不是原子序数3。','tritium atoms；tritium decay；a tritium tracer；tritium research。','deuterium 是氘，核中一质子一中子；tritium 是氚，一质子两中子。普通 trite 陈腐的来自拉丁磨损一支，不能放进第三这条词源。',('A tritium nucleus contains one proton and two neutrons.','氚原子核包含一个质子和两个中子。'),('The researchers measured the amount of tritium in the sample.','研究人员测量了样品中的氚含量。'),sources=['https://www.etymonline.com/word/tritium','https://en.wiktionary.org/wiki/tritium#English','https://www.energy.gov/science/doe-explainsisotopes','https://www.nuclearsafety.gc.ca/eng/resources/fact-sheets/tritium.cfm'])]
+ROOT=dict(id='C1555',meaning='第三',core='TRIT = THIRD',image='把普通氢、氘、氚按质量数看成1、2、3，氚的名字保留了第三的线索。',intro='希腊 tritos 表示第三。现代科学用它命名 tritium 氚。这里与拉丁 tritus 磨过的只是形状相近，不能并成一个词根。',forms='tritos + -ium → 新拉丁 tritium → 英语 tritium。第三是命名材料，现代具体含义还需要结合氢同位素来理解。',branches=[['质量数为3的氢','tritium']],contrasts='trite 陈腐的、老套的属于拉丁 terere／tritus 磨损一支；它并不表示第三。科学命名中的数字要看数的是什么，氚的3是质量数。',practice='Tritium is hydrogen with two neutrons, not an element with three protons.\n\n氚是含两个中子的氢，不是有三个质子的元素。',words=['tritium'],exclude={'trite':'误归：来自拉丁磨损词源；已有 ter-/trit- 磨损组精讲。','tritagonist':'低频戏剧术语，本轮略过。','tritanomaly':'专业色觉术语，本轮略过。','tritanopia':'专业色觉术语，本轮略过。'})
+if __name__=='__main__':
+ for name,data in [('roots_tritthird',[ROOT]),('words_tritthird',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

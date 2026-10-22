@@ -1,0 +1,1595 @@
+[
+  {
+    "word": "support",
+    "ipa": "英 /səˈpɔːt/；美 /səˈpɔːrt/",
+    "meaning": "支撑；支持；帮助维持",
+    "sense": "support 像从下面托住一件东西，让它不倒、不掉下来。可以托住屋顶，也可以用钱、鼓励或证据托住一个人、一件事。",
+    "split": "拉丁语 sub-（下面）+ portāre（承担），形成 supportāre；b 在 p 前同化为 p。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：supportāre",
+        "从下面承担、托住"
+      ],
+      [
+        "古法语：supporter",
+        "承受；支撑"
+      ],
+      [
+        "英语：support",
+        "支撑；支持"
+      ]
+    ],
+    "explanation": "从物理支撑扩展到生活帮助、立场支持和论证支持。support a claim 是用证据使说法站得住；support a family 是承担家庭生活需要。",
+    "usage": "support a family（养家）；support a proposal（支持提案）；support a claim（为说法提供依据）；emotional support（情感支持）。",
+    "contrast": "support 可以持续托住对方；help 泛指提供帮助。支持一项主张也不必等于同意提出者的一切观点。",
+    "examples": [
+      [
+        "These columns support the roof.",
+        "这些柱子支撑着屋顶。"
+      ],
+      [
+        "The evidence does not support his explanation.",
+        "这些证据不能支持他的解释。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/support#English"
+    ]
+  },
+  {
+    "word": "important",
+    "ipa": "英 /ɪmˈpɔːtənt/；美 /ɪmˈpɔːrtənt/",
+    "meaning": "重要的；影响大的",
+    "sense": "important 是一件事有分量：它会影响结果，或者对某个人有特殊价值，不能轻易忽略。",
+    "split": "连着拉丁语 importāre“带入、传达”，中世纪拉丁语 importāns 发展出“关系重大”的意思。不是“进口的东西都重要”。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：importāre",
+        "带入；承载某种含义"
+      ],
+      [
+        "中世纪拉丁语：importāns",
+        "有关系；意义重大"
+      ],
+      [
+        "英语：important",
+        "重要的"
+      ]
+    ],
+    "explanation": "从承载意义、带来后果，走向值得重视。用“有分量”帮助理解很直观，但 important 本身不要求东西真的很重。",
+    "usage": "an important decision（重要决定）；be important to someone（对某人很重要）；It is important to…（做……很重要）。",
+    "contrast": "important 是重要；urgent 是急迫。重要的事未必今天必须做，急事也未必影响最大。",
+    "examples": [
+      [
+        "This decision is important to everyone on the team.",
+        "这个决定对团队每个人都很重要。"
+      ],
+      [
+        "It is important to read the instructions carefully.",
+        "仔细阅读说明很重要。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/important#English",
+      "https://www.etymonline.com/word/important"
+    ]
+  },
+  {
+    "word": "report",
+    "ipa": "英 /rɪˈpɔːt/；美 /rɪˈpɔːrt/",
+    "meaning": "报告；报道；汇报；报告书",
+    "sense": "report 像从现场回来，把看到、听到、查到的情况带给别人。现代可以是口头汇报、新闻报道或一份书面报告。",
+    "split": "拉丁语 re-（往回）+ portāre（携带），经法语 reporter 进入英语。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：reportāre",
+        "带回来；报告"
+      ],
+      [
+        "法语：reporter",
+        "带回；讲述"
+      ],
+      [
+        "英语：report",
+        "报告；报道"
+      ]
+    ],
+    "explanation": "被带回来的东西从实物变成信息。report a problem 是把问题告知相关的人；report to a manager 也可表示在组织上向某位经理负责。",
+    "usage": "write a report（写报告）；report a problem（报告问题）；report on an event（报道事件）；report to someone（向某人汇报或负责）。",
+    "contrast": "report 重在传达情况，不保证说法已经核实。It is reported that… 是“据报道”，不是直接等于“已经证实”。",
+    "examples": [
+      [
+        "Please report any problems to the front desk.",
+        "遇到问题请告知前台。"
+      ],
+      [
+        "The report summarizes the team’s findings.",
+        "报告概述了团队的调查结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/report#English"
+    ]
+  },
+  {
+    "word": "port",
+    "ipa": "英 /pɔːt/；美 /pɔːrt/",
+    "meaning": "港口；端口；左舷；移植；波特酒",
+    "sense": "port 的常见义不能全塞进“搬运”一条线：船停靠的港口、设备的接口、软件移植，字一样，进入英语的路线却不同。",
+    "split": "港口义来自拉丁语 portus；门、开口这一支来自 porta；携带义连着 portāre。软件“移植”的直接词源有不同解释，不能只凭搬运画面定论。葡萄酒义来自城市 Porto 的名字。",
+    "history": [
+      [
+        "拉丁语：portus",
+        "港口；通道"
+      ],
+      [
+        "古英语：port",
+        "港口"
+      ],
+      [
+        "英语名词：port",
+        "港口"
+      ]
+    ],
+    "explanation": "图画港口这一支。端口沿着“门、开口”理解；port a program 可以想成把程序“搬到”另一平台。后一画面是助记：词典对其直接来源有不同解释，也有联系硬件接口的分析。左舷义通常联系旧船靠泊的一侧，具体可能牵涉港口或船侧开口，不能直接归为“左边携带”。",
+    "usage": "a busy port（繁忙港口）；a USB port（USB 接口）；the port side（左舷）；port software to a new platform（把软件移植到新平台）。",
+    "contrast": "港口、门和携带在更远词源上可能有关联，但不能画成 portāre → portus → porta 的直线。右舷是 starboard。",
+    "examples": [
+      [
+        "The ship reached the port before sunrise.",
+        "船在日出前抵达港口。"
+      ],
+      [
+        "The team ported the game to a new platform.",
+        "团队把游戏移植到了一个新平台。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/port#English",
+      "https://www.etymonline.com/word/port",
+      "https://www.merriam-webster.com/dictionary/port"
+    ]
+  },
+  {
+    "word": "supporting",
+    "ipa": "英 /səˈpɔːtɪŋ/；美 /səˈpɔːrtɪŋ/",
+    "meaning": "支撑的；辅助的；support 的分词形式",
+    "sense": "supporting 是在旁边或下面帮主体站住的。证据支持论点，配角帮助故事展开，横梁支撑建筑。",
+    "split": "support + -ing，既可表示正在支持，也可作形容词描述辅助作用。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：supportāre",
+        "从下面承担、托住"
+      ],
+      [
+        "古法语：supporter",
+        "承受；支撑"
+      ],
+      [
+        "英语：support",
+        "支撑；支持"
+      ],
+      [
+        "英语：supporting",
+        "支撑、辅助的"
+      ]
+    ],
+    "explanation": "supporting actor 的“支持”是戏剧角色分工，不是这位演员私下赞同谁。supporting documents 则是为申请或说法提供依据的文件。",
+    "usage": "supporting evidence（佐证）；supporting documents（证明材料）；a supporting role（配角；辅助角色）。",
+    "contrast": "supporting 说明某人或物在结构中的辅助角色；supportive 常强调人的态度令人感到被支持。",
+    "examples": [
+      [
+        "Please attach the supporting documents to your application.",
+        "请把证明材料附在申请后。"
+      ],
+      [
+        "He played a supporting role in the film.",
+        "他在电影中饰演配角。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supporting#English"
+    ]
+  },
+  {
+    "word": "transport",
+    "ipa": "动词 英 /trænsˈpɔːt/、美 /trænsˈpɔːrt/；名词 英 /ˈtrænspɔːt/、美 /ˈtrænspɔːrt/",
+    "meaning": "运输；运送；交通运输",
+    "sense": "transport 是把人或东西从这里搬到那里，像把一箱货物带过一段距离。",
+    "split": "拉丁语 trāns-（跨过、到另一边）+ portāre（运送），经法语进入英语。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：trānsportāre",
+        "运到另一边"
+      ],
+      [
+        "古法语：transporter",
+        "运送"
+      ],
+      [
+        "英语：transport",
+        "运输；运送"
+      ]
+    ],
+    "explanation": "可以用车、船、飞机或管线等运送；重点是改变位置。文学里音乐也能 transport someone，把人的感受带到仿佛另一个世界。",
+    "usage": "transport goods（运输货物）；public transport（公共交通，英式常见）；transport something from A to B（从 A 运到 B）。",
+    "contrast": "动词重音在后，名词重音在前。transfer 强调转移位置或归属，transport 更突出运送过程。",
+    "examples": [
+      [
+        "The trucks transport vegetables to the city.",
+        "这些卡车把蔬菜运往城市。"
+      ],
+      [
+        "We used public transport throughout the trip.",
+        "整个旅程中我们都使用公共交通。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transport#English"
+    ]
+  },
+  {
+    "word": "transportation",
+    "ipa": "英 /ˌtrænspɔːˈteɪʃən/；美 /ˌtrænspərˈteɪʃən/",
+    "meaning": "运输；交通运输系统或方式",
+    "sense": "transportation 把运送人和货物这件事整体拿出来说，可以指一次运输，也可以指一座城市的交通系统。",
+    "split": "transport + -ation，形成表示过程的名词。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：trānsportāre",
+        "运到另一边"
+      ],
+      [
+        "古法语：transporter",
+        "运送"
+      ],
+      [
+        "英语：transport",
+        "运输；运送"
+      ],
+      [
+        "英语：transportation",
+        "运输活动；交通安排"
+      ]
+    ],
+    "explanation": "在美式英语中，public transportation 很常见；英式常用 public transport。历史语境还可能指把犯人运往殖民地的流放制度。",
+    "usage": "public transportation（公共交通）；transportation costs（运输费用）；a means of transportation（交通方式）。",
+    "contrast": "transportation 不是特指旅游。旅游包含目的和活动，transportation 只是把人从一处送到另一处。",
+    "examples": [
+      [
+        "The ticket includes transportation to the museum.",
+        "票价包含前往博物馆的交通费用。"
+      ],
+      [
+        "Reliable public transportation makes commuting easier.",
+        "可靠的公共交通让通勤更方便。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transportation#English"
+    ]
+  },
+  {
+    "word": "importance",
+    "ipa": "英 /ɪmˈpɔːtəns/；美 /ɪmˈpɔːrtəns/",
+    "meaning": "重要性；分量；意义",
+    "sense": "importance 把“这件事有多值得在意”变成一个可以讨论的概念。它谈的不是东西有多大，而是影响或价值有多大。",
+    "split": "来自法语 importance 或中世纪拉丁语 importantia，与 important 同族；现代把 -ant / -ance 的形容词、名词关系一起记。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：importāre",
+        "带入；承载意义"
+      ],
+      [
+        "中世纪拉丁语：importantia",
+        "重要性"
+      ],
+      [
+        "法语／英语：importance",
+        "重要程度；意义"
+      ]
+    ],
+    "explanation": "the importance of practice 是练习为什么值得重视。attach importance to 是把某件事放在较高位置，也就是重视它。",
+    "usage": "the importance of…（……的重要性）；attach importance to…（重视……）；of great importance（非常重要）。",
+    "contrast": "importance 是名词，important 是形容词。This is important 与 This is of importance 意思相近，后者较正式。",
+    "examples": [
+      [
+        "The experience taught her the importance of preparation.",
+        "这段经历让她明白了准备的重要性。"
+      ],
+      [
+        "They attach great importance to clear communication.",
+        "他们非常重视清楚的沟通。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/importance#English"
+    ]
+  },
+  {
+    "word": "reporting",
+    "ipa": "英 /rɪˈpɔːtɪŋ/；美 /rɪˈpɔːrtɪŋ/",
+    "meaning": "报道；汇报；报告工作",
+    "sense": "reporting 是把信息收集、组织后持续带给别人。它可以是新闻工作，也可以是单位里的进度、财务或数据报告。",
+    "split": "report + -ing，把报告动作作为活动或过程来谈。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：reportāre",
+        "带回来；报告"
+      ],
+      [
+        "法语：reporter",
+        "带回；讲述"
+      ],
+      [
+        "英语：report",
+        "报告；报道"
+      ],
+      [
+        "英语：reporting",
+        "持续报道、汇报的活动"
+      ]
+    ],
+    "explanation": "report 是一篇报告或一次动作；reporting 可以评价整套工作，如 accurate reporting。组织中的 reporting line 指向谁汇报的关系。",
+    "usage": "news reporting（新闻报道）；accurate reporting（准确报道）；progress reporting（进度汇报）；a reporting line（汇报关系）。",
+    "contrast": "reporting 关注传达事实；commentary 常加入解释和评价。实际文章可能兼有两者，阅读时留意区分。",
+    "examples": [
+      [
+        "Her reporting brought attention to the neglected issue.",
+        "她的报道让那个被忽视的问题受到关注。"
+      ],
+      [
+        "The new tool simplifies monthly reporting.",
+        "新工具简化了每月汇报工作。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reporting#English"
+    ]
+  },
+  {
+    "word": "reporter",
+    "ipa": "英 /rɪˈpɔːtə/；美 /rɪˈpɔːrtər/",
+    "meaning": "记者；报道者；记录员",
+    "sense": "reporter 是把现场信息带给公众或相关人的那个人。记者去采访、核查，再把事情说清楚。",
+    "split": "现代对应 report + -er；历史上也有法语 reporteur 进入中古英语 reportour 的路线。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：reportāre",
+        "把信息带回来"
+      ],
+      [
+        "法语：reporteur",
+        "报告、讲述的人"
+      ],
+      [
+        "英语：reporter",
+        "记者；报告者"
+      ]
+    ],
+    "explanation": "新闻记者是最常见用法，但 court reporter 可指法庭记录人员，工作重点是记录庭审内容。角色须看前面的修饰词。",
+    "usage": "a news reporter（新闻记者）；a local reporter（地方记者）；a court reporter（法庭记录员）。",
+    "contrast": "reporter 侧重采访、报道或记录；editor 侧重编辑和审稿。一位 journalist 可能承担多种新闻工作。",
+    "examples": [
+      [
+        "The reporter interviewed residents near the station.",
+        "记者采访了车站附近的居民。"
+      ],
+      [
+        "A court reporter recorded the testimony.",
+        "法庭记录员记录了证词。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reporter#English"
+    ]
+  },
+  {
+    "word": "export",
+    "ipa": "动词 英 /ɪkˈspɔːt/、美 /ɪkˈspɔːrt/；名词 英 /ˈekspɔːt/、美 /ˈekspɔːrt/",
+    "meaning": "出口；导出；出口商品",
+    "sense": "export 是把东西向外带：把本国商品卖到国外，或把软件里的数据另存到外部文件。",
+    "split": "拉丁语 ex-（向外）+ portāre（运送），形成 exportāre。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：exportāre",
+        "向外运出"
+      ],
+      [
+        "英语：export",
+        "出口；导出"
+      ]
+    ],
+    "explanation": "贸易中“向外”通常以国家或地区为边界；软件中则以某个应用或文件格式为边界。",
+    "usage": "export goods（出口商品）；export to…（向……出口）；export a file（导出文件）；agricultural exports（农产品出口）。",
+    "contrast": "export 向外，import 向内。名词通常重音在前，动词通常在后。",
+    "examples": [
+      [
+        "The company exports furniture to several countries.",
+        "这家公司向几个国家出口家具。"
+      ],
+      [
+        "You can export the chart as an image.",
+        "你可以把图表导出成图片。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/export#English"
+    ]
+  },
+  {
+    "word": "portfolio",
+    "ipa": "英 /pɔːtˈfəʊliəʊ/；美 /pɔːrtˈfoʊlioʊ/",
+    "meaning": "作品集；投资组合；一组职责或业务",
+    "sense": "portfolio 最初像一个装纸张的夹子：把你的作品装在里面带给别人看。后来“夹子里的整套东西”比夹子本身更重要。",
+    "split": "来自意大利语 portafoglio，porta- 与“携带”有关，foglio 是纸张、页，追溯到拉丁语 folium。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "意大利语：porta- + foglio → portafoglio",
+        "携带 + 纸张：装纸的夹子"
+      ],
+      [
+        "英语：portfolio",
+        "纸夹；作品集；一组持有项目"
+      ]
+    ],
+    "explanation": "设计师 portfolio 展示作品；投资 portfolio 是一组持有资产；业务 portfolio 是某机构掌握的一组业务。共同点是被放在一起管理、展示的一整套。",
+    "usage": "a design portfolio（设计作品集）；an investment portfolio（投资组合）；a portfolio of projects（一组项目）。",
+    "contrast": "portfolio 常让人看到实际作品或持有内容；résumé 简要列经历与资历。两者可以一起提交，作用不同。",
+    "examples": [
+      [
+        "She included three recent projects in her portfolio.",
+        "她在作品集中放入了三个近期项目。"
+      ],
+      [
+        "The company manages a portfolio of publishing businesses.",
+        "这家公司管理着一组出版业务。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/portfolio#English"
+    ]
+  },
+  {
+    "word": "import",
+    "ipa": "动词 英 /ɪmˈpɔːt/、美 /ɪmˈpɔːrt/；名词 英 /ˈɪmpɔːt/、美 /ˈɪmpɔːrt/",
+    "meaning": "进口；导入；进口商品；意义",
+    "sense": "import 是把外面的东西带进来：国外商品进来，外部数据进入软件。正式用法还可指某句话或事情“带来的意义”。",
+    "split": "拉丁语 in-（向内）+ portāre（携带），n 在 p 前同化成 m。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：importāre",
+        "带入；传达"
+      ],
+      [
+        "法语：importer",
+        "引入；有关系"
+      ],
+      [
+        "英语：import",
+        "进口；导入；意义"
+      ]
+    ],
+    "explanation": "进口与导入保留空间方向；the import of his words 则问他的话意味着什么。这条“承载意义”的线也通向 important。",
+    "usage": "import goods（进口商品）；import data（导入数据）；an import from…（从……进口的商品）；the full import of…（……的完整含义）。",
+    "contrast": "import 向内，export 向外。作名词谈“意义”时较正式，不能每次看到 import 都翻成进口。",
+    "examples": [
+      [
+        "The country imports most of its coffee.",
+        "这个国家的大部分咖啡依靠进口。"
+      ],
+      [
+        "She did not immediately grasp the import of his words.",
+        "她没有立刻领会他话中的含义。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/import#English"
+    ]
+  },
+  {
+    "word": "importantly",
+    "ipa": "英 /ɪmˈpɔːtəntli/；美 /ɪmˈpɔːrtəntli/",
+    "meaning": "重要的是；更重要地；自命不凡地",
+    "sense": "importantly 常像在下一句话前画一道重点：“请注意，接下来这一点很要紧。”most importantly 则把最关键的一点抬出来。",
+    "split": "important + -ly，构成副词。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：importāre",
+        "带入；承载某种含义"
+      ],
+      [
+        "中世纪拉丁语：importāns",
+        "有关系；意义重大"
+      ],
+      [
+        "英语：important",
+        "重要的"
+      ],
+      [
+        "英语：importantly",
+        "强调某一点的重要；带重要人物的架势"
+      ]
+    ],
+    "explanation": "常见用法是修饰整句话，说明后面信息的重要性。另一种较少见的方式副词用法形容人摆出一副自以为了不起的样子。",
+    "usage": "more importantly（更重要的是）；most importantly（最重要的是）；speak importantly（故作重要地说，较少见）。",
+    "contrast": "important 修饰名词或作表语；importantly 常评说整句话。不是在所有 important 后面随便加 ly 都能得到自然表达。",
+    "examples": [
+      [
+        "The plan is affordable and, more importantly, practical.",
+        "这个方案成本可承担，更重要的是切实可行。"
+      ],
+      [
+        "Most importantly, everyone understood the next step.",
+        "最重要的是，每个人都明白下一步该做什么。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/importantly#English"
+    ]
+  },
+  {
+    "word": "supporter",
+    "ipa": "英 /səˈpɔːtə/；美 /səˈpɔːrtər/",
+    "meaning": "支持者；拥护者；球迷",
+    "sense": "supporter 是在一个人、团队或主张后面出力的人。可能投票、捐款、声援，也可能每周去看球队比赛。",
+    "split": "support + -er；中古英语已经有 supporter、supportour 等形式。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：supportāre",
+        "从下面承担、托住"
+      ],
+      [
+        "古法语：supporter",
+        "承受；支撑"
+      ],
+      [
+        "英语：support",
+        "支撑；支持"
+      ],
+      [
+        "英语：supporter",
+        "提供支持的一方"
+      ]
+    ],
+    "explanation": "支撑从物理动作变成站在某人一边。a supporter of the plan 是赞同、支持这个计划的人，不要求他一定参与具体执行。",
+    "usage": "a strong supporter（坚定支持者）；supporters of the proposal（提案支持者）；football supporters（足球迷）。",
+    "contrast": "supporter 是支持的一方；participant 是参加者。参加过活动不必支持其全部观点。",
+    "examples": [
+      [
+        "She is a strong supporter of public libraries.",
+        "她坚定支持公共图书馆。"
+      ],
+      [
+        "The supporters cheered as the team entered the field.",
+        "球队进场时，球迷们欢呼起来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supporter#English"
+    ]
+  },
+  {
+    "word": "supportive",
+    "ipa": "英 /səˈpɔːtɪv/；美 /səˈpɔːrtɪv/",
+    "meaning": "给予支持的；鼓励人的",
+    "sense": "supportive 常形容一种让人站得稳的态度：你遇到困难时，对方愿意听、鼓励，并在需要时帮一把。",
+    "split": "support + -ive，构成描述性质或态度的形容词。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：supportāre",
+        "从下面承担、托住"
+      ],
+      [
+        "古法语：supporter",
+        "承受；支撑"
+      ],
+      [
+        "英语：support",
+        "支撑；支持"
+      ],
+      [
+        "英语：supportive",
+        "具有支持、帮助作用的"
+      ]
+    ],
+    "explanation": "supportive parents 不只是口头同意，更能让孩子感到有人在支持自己。也可描述有帮助的环境或支持某计划的立场。",
+    "usage": "a supportive friend（支持你的朋友）；a supportive environment（给予支持的环境）；be supportive of…（支持……）。",
+    "contrast": "supportive 侧重态度和作用；supporting 常直接表示辅助角色或具体支撑材料，如 supporting evidence。",
+    "examples": [
+      [
+        "Her friends were supportive during a difficult year.",
+        "在艰难的一年里，朋友们一直支持她。"
+      ],
+      [
+        "The manager was supportive of the new proposal.",
+        "经理对新提案持支持态度。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/supportive#English"
+    ]
+  },
+  {
+    "word": "portal",
+    "ipa": "英 /ˈpɔːtəl/；美 /ˈpɔːrtəl/",
+    "meaning": "大门；入口；门户网站",
+    "sense": "portal 像一个进入某个空间的门口：建筑入口、故事里的异世界入口，或网上集中进入多项服务的页面。",
+    "split": "来自拉丁语 porta“门”，经中世纪拉丁语 portāle 和法语 portal 进入英语。这一条不是 portāre“携带”的直接后代。",
+    "history": [
+      [
+        "拉丁语：porta",
+        "门；入口"
+      ],
+      [
+        "中世纪拉丁语：portāle",
+        "入口"
+      ],
+      [
+        "古法语：portal",
+        "门口"
+      ],
+      [
+        "英语：portal",
+        "大门；信息或服务入口"
+      ]
+    ],
+    "explanation": "实体的门被借来比喻进入信息空间。student portal 通常把课程、成绩、缴费等入口放在同一个位置。",
+    "usage": "a student portal（学生门户）；an online portal（在线门户）；a portal to another world（通往另一个世界的入口）。",
+    "contrast": "portal 是较大的进入点；port 在技术语境可指接口或端口。两个都能用“入口”记，但不能因此把所有含 port 的词解释成门。",
+    "examples": [
+      [
+        "Students can view their results through the online portal.",
+        "学生可以通过在线门户查看成绩。"
+      ],
+      [
+        "The painting shows a figure standing before a stone portal.",
+        "画中一个人站在石砌大门前。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/portal#English"
+    ]
+  },
+  {
+    "word": "porter",
+    "ipa": "英 /ˈpɔːtə/；美 /ˈpɔːrtər/",
+    "meaning": "搬运工；行李员；门卫",
+    "sense": "porter 有两个人物画面：帮你扛行李的人，和在门口负责接待、看守的人。今天字形相同，历史上却是两条词源。",
+    "split": "搬运工来自拉丁语 portātor，由 portāre“携带”形成；门卫来自 portārius，根是 porta“门”。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "晚期拉丁语：portātor",
+        "搬运者"
+      ],
+      [
+        "古法语：porteor",
+        "搬运工"
+      ],
+      [
+        "英语：porter",
+        "行李员；搬运工"
+      ]
+    ],
+    "explanation": "图画搬运这一支。门卫一支是 porta → portārius → 法语 portier → porter。酒店、车站、医院或学院里，具体职责依场景而变。",
+    "usage": "a hotel porter（酒店行李员）；a hospital porter（医院运送人员）；the college porter（学院门房人员）。",
+    "contrast": "porter 不总是搬行李的人。看见 porter’s lodge，通常是门房。另有“波特黑啤”义，其名称通常联系搬运工，但“因为他们特别爱喝”这一具体故事缺少同时代直接证据。",
+    "examples": [
+      [
+        "The porter carried our bags to the room.",
+        "行李员把我们的包送到房间。"
+      ],
+      [
+        "The college porter checked the visitor’s name.",
+        "学院门房核对了访客姓名。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/porter#English",
+      "https://www.etymonline.com/word/porter"
+    ]
+  },
+  {
+    "word": "portable",
+    "ipa": "英 /ˈpɔːtəbəl/；美 /ˈpɔːrtəbəl/",
+    "meaning": "便携的；可移植的",
+    "sense": "portable 就是能方便带走的：不是固定在墙上、地上，而是可以随人换地方使用。",
+    "split": "拉丁语 portāre（携带）+ 表示可能性的 -bilis，形成 portābilis；现代可用 port- + -able 帮助理解。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：portābilis",
+        "能够携带的"
+      ],
+      [
+        "法语：portable",
+        "可携带的"
+      ],
+      [
+        "英语：portable",
+        "便携的；可移植的"
+      ]
+    ],
+    "explanation": "实物可以随身携带，软件也可以“搬”到别的环境继续使用，所以 portable code 是可移植代码。便携不自动等于无线或不用电。",
+    "usage": "a portable speaker（便携音箱）；a portable charger（移动电源）；portable software（可移植或便携软件）。",
+    "contrast": "portable 强调方便携带；transportable 只保证可以运输，可能需要卡车。mobile 更强调移动性或移动使用。",
+    "examples": [
+      [
+        "She bought a portable lamp for camping.",
+        "她买了一盏露营用的便携灯。"
+      ],
+      [
+        "The library was designed to keep the code portable.",
+        "这个程序库在设计时考虑了代码的可移植性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/portable#English"
+    ]
+  },
+  {
+    "word": "transporting",
+    "ipa": "英 /trænsˈpɔːtɪŋ/；美 /trænsˈpɔːrtɪŋ/",
+    "meaning": "运送；transport 的现在分词或动名词",
+    "sense": "transporting 把镜头放在“正在把东西从一处送到另一处”这个动作上，也能把整个动作作为话题。",
+    "split": "transport + -ing，是英语动词的常规变化。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：trānsportāre",
+        "运到另一边"
+      ],
+      [
+        "古法语：transporter",
+        "运送"
+      ],
+      [
+        "英语：transport",
+        "运输；运送"
+      ],
+      [
+        "英语：transporting",
+        "进行运送；运送这一活动"
+      ]
+    ],
+    "explanation": "They are transporting… 说正在运送；Transporting goods is costly 把运货这件事放到主语位置。它不是一个与 transport 无关的新词根。",
+    "usage": "transporting goods（运输货物）；the cost of transporting…（运送……的成本）。",
+    "contrast": "transporting 是动作形式；transporter 是运输者或运输车辆；transportation 是较正式的运输过程名词。",
+    "examples": [
+      [
+        "They are transporting the equipment by rail.",
+        "他们正在通过铁路运送设备。"
+      ],
+      [
+        "Transporting fresh food requires careful planning.",
+        "运输生鲜食品需要周密安排。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transporting#English"
+    ]
+  },
+  {
+    "word": "deportation",
+    "ipa": "英 /ˌdiːpɔːˈteɪʃən/；美 /ˌdiːpɔːrˈteɪʃən/",
+    "meaning": "驱逐出境；强制遣送",
+    "sense": "deportation 是由当局把一个人强制送离某个国家的过程。词源中的“运走”在这里变成了制度性行动。",
+    "split": "来自法语 déportation，与 deport 相连；现代可看成 deport + -ation。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：dēportāre",
+        "运走；放逐"
+      ],
+      [
+        "法语：déportation",
+        "强制送走"
+      ],
+      [
+        "英语：deportation",
+        "驱逐出境"
+      ]
+    ],
+    "explanation": "它描述强制离境，不是普通旅行安排。不同语境涉及的具体制度不同，理解单词时先抓住谁在强制把谁送走。",
+    "usage": "face deportation（面临驱逐出境）；a deportation order（驱逐出境令）；deportation proceedings（驱逐出境程序）。",
+    "contrast": "deportation 是被强制遣离；departure 只是离开。不要把一个中性的出发词读成强制行动。",
+    "examples": [
+      [
+        "The report describes the family’s experience of deportation.",
+        "报告描述了这家人被驱逐出境的经历。"
+      ],
+      [
+        "The newspaper reported that a deportation order had been issued.",
+        "报纸报道说，已发出一份驱逐出境令。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deportation#English"
+    ]
+  },
+  {
+    "word": "exporter",
+    "ipa": "英 /ɪkˈspɔːtə/；美 /ɪkˈspɔːrtər/",
+    "meaning": "出口商；出口国；导出工具",
+    "sense": "exporter 是把商品向外卖的一方。它可以是一家公司，也可以是以某类商品出口著称的国家。",
+    "split": "export + -er，表示实施出口的人、企业或其他主体。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：exportāre",
+        "向外运出"
+      ],
+      [
+        "英语：export",
+        "出口；导出"
+      ],
+      [
+        "英语：exporter",
+        "向外运出、销售的一方"
+      ]
+    ],
+    "explanation": "新闻里的 a major exporter of wheat 指小麦出口大国或大供应商，要看主语。技术语境还可能指负责导出数据的工具。",
+    "usage": "a leading exporter（主要出口商或出口国）；an exporter of tea（茶叶出口商）；a data exporter（数据导出工具）。",
+    "contrast": "exporter 向外供应；importer 从外部买入。同一家公司也可以同时扮演两种角色。",
+    "examples": [
+      [
+        "The country is a major exporter of wheat.",
+        "这个国家是小麦出口大国。"
+      ],
+      [
+        "The exporter ships furniture to overseas retailers.",
+        "这家出口商把家具运给海外零售商。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exporter#English"
+    ]
+  },
+  {
+    "word": "purported",
+    "ipa": "英 /pəˈpɔːtɪd/；美 /pərˈpɔːrtɪd/",
+    "meaning": "据称的；所谓的",
+    "sense": "purported 像在一个标签上加一句：“这是别人声称的，还不能直接当成事实。”例如 purported benefits 是声称存在的好处。",
+    "split": "purport + -ed，过去分词用作形容词。它沿着“传达、声称”这一支发展。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "古法语：porporter / purporter",
+        "带出；传达、包含"
+      ],
+      [
+        "英语：purport",
+        "传达的意思；声称是"
+      ],
+      [
+        "英语：purported",
+        "声称如此的"
+      ]
+    ],
+    "explanation": "这个词让作者与说法保持距离，常带怀疑，但没有直接断言说法一定是假的。",
+    "usage": "purported benefits（据称的好处）；a purported expert（所谓专家）；the purported author（被指称为作者的人）。",
+    "contrast": "purported 是有待核实的声称；proven 是已经证明的。false 则直接判断为假，态度更明确。",
+    "examples": [
+      [
+        "The article examines the product’s purported benefits.",
+        "文章考察了这款产品据称具有的好处。"
+      ],
+      [
+        "The purported author denied writing the letter.",
+        "被指称为作者的人否认写过那封信。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/purported#English"
+    ]
+  },
+  {
+    "word": "transporter",
+    "ipa": "英 /trænsˈpɔːtə/；美 /trænsˈpɔːrtər/",
+    "meaning": "运输者；运输车辆；转运体",
+    "sense": "transporter 是负责把东西搬过去的人、车或结构。想象一辆装着多辆汽车的大卡车，就是 car transporter。",
+    "split": "transport + -er，表示执行运输的一方。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：trānsportāre",
+        "运到另一边"
+      ],
+      [
+        "古法语：transporter",
+        "运送"
+      ],
+      [
+        "英语：transport",
+        "运输；运送"
+      ],
+      [
+        "英语：transporter",
+        "进行运输的人或物"
+      ]
+    ],
+    "explanation": "同一个角色词能进入不同领域：道路上是运输车辆，生物学里可指把物质跨膜转运的蛋白。对象不同，核心都是转运。",
+    "usage": "a car transporter（汽车运输车）；a heavy equipment transporter（重型设备运输车）；a membrane transporter（膜转运体）。",
+    "contrast": "transport 是动作或运输活动；transporter 是执行它的东西。不能把交通系统整体都译成 transporter。",
+    "examples": [
+      [
+        "The transporter carried six new cars to the dealership.",
+        "运输车把六辆新车运到经销店。"
+      ],
+      [
+        "The diagram shows a transporter moving molecules across a membrane.",
+        "图中显示一个转运体把分子运过膜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transporter#English"
+    ]
+  },
+  {
+    "word": "deport",
+    "ipa": "英 /dɪˈpɔːt/；美 /dɪˈpɔːrt/",
+    "meaning": "驱逐出境",
+    "sense": "deport 是当局把某人强制送离国家。它不是“帮他搬家”，而是带有强制性的遣离。",
+    "split": "拉丁语 dē-（离开）+ portāre（运送）形成 dēportāre，经法语 déporter 进入英语。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：dēportāre",
+        "运走；放逐"
+      ],
+      [
+        "法语：déporter",
+        "送走；放逐"
+      ],
+      [
+        "英语：deport",
+        "驱逐出境"
+      ]
+    ],
+    "explanation": "词源是运走、送离，现代常用于驱逐出境。较旧的 deport oneself“举止表现”属于另一个用法，deportment 保留了它。",
+    "usage": "deport someone to…（把某人遣送到……）；be deported from…（从……被驱逐出境）。",
+    "contrast": "deport 是官方强制遣离；emigrate 是移居国外。句子中的行为主体和是否自愿很不同。",
+    "examples": [
+      [
+        "The report states that he was deported the following year.",
+        "报告称，他在次年被驱逐出境。"
+      ],
+      [
+        "The film follows a woman who fears being deported.",
+        "影片讲述一名担心被驱逐出境的女性的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deport#English"
+    ]
+  },
+  {
+    "word": "rapport",
+    "ipa": "英 /ræˈpɔː/；美 /ræˈpɔːr/",
+    "meaning": "融洽关系；相互理解的默契",
+    "sense": "rapport 就是两个人说话接得住、相处不别扭的感觉。即使刚认识，也可能很快建立起这种信任和默契。",
+    "split": "借自法语 rapport，与 rapporter“带回、关联”相连；后者含 re- 和 apporter“带来”，最终连到 portāre。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：apportāre",
+        "把东西带来"
+      ],
+      [
+        "法语：rapporter → rapport",
+        "带回、关联 → 关系、协调"
+      ],
+      [
+        "英语：rapport",
+        "相处融洽；沟通默契"
+      ]
+    ],
+    "explanation": "从关系、协调发展为人际融洽。可以用“交流来回顺畅”帮助记忆，但不能把它硬讲成两个现代英语词 report 的拼合。末尾 t 通常不发音。",
+    "usage": "build rapport with someone（与某人建立融洽关系）；establish a good rapport（建立良好默契）。",
+    "contrast": "rapport 是互动中的融洽感；friendship 是友谊关系。一次采访中也能建立 rapport，不必已经是朋友。",
+    "examples": [
+      [
+        "The teacher quickly built a rapport with the class.",
+        "老师很快就与全班建立了融洽关系。"
+      ],
+      [
+        "A few simple questions helped establish rapport.",
+        "几个简单的问题帮助建立了沟通默契。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/rapport#English",
+      "https://www.etymonline.com/word/rapport"
+    ]
+  },
+  {
+    "word": "importer",
+    "ipa": "英 /ɪmˈpɔːtə/；美 /ɪmˈpɔːrtər/",
+    "meaning": "进口商；进口国；导入工具",
+    "sense": "importer 是从外面把商品买进来的一方。对比装货向外卖的 exporter，importer 站在接收、买入的这一端。",
+    "split": "import + -er，表示实施进口、导入的一方。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：importāre",
+        "带入；传达"
+      ],
+      [
+        "法语：importer",
+        "引入；有关系"
+      ],
+      [
+        "英语：import",
+        "进口；导入；意义"
+      ],
+      [
+        "英语：importer",
+        "把外部商品或数据引进的一方"
+      ]
+    ],
+    "explanation": "公司、国家都可能是 importer；技术语境中的 file importer 则是把外部文件读进来的工具。",
+    "usage": "a coffee importer（咖啡进口商）；a major importer of energy（能源进口大国）；a file importer（文件导入工具）。",
+    "contrast": "importer 从国外买入，不一定就是最终消费者；它也可能继续把商品卖给零售商。",
+    "examples": [
+      [
+        "The importer supplies coffee to local shops.",
+        "这家进口商向当地商店供应咖啡。"
+      ],
+      [
+        "The country is a major importer of energy.",
+        "这个国家是能源进口大国。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/importer#English"
+    ]
+  },
+  {
+    "word": "importation",
+    "ipa": "英 /ˌɪmpɔːˈteɪʃən/；美 /ˌɪmpɔːrˈteɪʃən/",
+    "meaning": "进口；引入过程",
+    "sense": "importation 把“从外面带进来”作为正式过程来讲。可以是商品进口，也可比喻引入外来的做法或观念。",
+    "split": "import + -ation，构成动作过程名词。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：importāre",
+        "带入；传达"
+      ],
+      [
+        "法语：importer",
+        "引入；有关系"
+      ],
+      [
+        "英语：import",
+        "进口；导入；意义"
+      ],
+      [
+        "英语：importation",
+        "从外部引入的过程"
+      ]
+    ],
+    "explanation": "常出现在较正式的制度、贸易或历史文字中。它通常谈引入行为，具体进口商品常用 imports。",
+    "usage": "the importation of goods（货物进口）；the importation of new ideas（新思想的引入）。",
+    "contrast": "importation 向内，exportation 向外。普通日常表达里 import 常更简洁。",
+    "examples": [
+      [
+        "The museum studies the importation of ceramics during that period.",
+        "博物馆研究那个时期陶瓷的进口情况。"
+      ],
+      [
+        "The essay discusses the importation of foreign ideas.",
+        "文章讨论了外来观念的引入。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/importation#English"
+    ]
+  },
+  {
+    "word": "portage",
+    "ipa": "英 /ˈpɔːtɪdʒ/；美 /ˈpɔːrtɪdʒ/；也读 /pɔːrˈtɑːʒ/",
+    "meaning": "陆上搬运船只及行李；搬运路线",
+    "sense": "portage 的画面很具体：划船到了瀑布或两片水域之间，得把船搬上岸，扛过一段陆地再下水。",
+    "split": "来自法语 portage，连着 porter“携带”，更早有拉丁语 portāre 和相关名词 portāticum。-age 在这里形成活动名词。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "法语：porter → portage",
+        "搬运 → 搬运活动、费用"
+      ],
+      [
+        "英语：portage",
+        "陆上搬运船及行李；路线"
+      ]
+    ],
+    "explanation": "这是普通“搬运”在水上旅行场景中的专门化。它也可指供搬运通过的那段路线，并能作动词“把船搬过陆地”。",
+    "usage": "a short portage（短距离陆上搬运）；a portage trail（搬船路径）；portage a canoe（把独木舟搬过陆地）。",
+    "contrast": "transport 泛指运输；portage 在现代户外语境中特别容易联系搬船越过陆地。它不是“港口的年龄”。",
+    "examples": [
+      [
+        "The route includes a short portage between two lakes.",
+        "这条路线包含一段在两座湖之间搬船过陆地的路程。"
+      ],
+      [
+        "We had to portage the canoe around the rapids.",
+        "我们得把独木舟搬上岸，绕过急流。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/portage#English"
+    ]
+  },
+  {
+    "word": "portability",
+    "ipa": "英 /ˌpɔːtəˈbɪləti/；美 /ˌpɔːrtəˈbɪləti/",
+    "meaning": "便携性；可移植性；可转移性",
+    "sense": "portability 问的是“换个地方还能不能带着走、继续用”。设备看重量体积，软件看换环境后能否运行。",
+    "split": "portable + -ity，-able 变成对应的 -ability 形式，构成性质名词。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：portābilis",
+        "能够携带的"
+      ],
+      [
+        "法语：portable",
+        "可携带的"
+      ],
+      [
+        "英语：portable",
+        "便携的；可移植的"
+      ],
+      [
+        "英语：portability",
+        "容易携带或迁移的性质"
+      ]
+    ],
+    "explanation": "同一个性质可用于实物和信息。data portability 关注数据能否转到别处；number portability 指电话号码换服务商时能否转移保留。",
+    "usage": "improve portability（提高便携性或可移植性）；software portability（软件可移植性）；data portability（数据可携性）。",
+    "contrast": "portability 说便于迁移；compatibility 说能否与某环境或对象配合。支持多个环境有帮助，但两个词不是同义。",
+    "examples": [
+      [
+        "The smaller battery improves the device’s portability.",
+        "更小的电池提高了设备的便携性。"
+      ],
+      [
+        "The team tested the software’s portability across operating systems.",
+        "团队测试了软件跨操作系统的可移植性。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/portability#English"
+    ]
+  },
+  {
+    "word": "reportage",
+    "ipa": "英 /ˌrepɔːˈtɑːʒ/；美 /rɪˈpɔːrtɪdʒ/",
+    "meaning": "新闻报道；报道作品；纪实报道",
+    "sense": "reportage 常让人想到记者到现场观察，把人物、场景和事实写成有细节的报道。它比普通 report 更有新闻或纪实作品的味道。",
+    "split": "借自法语 reportage，与法语的报道、记者词族相连；更远处仍是 portāre“携带”和 reportāre“带回信息”。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：reportāre",
+        "把信息带回来"
+      ],
+      [
+        "法语：reportage",
+        "新闻采访、报道"
+      ],
+      [
+        "英语：reportage",
+        "新闻或纪实报道"
+      ]
+    ],
+    "explanation": "可以泛指报道工作，也可谈某种报道作品。法语式读音常把重音放在末尾，英语中也有接近 reporting 词族的另一读法。",
+    "usage": "war reportage（战地报道）；literary reportage（文学性纪实报道）；firsthand reportage（现场亲历报道）。",
+    "contrast": "report 是通用的报告；reportage 更常属于新闻和纪实表达，通常不可数。",
+    "examples": [
+      [
+        "The book combines historical research with vivid reportage.",
+        "这本书把历史研究与生动的纪实报道结合起来。"
+      ],
+      [
+        "Her reportage captures the daily life of the town.",
+        "她的报道呈现了小镇的日常生活。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reportage#English"
+    ]
+  },
+  {
+    "word": "purport",
+    "ipa": "动词 英 /pəˈpɔːt/、美 /pərˈpɔːrt/；名词 英 /ˈpɜːpɔːt/、美 /ˈpɝːpɔːrt/",
+    "meaning": "声称；意在；主旨、大意",
+    "sense": "purport 作动词常是“它声称自己是什么”，说话者保留态度。作名词则是文字背后实际传达的大意。",
+    "split": "经古法语 porporter / purporter“传达、包含”进入英语，后半来自 porter“携带”；前半追溯到表示向前的 pro-。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "古法语：porporter / purporter",
+        "带出；传达、包含"
+      ],
+      [
+        "英语：purport",
+        "传达的意思；声称是"
+      ]
+    ],
+    "explanation": "“带出某种意思”可以指文本的主旨，也可以指某个东西所声称的性质。purport to be authentic 表示声称是真品，尚未替它背书。",
+    "usage": "purport to be…（声称是……）；purport to show…（声称显示……）；the purport of a letter（信的大意）。",
+    "contrast": "purport 比 claim 更正式，常带保留或怀疑。名词重音在前，动词在后。",
+    "examples": [
+      [
+        "The document purports to be an original agreement.",
+        "这份文件声称是协议原件。"
+      ],
+      [
+        "I understood the general purport of her message.",
+        "我明白了她那条消息的大意。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/purport#English"
+    ]
+  },
+  {
+    "word": "reportable",
+    "ipa": "英 /rɪˈpɔːtəbəl/；美 /rɪˈpɔːrtəbəl/",
+    "meaning": "应报告的；可报告的",
+    "sense": "reportable 给某件事贴上一个标签：“这件事需要报上去”或“可以作为报告内容”。具体是哪一种，要看规则和语境。",
+    "split": "report + -able，表示可被报告；在制度用语中常进一步表示应当报告。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：reportāre",
+        "带回来；报告"
+      ],
+      [
+        "法语：reporter",
+        "带回；讲述"
+      ],
+      [
+        "英语：report",
+        "报告；报道"
+      ],
+      [
+        "英语：reportable",
+        "可报告或按要求应报告的"
+      ]
+    ],
+    "explanation": "reportable incident 通常指符合某种报告条件的事件。后缀 -able 不总只表达纯粹能力，在特定搭配里也可承载制度要求。",
+    "usage": "a reportable incident（须报告的事件）；reportable data（可报告的数据）；reportable income（按相关规则需申报的收入）。",
+    "contrast": "reportable 是是否需要或能够报告；reported 是已经报告。看到 reportable，不能推断通知已经发出。",
+    "examples": [
+      [
+        "The handbook explains which incidents are reportable.",
+        "手册说明了哪些事件需要报告。"
+      ],
+      [
+        "The study produced no reportable results at that stage.",
+        "研究在那个阶段还没有可报告的结果。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reportable#English"
+    ]
+  },
+  {
+    "word": "portly",
+    "ipa": "英 /ˈpɔːtli/；美 /ˈpɔːrtli/",
+    "meaning": "身材圆胖的；体态丰腴的",
+    "sense": "portly 常描写体形较圆、较胖的人，尤其容易出现在人物外貌描写里。它带一点旧式、较委婉的语气。",
+    "split": "来自旧义 port“仪态、举止”+ -ly；这个 port 由法语 porter“携带”发展而来，与港口无关。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "法语：porter → port",
+        "携带自己 → 仪态、风度"
+      ],
+      [
+        "英语：portly",
+        "原有堂皇、庄重义；后来常指圆胖"
+      ]
+    ],
+    "explanation": "从有派头、体态庄重的描述，发展到体形较丰厚的意思。今天重点通常在外形，不能按词源直接译成“举止优雅”。",
+    "usage": "a portly gentleman（一位身材圆胖的先生）；a portly figure（圆胖的身影）。",
+    "contrast": "portly 谈身材；portable 谈便携。portly 不是某种健康诊断，也不精确说明体重。",
+    "examples": [
+      [
+        "A portly gentleman stood beside the fireplace.",
+        "一位身材圆胖的先生站在壁炉旁。"
+      ],
+      [
+        "The illustrator gave the character a portly figure and a bright coat.",
+        "插画师把这个人物画得身材圆胖，穿着鲜亮外套。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/portly#English",
+      "https://www.etymonline.com/word/portly"
+    ]
+  },
+  {
+    "word": "transportable",
+    "ipa": "英 /trænsˈpɔːtəbəl/；美 /trænsˈpɔːrtəbəl/",
+    "meaning": "可运输的；可迁移的",
+    "sense": "transportable 只说“有办法运走”。一间组合式房屋能被卡车拉走，也可以是 transportable，虽然没人能把它塞进背包。",
+    "split": "transport + -able，表示可以被运输。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：trānsportāre",
+        "运到另一边"
+      ],
+      [
+        "古法语：transporter",
+        "运送"
+      ],
+      [
+        "英语：transport",
+        "运输；运送"
+      ],
+      [
+        "英语：transportable",
+        "可以从一地运到另一地"
+      ]
+    ],
+    "explanation": "比起 portable，它常允许更大的体积和更复杂的运输方式。重点在能移动到另一个地点，不在日常携带是否轻松。",
+    "usage": "a transportable unit（可运输单元）；transportable equipment（可运输设备）；a transportable building（可搬迁建筑）。",
+    "contrast": "portable 通常暗示方便带着用；transportable 可以需要起重机、车辆或拆装。",
+    "examples": [
+      [
+        "The exhibition is packed into transportable units.",
+        "展览被装成可运输的单元。"
+      ],
+      [
+        "The laboratory was designed to be transportable by truck.",
+        "这间实验室被设计成可以用卡车运走。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/transportable#English"
+    ]
+  },
+  {
+    "word": "exportation",
+    "ipa": "英 /ˌekspɔːˈteɪʃən/；美 /ˌekspɔːrˈteɪʃən/",
+    "meaning": "出口；输出过程",
+    "sense": "exportation 把“把东西运出境”作为一项过程来说。它比日常的 export 更正式，常见于制度、历史或行业文字。",
+    "split": "export + -ation，形成动作过程名词。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：exportāre",
+        "向外运出"
+      ],
+      [
+        "英语：export",
+        "出口；导出"
+      ],
+      [
+        "英语：exportation",
+        "运往外部的过程"
+      ]
+    ],
+    "explanation": "重点是运出的行为，通常不指一件具体出口商品。若说一国的出口商品或出口额，常用 exports。",
+    "usage": "the exportation of goods（货物出口）；exportation to overseas markets（出口海外市场）。",
+    "contrast": "exportation 是出口过程；an export 可以是某项出口商品。一般句子里 export 往往更简洁自然。",
+    "examples": [
+      [
+        "The report traces the exportation of wool during that period.",
+        "报告追溯了那个时期羊毛出口的情况。"
+      ],
+      [
+        "The goods were prepared for exportation.",
+        "这些货物已准备好出口。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/exportation#English"
+    ]
+  },
+  {
+    "word": "deportment",
+    "ipa": "英 /dɪˈpɔːtmənt/；美 /dɪˈpɔːrtmənt/",
+    "meaning": "举止；仪态",
+    "sense": "deportment 是一个人怎样站、走、坐、与人相处所呈现的仪态。它像“怎样带着自己的身体和身份出现”。",
+    "split": "来自法语 deportement，与旧动词 deport“表现、举止”相连；这条用法最终也连着 portāre。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "古法语：se deporter",
+        "举止；表现自己"
+      ],
+      [
+        "法语：deportement",
+        "行为、仪态"
+      ],
+      [
+        "英语：deportment",
+        "举止；仪态"
+      ]
+    ],
+    "explanation": "今天多用于较正式或传统的举止教育场景。它没有“驱逐出境”的意思，不能按现代 deport 最常见的义项硬推整个名词。",
+    "usage": "good deportment（良好仪态）；lessons in deportment（仪态课程）；calm deportment（从容的举止）。",
+    "contrast": "deportment 是举止，deportation 是驱逐出境。后缀不同，也保留了同一历史词族中的不同用法。",
+    "examples": [
+      [
+        "The academy once offered lessons in deportment.",
+        "这所学校曾开设仪态课程。"
+      ],
+      [
+        "Her confident deportment made a strong first impression.",
+        "她自信的举止给人留下了深刻的第一印象。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/deportment#English"
+    ]
+  },
+  {
+    "word": "comportment",
+    "ipa": "英 /kəmˈpɔːtmənt/；美 /kəmˈpɔːrtmənt/",
+    "meaning": "举止；行为表现",
+    "sense": "comportment 是一个人“把自己呈现出来”的方式：站姿、谈吐、待人态度合在一起，形成举止给人的感觉。",
+    "split": "来自法语 comportement，与 comporter“表现、举止”相连；再追溯到拉丁语 comportāre“带到一起”，com- + portāre。",
+    "history": [
+      [
+        "拉丁语：portāre",
+        "携带；承载；运送"
+      ],
+      [
+        "拉丁语：comportāre",
+        "带到一起"
+      ],
+      [
+        "法语：comporter → comportement",
+        "表现自己 → 举止"
+      ],
+      [
+        "英语：comportment",
+        "行为举止"
+      ]
+    ],
+    "explanation": "可以用 carry oneself“举止表现”帮助理解这里的“携带自己”，但不要把这个联想当作每一步语义变化都有详细记录的故事。",
+    "usage": "dignified comportment（庄重的举止）；professional comportment（职业场合的得体表现）。",
+    "contrast": "comportment 比 behavior 更正式，较强调外在举止和风度。character 更关心一个人的品格。",
+    "examples": [
+      [
+        "Her calm comportment helped ease the tension.",
+        "她冷静的举止帮助缓和了紧张气氛。"
+      ],
+      [
+        "The course emphasizes professional comportment during interviews.",
+        "课程强调面试时的职业举止。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/comportment#English",
+      "https://www.etymonline.com/word/comportment"
+    ]
+  }
+]

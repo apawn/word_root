@@ -1,0 +1,2554 @@
+[
+  {
+    "word": "order",
+    "ipa": "英 /ˈɔːdə/；美 /ˈɔːrdər/",
+    "meaning": "次序；秩序；命令；订购；目〔分类〕",
+    "sense": "把一堆东西排好，让每样东西各有位置。这个画面能串起排队的次序、做事的规则，也能串起要求别人照办的指令。",
+    "split": "从古法语 ordre 借入，源于拉丁 ōrdō；ōrdinis、ōrdinem 是它的不同屈折形式，不是几个无关词根。英语动词由名词发展。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ]
+    ],
+    "explanation": "in order 是安排妥当；out of order 可以说机器坏了。place an order 是下单：把你想要的东西明确交代给对方。分类里的 order 是“目”，通常位于纲与科之间。",
+    "usage": "put in order；follow an order；order a meal；in order to do something。",
+    "contrast": "order 既可以是安排，也可以是指令；sequence 更专门说先后顺序。点餐的 order 不必理解成对服务员发号施令。",
+    "examples": [
+      [
+        "Please put the pages in the correct order.",
+        "请把这些页按正确顺序放好。"
+      ],
+      [
+        "We ordered two bowls of soup.",
+        "我们点了两碗汤。"
+      ],
+      [
+        "The printer is out of order.",
+        "打印机坏了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/order",
+      "https://dictionary.cambridge.org/dictionary/english/order"
+    ]
+  },
+  {
+    "word": "ordered",
+    "ipa": "英 /ˈɔːdəd/；美 /ˈɔːrdərd/",
+    "meaning": "有序的；安排好的；订购或命令了的",
+    "sense": "散乱的卡片已经按规则排好；ordered 强调排好之后的状态。",
+    "split": "order + -ed；既是过去式、过去分词，也可作形容词。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语：order → ordered",
+        "排列、下令、订购 → 相应的完成状态"
+      ]
+    ],
+    "explanation": "an ordered list 是有顺序的列表；an ordered pair 是位置有区别的数对，(2,3) 与 (3,2) 不一样。句中的 ordered a book 则只是订了一本书。",
+    "usage": "an ordered sequence；an ordered pair；a carefully ordered life。",
+    "contrast": "ordered 强调按规则安排；orderly 还常说行为整齐、不混乱。",
+    "examples": [
+      [
+        "The data forms an ordered sequence.",
+        "这些数据形成一个有序序列。"
+      ],
+      [
+        "She ordered a dictionary from the bookshop.",
+        "她向书店订了一本词典。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ordered#English"
+    ]
+  },
+  {
+    "word": "ordering",
+    "ipa": "英 /ˈɔːdərɪŋ/；美 /ˈɔːrdərɪŋ/",
+    "meaning": "排序；排列方式；订购过程",
+    "sense": "一边把项目按规则排进去，一边决定谁在前、谁在后，这个过程叫 ordering。",
+    "split": "order + -ing；可作分词，也可作表示过程或排列关系的名词。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语：order + -ing → ordering",
+        "进行排列、订购；形成某种顺序"
+      ]
+    ],
+    "explanation": "the ordering of events 说事件的排列；online ordering 则说网上订购。看后面接的是数据、事件，还是商品。",
+    "usage": "alphabetical ordering；the ordering of tasks；online ordering。",
+    "contrast": "order 可以指排好的次序；ordering 往往强调安排的过程或所用规则。",
+    "examples": [
+      [
+        "The ordering of the chapters makes the argument easy to follow.",
+        "章节的安排使论证容易理解。"
+      ],
+      [
+        "Online ordering closes at six this evening.",
+        "今天晚上的网上订购六点结束。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ordering#English"
+    ]
+  },
+  {
+    "word": "unordered",
+    "ipa": "英 /ʌnˈɔːdəd/；美 /ʌnˈɔːrdərd/",
+    "meaning": "无序的；未按顺序排列的",
+    "sense": "一袋彩球只看里面有哪些球，不在意谁先谁后；unordered 突出没有指定顺序。",
+    "split": "un- 不、未 + ordered。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语：ordered → unordered",
+        "有序的 → 未规定或不考虑次序的"
+      ]
+    ],
+    "explanation": "an unordered list 可以是没有编号先后的项目列表。数学里的集合通常不靠元素顺序区分：列成{a,b}或{b,a}指同一集合。",
+    "usage": "an unordered collection；an unordered list；unordered elements。",
+    "contrast": "unordered 不一定杂乱；disorderly 更容易带违反秩序或混乱的意思。",
+    "examples": [
+      [
+        "The tags are stored as an unordered collection.",
+        "这些标签按不区分顺序的集合保存。"
+      ],
+      [
+        "Use an unordered list when the steps have no required sequence.",
+        "各项没有规定先后时，可以使用无序列表。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/unordered#English"
+    ]
+  },
+  {
+    "word": "orderly",
+    "ipa": "英 /ˈɔːdəli/；美 /ˈɔːrdərli/",
+    "meaning": "有条理的；井然有序的；勤务员、护理辅助员",
+    "sense": "人群慢慢排队前进，没有推挤；房间里东西都有自己的位置。这种整齐、有规矩的状态是 orderly。",
+    "split": "order + -ly；这里 -ly 可以构成形容词，不是看到 -ly 就一定是副词。名词的勤务人员义联系按命令当值、服务。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语：order + -ly → orderly",
+        "合乎秩序的；按指派当值的人员"
+      ]
+    ],
+    "explanation": "an orderly evacuation 是有序疏散。a hospital orderly 是医院辅助工作人员，职责随机构不同，不等于受过同样专业训练的 nurse。",
+    "usage": "an orderly queue；an orderly room；a hospital orderly。",
+    "contrast": "orderly 常作形容词；表达“有序地”，日常可说 in an orderly way。",
+    "examples": [
+      [
+        "The crowd left the building in an orderly way.",
+        "人群有序地离开了大楼。"
+      ],
+      [
+        "An orderly helped move the empty bed.",
+        "一位医院辅助工作人员帮忙移动了空床。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/orderly",
+      "https://dictionary.cambridge.org/dictionary/english/orderly"
+    ]
+  },
+  {
+    "word": "orderliness",
+    "ipa": "英 /ˈɔːdəlinəs/；美 /ˈɔːrdərlinəs/",
+    "meaning": "条理性；整齐有序",
+    "sense": "走进一个工作间，工具都放在伸手就能找到的位置。你感受到的是它的 orderliness。",
+    "split": "orderly + -ness，y 变 i，表示有条理这种性质。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语：orderly → orderliness",
+        "有条理的 → 条理性"
+      ]
+    ],
+    "explanation": "既可描述空间整理，也可描述思路、生活安排。重点在有安排，不只是表面没有灰尘。",
+    "usage": "a sense of orderliness；the orderliness of a room。",
+    "contrast": "cleanliness 是清洁；orderliness 是有条理。地面干净而文件乱放，两者就不一致。",
+    "examples": [
+      [
+        "The orderliness of the workshop made every tool easy to find.",
+        "工作间收拾得井井有条，每件工具都容易找到。"
+      ],
+      [
+        "She appreciated the orderliness of his notes.",
+        "她很欣赏他笔记的条理性。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/orderliness",
+      "https://en.wiktionary.org/wiki/orderliness#English"
+    ]
+  },
+  {
+    "word": "disorder",
+    "ipa": "英 /dɪsˈɔːdə/；美 /dɪsˈɔːrdər/",
+    "meaning": "混乱；失调；扰乱",
+    "sense": "该有的排列或运行规律被打乱：书散了一桌是混乱，某种功能运行失常则可叫 disorder。",
+    "split": "名词来自法语 desordre，des- 否定、反转 + ordre 秩序；英语动词也可按 dis- + order 分析。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → desordre",
+        "秩序 → 无序、紊乱"
+      ],
+      [
+        "英语：disorder；动词也联系 dis- + order",
+        "混乱；功能失调；使混乱"
+      ]
+    ],
+    "explanation": "in disorder 是乱七八糟。医学中的 disorder 是某类功能或状态异常的名称；这个词的历史画面只帮助记意思，不是在说患者行为没规矩。",
+    "usage": "leave in disorder；public disorder；a sleep disorder。",
+    "contrast": "disorder 的失调义与 disorderly 的行为混乱义不能随便互换；disordered 也可用于排列紊乱。",
+    "examples": [
+      [
+        "The files were left in complete disorder.",
+        "文件被弄得一团乱。"
+      ],
+      [
+        "The lecture discussed several types of sleep disorder.",
+        "讲座讨论了几种睡眠障碍。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/disorder",
+      "https://dictionary.cambridge.org/dictionary/english/disorder"
+    ]
+  },
+  {
+    "word": "disorderly",
+    "ipa": "英 /dɪsˈɔːdəli/；美 /dɪsˈɔːrdərli/",
+    "meaning": "混乱的；扰乱秩序的",
+    "sense": "原本排成一列的人突然挤作一团；disorderly 的画面是秩序没有维持住。",
+    "split": "disorder + -ly，或从 dis- + orderly 看否定关系；常见用法是形容词。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "法语 desordre → 英语 disorder",
+        "没有秩序；混乱"
+      ],
+      [
+        "英语：disorder + -ly → disorderly",
+        "混乱、无规矩的"
+      ]
+    ],
+    "explanation": "a disorderly room 是凌乱的房间；disorderly conduct 常指扰乱公共秩序的行为。学习后者作为固定搭配即可，具体法律范围因地方而异。",
+    "usage": "disorderly conduct；a disorderly crowd；a disorderly room。",
+    "contrast": "disorganized 常说缺少组织安排；disorderly 还可能突出吵闹、不守秩序。",
+    "examples": [
+      [
+        "The once tidy desk had become disorderly.",
+        "原来整洁的书桌变得凌乱了。"
+      ],
+      [
+        "The teacher calmed the disorderly group before the lesson.",
+        "上课前，老师让那群吵闹的学生安静下来。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disorderly#English"
+    ]
+  },
+  {
+    "word": "ordinary",
+    "ipa": "英 /ˈɔːdɪnəri/；美 /ˈɔːrdəneri/",
+    "meaning": "普通的；通常的；常规的",
+    "sense": "一天照着熟悉的节奏过：没有特别事件，也没有超出常规的地方。这就是 ordinary。",
+    "split": "来自拉丁 ōrdinārius“按通常安排的”，经法语及拉丁语借入。不是英语 order 随手换一个后缀才首次出现。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语 ōrdinārius → 古法语 ordinarie",
+        "依照通常次序的；常规的"
+      ],
+      [
+        "英语：ordinary",
+        "通常的、普通的；另有职务及纹章专义"
+      ]
+    ],
+    "explanation": "an ordinary day 是平常的一天；ordinary people 是普通人，并不自动贬低人。out of the ordinary 则表示不同寻常。宗教、纹章中的 ordinary 还有专门名词义。",
+    "usage": "ordinary life；ordinary people；nothing out of the ordinary。",
+    "contrast": "ordinary 是常见、平常；mediocre 评价质量平庸。普通的一顿饭也可以很好吃。",
+    "examples": [
+      [
+        "It seemed like an ordinary Tuesday.",
+        "那看起来只是一个普通的星期二。"
+      ],
+      [
+        "The display turns ordinary objects into works of art.",
+        "这个展览把普通物品变成了艺术作品。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ordinary",
+      "https://dictionary.cambridge.org/dictionary/english/ordinary"
+    ]
+  },
+  {
+    "word": "ordinarily",
+    "ipa": "英 /ˌɔːdənˈerɪli/；美 /ˈɔːrdənerəli/",
+    "meaning": "通常；在正常情况下",
+    "sense": "如果没有临时状况，事情一般就是这样发生。ordinarily 给的是平常那套情况。",
+    "split": "ordinary + -ly；英式常把主重音放到后面的 -nar-，美式也常保留前面的主重音。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语 ōrdinārius → 古法语 ordinarie",
+        "依照通常次序的；常规的"
+      ],
+      [
+        "英语：ordinary",
+        "通常的、普通的；另有职务及纹章专义"
+      ],
+      [
+        "英语：ordinary → ordinarily",
+        "通常的 → 通常情况下"
+      ]
+    ],
+    "explanation": "ordinarily 相当于 usually 或 under normal circumstances，书面语稍常见；常暗示这次可能是例外。",
+    "usage": "ordinarily available；ordinarily expect；would ordinarily do。",
+    "contrast": "ordinarily 通常修饰整件事的常态；plainly、simply 不是它的通用替换。",
+    "examples": [
+      [
+        "The library is ordinarily open on Sundays.",
+        "这家图书馆通常周日开放。"
+      ],
+      [
+        "I would ordinarily walk, but today I took the bus.",
+        "平时我会步行，不过今天坐了公交车。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/pronunciation/english/ordinarily",
+      "https://en.wiktionary.org/wiki/ordinarily#English"
+    ]
+  },
+  {
+    "word": "ordinariness",
+    "ipa": "英 /ˈɔːdnrinəs/；美 /ˈɔːrdnerinəs/",
+    "meaning": "平常；普通的特质",
+    "sense": "照片拍的只是厨房里一杯茶，但正是这份日常、平凡，让人觉得亲近。",
+    "split": "ordinary + -ness，y 变 i。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语 ōrdinārius → 古法语 ordinarie",
+        "依照通常次序的；常规的"
+      ],
+      [
+        "英语：ordinary",
+        "通常的、普通的；另有职务及纹章专义"
+      ],
+      [
+        "英语：ordinary → ordinariness",
+        "普通的 → 这份普通、平常"
+      ]
+    ],
+    "explanation": "不一定含贬义，可以欣赏生活的平常，也可以批评某个作品缺乏特色。",
+    "usage": "the ordinariness of daily life；an air of ordinariness。",
+    "contrast": "ordinariness 是不特别；boredom 是无聊的感受。平常事未必让人无聊。",
+    "examples": [
+      [
+        "The photograph captures the ordinariness of family life.",
+        "这张照片捕捉了家庭生活的平常面貌。"
+      ],
+      [
+        "The character’s ordinariness makes her easy to relate to.",
+        "这个角色的平凡让人容易产生共鸣。"
+      ]
+    ],
+    "sources": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/ordinariness",
+      "https://en.wiktionary.org/wiki/ordinariness#English"
+    ]
+  },
+  {
+    "word": "extraordinary",
+    "ipa": "英 /ɪkˈstrɔːdənəri/；美 /ɪkˈstrɔːrdəneri/",
+    "meaning": "非凡的；不寻常的；特别召开的",
+    "sense": "平常那条线之外，突然出现一个格外突出的点。它可能让人惊喜，也可能只是很反常。",
+    "split": "来自拉丁 extrāōrdinārius，extrā ōrdinem 即“通常次序之外”；不能只记成 extra“额外”加 ordinary“普通”而误译为特别普通。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：extrā ōrdinem → extrāōrdinārius",
+        "在通常次序之外 → 不寻常的"
+      ],
+      [
+        "英语：extraordinary",
+        "非凡的；非例行的"
+      ]
+    ],
+    "explanation": "an extraordinary achievement 是非凡成就；extraordinary circumstances 是异常情况；an extraordinary meeting 是常规会议之外特别召开的会议。",
+    "usage": "extraordinary talent；an extraordinary event；an extraordinary meeting。",
+    "contrast": "extraordinary 常超出寻常，但不保证一定正面；unusual 更平实地说少见。",
+    "examples": [
+      [
+        "Her memory for detail is extraordinary.",
+        "她记忆细节的能力非同寻常。"
+      ],
+      [
+        "The committee called an extraordinary meeting.",
+        "委员会召集了一次特别会议。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/extraordinary",
+      "https://dictionary.cambridge.org/dictionary/english/extraordinary"
+    ]
+  },
+  {
+    "word": "extraordinarily",
+    "ipa": "英 /ɪkˈstrɔːdɪnərəli/；美 /ɪkˈstrɔːrdənerəli/",
+    "meaning": "异乎寻常地；极其",
+    "sense": "把一个性质往平常范围之外推：不是普通地安静，而是安静得出奇。",
+    "split": "extraordinary + -ly，y 变 i；随形容词保留主要重音。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：extrā ōrdinem → extrāōrdinārius",
+        "在通常次序之外 → 不寻常的"
+      ],
+      [
+        "英语：extraordinary",
+        "非凡的；非例行的"
+      ],
+      [
+        "英语：extraordinary → extraordinarily",
+        "非凡的 → 异常地、极其"
+      ]
+    ],
+    "explanation": "常修饰形容词，如 extraordinarily patient、extraordinarily difficult，语气比 very 更强。",
+    "usage": "extraordinarily well；extraordinarily generous；extraordinarily quiet。",
+    "contrast": "extraordinarily 描述程度超常；ordinarily 表示通常情况下，两者不只是程度稍有差别。",
+    "examples": [
+      [
+        "She was extraordinarily patient with the beginners.",
+        "她对初学者格外耐心。"
+      ],
+      [
+        "The room was extraordinarily quiet after everyone left.",
+        "大家离开后，房间安静得出奇。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/extraordinarily",
+      "https://en.wiktionary.org/wiki/extraordinarily#English"
+    ]
+  },
+  {
+    "word": "extraordinaire",
+    "ipa": "英 /ɪkˌstrɔːdɪˈneə/；美 /ɪkˌstrɔːrdɪˈner/",
+    "meaning": "杰出的；非凡的〔常后置〕",
+    "sense": "说完一个人的身份，再补上一句带点夸赞味的“高手”：a cook extraordinaire，就是一位出色的大厨。",
+    "split": "直接借用法语 extraordinaire，与 extraordinary 远源相同，但借入路线与形式不同。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语 extrāōrdinārius → 法语 extraordinaire",
+        "超出寻常的"
+      ],
+      [
+        "英语：extraordinaire",
+        "用法语借词赞某方面格外出色"
+      ]
+    ],
+    "explanation": "常放在名词后面，带修辞或风趣色彩；不是日常替换所有 extraordinary 的词。",
+    "usage": "a storyteller extraordinaire；a musician extraordinaire。",
+    "contrast": "an extraordinary cook 把形容词放前面；a cook extraordinaire 则保留这种借词的后置习惯。",
+    "examples": [
+      [
+        "Our host was a storyteller extraordinaire.",
+        "主人是一位特别会讲故事的人。"
+      ],
+      [
+        "She introduced him as a gardener extraordinaire.",
+        "她介绍他是一位园艺高手。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/extraordinaire",
+      "https://en.wiktionary.org/wiki/extraordinaire#English"
+    ]
+  },
+  {
+    "word": "ornery",
+    "ipa": "美 /ˈɔːrnəri/，也读 /ˈɔːrnri/",
+    "meaning": "脾气倔的；难伺候的〔美式口语〕",
+    "sense": "你请他稍微挪一下椅子，他偏要顶一句。ornery 是那种有点倔、有点爱跟人拧着来的劲头。",
+    "split": "ordinary 在美国方言中的缩短形式。词义从普通、粗劣、不讨喜，逐渐走到难相处、倔强；不能按今天 ordinary 的中性义直接翻译。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语 ōrdinārius → 古法语 ordinarie",
+        "依照通常次序的；常规的"
+      ],
+      [
+        "英语：ordinary",
+        "通常的、普通的；另有职务及纹章专义"
+      ],
+      [
+        "美国方言：ordinary → ornary / ornery",
+        "普通、粗劣 → 不讨喜、难相处"
+      ]
+    ],
+    "explanation": "可带真心嫌弃，也可亲昵地说某人或动物脾气倔。语气和关系会影响轻重。",
+    "usage": "an ornery old man；an ornery mule；feel ornery。",
+    "contrast": "stubborn 强调不改主意；ornery 还常带爱闹别扭、难打交道的感觉。",
+    "examples": [
+      [
+        "The old mule was too ornery to move.",
+        "那头老骡子倔得不肯挪步。"
+      ],
+      [
+        "He gets a little ornery when he is tired.",
+        "他累了就会有点爱闹别扭。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ornery",
+      "https://dictionary.cambridge.org/dictionary/english/ornery"
+    ]
+  },
+  {
+    "word": "coordinate",
+    "ipa": "动词：英 /kəʊˈɔːdɪneɪt/，美 /koʊˈɔːrdəneɪt/；名词、形容词末尾读 /nət/",
+    "meaning": "协调；坐标；同级的、相互配合的",
+    "sense": "几个人不能各按自己的钟表做事，把时间和分工对齐，才能一起完成任务。坐标则是几项数值配合，把位置说清。",
+    "split": "联系中世纪拉丁 coōrdināre / coōrdinātus，co- 共同 + ōrdināre 安排。形容词和动词有借入历史，坐标名词后来由形容词发展。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "中世纪拉丁语：coōrdināre → coōrdinātus",
+        "共同安排 → 处于同一等级的"
+      ],
+      [
+        "英语：coordinate",
+        "同级的；协调；由形容词发展出坐标名词"
+      ]
+    ],
+    "explanation": "coordinate a project 是协调项目；coordinates 如(3,5)用共同的参考框架定位。coordinate clauses 在语法里指地位并列的分句，不是主从关系。",
+    "usage": "coordinate with；coordinate activities；map coordinates。",
+    "contrast": "coordinate 动词词尾读 /eɪt/；坐标名词通常读弱化的 /ət/。不要把 coordinate 与 subordinate 的并列、从属关系混淆。",
+    "examples": [
+      [
+        "We need to coordinate the deliveries with the kitchen team.",
+        "我们需要和厨房团队协调送货安排。"
+      ],
+      [
+        "Enter the coordinates to locate the point on the map.",
+        "输入坐标，在地图上确定这个点的位置。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/coordinate",
+      "https://dictionary.cambridge.org/dictionary/english/coordinate"
+    ]
+  },
+  {
+    "word": "coordination",
+    "ipa": "英 /kəʊˌɔːdɪˈneɪʃən/；美 /koʊˌɔːrdəˈneɪʃən/",
+    "meaning": "协调；配合；协调能力",
+    "sense": "手在接球，眼睛在追球，身体在移动，几个部分正好配合上，这就是 coordination。",
+    "split": "法语 coordination 或中世纪拉丁 coōrdinātiō 的借入；英语名词记录早于 coordinate，不能只画成英语动词加 -ion。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语 ōrdinātiō → coōrdinātiō",
+        "安排 → 共同安排"
+      ],
+      [
+        "法语 coordination 或直接拉丁语 → 英语 coordination",
+        "有秩序地组合；配合、协调"
+      ]
+    ],
+    "explanation": "可讲团队安排，也可讲身体动作的配合。hand-eye coordination 是手眼协调；in coordination with 表示与某方配合。",
+    "usage": "close coordination；improve coordination；coordination between teams。",
+    "contrast": "cooperation 强调愿意合作；coordination 强调分工、时机和动作能对得上。愿意帮忙也可能配合失序。",
+    "examples": [
+      [
+        "The event required close coordination between three teams.",
+        "这场活动需要三个团队密切协调。"
+      ],
+      [
+        "Catching a ball improves hand-eye coordination.",
+        "接球可以提高眼手协调能力。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/coordination",
+      "https://dictionary.cambridge.org/dictionary/english/coordination"
+    ]
+  },
+  {
+    "word": "coordinator",
+    "ipa": "英 /kəʊˈɔːdɪneɪtə/；美 /koʊˈɔːrdəneɪtər/",
+    "meaning": "协调员；统筹者",
+    "sense": "大家各忙各的时，有个人负责把时间、信息和任务接在一起，这个人就是 coordinator。",
+    "split": "coordinate + -or，表示承担协调职责的人。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "中世纪拉丁语：coōrdināre → coōrdinātus",
+        "共同安排 → 处于同一等级的"
+      ],
+      [
+        "英语：coordinate",
+        "同级的；协调；由形容词发展出坐标名词"
+      ],
+      [
+        "英语：coordinate + -or → coordinator",
+        "协调 → 负责协调的人"
+      ]
+    ],
+    "explanation": "event coordinator、project coordinator 很常见。职位重点是统筹安排，不一定是团队里职位最高的人。",
+    "usage": "a project coordinator；a volunteer coordinator；the course coordinator。",
+    "contrast": "manager 常包括管理责任；coordinator 突出协调，但实际职位权限要看机构。",
+    "examples": [
+      [
+        "The coordinator sent everyone the updated schedule.",
+        "协调员给大家发了更新后的日程。"
+      ],
+      [
+        "Ask the volunteer coordinator where help is needed.",
+        "问问志愿者协调员哪里需要帮忙。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/coordinator",
+      "https://www.etymonline.com/word/coordinator"
+    ]
+  },
+  {
+    "word": "coordinated",
+    "ipa": "英 /kəʊˈɔːdɪneɪtɪd/；美 /koʊˈɔːrdəneɪtɪd/",
+    "meaning": "协调一致的；动作协调的；搭配好的",
+    "sense": "几个动作合起来像一个动作那么顺：不是碰巧同时发生，而是已经配合妥当。",
+    "split": "coordinate + -ed；动词以 /t/ 结尾，所以 -ed 读 /ɪd/。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "中世纪拉丁语：coōrdināre → coōrdinātus",
+        "共同安排 → 处于同一等级的"
+      ],
+      [
+        "英语：coordinate",
+        "同级的；协调；由形容词发展出坐标名词"
+      ],
+      [
+        "英语：coordinate → coordinated",
+        "协调 → 已配合好的"
+      ]
+    ],
+    "explanation": "a coordinated effort 是协调一致的努力；coordinated movements 是协调的动作；穿搭里还可说颜色和款式配套。",
+    "usage": "a coordinated approach；coordinated movements；a coordinated outfit。",
+    "contrast": "simultaneous 只是同时；coordinated 还包含配合关系。",
+    "examples": [
+      [
+        "A coordinated effort helped the team finish on time.",
+        "大家协调配合，使团队按时完成了任务。"
+      ],
+      [
+        "Her movements became more coordinated with practice.",
+        "经过练习，她的动作变得更加协调。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/coordinated#English"
+    ]
+  },
+  {
+    "word": "uncoordinated",
+    "ipa": "英 /ˌʌnkəʊˈɔːdɪneɪtɪd/；美 /ˌʌnkoʊˈɔːrdəneɪtɪd/",
+    "meaning": "不协调的；缺少统筹的",
+    "sense": "两个人一起抬桌子，一个先走、一个还没准备好，动作就显得 uncoordinated。",
+    "split": "un- 不 + coordinated。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "中世纪拉丁语：coōrdināre → coōrdinātus",
+        "共同安排 → 处于同一等级的"
+      ],
+      [
+        "英语：coordinate",
+        "同级的；协调；由形容词发展出坐标名词"
+      ],
+      [
+        "英语：coordinated → uncoordinated",
+        "配合好的 → 缺少协调的"
+      ]
+    ],
+    "explanation": "既可形容人的动作笨拙，也可形容各团队各做各的。它不一定暗示谁不愿合作。",
+    "usage": "uncoordinated movements；an uncoordinated response。",
+    "contrast": "uncooperative 是不愿配合；uncoordinated 是实际没有协调好，原因可能是缺信息或缺练习。",
+    "examples": [
+      [
+        "Our first attempt was slow and uncoordinated.",
+        "我们第一次尝试又慢又不协调。"
+      ],
+      [
+        "Uncoordinated deliveries left some rooms empty and others crowded.",
+        "送货缺少统筹，结果有些房间空着，有些却堆满了。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/uncoordinated",
+      "https://dictionary.cambridge.org/dictionary/english/uncoordinated"
+    ]
+  },
+  {
+    "word": "incoordinate",
+    "ipa": "英 /ˌɪnkəʊˈɔːdɪnɪt/；美 /ˌɪnkoʊˈɔːrdənɪt/",
+    "meaning": "不协调的；不属同一等级的〔较少用〕",
+    "sense": "本应配合的部分没有接上节奏；或者两个位置本来就不在同一个等级。",
+    "split": "in- 不 + coordinate，形成否定形容词；这里不是 in“在里面”。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "中世纪拉丁语：coōrdināre → coōrdinātus",
+        "共同安排 → 处于同一等级的"
+      ],
+      [
+        "英语：coordinate",
+        "同级的；协调；由形容词发展出坐标名词"
+      ],
+      [
+        "英语：in- + coordinate → incoordinate",
+        "非同级的；缺少协调的"
+      ]
+    ],
+    "explanation": "较旧或专业文字里会见到 incoordinate movements。普通表达“动作不协调”，uncoordinated 更常用；不等于地图上没有坐标。",
+    "usage": "incoordinate movements；incoordinate actions。",
+    "contrast": "incoordinate 与 uncoordinated 有意思重叠；前者还可说等级不相同。",
+    "examples": [
+      [
+        "The report described the movements as incoordinate.",
+        "报告把这些动作描述为不协调。"
+      ],
+      [
+        "The two offices were incoordinate rather than equal in rank.",
+        "这两个职位等级不同，并不平级。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/incoordinate",
+      "https://en.wiktionary.org/wiki/incoordinate#English"
+    ]
+  },
+  {
+    "word": "incoordination",
+    "ipa": "英 /ˌɪnkəʊˌɔːdɪˈneɪʃən/；美 /ˌɪnkoʊˌɔːrdəˈneɪʃən/",
+    "meaning": "不协调；协调障碍",
+    "sense": "手眼各在做事，却没有准确配合，动作会显得错拍、笨拙。incoordination 把这种失配说成一种状态。",
+    "split": "in- 不 + coordination；英语构词，继承 coordination 的名词链。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语 ōrdinātiō → coōrdinātiō",
+        "安排 → 共同安排"
+      ],
+      [
+        "法语 coordination 或直接拉丁语 → 英语 coordination",
+        "有秩序地组合；配合、协调"
+      ],
+      [
+        "英语：in- + coordination → incoordination",
+        "协调 → 缺少协调"
+      ]
+    ],
+    "explanation": "常用于身体动作的描述，也能泛指组织配合不当。它描述表现，并不单独指出造成表现的原因。",
+    "usage": "muscular incoordination；a lack of planning and incoordination。",
+    "contrast": "coordination 是配合；incoordination 是缺少这种配合，不能误读为“内部协调”。",
+    "examples": [
+      [
+        "The clinician noted incoordination during the movement test.",
+        "临床人员在动作测试中记录到协调不良。"
+      ],
+      [
+        "Incoordination between the teams delayed the opening.",
+        "团队之间配合不当，延迟了开场。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/incoordination",
+      "https://www.collinsdictionary.com/dictionary/english/incoordination"
+    ]
+  },
+  {
+    "word": "subordinate",
+    "ipa": "形容词、名词：英 /səˈbɔːdɪnət/，美 /səˈbɔːrdənət/；动词末尾读 /neɪt/",
+    "meaning": "从属的；下属；使居于次要位置",
+    "sense": "把一张卡片放在另一张卡片下面：它归上面那层管，或者重要性排在后面。",
+    "split": "来自中世纪拉丁 subōrdinātus，sub- 下 + ōrdināre 安排。英语形容词、动词联系拉丁分词，名词“下属”由形容词转用。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "中世纪拉丁语：subōrdināre → subōrdinātus",
+        "放在较低等级；使依从"
+      ],
+      [
+        "英语：subordinate",
+        "从属的、下级；使居于次要地位"
+      ]
+    ],
+    "explanation": "be subordinate to 指从属于；subordinate speed to safety 表示把速度放在安全之后。语法里 subordinate clause 依附主句，不是并列同级。",
+    "usage": "a subordinate role；subordinate to；subordinate one aim to another。",
+    "contrast": "inferior 可直接评价质量较差；subordinate 往往只说地位或作用次要，不代表人或东西较差。",
+    "examples": [
+      [
+        "The local office is subordinate to the regional headquarters.",
+        "地方办公室隶属于区域总部。"
+      ],
+      [
+        "We should subordinate speed to accuracy in this task.",
+        "做这项任务时，我们应把准确性放在速度之前。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/subordinate",
+      "https://dictionary.cambridge.org/dictionary/english/subordinate"
+    ]
+  },
+  {
+    "word": "subordination",
+    "ipa": "英 /səˌbɔːdɪˈneɪʃən/；美 /səˌbɔːrdəˈneɪʃən/",
+    "meaning": "从属；置于次要地位；主从关系",
+    "sense": "一件事必须服从另一件事的安排。subordination 说的就是这条上下关系，而不只是下面那个人。",
+    "split": "经法语 subordination 或直接来自中世纪拉丁 subōrdinātiō；有独立的名词借入路线。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "中世纪拉丁 subōrdināre → subōrdinātiō",
+        "安排在下级 → 从属关系"
+      ],
+      [
+        "法语 subordination → 英语 subordination",
+        "从属、服从；语法中的主从连接"
+      ]
+    ],
+    "explanation": "the subordination of A to B 表示把A置于B之下。语法里的从句主从关系，也用同一个层级画面理解。",
+    "usage": "subordination to authority；the subordination of one aim to another。",
+    "contrast": "coordination 是并列配合；subordination 是有主有从。",
+    "examples": [
+      [
+        "The essay examines the subordination of personal wishes to duty.",
+        "这篇文章探讨个人愿望服从职责的关系。"
+      ],
+      [
+        "The lesson contrasts coordination with subordination in sentences.",
+        "这节课比较句子中的并列关系与主从关系。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/subordination",
+      "https://en.wiktionary.org/wiki/subordination#English"
+    ]
+  },
+  {
+    "word": "insubordinate",
+    "ipa": "英 /ˌɪnsəˈbɔːdɪnət/；美 /ˌɪnsəˈbɔːrdənət/",
+    "meaning": "不服从上级的；违抗指令的",
+    "sense": "已经有一条上下级指令关系，下面的人却拒绝照办。insubordinate 重点就在这个违抗关系。",
+    "split": "in- 不 + subordinate；英语构词受法语 insubordonné 相关形式影响，不是把 in 解成“进入下级”。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "中世纪拉丁语：subōrdināre → subōrdinātus",
+        "放在较低等级；使依从"
+      ],
+      [
+        "英语：subordinate",
+        "从属的、下级；使居于次要地位"
+      ],
+      [
+        "英语 in- + subordinate；参照法语 insubordonné",
+        "从属 → 不服从上级安排的"
+      ]
+    ],
+    "explanation": "常见于机构、军队等有明确权威的语境。它比 independent“独立”更强烈，表达说话者认为对方违抗了应服从的指令。",
+    "usage": "insubordinate behaviour；an insubordinate response。",
+    "contrast": "disagreeing 是意见不同；insubordinate 侧重在权威关系中不听从，不应把所有提不同意见都这样称呼。",
+    "examples": [
+      [
+        "The supervisor described his refusal as insubordinate.",
+        "主管把他的拒绝描述为违抗指令。"
+      ],
+      [
+        "The novel portrays an insubordinate soldier who questions every command.",
+        "小说描写了一名违抗上级、质疑每道命令的士兵。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/insubordinate",
+      "https://dictionary.cambridge.org/dictionary/english/insubordinate"
+    ]
+  },
+  {
+    "word": "insubordination",
+    "ipa": "英 /ˌɪnsəˌbɔːdɪˈneɪʃən/；美 /ˌɪnsəˌbɔːrdəˈneɪʃən/",
+    "meaning": "不服从；违抗上级",
+    "sense": "不是给一个人贴标签，而是把拒不听从的行为或状态拿出来说。",
+    "split": "in- + subordination；也受法语同形名词 insubordination 影响。不能只因为有形容词，就把它写成 insubordinate 后来才换词尾。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "中世纪拉丁 subōrdinātiō → 法语及英语 subordination",
+        "从属、服从"
+      ],
+      [
+        "法语 insubordination；英语 in- + subordination",
+        "不服从、违抗权威"
+      ]
+    ],
+    "explanation": "常见于对行为的指控或描述，如 accuse someone of insubordination。这个词告诉你指控的类型，不自动证明被描述的人确实有错。",
+    "usage": "an act of insubordination；accused of insubordination。",
+    "contrast": "insubordination 是名词；insubordinate 是形容词。rebellion 可以规模更大，涉及公开反抗。",
+    "examples": [
+      [
+        "The manager treated the refusal as an act of insubordination.",
+        "经理把这次拒绝视为违抗上级的行为。"
+      ],
+      [
+        "The story explores whether his actions were courage or insubordination.",
+        "故事探讨他的行为究竟是勇气，还是违抗权威。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/insubordination",
+      "https://en.wiktionary.org/wiki/insubordination#English"
+    ]
+  },
+  {
+    "word": "superordinate",
+    "ipa": "英 /ˌsuːpərˈɔːdɪnət/；美 /ˌsuːpərˈɔːrdənət/〔名词、形容词〕",
+    "meaning": "上位的；上级的；上位词",
+    "sense": "水果这个大框里放着苹果、梨和桃。相对这些小类，fruit 是上位概念。",
+    "split": "super- 在上 + ordinate，仿 subordinate 的层级构词；早期用在逻辑关系中。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "英语：仿 subordinate，以 super- 表示在上",
+        "从低一层到高一层的对照构词"
+      ],
+      [
+        "英语：superordinate",
+        "上级的；涵盖下位类别的词或概念"
+      ]
+    ],
+    "explanation": "语言学里 vehicle 可作 car、bus 等词的 superordinate。组织语境则表示更高一级；重点是范围或层级，不是更优秀。",
+    "usage": "a superordinate category；a superordinate term；a superordinate goal。",
+    "contrast": "superior 也可评价优越；superordinate 多说结构中的上一级或更宽范畴。",
+    "examples": [
+      [
+        "Animal is a superordinate term for dog and cat.",
+        "animal 是 dog 和 cat 的上位词。"
+      ],
+      [
+        "The smaller teams worked toward a superordinate goal.",
+        "几个小团队共同朝一个统领它们的更高层目标努力。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/superordinate",
+      "https://dictionary.cambridge.org/dictionary/english/superordinate"
+    ]
+  },
+  {
+    "word": "superordination",
+    "ipa": "参考读法 /ˌsuːpərˌɔːdɪˈneɪʃən/〔据 super- 与 ordination〕",
+    "meaning": "上位关系；居于支配地位；另行授职〔旧专义〕",
+    "sense": "把“小类”装进“大类”的框里，向上看的这条关系就是理解上位关系的直观入口。",
+    "split": "有两条相关路线：层级义由 super- 配 -ordination；旧教会义联系后期拉丁 superordinatio，指在职位仍有人占据时另行授职。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "并行路线：后期拉丁 superordinatio；英语 super- + -ordination",
+        "另外授职；建立上级或上位关系"
+      ],
+      [
+        "英语：superordination",
+        "上位、支配关系；旧教会任职专义"
+      ]
+    ],
+    "explanation": "不要把所有出现都解释为上位词：旧教会史可能谈任职安排，逻辑或语言学可能谈概念关系。读到专门文本先辨领域。",
+    "usage": "superordination and subordination；a relation of superordination。",
+    "contrast": "subordination 向下建立从属；superordination 从上级或大类这一端描述关系。",
+    "examples": [
+      [
+        "The diagram shows superordination from the general category to its smaller classes.",
+        "图示从一般类别到较小类别的上位关系。"
+      ],
+      [
+        "The historian used superordination for an additional appointment to an occupied office.",
+        "这位历史学家用 superordination 指向一个已有任职者的职位另行授职。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/superordination",
+      "https://en.wiktionary.org/wiki/superordination#English"
+    ]
+  },
+  {
+    "word": "inordinate",
+    "ipa": "英 /ɪnˈɔːdɪnət/；美 /ɪnˈɔːrdənət/",
+    "meaning": "过度的；超出合理限度的",
+    "sense": "本来有一个合适的量，结果远远越过了界线。现在最常用的 inordinate，就是多得不合常理。",
+    "split": "来自拉丁 inōrdinātus，in- 不 + ōrdinātus 有安排的。先有不合秩序、无节制的意思，再常用于过量。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁语：in- + ōrdinātus → inōrdinātus",
+        "不合秩序、无节制"
+      ],
+      [
+        "中古英语 inordinat → 英语 inordinate",
+        "不合合理尺度 → 过多、过度的"
+      ]
+    ],
+    "explanation": "常放在 amount、time、attention 等前面，语气比 large 更有评价。an inordinate amount of time 是花得实在太久。",
+    "usage": "an inordinate amount；inordinate attention；inordinate pride。",
+    "contrast": "extraordinary 只是超常，不一定过量；inordinate 通常认为超过了合适限度。",
+    "examples": [
+      [
+        "We spent an inordinate amount of time choosing a font.",
+        "我们在挑字体上花了过多时间。"
+      ],
+      [
+        "The tiny mistake received inordinate attention.",
+        "那个小失误受到了过度关注。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/inordinate",
+      "https://dictionary.cambridge.org/dictionary/english/inordinate"
+    ]
+  },
+  {
+    "word": "inordinately",
+    "ipa": "英 /ɪnˈɔːdɪnətli/；美 /ɪnˈɔːrdənətli/",
+    "meaning": "过分地；超乎合理程度地",
+    "sense": "你等了一阵，又等了一阵，久到开始觉得不合理。inordinately long 就有这种感受。",
+    "split": "inordinate + -ly。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁 inōrdinātus → 英语 inordinate",
+        "不合尺度 → 过度的"
+      ],
+      [
+        "英语：inordinate + -ly → inordinately",
+        "程度过分地"
+      ]
+    ],
+    "explanation": "常修饰 long、expensive、proud 等。除了高程度，还带一点“超过正常范围”的判断。",
+    "usage": "inordinately long；inordinately expensive；inordinately proud。",
+    "contrast": "very 可以只是程度高；inordinately 带过度、不相称的感觉。",
+    "examples": [
+      [
+        "The repair took inordinately long.",
+        "这次维修耗时过长。"
+      ],
+      [
+        "He was inordinately proud of his first homemade loaf.",
+        "他对自己第一次烤出的面包得意得不得了。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/inordinately",
+      "https://en.wiktionary.org/wiki/inordinately#English"
+    ]
+  },
+  {
+    "word": "inordination",
+    "ipa": "英 /ɪnˌɔːdɪˈneɪʃən/",
+    "meaning": "紊乱；不合常规；无节制〔旧用〕",
+    "sense": "旧文字里把偏离规则、尺度或秩序的状态概括成一个名词，就是 inordination。",
+    "split": "来自拉丁 inordinatio，与否定的 in- 和安排词族相连；不是现代 inordinate 后来才必然加 -ion。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁语：inordinatio",
+        "不合安排、秩序或尺度"
+      ],
+      [
+        "英语：inordination",
+        "紊乱、失度；多见于旧文"
+      ]
+    ],
+    "explanation": "今天通常会用 disorder、irregularity 或 excess，选哪个取决于原文说的是次序还是程度。认读这类旧词，先抓住“不合应有安排”。",
+    "usage": "inordination of desire；moral inordination。",
+    "contrast": "incoordination 强调各部分不协调；inordination 的旧义范围更广，涉及违背尺度与规则。",
+    "examples": [
+      [
+        "The old essay condemns the inordination of desire.",
+        "这篇旧论文谴责欲望缺乏节制。"
+      ],
+      [
+        "The editor glossed inordination as a departure from proper order.",
+        "编辑把 inordination 注释为偏离应有秩序。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/inordination",
+      "https://en.wiktionary.org/wiki/inordination#English"
+    ]
+  },
+  {
+    "word": "ordain",
+    "ipa": "英 /ɔːˈdeɪn/；美 /ɔːrˈdeɪn/",
+    "meaning": "授予圣职；规定；命定",
+    "sense": "不是随口建议，而是正式把某人安放到一个职分上，或把某件事规定下来。",
+    "split": "古法语 ordener / ordiner 来自拉丁 ōrdināre“安排、任命”；经法语传下来的 ordain 与较书面的 ordinate 同源。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "古法语 ordener / ordiner → 英语 ordain",
+        "安排、正式任命；授予圣职；规定"
+      ]
+    ],
+    "explanation": "ordain someone as a priest 是授予某人神父等圣职；ordain that... 可在庄重、历史或文学语境中表示规定。命运义则把安排者想成命运或神意。",
+    "usage": "be ordained as；ordain that；be ordained by fate。",
+    "contrast": "appoint 泛指任命；ordain 在现代特别常指宗教授职，并不等于每种工作任命。",
+    "examples": [
+      [
+        "She was ordained as a minister last year.",
+        "她去年被授予牧师圣职。"
+      ],
+      [
+        "The old charter ordained that the council should meet each spring.",
+        "旧章程规定议事会应在每年春季开会。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ordain",
+      "https://dictionary.cambridge.org/dictionary/english/ordain"
+    ]
+  },
+  {
+    "word": "ordination",
+    "ipa": "英 /ˌɔːdɪˈneɪʃən/；美 /ˌɔːrdəˈneɪʃən/",
+    "meaning": "授予圣职；任命、安排〔较旧义〕",
+    "sense": "从正式宣布到进入某个宗教职分，这一授职过程或仪式叫 ordination。",
+    "split": "经古法语 ordinacion 或直接借自拉丁 ōrdinātiō“安排、任命”，有自己的名词借入链；不是现代 ordain 加 -ation 的唯一历史。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁语 ōrdinātiō → 古法语 ordinacion",
+        "安排、任命这一过程"
+      ],
+      [
+        "英语：ordination",
+        "授予圣职；安排；另有统计排序义"
+      ]
+    ],
+    "explanation": "现代普通阅读中，ordination 常指宗教授职。历史文字里也可能保留安排、规定的意思。专业领域另有专门用法，应由上下文辨认。",
+    "usage": "an ordination service；ordination to the priesthood；attend an ordination。",
+    "contrast": "ordination 是过程或仪式；ordinand 是正准备接受这一授职的人。",
+    "examples": [
+      [
+        "Her family attended the ordination service.",
+        "她的家人参加了授职礼。"
+      ],
+      [
+        "The letter announced the date of his ordination.",
+        "信中宣布了他的授职日期。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ordination",
+      "https://dictionary.cambridge.org/dictionary/english/ordination"
+    ]
+  },
+  {
+    "word": "ordainment",
+    "ipa": "英 /ɔːˈdeɪnmənt/；美 /ɔːrˈdeɪnmənt/",
+    "meaning": "规定；命定；授职〔少用〕",
+    "sense": "把“被安排好、被规定下来”说成一件事，常带神意或命运作安排的庄重感。",
+    "split": "ordain + -ment；中古英语还曾有经盎格鲁法语传入的相关名词形式，现代词常作英语派生理解。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "古法语 ordener / ordiner → 英语 ordain",
+        "安排、正式任命；授予圣职；规定"
+      ],
+      [
+        "英语：ordain + -ment → ordainment",
+        "正式安排、命定 → 这种安排"
+      ]
+    ],
+    "explanation": "今天说宗教授职更常见 ordination；ordainment 较常出现在文学、旧文的天意或命运描述中。",
+    "usage": "divine ordainment；an ordainment of fate。",
+    "contrast": "ordainment 与 ordination 有交叉，但不要因此认为两者在所有日常搭配中一样自然。",
+    "examples": [
+      [
+        "The character accepts the loss as an ordainment of fate.",
+        "这个人物把损失看成命运的安排而接受下来。"
+      ],
+      [
+        "The poem speaks of divine ordainment rather than chance.",
+        "诗中说的是神意安排，而不是偶然。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/ordainment",
+      "https://en.wiktionary.org/wiki/ordainment#English"
+    ]
+  },
+  {
+    "word": "ordinand",
+    "ipa": "英 /ˈɔːdɪnænd/；美 /ˈɔːrdənænd/",
+    "meaning": "候任圣职者；准备接受授职的人",
+    "sense": "人已经走在接受宗教授职的准备路上，还没完成最后的授职礼。这个人可以叫 ordinand。",
+    "split": "来自拉丁 ordinandus“将被授职、应被任命的”，是 ōrdināre 的动形容词形式；-and 不是普通职业后缀随意替换。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁语：ordinandus",
+        "将要接受任命、授职的人"
+      ],
+      [
+        "英语：ordinand",
+        "准备接受圣职者"
+      ]
+    ],
+    "explanation": "常见于教会培训、神学院与授职礼安排。称作 ordinand 并不表示已经获得相应圣职。",
+    "usage": "an ordinand in training；a group of ordinands。",
+    "contrast": "ordained 描述已被授职；ordinand 指准备接受授职的人。",
+    "examples": [
+      [
+        "The ordinand spent a year preparing for the role.",
+        "这位候任圣职者为该职分准备了一年。"
+      ],
+      [
+        "The bishop met the ordinands before the service.",
+        "主教在礼仪前会见了候任圣职者们。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/ordinand",
+      "https://en.wiktionary.org/wiki/ordinand#English"
+    ]
+  },
+  {
+    "word": "preordain",
+    "ipa": "英 /ˌpriːɔːˈdeɪn/；美 /ˌpriːɔːrˈdeɪn/",
+    "meaning": "预先决定；命定",
+    "sense": "事情还没有发生，结局就像已经写在剧本里。preordain 强调安排在先。",
+    "split": "pre- 在前、预先 + ordain。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "古法语 ordener / ordiner → 英语 ordain",
+        "安排、正式任命；授予圣职；规定"
+      ],
+      [
+        "英语：pre- + ordain → preordain",
+        "预先作出正式安排、命定"
+      ]
+    ],
+    "explanation": "常见被动 be preordained，既可谈宗教观念，也可比喻结果被事先安排。",
+    "usage": "be preordained；preordain an outcome。",
+    "contrast": "predict 是预测会发生什么；preordain 是预先决定发生什么，两者不是同一种动作。",
+    "examples": [
+      [
+        "The story suggests that no power can preordain every human choice.",
+        "故事暗示，没有力量能预先决定人的每一次选择。"
+      ],
+      [
+        "They tried to preordain the outcome of the debate.",
+        "他们试图事先决定辩论的结果。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/preordain",
+      "https://en.wiktionary.org/wiki/preordain#English"
+    ]
+  },
+  {
+    "word": "preordained",
+    "ipa": "英 /ˌpriːɔːˈdeɪnd/；美 /ˌpriːɔːrˈdeɪnd/",
+    "meaning": "预先决定的；命中注定的",
+    "sense": "看起来还在比赛，结果却仿佛早已写好，这时会说 the result was preordained。",
+    "split": "preordain + -ed；词尾读 /d/。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "古法语 ordener / ordiner → 英语 ordain",
+        "安排、正式任命；授予圣职；规定"
+      ],
+      [
+        "英语：preordain → preordained",
+        "预先决定 → 已被事先安排好的"
+      ]
+    ],
+    "explanation": "既可以认真谈命运，也可以批评某个程序只是形式、结果已定。它不自动表示说话者相信宿命论。",
+    "usage": "a preordained result；seem preordained；far from preordained。",
+    "contrast": "inevitable 是不可避免；preordained 更有事先被决定、安排的意味。",
+    "examples": [
+      [
+        "The winner did not seem preordained this time.",
+        "这一次，谁会获胜似乎并非早已注定。"
+      ],
+      [
+        "She refused to treat her future as preordained.",
+        "她拒绝把自己的未来看成早已注定。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/preordained",
+      "https://en.wiktionary.org/wiki/preordained#English"
+    ]
+  },
+  {
+    "word": "preordination",
+    "ipa": "英 /ˌpriːɔːdɪˈneɪʃən/；美 /ˌpriːɔːrdəˈneɪʃən/",
+    "meaning": "预定；预先安排；预定论语境中的命定",
+    "sense": "把“事情发生前就安排好”抽出来讨论：谁安排、何时安排、是否仍有选择。",
+    "split": "pre- 预先 + ordination；属于英语前缀派生。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁语 ōrdinātiō → 古法语 ordinacion",
+        "安排、任命这一过程"
+      ],
+      [
+        "英语：ordination",
+        "授予圣职；安排；另有统计排序义"
+      ],
+      [
+        "英语：pre- + ordination → preordination",
+        "安排 → 预先安排、命定"
+      ]
+    ],
+    "explanation": "多见于神学、哲学或正式论述。日常约好会议时间，一般说 advance arrangement，不需要这个庄重词。",
+    "usage": "divine preordination；the idea of preordination。",
+    "contrast": "preparation 是准备；preordination 是预先作出决定或安排，不等于把工具准备齐。",
+    "examples": [
+      [
+        "The essay contrasts free choice with preordination.",
+        "这篇文章对比自由选择与预先命定。"
+      ],
+      [
+        "The theologian discusses preordination in a separate chapter.",
+        "这位神学家另用一章讨论预定问题。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/preordination",
+      "https://en.wiktionary.org/wiki/preordination#English"
+    ]
+  },
+  {
+    "word": "ordinance",
+    "ipa": "英 /ˈɔːdɪnəns/；美 /ˈɔːrdənəns/",
+    "meaning": "法令；条例；规定",
+    "sense": "把“事情该怎么安排”正式写成一条必须遵行的规定，就是 ordinance 常见的画面。",
+    "split": "经古法语 ordenance 或直接来自中世纪拉丁 ordinantia，联系 ōrdināre“安排、规定”的现在分词。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁 ordinans → 中世纪拉丁 ordinantia",
+        "作安排、发出规定 → 规定"
+      ],
+      [
+        "古法语 ordenance → 英语 ordinance",
+        "命令、条例；另有历史军事义"
+      ]
+    ],
+    "explanation": "a city ordinance 常说城市制定的条例。它是规定这一支；同源但少一个 i 的 ordnance 在现代通常讲军械。",
+    "usage": "a local ordinance；a municipal ordinance；pass an ordinance。",
+    "contrast": "ordinance 有 -di-，通常是条例；ordnance 通常是军械、军需。",
+    "examples": [
+      [
+        "The town passed an ordinance on outdoor lighting.",
+        "镇上通过了一项关于户外照明的条例。"
+      ],
+      [
+        "The proposed ordinance was discussed at the council meeting.",
+        "拟议的条例在议事会会议上进行了讨论。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ordinance",
+      "https://dictionary.cambridge.org/dictionary/english/ordinance"
+    ]
+  },
+  {
+    "word": "ordnance",
+    "ipa": "英 /ˈɔːdnəns/；美 /ˈɔːrdnəns/",
+    "meaning": "军械；军需装备〔尤指武器弹药〕",
+    "sense": "军队按安排配齐的器材和物资，后来这个名字主要留给了武器弹药。",
+    "split": "ordinance 的缩短形式。ordinance 早期还有军事安排、军用装备义，这一支后来常用 ordnance 区别书写。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "古法语 ordenance → 英语 ordinance〔军事支线〕",
+        "安排军队、装备与军需"
+      ],
+      [
+        "英语缩短：ordinance → ordnance",
+        "现代通常指武器弹药等军械"
+      ]
+    ],
+    "explanation": "常见于军史、博物馆与专业报道；一般作不可数名词。不能把它译成普通办公设备，也不要与“条例”混拼。",
+    "usage": "ordnance supplies；an ordnance depot；an ordnance museum。",
+    "contrast": "arms 泛指武器；ordnance 常带军方装备、弹药和军需体系的正式色彩。",
+    "examples": [
+      [
+        "The museum has a gallery devoted to historical ordnance.",
+        "博物馆有一个专门展示历史军械的展厅。"
+      ],
+      [
+        "The archive contains records of ordnance supplies.",
+        "档案中保存着军械供应记录。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ordnance",
+      "https://dictionary.cambridge.org/dictionary/english/ordnance"
+    ]
+  },
+  {
+    "word": "ordinal",
+    "ipa": "英 /ˈɔːdɪnəl/；美 /ˈɔːrdənəl/",
+    "meaning": "序数；表示次序的",
+    "sense": "你不是问队伍里有几个人，而是问某个人排第几。first、second、third 就是在给位置编号。",
+    "split": "来自拉丁 ōrdinālis，ōrdin- 次序 + -ālis 相关的；英语名词还有较早的礼仪次序书用法。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdinālis",
+        "与次序有关的"
+      ],
+      [
+        "英语：ordinal",
+        "序数；表示次序的；旧时也指礼仪次序书"
+      ]
+    ],
+    "explanation": "an ordinal number 如 third，告诉你位置。统计中的 ordinal scale 有可排的等级，但等级之间的间距不因此相等。",
+    "usage": "an ordinal number；ordinal data；an ordinal scale。",
+    "contrast": "cardinal numbers 如 one、two、three 回答多少；ordinal numbers 回答第几。",
+    "examples": [
+      [
+        "Third is an ordinal number.",
+        "third 是一个序数词。"
+      ],
+      [
+        "The survey used an ordinal scale from poor to excellent.",
+        "调查采用了从差到优秀的有序等级。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ordinal",
+      "https://dictionary.cambridge.org/dictionary/english/ordinal"
+    ]
+  },
+  {
+    "word": "ordinate",
+    "ipa": "名词：英 /ˈɔːdənət/，美 /ˈɔːrdənɪt/；旧动词：英 /ˈɔːdɪneɪt/，美 /ˈɔːrdɪneɪt/",
+    "meaning": "纵坐标；有序的、安排〔后两义少用〕",
+    "sense": "在平面坐标里，横着找位置后，再看这个点在竖直方向的位置。最常见的 ordinate 就是它的 y 坐标。",
+    "split": "旧形容词、动词联系拉丁 ōrdinātus“安排好的”。数学名词另来自新拉丁短语 (linea) ordināte (applicāta)，意思是“按规定方式引出的线”；有的词典写作 linea ordinata applicata。两条路线同源，不能把纵坐标义直接说成英语“任命”的引申。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "数学名词路线：新拉丁 (linea) ordināte (applicāta)",
+        "按规定方式引出的线；旧英语形容词、动词是另一同源分支"
+      ],
+      [
+        "英语数学名词：ordinate",
+        "由数学短语借入；平面直角坐标中通常指 y 坐标"
+      ]
+    ],
+    "explanation": "点(3,5)的 ordinate 是5。这个数可以为负，不是把到 x 轴的距离一律当正数。更泛的坐标系统要看作者的定义。",
+    "usage": "the ordinate of a point；the ordinate axis。",
+    "contrast": "abscissa 是横坐标，ordinate 是纵坐标；coordinate 是坐标的总称。",
+    "examples": [
+      [
+        "The point has an abscissa of three and an ordinate of five.",
+        "这个点的横坐标为三，纵坐标为五。"
+      ],
+      [
+        "A negative ordinate places the point below the horizontal axis in this diagram.",
+        "在这张图里，纵坐标为负的点位于横轴下方。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ordinate",
+      "https://mathworld.wolfram.com/Ordinate.html",
+      "https://dictionary.cambridge.org/pronunciation/english/ordinate",
+      "https://en.wiktionary.org/wiki/ordinate#English",
+      "https://www.merriam-webster.com/dictionary/ordinate",
+      "https://www.collinsdictionary.com/dictionary/english/ordinate",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/ordinate"
+    ]
+  },
+  {
+    "word": "ordinariate",
+    "ipa": "美 /ˌɔːrdnˈeriɪt/，词尾也读 /eɪt/",
+    "meaning": "教长的职务或管辖组织〔教会用语〕",
+    "sense": "不是说“很普通的地方”，而是在说由一位 ordinary 这种教长负责的职务或教会管辖组织。",
+    "split": "ordinary 的宗教名词义 + -ate，表示职务或辖区。ordinary 在这里与依法拥有本职权限有关，不是日常的“普通人”。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语 ōrdinārius → 英语 ordinary〔宗教名词〕",
+        "按本职拥有权限的教长"
+      ],
+      [
+        "英语：ordinary + -ate → ordinariate",
+        "其职务、管辖组织"
+      ]
+    ],
+    "explanation": "具体形态要看教会制度；例如 personal ordinariate 可以按共同身份背景组织成员，而不只是画一块地理辖区。不是每一处都必须由主教领导。",
+    "usage": "a personal ordinariate；members of an ordinariate。",
+    "contrast": "ordination 是授职过程；ordinariate 是职务或管辖组织，不能因开头相似就混读。",
+    "examples": [
+      [
+        "The community belongs to a personal ordinariate.",
+        "这个团体属于一个按成员身份设立的教长管辖组织。"
+      ],
+      [
+        "The ordinariate published a calendar for its parishes.",
+        "该教长管辖组织为所属堂区发布了日历。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/us/dictionary/english/ordinariate",
+      "https://ordinariate.net/terminology",
+      "https://en.wiktionary.org/wiki/ordinariate#English"
+    ]
+  },
+  {
+    "word": "ordinative",
+    "ipa": "参考读法 /ˈɔːrdɪnətɪv/〔据 ordinate 词族；少用〕",
+    "meaning": "安排的；指令性的；授职的〔旧用〕",
+    "sense": "在旧文字里，一种权力能安排职务、发出规定，就可以被描述为 ordinative。",
+    "split": "来自拉丁 ordinativus，与 ōrdināre“安排、任命”相连；不是普通序数 ordinal 的常见替换词。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁语：ordinativus",
+        "有安排、指派作用的"
+      ],
+      [
+        "英语：ordinative",
+        "安排、发令、授职性质的；旧文较多"
+      ]
+    ],
+    "explanation": "多用于认读旧教会或论说文字。现代普通表达通常直接用 directing、appointing 或 ordaining，具体选择取决于原义。",
+    "usage": "ordinative power；an ordinative function。",
+    "contrast": "ordinal 常说序数；ordinative 的旧用偏向安排、指派这种作用。",
+    "examples": [
+      [
+        "The old treatise discusses the church’s ordinative power.",
+        "这部旧论著讨论教会的授职权。"
+      ],
+      [
+        "The historian explained ordinative as having the power to direct or appoint.",
+        "历史学家把 ordinative 解释为具有指令或任命权的。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/ordinative#English"
+    ]
+  },
+  {
+    "word": "reordain",
+    "ipa": "英 /ˌriːɔːˈdeɪn/；美 /ˌriːɔːrˈdeɪn/",
+    "meaning": "再次授职；重新规定",
+    "sense": "ordain 这个正式动作再做一次：可以谈再次授职，也可以是重新作出规定。",
+    "split": "re- 再一次 + ordain。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "古法语 ordener / ordiner → 英语 ordain",
+        "安排、正式任命；授予圣职；规定"
+      ],
+      [
+        "英语：re- + ordain → reordain",
+        "再次授职、作出安排"
+      ]
+    ],
+    "explanation": "常见于教会史关于先前授职是否获承认的讨论；词本身只说重复授职，不表示每个教会都接受这种做法。",
+    "usage": "reordain a minister；be reordained。",
+    "contrast": "preordain 是预先安排；reordain 是再做一次。",
+    "examples": [
+      [
+        "The council debated whether to reordain the minister.",
+        "议会讨论了是否再次为这位牧师授职。"
+      ],
+      [
+        "The history explains why the group chose not to reordain its clergy.",
+        "这部历史著作解释了该团体为何选择不再次为其神职人员授职。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/reordain",
+      "https://en.wiktionary.org/wiki/reordain#English"
+    ]
+  },
+  {
+    "word": "reordination",
+    "ipa": "英 /ˌriːɔːdɪˈneɪʃən/；美 /ˌriːɔːrdəˈneɪʃən/",
+    "meaning": "再次授职；重新授职",
+    "sense": "把授职礼再次举行这件事作为名词讨论，就是 reordination。",
+    "split": "re- + ordination；不是 reordain 后才必然换一个后缀的唯一路线。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁语 ōrdinātiō → 古法语 ordinacion",
+        "安排、任命这一过程"
+      ],
+      [
+        "英语：ordination",
+        "授予圣职；安排；另有统计排序义"
+      ],
+      [
+        "英语：re- + ordination → reordination",
+        "授职 → 再次授职"
+      ]
+    ],
+    "explanation": "往往带有教会制度和历史背景。是否需要再次授职，正可能是讨论的问题，不能把该词当作普通重复仪式的随意称呼。",
+    "usage": "the question of reordination；require reordination。",
+    "contrast": "reordination 是动作或问题的名词；reordain 是做这个动作的动词。",
+    "examples": [
+      [
+        "The chapter examines the controversy over reordination.",
+        "这一章研究关于再次授职的争议。"
+      ],
+      [
+        "The agreement did not require reordination.",
+        "这份协议没有要求再次授职。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english/reordination",
+      "https://en.wiktionary.org/wiki/reordination#English"
+    ]
+  },
+  {
+    "word": "reorder",
+    "ipa": "英 /ˌriːˈɔːdə/；美 /ˌriːˈɔːrdər/",
+    "meaning": "重新排序；再次订购",
+    "sense": "一叠卡片换一种排列，或者上一批货用完后再下一单，两种都是把 order 再做一次。",
+    "split": "re- 再 + order；继承排列与订购两种现代意思。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语：re- + order → reorder",
+        "重新排列；再次订购"
+      ]
+    ],
+    "explanation": "reorder the paragraphs 是调整段落次序；reorder paper 是再次订购纸张。宾语和上下文决定是哪一种。",
+    "usage": "reorder a list；reorder the chapters；reorder supplies。",
+    "contrast": "rearrange 强调重新安排；reorder 还可说再下单，两者不能处处互换。",
+    "examples": [
+      [
+        "I reordered the paragraphs to make the argument clearer.",
+        "我重新排列了段落，让论证更清楚。"
+      ],
+      [
+        "We need to reorder printer paper.",
+        "我们需要再次订购打印纸。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/reorder",
+      "https://en.wiktionary.org/wiki/reorder#English"
+    ]
+  },
+  {
+    "word": "preorder",
+    "ipa": "动词：英 /ˌpriːˈɔːdə/，美 /ˌpriːˈɔːrdər/；名词也常主重音在 pre-",
+    "meaning": "预订；预购；预序〔数学〕；先序〔计算机〕",
+    "sense": "书还没正式发售，先下单把购买请求排进去，是日常的 preorder。技术里同样的词形还有各自的排序含义。",
+    "split": "pre- 在前 + order。购物义指提前订购；数学预序是比偏序少一项限制的关系；遍历义指先访问当前节点。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语：pre- + order → preorder〔不同用途〕",
+        "提前订购；数学预序；树的先序遍历"
+      ]
+    ],
+    "explanation": "数学 preorder 要求自反、传递，不必反对称。以“字符串长度不大于”为关系，cat与dog可双向成立但不是同一串，仍是预序。计算机 preorder traversal 则先处理节点，再处理子节点。",
+    "usage": "preorder a book；place a preorder；a preorder relation；preorder traversal。",
+    "contrast": "购物的 preorder 不保证立刻发货；数学 preorder 与“先下订单”没有技术上的联系，只共享构词材料。",
+    "examples": [
+      [
+        "You can preorder the book before its release next month.",
+        "你可以在这本书下个月发行前预购。"
+      ],
+      [
+        "Every partial order is a preorder, but the reverse need not hold.",
+        "每个偏序都是预序，反过来未必成立。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/preorder",
+      "https://mathworld.wolfram.com/Preorder.html",
+      "https://xlinux.nist.gov/dads/HTML/preorderTraversal.html"
+    ]
+  },
+  {
+    "word": "quasiorder",
+    "ipa": "参考读法：英 /ˈkweɪzaɪˌɔːdə/；美 /ˈkwɑːziˌɔːrdər/〔据 quasi- 与 order〕",
+    "meaning": "拟序；预序〔数学〕",
+    "sense": "已经有了能沿着比较下去的关系，但不同对象仍可能在这个关系中互相“不大于”对方。它还不一定把所有不同对象区分开。",
+    "split": "quasi- 类似、准 + order；是 preorder 的另一名称。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语数学构词：quasi- + order → quasiorder",
+        "具有部分排序条件的关系"
+      ]
+    ],
+    "explanation": "定义要抓自反和传递：a与自己有关；aRb且bRc可推aRc。它不要求反对称，也不要求任意两项可比。若再满足反对称，便是偏序。",
+    "usage": "a quasiorder on a set；a reflexive and transitive relation。",
+    "contrast": "quasiorder 与 preorder 通常同义；partial order 多出反对称要求。",
+    "examples": [
+      [
+        "The relation is a quasiorder because it is reflexive and transitive.",
+        "这个关系自反且传递，因此是一个拟序。"
+      ],
+      [
+        "The author uses quasiorder as another name for preorder.",
+        "作者把 quasiorder 用作 preorder 的另一名称。"
+      ]
+    ],
+    "sources": [
+      "https://mathworld.wolfram.com/Preorder.html",
+      "https://mathworld.wolfram.com/Quasiorder.html",
+      "https://en.wiktionary.org/wiki/quasiorder#English"
+    ]
+  },
+  {
+    "word": "superorder",
+    "ipa": "英 /ˈsuːpərˌɔːdə/；美 /ˈsuːpərˌɔːrdər/",
+    "meaning": "总目；高于目的分类级别",
+    "sense": "一个“目”装不下要一起讨论的几个相关类群，就在它们上面再设一个较大的分类框。",
+    "split": "super- 在上 + order 目；现代分类学构词，并非古拉丁语里已经有整个生物分类名称。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语分类构词：super- + order → superorder",
+        "在目以上组织相关类群"
+      ]
+    ],
+    "explanation": "通常位于纲或亚纲以下、目以上。分类方案不一定用到每一个中间级别，所以应同时看文中采用的系统。",
+    "usage": "a taxonomic superorder；orders within a superorder。",
+    "contrast": "superorder 是生物分类级别；superordinate 泛指上位关系，并不是同一个专名。",
+    "examples": [
+      [
+        "The chart groups several related orders into a superorder.",
+        "图表把几个相关的目合并在一个总目中。"
+      ],
+      [
+        "This classification does not use the rank of superorder.",
+        "这套分类没有使用总目这个等级。"
+      ]
+    ],
+    "sources": [
+      "https://www.dictionary.com/browse/superorder",
+      "https://en.wiktionary.org/wiki/superorder#English"
+    ]
+  },
+  {
+    "word": "suborder",
+    "ipa": "英 /ˈsʌbˌɔːdə/；美 /ˈsʌbˌɔːrdər/",
+    "meaning": "亚目；目的下级分类",
+    "sense": "打开一个“目”的大文件夹，里面还可以有更细一层文件夹，这一层可叫 suborder。",
+    "split": "sub- 下一级 + order 目。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语分类构词：sub- + order → suborder",
+        "在目内部进一步划分"
+      ]
+    ],
+    "explanation": "生物分类中低于目，高于科；中间还可能插入别的级别。前缀 sub- 表示层级，不表示这些生物低等。",
+    "usage": "belong to a suborder；divide an order into suborders。",
+    "contrast": "suborder 是较小分类单位；subordinate 说一般的从属关系。",
+    "examples": [
+      [
+        "The guide divides the order into two suborders.",
+        "这本指南把该目分为两个亚目。"
+      ],
+      [
+        "The two families belong to the same suborder.",
+        "这两个科属于同一个亚目。"
+      ]
+    ],
+    "sources": [
+      "https://www.dictionary.com/browse/suborder",
+      "https://en.wiktionary.org/wiki/suborder#English"
+    ]
+  },
+  {
+    "word": "infraorder",
+    "ipa": "英 /ˈɪnfrəˌɔːdə/；美 /ˈɪnfrəˌɔːrdər/",
+    "meaning": "下目；亚目以下的分类级别",
+    "sense": "亚目的文件夹里面再分一层：infraorder 是进一步向下细分的标签。",
+    "split": "infra- 在下 + order；拉丁来源的前缀与英语分类词结合。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语分类构词：infra- + order → infraorder",
+        "在亚目以下进一步分组"
+      ]
+    ],
+    "explanation": "用于部分较细的生物分类，低于亚目，高于科或其上方的其他中间等级。不同方案采用的层数可能不同。",
+    "usage": "an infraorder of insects；families within an infraorder。",
+    "contrast": "infra- 指位置在下；inter- 指在两者之间，拼写相似而作用不同。",
+    "examples": [
+      [
+        "The key identifies the specimen’s infraorder before its family.",
+        "检索表先确定标本所属的下目，再确定科。"
+      ],
+      [
+        "Several families are placed within this infraorder.",
+        "几个科被归入这个下目。"
+      ]
+    ],
+    "sources": [
+      "https://www.dictionary.com/browse/infraorder",
+      "https://en.wiktionary.org/wiki/infraorder#English"
+    ]
+  },
+  {
+    "word": "parvorder",
+    "ipa": "参考读法 /ˈpɑːrvˌɔːrdər/〔据 parv- 与 order；不卷舌口音省 r〕",
+    "meaning": "小目〔某些分类体系〕",
+    "sense": "文件夹分得特别细时，在下目以下、总科以上还能再设一层，这个较少见的层级是 parvorder。",
+    "split": "parv- 来自拉丁 parvus“小” + order；这里小指分类范围较细，不指动物身体小。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "并列构件：拉丁 parvus + 英语 order",
+        "小 + 目级分类"
+      ],
+      [
+        "英语：parvorder",
+        "某些系统中的小目"
+      ]
+    ],
+    "explanation": "不是每本生物教材都使用。遇到它时，用该书的分类树确认位置；不要因译名有“小”就当成幼小个体。",
+    "usage": "a taxonomic parvorder；a parvorder within an infraorder。",
+    "contrast": "parvorder 与 infraorder 是不同层级；在使用这套细分的系统里，parvorder 位于 infraorder 之下。",
+    "examples": [
+      [
+        "The table places the parvorder below the infraorder.",
+        "表中把小目放在下目以下。"
+      ],
+      [
+        "The author uses parvorder to distinguish a smaller group within the classification.",
+        "作者用小目来区分这套分类中的一个较小类群。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/parvorder#English"
+    ]
+  },
+  {
+    "word": "grandorder",
+    "ipa": "参考读法 /ˈɡrændˌɔːrdər/〔据 grand 与 order〕",
+    "meaning": "大目级分类〔部分体系的中间等级〕",
+    "sense": "在很细的分类树里，几个目上面还可能套着几层大框。grandorder 是其中一个较少用的框名。",
+    "split": "grand 大的 + order；英语复合构词。这里说分类层级，不是商品的大订单。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语分类构词：grand + order → grandorder",
+        "较高的目级分组"
+      ]
+    ],
+    "explanation": "在采用这一套层级的体系里，常放在 superorder 以下、mirorder 以上。中文译名并不总统一，认英文及相对位置更可靠。",
+    "usage": "a grandorder in a classification；the rank of grandorder。",
+    "contrast": "grandorder 连写是分类术语；grand order 分写不能自动当成这个词的同义拼法。",
+    "examples": [
+      [
+        "The classification places the grandorder below the superorder.",
+        "这套分类把 grandorder 放在总目以下。"
+      ],
+      [
+        "The textbook omits grandorder and uses fewer intermediate ranks.",
+        "教材省略了 grandorder，采用更少的中间等级。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/grandorder#English"
+    ]
+  },
+  {
+    "word": "mirorder",
+    "ipa": "参考读法 /ˈmɪrˌɔːrdər/〔据 mir- 与 order〕",
+    "meaning": "目以上的一个中间分类等级〔少用〕",
+    "sense": "看分类树时，把它当作夹在“大框”和“目”之间的一层标签，比死背中文译名更容易定位。",
+    "split": "mir- 取自拉丁 mīrus“奇异、惊人的” + order；实际已固定成分类等级名，不是在说这个类群令人惊讶。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "并列构件：拉丁 mīrus + 英语 order",
+        "借古典词干命名分类层级"
+      ],
+      [
+        "英语：mirorder",
+        "部分分类体系中 grandorder 以下、order 以上"
+      ]
+    ],
+    "explanation": "在采用它的体系中，位于 grandorder 之下、order 之上。这是特定分类安排，不能据此前缀推导所有生物的统一层级表。",
+    "usage": "the mirorder rank；orders grouped in a mirorder。",
+    "contrast": "mirorder、grandorder、magnorder 都比较专门；它们不是普通英语 big、bigger、biggest 的自由替换。",
+    "examples": [
+      [
+        "The diagram places the mirorder immediately above the order.",
+        "图中把 mirorder 放在目上面的一级。"
+      ],
+      [
+        "This author groups the two orders in a single mirorder.",
+        "这位作者把这两个目归入同一个 mirorder。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/mirorder#English"
+    ]
+  },
+  {
+    "word": "magnorder",
+    "ipa": "参考读法 /ˈmæɡnˌɔːrdər/〔据 magn- 与 order〕",
+    "meaning": "高位的目级分类群〔少用〕",
+    "sense": "把几个大的分类框再合到更大的框里。在采用这种细分的分类树上，magnorder 处在较高层。",
+    "split": "magn- 来自拉丁 magnus“大” + order。这里是后来的科学组合词，不是拉丁时代的现成分类名。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "并列构件：拉丁 magnus + 英语 order",
+        "大 + 目级分类"
+      ],
+      [
+        "英语：magnorder",
+        "某些系统中高于 superorder 的等级"
+      ]
+    ],
+    "explanation": "主要用于特定分类方案，常在 superorder 以上。它在整棵树中放在哪里，需看该方案是否还用了其他中间等级。",
+    "usage": "a magnorder of mammals；the magnorder rank。",
+    "contrast": "magnorder 高于普通 order，但不要把“高”理解成进化更先进；等级只是分类组织方式。",
+    "examples": [
+      [
+        "The chart places several superorders within one magnorder.",
+        "图表把几个总目归在同一个 magnorder 中。"
+      ],
+      [
+        "The paper defines magnorder before presenting its classification.",
+        "论文在给出分类方案前，先说明 magnorder 这一等级。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/magnorder#English"
+    ]
+  },
+  {
+    "word": "subordinary",
+    "ipa": "参考读法：英 /sʌbˈɔːdɪnəri/；美 /sʌbˈɔːrdəneri/〔据 sub- 与 ordinary〕",
+    "meaning": "次要纹章图形〔纹章学〕",
+    "sense": "盾形纹章上的图案也会分类。某些传统把一批图形列在主要 ordinary 图形之外，称作 subordinary。",
+    "split": "sub- 次一级 + ordinary 的纹章名词义。ordinary 在这里是图形类别，不是“平庸”。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁 ōrdinārius → 英语 ordinary〔纹章用法〕",
+        "常规类别 → 主要的几何纹章图形"
+      ],
+      [
+        "英语：sub- + ordinary → subordinary",
+        "较次要的一类纹章图形"
+      ]
+    ],
+    "explanation": "这是传统分类名称，各书对哪些图形算 ordinary、哪些算 subordinary 不一定完全一致。先看书中的分类约定。",
+    "usage": "ordinaries and subordinaries；a heraldic subordinary。",
+    "contrast": "subordinary 不等于 subordinate“下属”；词尾相似，使用领域却很不同。",
+    "examples": [
+      [
+        "The heraldic manual lists the design among the subordinaries.",
+        "这本纹章手册把该图案列入次要纹章图形。"
+      ],
+      [
+        "The author explains how a subordinary differs from an ordinary in this system.",
+        "作者解释了在这套体系中，次要纹章图形与主要图形有什么区别。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/subordinary",
+      "https://en.wiktionary.org/wiki/subordinary#English"
+    ]
+  },
+  {
+    "word": "coordinal",
+    "ipa": "英 /kəʊˈɔːdɪnəl/",
+    "meaning": "同目的〔生物分类，少用〕",
+    "sense": "两种生物可以不是同属、不是同科，却在更上面的“目”这一层归在一起。它们就有同目的关系。",
+    "split": "co- 共同 + ordinal，与 order“目”相连；这个少用形容词不应和日常 coordinate 混写。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁 ōrdinālis → 英语 ordinal",
+        "次序、等级有关的"
+      ],
+      [
+        "英语：co- + ordinal → coordinal",
+        "处于同一个目级分类"
+      ]
+    ],
+    "explanation": "在生物分类用法中，指 belonging to the same order。旧数学文献也曾用同形词谈坐标；应由领域分开辨认。",
+    "usage": "coordinal groups；coordinal organisms。",
+    "contrast": "同目不等于同科：一个目可以含多个科。不要沿用某些旧译本把 order 和 family 混成一个等级。",
+    "examples": [
+      [
+        "The two animals are coordinal but belong to different families.",
+        "这两种动物属于同一个目，但分属不同的科。"
+      ],
+      [
+        "The glossary defines coordinal as belonging to the same order.",
+        "词汇表把 coordinal 解释为属于同一个目。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/us/dictionary/english/coordinal",
+      "https://www.etymonline.com/word/coordinal"
+    ]
+  },
+  {
+    "word": "backorder",
+    "ipa": "英 /ˈbækˌɔːdə/；美 /ˈbækˌɔːrdər/〔名词〕；动词重音也可在后",
+    "meaning": "缺货待交的订单；延期交货的订货",
+    "sense": "订单已经接下，但货架暂时空了，只能等补货再交付。这张排队等货的订单就是 backorder。",
+    "split": "back 后面、积压 + order 订单；商业英语复合词。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "古法语 ordre → 中古英语 ordre",
+        "排列、规则；有共同规则的团体"
+      ],
+      [
+        "英语：order",
+        "次序；命令；订购；分类中的目"
+      ],
+      [
+        "英语商业构词：back + order → backorder",
+        "订单暂排在待交货队列中"
+      ]
+    ],
+    "explanation": "on backorder 表示已订但暂缺货，等待补货交付。不是把买来的东西退回商家。",
+    "usage": "on backorder；fill a backorder；backordered items。",
+    "contrast": "preorder 是发售或正式供货前预订；backorder 通常是现有供货跟不上，订单暂时积压。",
+    "examples": [
+      [
+        "The replacement part is on backorder.",
+        "这个替换零件缺货，订单正在等待补货交付。"
+      ],
+      [
+        "The store contacted us when it could fill the backorder.",
+        "商店能够交付这张积压订单时联系了我们。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/backorder",
+      "https://dictionary.cambridge.org/dictionary/english/backorder"
+    ]
+  },
+  {
+    "word": "foreordain",
+    "ipa": "英 /ˌfɔːrɔːˈdeɪn/；美 /ˌfɔːrɔːrˈdeɪn/",
+    "meaning": "预先决定；命定",
+    "sense": "在故事真正展开之前，结局就仿佛已经被安排。fore- 把时间拉到事情发生以前。",
+    "split": "fore- 预先 + ordain，可能仿照拉丁 praeordinare 造出；与 preordain 意思接近，fore- 是英语本有的构词成分。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "古法语 ordener / ordiner → 英语 ordain",
+        "安排、正式任命；授予圣职；规定"
+      ],
+      [
+        "英语：fore- + ordain → foreordain",
+        "事先作决定；命定"
+      ]
+    ],
+    "explanation": "多见于宗教、文学及庄重说法。常用过去分词 foreordained，表示结局事先已定。",
+    "usage": "be foreordained；foreordain an outcome。",
+    "contrast": "foretell 是预言；foreordain 是预先决定，不是只把未来说出来。",
+    "examples": [
+      [
+        "The novel asks whether fate can foreordain a person’s life.",
+        "小说追问命运能否预先决定一个人的一生。"
+      ],
+      [
+        "They acted as if the result had been foreordained.",
+        "他们表现得仿佛结果早已注定。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/fore-ordain",
+      "https://www.collinsdictionary.com/dictionary/english/foreordain"
+    ]
+  },
+  {
+    "word": "foreordination",
+    "ipa": "英 /ˌfɔːrɔːdɪˈneɪʃən/；美 /ˌfɔːrɔːrdəˈneɪʃən/",
+    "meaning": "预定；事先命定〔正式〕",
+    "sense": "把“在发生之前已被安排”当成一个观念来谈，就是 foreordination。",
+    "split": "fore- 预先 + ordination；与 foreordain 同族，但名词可直接按前缀加名词分析。",
+    "history": [
+      [
+        "拉丁语：ōrdō；词干 ōrdin-",
+        "一行、一列；次序、等级、安排"
+      ],
+      [
+        "拉丁语：ōrdināre；分词 ōrdinātus",
+        "使有次序；安排、任命"
+      ],
+      [
+        "拉丁语 ōrdinātiō → 古法语 ordinacion",
+        "安排、任命这一过程"
+      ],
+      [
+        "英语：ordination",
+        "授予圣职；安排；另有统计排序义"
+      ],
+      [
+        "英语：fore- + ordination → foreordination",
+        "安排 → 预先安排、命定"
+      ]
+    ],
+    "explanation": "尤其常见于神学与哲学讨论。不同体系对它的理解可能不同，词义入口只是“事先安排”。",
+    "usage": "divine foreordination；foreordination and free will。",
+    "contrast": "foreknowledge 是预先知道；foreordination 是预先作出安排，二者不能自动等同。",
+    "examples": [
+      [
+        "The course distinguishes foreknowledge from foreordination.",
+        "课程区分预先知道与预先命定。"
+      ],
+      [
+        "The writer discusses foreordination alongside human responsibility.",
+        "作者把预先命定与人的责任放在一起讨论。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/foreordination#English",
+      "https://www.collinsdictionary.com/dictionary/english/foreordination"
+    ]
+  }
+]

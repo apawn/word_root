@@ -1,0 +1,54 @@
+[
+  {
+    "id": "C0034",
+    "meaning": "别的；另一方；变成另一种样子",
+    "core": "ALI / ALTER = OTHER",
+    "image": "把目光从这一个，移到另一个",
+    "intro": "这组词根的本质是 **“别的、另一个”**。拉丁语 alius 表示别的，alter 常表示两者中的另一方。沿着这个画面：属于别处的是 alien，变成别的样子是 alter，一个接另一个是 alternate，关心别人则连到 altruism。",
+    "forms": "ali- 和 alter- 属于同一“别的”词族，但不应把它们画成所有情况下都可以互换的字母片段。alien 这支经 aliēnus“属于别人的”发展；alter 这支很适合串起改变、轮流和另一种选择。alias 的“另一个”落在名字上，alibi 则落在地点上。",
+    "branches": [
+      [
+        "属于别处",
+        "alien · alienate"
+      ],
+      [
+        "变成另一种样子",
+        "alter · alteration"
+      ],
+      [
+        "另一方轮上来",
+        "alternate · alternative"
+      ],
+      [
+        "另一个名字或地点",
+        "alias · alibi"
+      ],
+      [
+        "把别人放在心上",
+        "altruism · altruistic"
+      ]
+    ],
+    "contrasts": "**ally 与 alienate**：一个把人联合起来，一个把人推远；意义可对照，词源却不同。ally 属于 ligāre“绑”。\n\n**alternately 与 alternatively**：一个是 A、B 轮流发生，一个是提供另一个方案。\n\n**alter 与 altar**：前者是改动，后者是祭坛。\n\n**alias 与 alibi**：另一个名字，和另一个地点。",
+    "practice": "**We can alter the plan. Alternatively, we can choose another route.**\n\n我们可以修改计划，也可以选择另一条路线。alter 改现有的样子，alternatively 提供另一种办法。",
+    "words": [
+      "alien",
+      "alienate",
+      "alienated",
+      "alienation",
+      "inalienable",
+      "alter",
+      "alteration",
+      "altered",
+      "alternate",
+      "alternately",
+      "alternative",
+      "alternatively",
+      "alternator",
+      "alias",
+      "alibi",
+      "altruism",
+      "altruistic",
+      "altercation"
+    ]
+  }
+]

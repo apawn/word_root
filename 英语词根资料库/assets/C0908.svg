@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+<rect width="1000" height="420" rx="20" fill="#f7f4ed"/>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif}.small{font-size:15px;fill:#53646c}.word{font-size:23px;fill:#183b43}</style>
+<text x="36" y="40" class="small">3955 · 古典词根／组合形式 · 词族关系示意</text>
+<rect x="110" y="65" width="780" height="105" rx="15" fill="#173e43"/>
+<text x="500" y="110" text-anchor="middle" font-size="30" fill="white">or-, oro-</text>
+<text x="500" y="146" text-anchor="middle" font-size="20" fill="#d2e6de">山</text>
+<path d="M500 170 L175 213" fill="none" stroke="#afc6bc" stroke-width="2"/>
+<path d="M500 170 L500 213" fill="none" stroke="#afc6bc" stroke-width="2"/>
+<path d="M500 170 L825 213" fill="none" stroke="#afc6bc" stroke-width="2"/>
+<path d="M500 170 L175 303" fill="none" stroke="#afc6bc" stroke-width="2"/>
+<path d="M500 170 L500 303" fill="none" stroke="#afc6bc" stroke-width="2"/>
+<path d="M500 170 L825 303" fill="none" stroke="#afc6bc" stroke-width="2"/>
+<rect x="35" y="212" width="280" height="58" rx="10" fill="white" stroke="#d1ded7"/>
+<text x="175" y="248" text-anchor="middle" class="word" font-size="23px">orogeny</text>
+<rect x="360" y="212" width="280" height="58" rx="10" fill="white" stroke="#d1ded7"/>
+<text x="500" y="248" text-anchor="middle" class="word" font-size="23px">orogenic</text>
+<rect x="685" y="212" width="280" height="58" rx="10" fill="white" stroke="#d1ded7"/>
+<text x="825" y="248" text-anchor="middle" class="word" font-size="23px">orographic</text>
+<rect x="35" y="302" width="280" height="58" rx="10" fill="white" stroke="#d1ded7"/>
+<text x="175" y="338" text-anchor="middle" class="word" font-size="23px">orography</text>
+<rect x="360" y="302" width="280" height="58" rx="10" fill="white" stroke="#d1ded7"/>
+<text x="500" y="338" text-anchor="middle" class="word" font-size="23px">oread</text>
+<rect x="685" y="302" width="280" height="58" rx="10" fill="white" stroke="#d1ded7"/>
+<text x="825" y="338" text-anchor="middle" class="word" font-size="23px">orogenesis</text>
+<text x="36" y="397" class="small">连线表示本资料库中的词族归属，不表示所有词之间有直接派生关系；历史路线见正文。</text></svg>

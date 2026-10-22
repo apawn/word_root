@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+"""C1225 rhiz: root imagery versus actual stems and surrounding soil."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[
+E('rhizome','英 /ˈraɪzəʊm/；美 /ˈraɪzoʊm/','根茎','想想厨房里一块带着节和芽的姜：它通常横着生长，可以长出新芽和根。虽然藏在土里、名字里也有根，它在植物学上仍是一种茎。','经新拉丁 rhizoma 接希腊 rhizōma“根系、一团根”，更远接 rhiza“根”及生根的动词形式。近代植物学借这个名称描述外观像根的茎，所以字面来源与现代分类并不完全一样。',[['希腊 rhiza → rhizōma','根 → 根系、一团根'],['新拉丁植物学 rhizoma','用于根状茎的名称'],['英语 rhizome','根茎，通常在地下或贴近地表横向生长']],'辨认时看它是不是有茎的节、芽等结构，不是只看埋不埋在土里。许多根茎还储存养分，让植物继续生长或向旁边扩展。词源叫“根”，不等于现代定义就是普通的 root。','ginger rhizomes；an underground rhizome；spread by rhizomes。','root 是根；rhizome 是特殊的茎。bulb 是鳞茎，也属于地下储存结构，但形态不能与根茎一概而论。',('The ginger rhizome has several visible buds.','这块姜的根茎上能看到几个芽。'),('The plant spreads through rhizomes beneath the soil surface.','这种植物通过土表下的根茎向四周扩展。'),sources=['https://www.etymonline.com/word/rhizome','https://www.oxfordlearnersdictionaries.com/definition/english/rhizome','https://www.kew.org/plants/ginger']),
+E('rhizomatous','美 /raɪˈzoʊmətəs/','具根茎的；根茎状的','看到 rhizomatous plant，就想象植物会长出横向延伸的根茎，再从不同位置冒出新芽。它描述生长结构，不是在给植物取一个新的属名。','国际科学词汇，以新拉丁 rhizoma 的词干 rhizomat- 加 -ous 构成。现代可与 rhizome 配对记，但它的历史基词是这一古典词干，不必画成英语 rhizome 先出现、然后才派生形容词。',[['希腊 rhizōma → 新拉丁 rhizoma','根系 → 植物学根茎名'],['词干 rhizomat- + -ous','采用古典名词词干形成形容词'],['英语 rhizomatous','有根茎的，或呈根茎状的']],'形容植物时，常强调它能靠根茎延续和扩展。具有根茎不等于一定是杂草，也不保证生长特别快；这是结构性质，具体表现还看植物种类和环境。','rhizomatous plants；rhizomatous grasses；a rhizomatous perennial。','rhizome 是那段根茎本身，rhizomatous 说明某种植物或结构具有这种特点。rhizomatous 与“根很多”不是同一句话。',('This rhizomatous grass forms a spreading patch.','这种有根茎的草会形成向外扩展的一片。'),('The nursery label describes the plant as a rhizomatous perennial.','苗圃标签把这种植物描述为具根茎的多年生植物。'),sources=['https://www.merriam-webster.com/dictionary/rhizomatous','https://www.collinsdictionary.com/dictionary/english/rhizomatous']),
+E('rhizosphere','英 /ˈraɪzəʊˌsfɪə/；美 /ˈraɪzəˌsfɪr/','根际；受植物根系影响的土壤区域','把植物根想成一个会影响周围土壤的小中心：根释放物质、吸收养分，附近微生物也跟着活动。rhizosphere 就是这片与根紧密互动的区域。','借自德语 Rhizosphäre，采用 rhizo-“根”和 -sphäre“范围、区域”，20 世纪初用于土壤研究。今天看起来像 rhizo- + sphere，但英语实际沿用了德语科学名称。',[['希腊来源 rhizo-；区域成分 -sphäre','根；范围'],['德语 Rhizosphäre','根系影响下的土壤区域'],['英语 rhizosphere','根际，植物根与土壤生物相互作用的区域']],'它不是根本身，也不是围着根切出一个固定半径的完美球。这个范围按根的影响来理解，通常是根周围特别活跃的土壤环境。','rhizosphere bacteria；rhizosphere soil；microbes in the rhizosphere。','root 是根这一器官；rhizosphere 是它周围受影响的环境。sphere 在这里表区域，不要求几何上呈球形。',('The researchers sampled soil from the rhizosphere.','研究人员从根际区域采集了土壤样本。'),('Microbes in the rhizosphere interact with the plant’s roots.','根际微生物与植物的根系相互作用。'),sources=['https://www.merriam-webster.com/dictionary/rhizosphere','https://www.collinsdictionary.com/dictionary/english/rhizosphere']),
+]
+m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());names=[x['word'] for x in W]
+cat=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text()) if x['id']=='C1225')
+EX={w:'较冷门的真菌、拟根形态、取食或共生分类术语，按当前通用阅读范围暂略。' for w in cat['family'] if w not in names}
+ROOT=dict(id='C1225',meaning='根；生根',core='rhiz- 接希腊 rhiza“根”。它可以指根，也可以借根的外观命名另一种结构，或指根周围受影响的区域。',image='rhiza 根 → rhizoma／rhizome 根茎；rhizomat- → rhizomatous；根 + 区域 → rhizosphere 根际。',intro='这一族最容易误记的是 rhizome：它的名字有根，现代却是茎。用一块带芽的姜、旁边长出的根、周围的土，分别理解三个层次。',forms='rhizome 经新拉丁名词借入；rhizomatous 采用新拉丁词干 rhizomat-，不简单倒推英语派生顺序；rhizosphere 经德语科学命名借入。',branches=[['外观像根的茎及其形容词','rhizome, rhizomatous'],['根周围的环境','rhizosphere']],contrasts='rhizome 是茎，root 是根，rhizosphere 是根周围的土壤环境。共同词源不会抹掉它们在现代植物学中的区别。',practice='拿姜作例子：指出根茎是茎、它可以长出根，而根影响的周围土壤叫根际。',words=names,exclude=EX)
+if __name__=='__main__':
+ assert {e['word'] for e in W}<=set(m['owned_words'])
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_210.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('rhiz:',len(W),'words;',sum(len(e['examples']) for e in W),'examples')

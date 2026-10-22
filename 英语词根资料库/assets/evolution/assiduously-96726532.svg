@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="670" viewBox="0 0 1000 670" role="img">
+<title>assiduously：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="668" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">重构原始印欧语：*sed-</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">坐；星号表示根据后代语言重构</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：sedēre；分词 sessus</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">坐；停留、占据一个位置</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">拉丁语：ad- + sedēre → assidēre</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">坐在旁边、持续守着</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">拉丁语：assiduus</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">持续在场的；勤勉不懈的</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：assiduous</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">勤勉、细心而坚持的</text>
+<text class="note" x="500" y="533" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="562" text-anchor="middle" font-size="25" font-weight="600">英语：assiduously</text>
+<text class="note" x="500" y="598" text-anchor="middle" font-size="20">以持续细心、勤勉的方式</text>
+</svg>

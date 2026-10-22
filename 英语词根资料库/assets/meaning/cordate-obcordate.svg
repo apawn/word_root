@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img">
+<title>cordate 与 obcordate：看叶柄接在哪一端</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#252525}.small{fill:#747474;font-size:21px}.leaf{fill:#e9f1e6;stroke:#52694a;stroke-width:3}.vein{fill:none;stroke:#84967b;stroke-width:2}</style>
+<rect x="1" y="1" width="1098" height="618" rx="20" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="550" y="53" text-anchor="middle" font-size="28" font-weight="600">同样像一颗心，叶柄连接的方向不同</text>
+<text x="285" y="108" text-anchor="middle" font-size="27" font-weight="600">cordate · 心形</text>
+<text x="815" y="108" text-anchor="middle" font-size="27" font-weight="600">obcordate · 倒心形</text>
+<path class="leaf" d="M285 164 C257 210 164 267 174 340 C181 393 249 402 285 365 C321 402 389 393 396 340 C406 267 313 210 285 164 Z"/>
+<path class="vein" d="M285 365 L285 164 M285 320 L212 287 M285 275 L244 234 M285 320 L358 287 M285 275 L326 234"/>
+<path d="M285 365 L285 456" fill="none" stroke="#52694a" stroke-width="7" stroke-linecap="round"/>
+<path class="leaf" d="M815 388 C787 342 694 285 704 212 C711 159 779 150 815 187 C851 150 919 159 926 212 C936 285 843 342 815 388 Z"/>
+<path class="vein" d="M815 388 L815 187 M815 301 L746 236 M815 340 L765 307 M815 301 L884 236 M815 340 L865 307"/>
+<path d="M815 388 L815 456" fill="none" stroke="#52694a" stroke-width="7" stroke-linecap="round"/>
+<text x="285" y="495" text-anchor="middle" font-size="23">叶柄接在两圆瓣之间的凹口</text>
+<text x="815" y="495" text-anchor="middle" font-size="23">叶柄接在较窄、较尖的一端</text>
+<text x="285" y="533" text-anchor="middle" class="small">叶尖朝另一端伸出</text>
+<text x="815" y="533" text-anchor="middle" class="small">凹口与两圆瓣在远离叶柄的一端</text>
+<text x="550" y="584" text-anchor="middle" class="small">这是形状示意；分辨依据是叶柄的位置，不是纸面朝上还是朝下。</text>
+</svg>

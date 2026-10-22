@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="462" viewBox="0 0 1000 462" role="img">
+<title>placebo：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="460" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：placēre</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">使人喜欢、满意；得到认可</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：placēbō</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">我将使人满意</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">英语中的不同借用</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">早期用作仪式名称；较晚另有医学名称</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">现代医学：placebo</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">用于研究的对照；不含所研究的特定活性成分或作用</text>
+</svg>

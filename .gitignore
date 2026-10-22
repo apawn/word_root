@@ -1,0 +1,17 @@
+# Local caches and development environments
+.cache/
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Generated reader index and duplicate export
+server/.index.sqlite3*
+/英语词根资料库.zip
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example

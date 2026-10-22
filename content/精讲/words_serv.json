@@ -1,0 +1,1581 @@
+[
+  {
+    "word": "serve",
+    "ipa": "英 /sɜːv/；美 /sɜːrv/",
+    "meaning": "服务；端上；供给；起作用；发球",
+    "sense": "把自己的行动、食物或功能提供出去，满足别人或某项任务的需要。",
+    "split": "经古法语 servir 来自拉丁语 servīre“服侍”，与 servus“奴仆”相连。现代服务义不含被奴役的意思。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "古法语：servir",
+        "服侍；提供帮助或食物"
+      ],
+      [
+        "英语：serve",
+        "服务；供应；起作用"
+      ]
+    ],
+    "explanation": "服务顾客、端菜、服役都能连到为某人或某事效力。A box serves as a table 是箱子临时起桌子的作用；球类中还指发球。",
+    "usage": "serve customers；serve dinner；serve as；serve a purpose。",
+    "contrast": "serve someone 是为某人提供服务；serve as something 是充当某种角色。不能把所有 serve 都译成服侍。",
+    "examples": [
+      [
+        "This room serves as both an office and a library.",
+        "这个房间既当办公室，也当书房。"
+      ],
+      [
+        "Dinner will be served at seven.",
+        "晚饭七点上桌。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/serve",
+      "https://en.wiktionary.org/wiki/serve#English"
+    ]
+  },
+  {
+    "word": "service",
+    "ipa": "英 /ˈsɜːvɪs/；美 /ˈsɜːrvɪs/",
+    "meaning": "服务；公共服务系统；检修；礼拜",
+    "sense": "你需要交通、维修或帮助，有人或一套系统持续把这件事提供给你。",
+    "split": "经法语 servise 来自拉丁语 servitium，与 servīre 同族；不是必须由英语 serve 加 -ice 造出。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "拉丁语：servitium → 古法语 servise",
+        "服役、服侍 → 服务"
+      ],
+      [
+        "英语：service",
+        "服务；公用系统；维修服务"
+      ]
+    ],
+    "explanation": "bus service 是公交服务；a service 可以是一次车辆保养或宗教礼拜。service 作动词常指给机器检修保养。",
+    "usage": "customer service；bus services；a church service；service a car。",
+    "contrast": "service 更突出服务内容、系统或一次维护；serve 是服务、供给的动作。",
+    "examples": [
+      [
+        "The village has a regular bus service.",
+        "村里有定时公交服务。"
+      ],
+      [
+        "We had the car serviced before the trip.",
+        "出发前我们给汽车做了保养。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/service#English"
+    ]
+  },
+  {
+    "word": "server",
+    "ipa": "英 /ˈsɜːvə/；美 /ˈsɜːrvər/",
+    "meaning": "服务员；服务器；发球者",
+    "sense": "谁把你请求的东西送过来，谁就是这一环节里的 server：餐厅送餐，网络送数据。",
+    "split": "serve + -er，原指提供服务的人，后来扩展到提供计算服务的程序或机器。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "古法语：servir",
+        "服侍；提供帮助或食物"
+      ],
+      [
+        "英语：serve",
+        "服务；供应；起作用"
+      ],
+      [
+        "英语：server",
+        "提供服务的人或计算系统"
+      ]
+    ],
+    "explanation": "技术语境中的 server 可以指软件，也可以指运行软件的计算机；不一定是一台巨大的独立机器。",
+    "usage": "a restaurant server；a web server；connect to a server。",
+    "contrast": "client 发出请求、使用服务；server 接收请求并提供服务。这是角色区别，不只看设备大小。",
+    "examples": [
+      [
+        "The server brought us a jug of water.",
+        "服务员给我们端来一壶水。"
+      ],
+      [
+        "The app sends the request to a server.",
+        "应用把请求发送到服务器。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/server#English"
+    ]
+  },
+  {
+    "word": "serving",
+    "ipa": "英 /ˈsɜːvɪŋ/；美 /ˈsɜːrvɪŋ/",
+    "meaning": "一份食物；供餐；在职的",
+    "sense": "一锅汤分到一个人碗里的那一份，就是 a serving；另外也可以描述正在任职或服务。",
+    "split": "serve + -ing，由端上食物的动作发展出一次供给的分量。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "古法语：servir",
+        "服侍；提供帮助或食物"
+      ],
+      [
+        "英语：serve",
+        "服务；供应；起作用"
+      ],
+      [
+        "英语：serving",
+        "一份供给的食物；正在服务或任职"
+      ]
+    ],
+    "explanation": "食谱写 serves four 或 four servings，是够四份。a serving officer 则是目前在职的人员，不能套用食物义。",
+    "usage": "a serving of rice；serving size；four servings；a serving officer。",
+    "contrast": "serving 和 portion 都能说食物分量；serving 常按一次给一个人的量计算，不保证人人实际吃得一样多。",
+    "examples": [
+      [
+        "The recipe makes six servings.",
+        "这份食谱可做六人份。"
+      ],
+      [
+        "One serving of rice is enough for me.",
+        "一份米饭对我就够了。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serving#English"
+    ]
+  },
+  {
+    "word": "servant",
+    "ipa": "英 /ˈsɜːvənt/；美 /ˈsɜːrvənt/",
+    "meaning": "仆人；服务者",
+    "sense": "传统家庭中专门替主人做家务、服侍起居的人；某些固定搭配里则是为公众办事的人。",
+    "split": "来自古法语 servant，即 servir“服侍”的现在分词；现代能看出 serve 与 -ant。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "古法语：servant",
+        "正在服侍的人"
+      ],
+      [
+        "英语：servant",
+        "仆人；服务者"
+      ]
+    ],
+    "explanation": "普通 servant 带旧式主仆关系的色彩。civil servant 是公务员，不是私人家仆。现代职业名称通常用更具体的职位。",
+    "usage": "a household servant；a civil servant；a public servant。",
+    "contrast": "employee 是受雇员工的通称；servant 不适合随便称呼所有员工。",
+    "examples": [
+      [
+        "The novel describes the daily life of a household servant.",
+        "小说描写了一名家仆的日常生活。"
+      ],
+      [
+        "She worked as a civil servant for many years.",
+        "她做了多年公务员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/servant#English"
+    ]
+  },
+  {
+    "word": "manservant",
+    "ipa": "英 /ˈmænsɜːvənt/；美 /ˈmænsɜːrvənt/",
+    "meaning": "男仆",
+    "sense": "旧式大宅中受雇服侍起居、料理家务的男性仆人。",
+    "split": "man + servant，英语复合词；传统复数是 menservants。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "古法语：servant",
+        "正在服侍的人"
+      ],
+      [
+        "英语：servant",
+        "仆人；服务者"
+      ],
+      [
+        "英语：man + servant → manservant",
+        "男性 + 仆人 → 男仆"
+      ]
+    ],
+    "explanation": "多见于历史或文学语境。它说明性别与服务身份，并不专指某一套职务。",
+    "usage": "a personal manservant；the household’s manservant；menservants。",
+    "contrast": "butler 常是负责特定管家事务的男管家；manservant 是更宽的男仆称呼。",
+    "examples": [
+      [
+        "In the novel, a manservant opens the door.",
+        "小说中，一名男仆打开了门。"
+      ],
+      [
+        "The household employed two menservants.",
+        "这户人家雇了两名男仆。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/manservant#English"
+    ]
+  },
+  {
+    "word": "maidservant",
+    "ipa": "英 /ˈmeɪdsɜːvənt/；美 /ˈmeɪdsɜːrvənt/",
+    "meaning": "女仆",
+    "sense": "旧式家庭里承担清洁、起居照料等工作的女性仆人。",
+    "split": "maid + servant，两个成分共同限定服务者。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "古法语：servant",
+        "正在服侍的人"
+      ],
+      [
+        "英语：servant",
+        "仆人；服务者"
+      ],
+      [
+        "英语：maid + servant → maidservant",
+        "女仆这一历史称呼"
+      ]
+    ],
+    "explanation": "带明显旧式用语色彩，历史叙述和小说较多。现代工作场景宜用具体职位名称。",
+    "usage": "a young maidservant；the family’s maidservant。",
+    "contrast": "maidservant 不等于所有女性服务人员，更不是“女服务员”的通用现代称呼。",
+    "examples": [
+      [
+        "The diary records the wages paid to a maidservant.",
+        "日记记录了付给一名女仆的工资。"
+      ],
+      [
+        "A maidservant carried fresh linen upstairs.",
+        "一名女仆把干净床单抱上楼。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/maidservant#English"
+    ]
+  },
+  {
+    "word": "serf",
+    "ipa": "英 /sɜːf/；美 /sɜːrf/",
+    "meaning": "农奴",
+    "sense": "人在土地上劳动，却不能像自由雇工一样随意离开，受到领主和土地制度的束缚。",
+    "split": "古法语 serf 来自拉丁语 servus“奴仆”，与 servant 同族，但走了不同词形路线。",
+    "history": [
+      [
+        "拉丁语：servus",
+        "奴隶；仆役"
+      ],
+      [
+        "古法语：serf",
+        "受束缚的农民"
+      ],
+      [
+        "英语：serf",
+        "农奴"
+      ]
+    ],
+    "explanation": "说的是特定历史身份，不是收入低的农民的通称。不同地区时期的义务和权利并不完全一样。",
+    "usage": "a medieval serf；the obligations of serfs；a serf’s labour。",
+    "contrast": "peasant 是农民这一较宽类别；serf 特别强调人身与土地制度上的束缚。",
+    "examples": [
+      [
+        "The historian studied the obligations of medieval serfs.",
+        "历史学家研究了中世纪农奴的义务。"
+      ],
+      [
+        "The story follows a serf seeking freedom.",
+        "故事讲述一名农奴寻求自由的经历。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serf#English"
+    ]
+  },
+  {
+    "word": "sergeant",
+    "ipa": "英 /ˈsɑːdʒənt/；美 /ˈsɑːrdʒənt/",
+    "meaning": "军士；警佐等相应警衔人员",
+    "sense": "从给人效力的角色，发展成军队或警察组织中一个明确的职级。",
+    "split": "拉丁语 serviēns“正在服役的人”经古法语 sergent 变来；与 servant 是同源的不同路线，拼写 er 却读 /ɑː/。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "拉丁语：serviēns → 古法语 sergent",
+        "服役的人 → 侍从、军职人员"
+      ],
+      [
+        "英语：sergeant",
+        "军队或警察中的职级"
+      ]
+    ],
+    "explanation": "具体对应中文哪个衔级要看国家和组织。学习时先记它是一种军警职级，不要直接按 servant 当仆人理解。",
+    "usage": "a police sergeant；a staff sergeant；promoted to sergeant。",
+    "contrast": "sergeant 不是 surgeon“外科医生”；两者拼写和读音都要分清。",
+    "examples": [
+      [
+        "The sergeant checked that everyone had returned.",
+        "那位军士确认所有人都已返回。"
+      ],
+      [
+        "She was promoted to police sergeant.",
+        "她晋升到了警佐这一警衔。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/sergeant#English"
+    ]
+  },
+  {
+    "word": "deserve",
+    "ipa": "英 /dɪˈzɜːv/；美 /dɪˈzɜːrv/",
+    "meaning": "应得；值得",
+    "sense": "看一个人做了什么、付出了什么，觉得某种回报或对待与他相称。",
+    "split": "拉丁语 dēservīre“尽力服务”，dē- 在这里加强，不是表示不服务；经法语发展出值得、应得。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "拉丁语：dēservīre",
+        "尽力效劳"
+      ],
+      [
+        "古法语：deservir",
+        "凭表现应得"
+      ],
+      [
+        "英语：deserve",
+        "值得得到某种对待"
+      ]
+    ],
+    "explanation": "从服务应得回报，扩大到行为应得任何评价或对待。可以 deserve praise，也可以 deserve criticism；不是只配好东西。",
+    "usage": "deserve a rest；deserve praise；deserve to know；deserve better。",
+    "contrast": "earn 偏实际取得或通过努力挣到；deserve 是评价“理应得到”，现实未必已经得到。",
+    "examples": [
+      [
+        "You deserve a rest after all that work.",
+        "做了那么多工作，你该休息一下了。"
+      ],
+      [
+        "Everyone deserves to be treated with respect.",
+        "每个人都值得被尊重地对待。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/deserve",
+      "https://en.wiktionary.org/wiki/deserve#English"
+    ]
+  },
+  {
+    "word": "dessert",
+    "ipa": "英 /dɪˈzɜːt/；美 /dɪˈzɜːrt/",
+    "meaning": "餐后甜点",
+    "sense": "主菜吃完、餐桌收过一轮，接着端来的水果或甜食。",
+    "split": "借自法语 dessert，来自 desservir“撤下已上桌的东西”，由 des- 撤去 + servir 上菜构成。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "法语：servir → desservir",
+        "上菜 → 撤下餐食"
+      ],
+      [
+        "法语：dessert",
+        "收去主餐后的最后一道"
+      ],
+      [
+        "英语：dessert",
+        "餐后甜点"
+      ]
+    ],
+    "explanation": "名称连到上菜和撤桌的次序，不是因为“应得一份甜食”。甜点可以是蛋糕、冰淇淋，也可以是水果。",
+    "usage": "have dessert；for dessert；the dessert menu。",
+    "contrast": "dessert 两个 s 是甜点；desert 一个 s 作“沙漠”时重音在前。just deserts“应得的报应”也不是甜点。",
+    "examples": [
+      [
+        "We had fresh fruit for dessert.",
+        "我们餐后吃了新鲜水果。"
+      ],
+      [
+        "Would you like to see the dessert menu?",
+        "你想看看甜点菜单吗？"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/dessert",
+      "https://en.wiktionary.org/wiki/dessert#English"
+    ]
+  },
+  {
+    "word": "servile",
+    "ipa": "英 /ˈsɜːvaɪl/；美 /ˈsɜːrvəl/，也读 /ˈsɜːrvaɪl/",
+    "meaning": "卑躬屈膝的；奴性的",
+    "sense": "为了讨好有权势的人，把自己的判断和尊严放得很低，什么都顺着对方。",
+    "split": "经法语 servile 来自拉丁语 servīlis“奴仆的”，基础是 servus。",
+    "history": [
+      [
+        "拉丁语：servus → servīlis",
+        "奴仆 → 奴仆式的"
+      ],
+      [
+        "法语：servile",
+        "过分顺从的"
+      ],
+      [
+        "英语：servile",
+        "卑躬屈膝的"
+      ]
+    ],
+    "explanation": "现代常带强烈贬义，批评奴颜婢膝的态度。它不是描述提供服务这一职业本身。",
+    "usage": "a servile attitude；servile obedience；servile flattery。",
+    "contrast": "polite 是礼貌；servile 是失去独立和尊严的讨好。尊重别人不需要卑躬屈膝。",
+    "examples": [
+      [
+        "She disliked his servile flattery of the manager.",
+        "她不喜欢他对经理卑躬屈膝的奉承。"
+      ],
+      [
+        "Respect does not require servile obedience.",
+        "尊重并不要求毫无原则地服从。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/servile#English"
+    ]
+  },
+  {
+    "word": "servitude",
+    "ipa": "英 /ˈsɜːvɪtjuːd/；美 /ˈsɜːrvɪtuːd/",
+    "meaning": "奴役状态；受束缚的服役",
+    "sense": "工作不只是辛苦，而是人失去自由，长期被迫为别人效力。",
+    "split": "经法语 servitude 来自拉丁语 servitūdō，来自 servus“奴仆”。",
+    "history": [
+      [
+        "拉丁语：servus → servitūdō",
+        "奴仆 → 被奴役的状态"
+      ],
+      [
+        "法语 → 英语：servitude",
+        "奴役；受支配的状态"
+      ]
+    ],
+    "explanation": "通常用于历史、社会或法律讨论。不是给所有忙碌工作起的普通名称；修辞中也可比喻长期受某物支配。",
+    "usage": "forced servitude；escape servitude；a life of servitude。",
+    "contrast": "service 可以是自愿、专业、有报酬的服务；servitude 突出自由被剥夺或严重受支配。",
+    "examples": [
+      [
+        "The book describes people struggling to escape servitude.",
+        "这本书描写人们努力摆脱奴役的经历。"
+      ],
+      [
+        "The exhibition traces the history of forced servitude.",
+        "展览梳理了被迫服役与奴役的历史。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/servitude#English"
+    ]
+  },
+  {
+    "word": "subservient",
+    "ipa": "英 /səbˈsɜːviənt/；美 /səbˈsɜːrviənt/",
+    "meaning": "过分顺从的；从属的",
+    "sense": "把自己放在别人的意志下面，或把一个目标放在另一个目标之下。",
+    "split": "拉丁语 sub- 在下 + servīre 服事，形成 subservīre，其分词 subserviēns 借入英语。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "拉丁语：subservīre → subserviēns",
+        "在下面服事 → 从属、辅助的"
+      ],
+      [
+        "英语：subservient",
+        "过分顺从的；从属于其他目标的"
+      ]
+    ],
+    "explanation": "说人常带贬义：过度听命。说目标时可以较中性，如让设计服从功能。",
+    "usage": "subservient to；a subservient role；subservient behaviour。",
+    "contrast": "subordinate 常中性地表示层级较低；subservient 形容人时更容易带不该如此顺从的评价。",
+    "examples": [
+      [
+        "She refused to be subservient to her supervisor.",
+        "她拒绝对主管唯命是从。"
+      ],
+      [
+        "The decoration is subservient to the building’s function.",
+        "装饰服从于建筑的功能。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subservient#English"
+    ]
+  },
+  {
+    "word": "subservience",
+    "ipa": "英 /səbˈsɜːviəns/；美 /səbˈsɜːrviəns/",
+    "meaning": "屈从；过度顺从；从属地位",
+    "sense": "不只某一次听话，而是长期把自己的判断放在别人下面的状态。",
+    "split": "subservient 的 -ent 对应名词 -ence，表示这种状态或态度。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "拉丁语：subservīre → subserviēns",
+        "在下面服事 → 从属、辅助的"
+      ],
+      [
+        "英语：subservient",
+        "过分顺从的；从属于其他目标的"
+      ],
+      [
+        "英语：subservience",
+        "过度顺从的态度或状态"
+      ]
+    ],
+    "explanation": "常批评权力关系中的盲目服从。用于目标关系时，也可说某事从属于另一事。",
+    "usage": "subservience to authority；an attitude of subservience。",
+    "contrast": "cooperation 是合作；subservience 是把判断权让到别人之下，尤其可能违背自身判断。",
+    "examples": [
+      [
+        "The novel criticizes unquestioning subservience to authority.",
+        "小说批评对权威不加质疑的屈从。"
+      ],
+      [
+        "Her silence was mistaken for subservience.",
+        "她的沉默被误认为是顺从。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/subservience#English"
+    ]
+  },
+  {
+    "word": "serviceable",
+    "ipa": "英 /ˈsɜːvɪsəbəl/；美 /ˈsɜːrvɪsəbəl/",
+    "meaning": "可用的；能满足基本需要的",
+    "sense": "可能不漂亮、不先进，但交给它的基本任务还能完成。",
+    "split": "经古法语 servisable 来自 service 词族；现代可看成 service + -able。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "拉丁语：servitium → 古法语 servise",
+        "服侍 → 服务"
+      ],
+      [
+        "古法语：servisable",
+        "能够供使用的"
+      ],
+      [
+        "英语：serviceable",
+        "仍可用；实用的"
+      ]
+    ],
+    "explanation": "评价常比较朴素：够用、可靠，不是夸到顶。a serviceable coat 是还穿得住的外套。",
+    "usage": "a serviceable tool；perfectly serviceable；a serviceable replacement。",
+    "contrast": "serviceable 是能用；service 服务，servile 卑躬屈膝。三个词的感情色彩完全不同。",
+    "examples": [
+      [
+        "The old bicycle is still perfectly serviceable.",
+        "这辆旧自行车仍然完全能用。"
+      ],
+      [
+        "It is a serviceable solution, though not an elegant one.",
+        "这个解决办法能用，虽然算不上巧妙。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/serviceable#English"
+    ]
+  },
+  {
+    "word": "disservice",
+    "ipa": "英 /dɪsˈsɜːvɪs/；美 /dɪsˈsɜːrvɪs/",
+    "meaning": "伤害；帮倒忙；不公正的对待",
+    "sense": "本来该提供帮助，结果让对方更吃亏，或让人对他产生不公正的印象。",
+    "split": "dis- + service，把有益的服务转成相反效果。",
+    "history": [
+      [
+        "拉丁语：servus → servīre",
+        "奴仆 → 服侍、效力"
+      ],
+      [
+        "拉丁语：servitium → 古法语 servise",
+        "服役、服侍 → 服务"
+      ],
+      [
+        "英语：service",
+        "服务；公用系统；维修服务"
+      ],
+      [
+        "英语：disservice",
+        "不利影响；帮倒忙"
+      ]
+    ],
+    "explanation": "常用 do someone a disservice，可能是有意，也可能出于好心。还可说某种描述低估了对象。",
+    "usage": "do someone a disservice；a serious disservice；a disservice to…。",
+    "contrast": "disservice 不只是没帮上忙，通常表示确实造成不利影响或不公平评价。",
+    "examples": [
+      [
+        "Doing all the homework for him would do him a disservice.",
+        "把作业全替他做完，反而会害了他。"
+      ],
+      [
+        "Calling it a simple toy does the design a disservice.",
+        "把它说成一个简单玩具，低估了这个设计。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/disservice#English"
+    ]
+  },
+  {
+    "word": "reserve",
+    "ipa": "英 /rɪˈzɜːv/；美 /rɪˈzɜːrv/",
+    "meaning": "预留；储备；保护区；克制",
+    "sense": "先别全部用掉，留下一个座位、一部分资源，或心里一些话，等合适的时候再拿出来。",
+    "split": "来自拉丁语 reservāre，经古法语；re- 在这个词里帮助表达留住、保留下来，词根是 servāre。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：reservāre",
+        "留下；保留"
+      ],
+      [
+        "古法语：reserver",
+        "留作以后使用"
+      ],
+      [
+        "英语：reserve",
+        "预留；储备；克制"
+      ]
+    ],
+    "explanation": "reserve a table 是预订；oil reserves 是石油储量；a reserve 是保护区。说人有 reserve，是不轻易显露感情的克制。",
+    "usage": "reserve a seat；keep in reserve；nature reserves；with reserve。",
+    "contrast": "reserve 强调留作某人、某事或以后使用；preserve 强调让东西完好留存。",
+    "examples": [
+      [
+        "We reserved a table for four.",
+        "我们预订了一张四人桌。"
+      ],
+      [
+        "Keep some water in reserve for the journey back.",
+        "留一些水供返程使用。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reserve#English"
+    ]
+  },
+  {
+    "word": "reservation",
+    "ipa": "英 /ˌrezəˈveɪʃən/；美 /ˌrezərˈveɪʃən/",
+    "meaning": "预订；保留意见；保留地",
+    "sense": "留住一个房间是预订；把一部分赞同留着不给，是保留意见。两种意思都抓住“还留下一点”。",
+    "split": "来自法语 reservation，深连拉丁语 reservātiō；现代对应 reserve + -ation。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：reservāre → reservātiō",
+        "保留 → 保留行为"
+      ],
+      [
+        "法语：reservation",
+        "保留"
+      ],
+      [
+        "英语：reservation",
+        "预订；保留意见；保留地"
+      ]
+    ],
+    "explanation": "I have reservations 是我有顾虑，不是我订了好几间房。reservation 的土地义也用于一些国家的原住民保留地。",
+    "usage": "make a reservation；have reservations about；without reservation。",
+    "contrast": "reservation 单数常是一次预订；reservations 也经常是顾虑。必须看宾语与语境。",
+    "examples": [
+      [
+        "I made a reservation for Friday night.",
+        "我预订了星期五晚上的位置。"
+      ],
+      [
+        "She has reservations about the proposed schedule.",
+        "她对拟议的日程安排有些顾虑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reservation#English"
+    ]
+  },
+  {
+    "word": "reserved",
+    "ipa": "英 /rɪˈzɜːvd/；美 /rɪˈzɜːrvd/",
+    "meaning": "已预订的；保留的；内敛的",
+    "sense": "位置留给特定的人；感情留在自己心里，不轻易外露。",
+    "split": "reserve + -ed，由保留动作的结果发展出内敛的性格义。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：reservāre",
+        "留下；保留"
+      ],
+      [
+        "古法语：reserver",
+        "留作以后使用"
+      ],
+      [
+        "英语：reserve",
+        "预留；储备；克制"
+      ],
+      [
+        "英语：reserved",
+        "被预留；不轻易表露感情的"
+      ]
+    ],
+    "explanation": "牌子上 Reserved 是已预订。a reserved person 往往话不多、不轻易显露心情，并不一定不友好。",
+    "usage": "a reserved seat；reserved for staff；a reserved manner。",
+    "contrast": "reserved 是克制、内敛；shy 常包含害羞、不自在。内敛的人可以很有自信。",
+    "examples": [
+      [
+        "These seats are reserved for guests.",
+        "这些座位是为来宾预留的。"
+      ],
+      [
+        "He is reserved at first but friendly once you know him.",
+        "他起初比较内敛，熟悉后却很友好。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reserved#English"
+    ]
+  },
+  {
+    "word": "reservist",
+    "ipa": "英 /rɪˈzɜːvɪst/；美 /rɪˈzɜːrvɪst/",
+    "meaning": "预备役人员",
+    "sense": "平时未必在全日制军队岗位，但作为后备力量保持相应身份，必要时可被召集。",
+    "split": "reserve + -ist，指属于预备力量的人。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：reservāre",
+        "留下；保留"
+      ],
+      [
+        "古法语：reserver",
+        "留作以后使用"
+      ],
+      [
+        "英语：reserve",
+        "预留；储备；克制"
+      ],
+      [
+        "英语：reservist",
+        "作为军队后备力量的人员"
+      ]
+    ],
+    "explanation": "具体训练、召集和服役制度因地区而异。词本身说身份，不等于已经退休或永远不会服役。",
+    "usage": "an army reservist；call up reservists；reservist training。",
+    "contrast": "veteran 强调曾经服役的经历；reservist 强调目前的预备役身份，两者可能重合。",
+    "examples": [
+      [
+        "The reservists attended a training exercise.",
+        "预备役人员参加了一次训练演习。"
+      ],
+      [
+        "She works as a teacher and is also a reservist.",
+        "她是一名教师，同时也是预备役人员。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/reservist#English"
+    ]
+  },
+  {
+    "word": "preserve",
+    "ipa": "英 /prɪˈzɜːv/；美 /prɪˈzɜːrv/",
+    "meaning": "保存；保护；维持；蜜饯或果酱",
+    "sense": "旧照片会褪色，食物会变质，习俗会失传；你采取办法，让它们继续好好留着。",
+    "split": "后期拉丁语 prae- 事先 + servāre 保全，形成 praeservāre，经法语进入。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "后期拉丁语：praeservāre",
+        "事先保护"
+      ],
+      [
+        "古法语：preserver",
+        "保全；保护"
+      ],
+      [
+        "英语：preserve",
+        "保存；维持"
+      ]
+    ],
+    "explanation": "可以保护具体物品，也可以维持尊严、传统或状态。preserves 作食品名词常指用糖保存的水果制品。",
+    "usage": "preserve food；preserve a tradition；preserve the original appearance。",
+    "contrast": "preserve 侧重防止损坏、流失或改变；reserve 侧重预留。保存旧票根是 preserve，预订车票是 reserve。",
+    "examples": [
+      [
+        "The museum works to preserve the original paintings.",
+        "博物馆努力保存原画。"
+      ],
+      [
+        "Drying is one way to preserve food.",
+        "干燥是保存食物的一种方式。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/preserve",
+      "https://en.wiktionary.org/wiki/preserve#English"
+    ]
+  },
+  {
+    "word": "preservation",
+    "ipa": "英 /ˌprezəˈveɪʃən/；美 /ˌprezərˈveɪʃən/",
+    "meaning": "保存；保护；维持原状",
+    "sense": "把东西长期留好，不让时间、环境或使用把它毁掉的过程。",
+    "split": "古法语 preservacion 来自中世纪拉丁语 praeservātiō；现代对应 preserve + -ation。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "后期拉丁语：praeservāre → 中世纪 praeservātiō",
+        "事先保护 → 保存行为"
+      ],
+      [
+        "古法语：preservacion",
+        "保存"
+      ],
+      [
+        "英语：preservation",
+        "保存；保护"
+      ]
+    ],
+    "explanation": "可以讨论档案、建筑、食物或自然环境的保存。词义偏持续留存，不只一次临时防护。",
+    "usage": "food preservation；the preservation of records；historic preservation。",
+    "contrast": "preservation 强调留存；restoration 是修复到某种较早状态。保存可能需要修复，但两词不完全相同。",
+    "examples": [
+      [
+        "Low humidity helps with the preservation of old documents.",
+        "较低湿度有助于保存旧文献。"
+      ],
+      [
+        "The group supports the preservation of historic buildings.",
+        "这个团体支持保护历史建筑。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preservation#English"
+    ]
+  },
+  {
+    "word": "preserver",
+    "ipa": "英 /prɪˈzɜːvə/；美 /prɪˈzɜːrvər/",
+    "meaning": "保护者；保存者；救生用品",
+    "sense": "那个让事物免于毁坏、继续存在的人或工具。",
+    "split": "preserve + -er，既能指做事的人，也能指发挥保护作用的物。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "后期拉丁语：praeservāre",
+        "事先保护"
+      ],
+      [
+        "古法语：preserver",
+        "保全；保护"
+      ],
+      [
+        "英语：preserve",
+        "保存；维持"
+      ],
+      [
+        "英语：preserver",
+        "保存、保护的人或物"
+      ]
+    ],
+    "explanation": "a preserver of traditions 是传统的守护者；life preserver 是救生用具，常指救生圈或救生衣等。",
+    "usage": "a preserver of history；a life preserver；preservers of tradition。",
+    "contrast": "preserver 常指人或保护工具；preservative 常指防腐成分。",
+    "examples": [
+      [
+        "The archive acts as a preserver of local history.",
+        "这座档案馆保存着当地历史。"
+      ],
+      [
+        "A life preserver hung beside the boat’s cabin.",
+        "船舱旁挂着一个救生圈。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preserver#English"
+    ]
+  },
+  {
+    "word": "preservative",
+    "ipa": "英 /prɪˈzɜːvətɪv/；美 /prɪˈzɜːrvətɪv/",
+    "meaning": "防腐剂；有保存作用的",
+    "sense": "在容易腐坏的材料里加入一种成分，让它不那么快变坏。",
+    "split": "来自法语 preservatif、中世纪拉丁语 praeservātīvus，与 preserve 同族；现代对应 preserve 与 -ative。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "后期拉丁语：praeservāre → 中世纪 praeservātīvus",
+        "保护 → 起保护作用的"
+      ],
+      [
+        "法语：preservatif",
+        "保存用的"
+      ],
+      [
+        "英语：preservative",
+        "防腐的；防腐剂"
+      ]
+    ],
+    "explanation": "可以说食品中的防腐成分，也可以说木材保护剂。词本身描述功能，不能单凭名称判断具体成分的安全性或效果。",
+    "usage": "food preservatives；a wood preservative；preservative treatment。",
+    "contrast": "preservation 是保存过程；preservative 是发挥保存作用的物质或性质。",
+    "examples": [
+      [
+        "The label lists the preservative used in the product.",
+        "标签列出了产品使用的防腐剂。"
+      ],
+      [
+        "The timber received a preservative treatment.",
+        "这批木材做了防腐处理。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/preservative#English"
+    ]
+  },
+  {
+    "word": "conserve",
+    "ipa": "动词：英 /kənˈsɜːv/、美 /kənˈsɜːrv/；食品名词常 /ˈkɒnsɜːv/（英）",
+    "meaning": "节约；保护；保存；果酱",
+    "sense": "手里的水、体力和自然资源都有限，别白白消耗，让它们留得更久。",
+    "split": "拉丁语 cōnservāre，经法语 conserver；con- 在这里加强保全的动作，不必逐字译成一起服务。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：cōnservāre",
+        "仔细保全；维持"
+      ],
+      [
+        "古法语：conserver",
+        "保存"
+      ],
+      [
+        "英语：conserve",
+        "节约；保护"
+      ]
+    ],
+    "explanation": "conserve water 是节约水，conserve wildlife 是保护野生生物。食品名词 conserve 是一种果酱，沿保存食物的意思发展。",
+    "usage": "conserve energy；conserve water；conserve natural habitats。",
+    "contrast": "conserve 常突出节制使用、妥善管理；preserve 常突出保持完整。实际搭配可以有重叠。",
+    "examples": [
+      [
+        "We turned off the lights to conserve energy.",
+        "我们关掉灯以节约能源。"
+      ],
+      [
+        "The project aims to conserve the wetland habitat.",
+        "这个项目旨在保护湿地栖息地。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conserve#English"
+    ]
+  },
+  {
+    "word": "conservation",
+    "ipa": "英 /ˌkɒnsəˈveɪʃən/；美 /ˌkɑːnsərˈveɪʃən/",
+    "meaning": "保护；节约；守恒",
+    "sense": "把资源和事物好好留下来；物理学里则是某个量在规定条件下总量保持不变。",
+    "split": "经法语来自拉丁语 cōnservātiō，与 cōnservāre 同族；现代对应 conserve + -ation。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：cōnservāre → cōnservātiō",
+        "保全 → 保全行为"
+      ],
+      [
+        "法语 → 英语：conservation",
+        "保护；节约；守恒"
+      ]
+    ],
+    "explanation": "wildlife conservation 是保护野生生物；energy conservation 在日常用法是节能，在物理学中也指能量守恒。",
+    "usage": "nature conservation；water conservation；conservation of energy。",
+    "contrast": "conservation 不是 conversation“谈话”。energy conservation 的两种意思要按生活或物理语境区分。",
+    "examples": [
+      [
+        "The school runs a water conservation programme.",
+        "学校开展节水项目。"
+      ],
+      [
+        "The lesson explains the conservation of energy in an isolated system.",
+        "这一课讲解孤立系统中的能量守恒。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conservation#English"
+    ]
+  },
+  {
+    "word": "conservative",
+    "ipa": "英 /kənˈsɜːvətɪv/；美 /kənˈsɜːrvətɪv/",
+    "meaning": "保守的；审慎的；保守派",
+    "sense": "变化来了，先倾向保住现有做法；估数字时，则宁愿稳一点，不把结果说得过大。",
+    "split": "经法语 conservatif 来自拉丁语 cōnservāre“保持”；现代可联系 conserve 与 -ative。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：cōnservāre → 法语 conservatif",
+        "保全 → 倾向保持的"
+      ],
+      [
+        "英语：conservative",
+        "倾向保持现状；谨慎的"
+      ]
+    ],
+    "explanation": "可指政治立场、传统风格或审慎估计。a conservative estimate 是偏稳妥的估计，不是有政治立场的估计。",
+    "usage": "conservative views；conservative clothing；a conservative estimate。",
+    "contrast": "conservation 是保护；conservative 是保守或审慎。环保工作者不因此自动属于某种政治保守派。",
+    "examples": [
+      [
+        "That is a conservative estimate of the time required.",
+        "这是对所需时间的一个谨慎估计。"
+      ],
+      [
+        "He prefers conservative styles of clothing.",
+        "他偏爱传统稳重的衣着风格。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/conservative#English"
+    ]
+  },
+  {
+    "word": "conservator",
+    "ipa": "英 /kənˈsɜːvətə/；美 /kənˈsɜːrvətər/",
+    "meaning": "文物保护修复人员；受托管理者",
+    "sense": "面对老画、文献或器物，这个人的工作是尽量保存它们，必要时谨慎修复。",
+    "split": "经法语 conservatour 来自拉丁语 cōnservātor，是 cōnservāre“保全”的施事名词。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：cōnservātor",
+        "保全、保护的人"
+      ],
+      [
+        "法语：conservatour",
+        "保护者"
+      ],
+      [
+        "英语：conservator",
+        "保护修复人员；管理者"
+      ]
+    ],
+    "explanation": "博物馆语境常指保护修复专业人员；某些法律语境另有管理他人财产或事务的角色。具体职责随制度变化。",
+    "usage": "a museum conservator；a painting conservator；conservators at work。",
+    "contrast": "curator 常负责藏品研究、选择与展览；conservator 更偏材料保存和修复，工作可能合作但不相同。",
+    "examples": [
+      [
+        "A conservator examined the damaged painting.",
+        "一位保护修复人员检查了受损油画。"
+      ],
+      [
+        "The conservator tested the paper before beginning repairs.",
+        "修复人员在修补之前测试了纸张。"
+      ]
+    ],
+    "sources": [
+      "https://www.collinsdictionary.com/dictionary/english-pronunciations/conservator",
+      "https://en.wiktionary.org/wiki/conservator#English"
+    ]
+  },
+  {
+    "word": "conservatory",
+    "ipa": "英 /kənˈsɜːvətri/；美 /kənˈsɜːrvətɔːri/",
+    "meaning": "玻璃暖房；温室；音乐学院",
+    "sense": "一边是把植物保护起来的玻璃空间；另一边是历史上收容并培养孩子、后来发展音乐教育的机构。",
+    "split": "温室义沿 conserve“保存”发展；音乐学院义经意大利语 conservatorio、法语 conservatoire，连到中世纪拉丁语 conservatorium“保护之处”。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语保全词族：conservator / conservatorium",
+        "保护者；保护、收容之处"
+      ],
+      [
+        "欧洲语言中的两条发展",
+        "植物保存空间；收容与音乐教育机构"
+      ],
+      [
+        "英语：conservatory",
+        "温室、玻璃暖房；音乐学院"
+      ]
+    ],
+    "explanation": "音乐学院不是因为“保存音乐”这个现代联想才得名，历史上有收容机构提供音乐训练的背景。英式日常还常指住宅相连的玻璃暖房。",
+    "usage": "a glass conservatory；a music conservatory；study at a conservatory。",
+    "contrast": "observatory 是天文台等观测场所；conservatory 是暖房或音乐学院。",
+    "examples": [
+      [
+        "They grow tender plants in the conservatory.",
+        "他们在玻璃温室里种怕冷的植物。"
+      ],
+      [
+        "She studied piano at a conservatory.",
+        "她在音乐学院学钢琴。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/conservatory",
+      "https://en.wiktionary.org/wiki/conservatory#English"
+    ]
+  },
+  {
+    "word": "conservancy",
+    "ipa": "英 /kənˈsɜːvənsi/；美 /kənˈsɜːrvənsi/",
+    "meaning": "自然资源保护；保护管理机构或区域",
+    "sense": "给一片土地或一条河安排长期看护，让保护成为一项持续的工作。",
+    "split": "更早的 conservancie 借自中世纪拉丁语 conservantia，与 conservāre“保全”相连；现代能看出 conserve 与 -ancy，但不把它冒充全部历史。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：cōnservāre → 中世纪 conservantia",
+        "保全 → 保护工作、职务"
+      ],
+      [
+        "中古英语：conservancie → 英语 conservancy",
+        "保护管理；相关组织或区域"
+      ]
+    ],
+    "explanation": "常见于机构和保护项目名称；具体是组织、工作还是管理区，需要看上下文。",
+    "usage": "a river conservancy；a local conservancy；land conservancy。",
+    "contrast": "conservation 较常指保护工作本身；conservancy 更常见于承担保护工作的组织、区域或管理体系。",
+    "examples": [
+      [
+        "The local conservancy maintains trails through the wetland.",
+        "当地保护组织维护着穿过湿地的小径。"
+      ],
+      [
+        "She volunteers with a land conservancy.",
+        "她在一家土地保护组织做志愿者。"
+      ]
+    ],
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/conservancy",
+      "https://en.wiktionary.org/wiki/conservancy#English"
+    ]
+  },
+  {
+    "word": "observe",
+    "ipa": "英 /əbˈzɜːv/；美 /əbˈzɜːrv/",
+    "meaning": "观察；遵守；庆祝或纪念；评论说",
+    "sense": "把注意力守在某件事上：守着现象看，就能观察；把规定放在心上，就能遵守。",
+    "split": "拉丁语 ob- 在面前 + servāre 看守，形成 observāre，经法语进入。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：observāre",
+        "留心看守；遵守"
+      ],
+      [
+        "古法语：observer",
+        "留心；遵守"
+      ],
+      [
+        "英语：observe",
+        "观察；遵守；说出评论"
+      ]
+    ],
+    "explanation": "现代可以 observe birds，也可以 observe rules。observe a holiday 是按惯例庆祝或纪念；she observed that… 是她评论说。历史上的遵守义进入英语较早，不能把所有意义排成“先科学观察，再守规则”。",
+    "usage": "observe a change；observe the rules；observe a holiday；observe that…。",
+    "contrast": "watch 偏看着过程；observe 常多一层留心、注意细节。遇到 rules 时是遵守，不是站着看规则。",
+    "examples": [
+      [
+        "We observed the birds from a distance.",
+        "我们在远处观察鸟。"
+      ],
+      [
+        "All visitors must observe the safety rules.",
+        "所有访客都必须遵守安全规定。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/observe",
+      "https://en.wiktionary.org/wiki/observe#English"
+    ]
+  },
+  {
+    "word": "observation",
+    "ipa": "英 /ˌɒbzəˈveɪʃən/；美 /ˌɑːbzərˈveɪʃən/",
+    "meaning": "观察；观察结果；评论",
+    "sense": "认真看见了什么，把那个发现记下来或说出来；过程和发现都可以叫 observation。",
+    "split": "经法语来自拉丁语 observātiō；与 observe 同族，现代对应 observe + -ation。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：observāre → observātiō",
+        "留意 → 留意、观察的行为"
+      ],
+      [
+        "法语：observation",
+        "观察"
+      ],
+      [
+        "英语：observation",
+        "观察；观察所得的评论"
+      ]
+    ],
+    "explanation": "under observation 是处于观察中。make an observation 可以提出一个看法，不一定拿着仪器测量。",
+    "usage": "careful observation；make an observation；under observation；an observation about…。",
+    "contrast": "observation 是观察或评论；observance 主要是遵守、纪念活动。",
+    "examples": [
+      [
+        "Careful observation revealed a change in the colour.",
+        "仔细观察发现颜色有了变化。"
+      ],
+      [
+        "She made a useful observation about the design.",
+        "她对设计提出了一个有用的看法。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observation#English"
+    ]
+  },
+  {
+    "word": "observer",
+    "ipa": "英 /əbˈzɜːvə/；美 /əbˈzɜːrvər/",
+    "meaning": "观察者；旁观者；观摩人员",
+    "sense": "站在一旁留心看发生了什么，可能作记录，但不一定直接参与决定。",
+    "split": "observe + -er。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：observāre",
+        "留心看守；遵守"
+      ],
+      [
+        "古法语：observer",
+        "留心；遵守"
+      ],
+      [
+        "英语：observe",
+        "观察；遵守；说出评论"
+      ],
+      [
+        "英语：observer",
+        "留心看、记录情况的人"
+      ]
+    ],
+    "explanation": "可以是普通目击者，也可以是正式派出的监督观察人员。observer status 表示可观察、参与某些活动，但权利不等同正式成员。",
+    "usage": "an independent observer；a casual observer；observer status。",
+    "contrast": "participant 直接参与活动；observer 重点在观察。一个人也可能在不同阶段承担两种角色。",
+    "examples": [
+      [
+        "An independent observer attended the counting process.",
+        "一名独立观察员到场观察了计票过程。"
+      ],
+      [
+        "To a casual observer, the two machines look identical.",
+        "在随便看一眼的人看来，这两台机器一模一样。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observer#English"
+    ]
+  },
+  {
+    "word": "observatory",
+    "ipa": "英 /əbˈzɜːvətri/；美 /əbˈzɜːrvətɔːri/",
+    "meaning": "天文台；观测台",
+    "sense": "把仪器和观察人员安置在一个专门地点，让他们长期看天空、天气或其他自然现象。",
+    "split": "借自法语 observatoire，属于 observer 的观测词族；现代对应 observe 与表示场所的 -atory。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：observāre → 法语 observer",
+        "留心 → 观测"
+      ],
+      [
+        "法语：observatoire",
+        "专门观测的场所"
+      ],
+      [
+        "英语：observatory",
+        "天文台等观测设施"
+      ]
+    ],
+    "explanation": "典型形象是山顶带圆顶和望远镜的建筑，但不只天文观测可以使用这个词。",
+    "usage": "an astronomical observatory；a mountain observatory；visit an observatory。",
+    "contrast": "laboratory 是实验室；observatory 突出对外界现象进行观测，未必主动改变对象。",
+    "examples": [
+      [
+        "The observatory is far from the city’s bright lights.",
+        "天文台远离城市的强光。"
+      ],
+      [
+        "Students visited the observatory to learn about its telescopes.",
+        "学生们参观天文台，了解那里的望远镜。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observatory#English"
+    ]
+  },
+  {
+    "word": "observable",
+    "ipa": "英 /əbˈzɜːvəbəl/；美 /əbˈzɜːrvəbəl/",
+    "meaning": "可观察到的；可检测的",
+    "sense": "变化已经不是凭空猜想，而是能通过眼睛、仪器或系统记录看出来。",
+    "split": "observe + -able，能被观察到的。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：observāre",
+        "留心看守；遵守"
+      ],
+      [
+        "古法语：observer",
+        "留心；遵守"
+      ],
+      [
+        "英语：observe",
+        "观察；遵守；说出评论"
+      ],
+      [
+        "英语：observable",
+        "能通过观察察觉的"
+      ]
+    ],
+    "explanation": "不一定肉眼可见；仪器检测到的变化也可以 observable。它说能否观察，不自动说明原因已经查清。",
+    "usage": "an observable change；observable effects；directly observable。",
+    "contrast": "obvious 是显而易见；observable 只是可观察到，仍可能需要精密设备。",
+    "examples": [
+      [
+        "There was no observable change in the sample.",
+        "样本没有出现可观察到的变化。"
+      ],
+      [
+        "The effect is observable only with special equipment.",
+        "这种效应只能借助专门设备观察到。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observable#English"
+    ]
+  },
+  {
+    "word": "observant",
+    "ipa": "英 /əbˈzɜːvənt/；美 /əbˈzɜːrvənt/",
+    "meaning": "善于观察的；留心的；遵守宗教戒律的",
+    "sense": "别人走过没注意，你却看见门把手换了、语气变了，说明你很 observant。",
+    "split": "与法语 observant 和英语 observe + -ant 相关；承接 observe 留心与遵守两条意思。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：observāre → 法语 observant",
+        "留心、遵守 → 留意的、遵守的"
+      ],
+      [
+        "英语：observant",
+        "善于观察；谨守戒律"
+      ]
+    ],
+    "explanation": "日常常夸人细心。宗教语境可指认真遵循有关规定，而不是说此人眼力好。",
+    "usage": "an observant child；highly observant；religiously observant。",
+    "contrast": "observant 说人善于观察或守规；observable 说事物能被观察，主客体方向相反。",
+    "examples": [
+      [
+        "An observant child noticed the tiny crack.",
+        "一个细心的孩子发现了那条小裂缝。"
+      ],
+      [
+        "The biography describes a religiously observant family.",
+        "传记描写了一个认真遵循宗教戒律的家庭。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observant#English"
+    ]
+  },
+  {
+    "word": "observational",
+    "ipa": "英 /ˌɒbzəˈveɪʃənəl/；美 /ˌɑːbzərˈveɪʃənəl/",
+    "meaning": "观察的；基于观察的",
+    "sense": "先看真实情况怎样发生，收集观察到的内容来研究或创作。",
+    "split": "observation + -al。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：observāre → observātiō",
+        "留意 → 留意、观察的行为"
+      ],
+      [
+        "法语：observation",
+        "观察"
+      ],
+      [
+        "英语：observation",
+        "观察；观察所得的评论"
+      ],
+      [
+        "英语：observational",
+        "依靠或涉及观察的"
+      ]
+    ],
+    "explanation": "observational study 通常观察既有情况；observational comedy 从生活中常见的小细节提炼笑点。",
+    "usage": "observational data；an observational study；observational comedy。",
+    "contrast": "experimental 常有主动安排的干预；observational 常观察已有情况。观察到关联本身不等于证明原因。",
+    "examples": [
+      [
+        "The researchers collected observational data from the field.",
+        "研究人员在现场收集了观察数据。"
+      ],
+      [
+        "Her observational comedy focuses on everyday habits.",
+        "她的生活观察类喜剧围绕人们的日常习惯展开。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observational#English"
+    ]
+  },
+  {
+    "word": "observance",
+    "ipa": "英 /əbˈzɜːvəns/；美 /əbˈzɜːrvəns/",
+    "meaning": "遵守；奉行；纪念或宗教仪式",
+    "sense": "把规定或重要日子认真放在行动里：该遵循的遵循，该纪念的举行仪式。",
+    "split": "经古法语 observance 来自拉丁语 observantia，承接 observāre 的遵守义。",
+    "history": [
+      [
+        "拉丁语：servāre",
+        "看守；保全；留心"
+      ],
+      [
+        "拉丁语：observāre → observantia",
+        "遵守 → 遵守的行为"
+      ],
+      [
+        "古法语：observance",
+        "守规；奉行"
+      ],
+      [
+        "英语：observance",
+        "遵守；纪念活动"
+      ]
+    ],
+    "explanation": "observance of rules 是遵守规定；religious observances 可指宗教仪式或习惯性活动。",
+    "usage": "observance of the rules；religious observance；in observance of…。",
+    "contrast": "observation 是观察；observance 是照着规定或惯例做，不能只凭相同词根互换。",
+    "examples": [
+      [
+        "Strict observance of the rules is required.",
+        "必须严格遵守规定。"
+      ],
+      [
+        "The office is closed in observance of the holiday.",
+        "办公室因纪念这个节日而休息。"
+      ]
+    ],
+    "sources": [
+      "https://en.wiktionary.org/wiki/observance#English"
+    ]
+  }
+]

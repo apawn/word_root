@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="462" viewBox="0 0 1000 462" role="img">
+<title>mandate：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="460" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：manus；manū 是“用手、在手中”等屈折形式</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">手；由手引申的操作、掌握、权力</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：mandāre（mandō）</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">交付、委托、命令；传统解释联系“交到手里”</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">拉丁语：mandātum；法语：mandat</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">被交付的任务、命令</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：mandate</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">正式命令、授权；动词指要求、授权</text>
+</svg>

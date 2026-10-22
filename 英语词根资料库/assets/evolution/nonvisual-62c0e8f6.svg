@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>nonvisual：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：vidēre（videō）</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">看；看见</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：vīsus</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">看见；所见的样子</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">晚期拉丁语：vīsuālis；法语：visuel</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">与视觉有关的</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：visual</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">视觉的；图像的</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：non- + visual → nonvisual</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">不属于视觉通道的</text>
+</svg>

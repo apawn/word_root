@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""C0968 pat: walking through a philosophical name into modern travel."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[E('peripatetic','/ˌperipəˈtetɪk/〔也有 /ˌperə-/ 读法〕','巡回工作的；四处走动的；逍遥学派的〔常大写〕；该学派成员〔名词〕','一位音乐老师这天到甲校、明天到乙校上课，工作没有固定在一个地点。这种来回奔走的生活或工作方式可以叫 peripatetic。','希腊 peri-“周围”加 patein“行走、踩踏”，构成 peripatein“走来走去”，再到 peripatētikos。经拉丁 peripateticus 和法语 peripatetique 借入英语，英语早期先指亚里士多德学派，后来才普遍形容四处走动。',[['希腊 peri-；patein','周围；行走、踩踏'],['peripatein → peripatētikos','走来走去；后来联系亚里士多德学派'],['拉丁 peripateticus → 法语 peripatetique／英语直接借入','逍遥学派相关的名称'],['英语 peripatetic','先有学派义，后来扩展为巡回、四处走动']],'学派名称与 Lyceum 的步道、漫步讲学的传统有关，因此中文常译“逍遥学派”。现代 a peripatetic teacher 通常只是往返多处授课的老师，并不是在说明他的哲学立场；a peripatetic life 也可说一个人经常迁移或旅行。','a peripatetic music teacher；a peripatetic career；a peripatetic life；the Peripatetic school。日常义偏正式，学派名常大写。','itinerant 也指巡回流动；peripatetic 带有走来走去的历史画面，有时略显文雅或诙谐。peripatetic 的 pat 不是英语 pat“轻拍”。',('She works as a peripatetic music teacher in several schools.','她是一位往返多所学校授课的音乐老师。'),('His peripatetic childhood took him from one city to another.','他童年时经常迁移，从一座城市辗转到另一座。'),('The lecture introduced the Peripatetic school associated with Aristotle.','讲座介绍了与亚里士多德相关的逍遥学派。'),sources=['https://www.etymonline.com/word/peripatetic','https://www.oxfordlearnersdictionaries.com/definition/english/peripatetic','https://www.merriam-webster.com/dictionary/peripatetic'])]
+cat=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text()) if x['id']=='C0968');EX={w:'较专门的哲学学说名词，按当前通用阅读范围暂略；基本学派义在 peripatetic 条说明。' for w in cat['family'] if w!='peripatetic'}
+ROOT=dict(id='C0968',meaning='行走；踩踏',core='这里的 pat- 接希腊 patein“行走、踩踏”。加 peri-“周围”，画面就是来回走动。',image='peri- 周围 + patein 行走 → peripatein → peripatētikos → peripatetic 学派名称，后来也指四处走动。',intro='从巡回老师这个现代场景入手，再回看古希腊哲学名称。实际词史中，英语先借入学派名称，后来才广泛描述来回走动的人。',forms='peripatetic 经希腊、拉丁和法语背景借入，不是现代英语把 peri 和 pat 当两个独立单词拼接。词尾 -etic 的形式已经包含在借入词的历史里。',branches=[['巡回生活与哲学学派','peripatetic']],contrasts='普通的 peripatetic teacher 不意味着亚里士多德学派成员；名称中的行走也不是用来衡量一个人是否真正有思想。',practice='用 peripatetic 描述一个经常到不同地点工作的人，再区分大写学派名称的专门用法。',words=['peripatetic'],exclude=EX)
+if __name__=='__main__':
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_225.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('pat: 1 word; 3 examples')

@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""C1411 steg: covered writing and a roof-named dinosaur."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[E('steganography','英 /ˌsteɡəˈnɒɡrəfi/；美 /ˌsteɡəˈnɑːɡrəfi/','隐写术；把信息藏在别的内容中以掩盖其存在','看上去是一张普通图片，里面却藏着另一条消息。steganography 的重点是让旁人连“这里还有消息”都不容易察觉。','接近代拉丁 steganographia，组成材料是希腊 steganos“被遮盖的、隐蔽的”（接 stegein“覆盖”）与 -graphia“写、记录”。英语早在 16 世纪已有秘密书写相关用法，现代又用于数字信息的隐藏，不是互联网时代才第一次造出这个名称。',[['希腊 steganos〔接 stegein〕；-graphia〔接 graphein〕','被遮盖的；写、记录'],['近代拉丁 steganographia','隐蔽书写、秘密书写的名称'],['英语 steganography','早期秘密书写用语；现代常强调藏起通信或消息本身的存在']],'可以把它想成“把信藏进一件看似普通的东西里”。数字语境中，载体可能是图片、声音或其他文件；词义并不要求所有隐藏信息都加密。这个术语说明隐藏方式，不说明使用者的目的必然善或恶。','digital steganography；the use of steganography；detect steganography in a file。通常不可数。','encryption 主要让消息内容难以读懂；steganography 主要让消息的存在不易被发现。二者可以结合使用，但不是同一个动作。',('The exhibition explains steganography through examples of messages hidden inside ordinary-looking texts.','展览用藏在普通文字中的消息来解释隐写术。'),('The security course distinguishes steganography from encryption.','安全课程区分了隐写术与加密。'),sources=['https://www.merriam-webster.com/dictionary/steganography','https://www.etymonline.com/word/steganography','https://www.collinsdictionary.com/dictionary/english/steganography','https://csrc.nist.gov/glossary/term/steganography'])]
+names=['steganography','stegosaurus'];cat=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text()) if x['id']=='C1411');EX={w:('科学属名大写形式，统一在 stegosaurus 词条说明，不重复收录。' if w=='Stegosaurus' else '较冷门的鸟类分类用语，按当前范围暂略。') for w in cat['family'] if w not in names}
+ROOT=dict(id='C1411',meaning='覆盖；屋顶',core='希腊 stegein 是“覆盖”。相关的 steganos 表示“被盖住、隐藏的”，stegos 则与屋顶有关：一支盖住消息，一支借屋顶给恐龙命名。',image='覆盖 → steganos 隐藏的 → steganography 隐写术；stegos 屋顶 + sauros 蜥蜴 → Stegosaurus／stegosaurus 剑龙。',intro='两条词义靠“覆盖”联系起来，但现代并不等同。隐写术隐藏消息；剑龙的名称保留了早期研究者对骨板形态的想象。',forms='stegan- 经 steganos 进入 steganography；stego- 经 stegos 进入科学属名 Stegosaurus。英语普通名词常写小写 stegosaurus，科学属名首字母大写。',branches=[['隐蔽的信息','steganography'],['由屋顶形象命名的恐龙','stegosaurus']],contrasts='steganography 与 encryption 的目标不同：前者隐藏消息存在，后者主要保护内容可读性。stegosaurus 里的“屋顶”也不能被当作现代骨板排列的定论。',practice='分别用“盖住消息”和“像屋顶的骨板”回忆两词，再说明各自的现代含义。',words=names,exclude=EX)
+if __name__=='__main__':
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_243.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('steg: 1 new; 2 examples; 1 shared')

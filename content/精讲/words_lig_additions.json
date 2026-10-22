@@ -1,0 +1,36 @@
+[
+  {
+    "word": "legato",
+    "ipa": "英 /lɪˈɡɑːtəʊ/；美 /lɪˈɡɑːtoʊ/",
+    "meaning": "连奏的；连贯地演奏",
+    "sense": "让相邻音符像连着的一条线，不在它们之间留下明显的断口。",
+    "split": "借自意大利语 legato“绑在一起的”，是 legare 的过去分词，远源为拉丁语 ligāre“捆绑、连接”；它属于 lig-，不属于 lēgāre“委派”这一根。",
+    "history": [
+      [
+        "拉丁语 ligāre",
+        "捆绑、连接"
+      ],
+      [
+        "意大利语 legare → legato → 英语音乐词 legato",
+        "连在一起的 → 音与音连贯地演奏"
+      ]
+    ],
+    "explanation": "乐谱中的 legato 要求连贯的发音效果；具体用手指、弓法还是气息做到，取决于乐器。它不自动要求把速度放慢，也不等于所有音都拖得很长。",
+    "usage": "play legato；a legato phrase；smooth legato。",
+    "contrast": "staccato 强调短促分离；legato 强调音与音之间的连贯。",
+    "examples": [
+      [
+        "Play the melody legato, keeping the notes smoothly connected.",
+        "把旋律连贯地演奏，让音符之间平滑衔接。"
+      ],
+      [
+        "The teacher asked for a more natural legato in the second phrase.",
+        "老师要求第二个乐句的连奏更自然一些。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/legato",
+      "https://www.collinsdictionary.com/dictionary/english/legato"
+    ]
+  }
+]

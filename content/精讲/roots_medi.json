@@ -1,0 +1,63 @@
+[
+  {
+    "id": "C0713",
+    "meaning": "中间；居间；没有中间隔层时引申为直接",
+    "core": "MEDI = MIDDLE",
+    "image": "两端之间有个中间位置：可以承载、协调，也可以被拿掉",
+    "intro": "**medi-** 来自拉丁语 **medius**“中间的”。站在中间协调是 mediate；承载两端传播的是 medium；拿掉中间隔层就是 immediate。它也能进入大小、时间、地理、统计和音乐，但要看具体词怎样发展，不能所有词都只译成“中间”。",
+    "forms": "**mediānus** 经过不同路线留下 mean 的平均义与 median。**medium** 的复数是 media。medius 与 diēs“一天”结合发生音变，留下 meridian；与 aevum“时代”结合留下 medieval。**mean** 的“表示、打算”和“刻薄”另有来源，不属于这条拉丁词源。",
+    "branches": [
+      [
+        "居中承载",
+        "medium · media · multimedia"
+      ],
+      [
+        "居间沟通",
+        "mediate · mediation · mediator"
+      ],
+      [
+        "中间没有隔层",
+        "immediate · immediately · immediacy"
+      ],
+      [
+        "位置与数值",
+        "mean · median · intermediate"
+      ],
+      [
+        "时代与地理",
+        "medieval · Mediterranean · meridian"
+      ],
+      [
+        "平常与半份",
+        "mediocre · mediocrity · moiety"
+      ]
+    ],
+    "contrasts": "**mean / median**：算术平均值 / 排序后的中位数；2、3、10 的两者分别是 5 与 3。\n\n**medium / mediocre**：中等大小常是中性信息；平庸的质量常带失望。\n\n**mediate / meditate**：调解 / 冥想，拼写接近但词源和用法不同。\n\n**immediate** 的 im- 是否定“有中间隔层”，所以能同时解释立即、直属、紧邻。",
+    "practice": "**An intermediary contacted a mediator, who asked both sides for an immediate reply.**\n\n中间人联系了一位调解人，调解人请双方立即答复。intermediary 处在联络中间，mediator 帮双方协调，immediate 则不留时间间隔。",
+    "words": [
+      "mean",
+      "medium",
+      "media",
+      "multimedia",
+      "immediate",
+      "immediately",
+      "immediacy",
+      "median",
+      "mediate",
+      "mediation",
+      "mediator",
+      "intermediary",
+      "intermediate",
+      "medieval",
+      "Mediterranean",
+      "mediocre",
+      "mediocrity",
+      "moiety",
+      "mediumship",
+      "dimidiation",
+      "meridian",
+      "postmeridian",
+      "submediant"
+    ]
+  }
+]

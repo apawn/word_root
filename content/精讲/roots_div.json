@@ -1,0 +1,113 @@
+[
+  {
+    "id": "C0325",
+    "meaning": "分开、不同：几条相似词形的并行来源",
+    "core": "放在一起比较：分成几部分，或走向不同方向。",
+    "image": "切开的蛋糕、分岔的道路、各不相同的卡片。",
+    "intro": "这页保留 div- / diff- 这一学习入口，但要先拆清楚：这些单词不是全从 diversum 变来。它们多有 dis- / di-“分开”的共同前缀背景，后面的动词根却不同。下面分别看分割、带开、转向几条路线。",
+    "forms": "divide：来自 dīvidere“分开”；divis- 是它的分词词干。-videre 不是 vidēre“看见”。\n\ndifferent / difference：来自 dis- + ferre“带开”；dif- 是前缀同化，不是把 diff- 单独当作统一词根。\n\ndiverse / diversity：来自 dis- + vertere“转向不同方向”。diverge / divergence 则是 dis- + vergere“转向、倾向”，两者不是同一个拉丁动词。\n\ndiffeomorphism 是现代数学缩合词；individual 是“不可分的整体”发展成“个体”；这些都要沿各自链条理解。",
+    "branches": [
+      [
+        "整体切开",
+        "divide, division"
+      ],
+      [
+        "数学中的分",
+        "dividend, divisor"
+      ],
+      [
+        "一个完整个体",
+        "individual, individuality"
+      ],
+      [
+        "安排出方案",
+        "devise, device"
+      ],
+      [
+        "比较出不同",
+        "differ, difference"
+      ],
+      [
+        "区分与变化",
+        "differentiate, differential"
+      ],
+      [
+        "不再在意差别",
+        "indifferent, indifference"
+      ],
+      [
+        "走向不同方向",
+        "diverge, divergent"
+      ],
+      [
+        "类型丰富",
+        "diverse, biodiversity"
+      ],
+      [
+        "数学中的平顺对应",
+        "diffeomorphism"
+      ]
+    ],
+    "contrasts": "相似拼写只给线索，不自动证明同源。把 different、divide、diverge 全写成 diversum 的后代，会抹掉真实历史。\n\ndivided 是被分开的状态；divisive 是造成对立的性质；diverse 是多样。indifferent 通常表示不在乎，不是简单的“相同”。\n\ndivision / divisor / dividend 放进 12 ÷ 3 = 4 的画面记；differentiation / differentiability 则分别是求导与可微性，不要只看中文都有“微”就混用。",
+    "practice": "用 divide 描述一次分配，用 different 描述两件东西的区别，用 diverge 描述道路或意见的分岔。再用自己的话解释，为什么 individual 的旧义“不可分”会走到“个体”。",
+    "words": [
+      "divide",
+      "divided",
+      "dividing",
+      "division",
+      "divisional",
+      "divisive",
+      "divisor",
+      "dividend",
+      "divisible",
+      "divisibility",
+      "indivisible",
+      "indivisibility",
+      "subdivide",
+      "subdivision",
+      "undivided",
+      "divider",
+      "individual",
+      "individually",
+      "individuality",
+      "individualism",
+      "individualist",
+      "individualistic",
+      "individualize",
+      "individualization",
+      "individuate",
+      "individuation",
+      "devise",
+      "device",
+      "deviser",
+      "differ",
+      "different",
+      "difference",
+      "differently",
+      "differential",
+      "differentially",
+      "differentiate",
+      "differentiation",
+      "differentiated",
+      "undifferentiated",
+      "differentiable",
+      "differentiability",
+      "indifferent",
+      "indifference",
+      "indifferently",
+      "diverge",
+      "divergent",
+      "divergence",
+      "divergently",
+      "biodiversity",
+      "diversely",
+      "diversiform",
+      "diffeomorphism",
+      "diffeomorphic",
+      "diverse",
+      "diversity",
+      "diversify",
+      "diversification"
+    ]
+  }
+]

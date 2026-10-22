@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="358" viewBox="0 0 1000 358" role="img">
+<title>declamatory：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="356" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：clāmāre</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">喊、呼叫；大声宣布。与 calāre 同源，不是英语 claim 造出的拉丁词</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：dēclāmāre → dēclāmātōrius</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">演说 → 演说式的</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">英语：declamatory</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">慷慨陈词式、修辞气势强的</text>
+</svg>

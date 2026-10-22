@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""C1457 supra: a shared level above individual states."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[E('supranationalism','/ˌsuːprəˈnæʃənəˌlɪzəm/','超国家主义；超国家层面的治理或合作原则','几个国家把某些共同事务交给共同机构决定，而不只是各谈各的、各自随时决定是否照办。支持或讨论这种安排的观念，就进入 supranationalism 的语境。','现代英语词。可按 supranational“超国家的”加 -ism“观念、制度倾向”理解；MW 也按 supra- 加 nationalism 分析。supra- 接拉丁 supra“在……之上、超出”，national 一族接 nation，远来自拉丁 natio。',[['拉丁 supra；英语 national／nationalism','在……之上、超出；国家相关的观念形式'],['现代 supranational + -ism／supra- + nationalism','以超出单个国家的共同层面构成观念名称'],['英语 supranationalism','超国家的合作、治理原则或倡导立场']],'例如讨论一些国家是否应在特定领域接受共同机构的有约束力决定，而不仅是彼此协商。它不自动意味着所有国家消失或所有权力都移交；重点在某些事务形成超出单一国家的共同层面。','debates about supranationalism；support for supranationalism；supranationalism and national sovereignty。通常不可数。','international cooperation 可以只是国家之间合作；supranationalism 通常更关注共同制度或权力层面。这个词描述一种原则或立场，本身不替你判断它的好坏。',('The seminar compared supranationalism with cooperation between fully independent governments.','研讨会比较了超国家原则与完全独立的政府之间进行合作的方式。'),('The debate over supranationalism focused on who should make binding decisions.','关于超国家主义的辩论聚焦于谁应作出具有约束力的决定。'),sources=['https://www.merriam-webster.com/dictionary/supranationalism','https://www.etymonline.com/word/supra-national','https://www.collinsdictionary.com/dictionary/english/supranationalism','https://www.europarl.europa.eu/factsheets/en/sheet/8/supranatio'])]
+names=['supranational','supranationalism'];cat=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text()) if x['id']=='C1457');EX={w:'连字符形式或较专门的超分子化学术语，按当前通用阅读范围暂略。' for w in cat['family'] if w not in names}
+ROOT=dict(id='C1457',meaning='在……之上；超出',core='supra- 接拉丁 supra“在……之上、超出”。用于国家时，是在各国各自决定之外，再形成一个共同的制度或权力层面。',image='supra- 超出 + national 国家的 → supranational 超国家的；相关 -ism 形式 → supranationalism 超国家原则。',intro='把它想成“共同层面”，比想成“某个更厉害的国家”更准确。本页重点用于读国际政治与制度讨论。',forms='supranational 是现代由 supra- 与 national 组合；supranationalism 是相应的原则、制度倾向名称，也有 supra- + nationalism 的构词分析。',branches=[['共同机构与制度原则','supranational, supranationalism']],contrasts='supra- 在这里不是夸奖“超级”。international 常说国家之间，supranational 更强调超出各个国家单独权限的共同层面。',practice='用 supranational institution 指机构，再用 supranationalism 讨论支持或研究这种安排的观念。',words=names,exclude=EX)
+if __name__=='__main__':
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_235.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('supra: 1 new; 2 examples; 1 shared')

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "C0515",
+    "meaning": "拿着、拥有、保持；由此分出能力、习惯、居住、债务与抑制",
+    "core": "HAB / HIB = HAVE · HOLD",
+    "image": "先想“手里拿着、自己保持着”，再看拿出来、按住、住下来几条方向",
+    "intro": "**先想手里拿着一件东西，再想一个人保持某种状态。** 拉丁语 habēre 可以表示拿着、拥有、保持。拿出来给人看，是 exhibit；按住不让它发展，是 inhibit；挡住某事，是 prohibit。habit 来自习性、状态这一支，habitat 来自“常住在那里”。able 则走过“合手、合用 → 有能力”的变化。看起来差很远的 debt、due、duty，都经过 dēbēre“欠、应当”这一支相连。",
+    "forms": "hab- 与复合词中的 hib- 是这一拉丁词族的形态变化；habit-、hibit- 常与其分词或进一步构词有关。habitāre 是 habēre 的反复式，发展为居住；habilis 发展出 able。独立单词 able 与 -able 后缀历史来源不同，不能把所有以 -able 结尾的词都归入本族。debility、debilitate、debile 的深层词源有争议，本页保留为比较旁支，图从 dēbilis“虚弱”开始；不把它们画作 habēre 的确定后代。indubitable、indubitably 来自 dubitāre“怀疑”，不属于这一族。",
+    "branches": [
+      [
+        "合用 → 有能力",
+        "able · ability · enable"
+      ],
+      [
+        "重新恢复能力",
+        "rehabilitate · rehabilitation · rehab"
+      ],
+      [
+        "保持的状态 → 习惯",
+        "habit · habitual · habituation"
+      ],
+      [
+        "常住 → 居住环境",
+        "inhabit · habitat · habitable"
+      ],
+      [
+        "欠着 → 应当交付",
+        "debt · debit · due · duty"
+      ],
+      [
+        "拿出来 → 呈现",
+        "exhibit · exhibition"
+      ],
+      [
+        "按住、挡住 → 限制",
+        "inhibit · prohibit"
+      ],
+      [
+        "供给生活所需",
+        "prebend · provender"
+      ]
+    ],
+    "contrasts": "**exhibit / inhibit / prohibit**：拿出来展示；按住、抑制；用规则或力量阻止。\n\n**habitable / inhabitable / uninhabitable / uninhabited**：前两个现代通常都表示能住；第三个不能住；第四个只是没人住。\n\n**due / overdue / undue**：应到的、应有的；已经超过期限；不应有或过分的。\n\n**debt / debit / debtor**：债务；借方记项或扣款；欠债一方。debt 和 debtor 的 b 不发音，debit 的 b 发音。\n\n**ability / disability / debility**：能力；残障或功能限制；虚弱。三者不能靠字形近似混当同一概念。",
+    "practice": "The grant **enabled** the team to restore the birds’ **habitat**. At the **exhibition**, they showed how a small change in human **habits** could help.\n\n资助使团队得以修复鸟类栖息地。在展览上，他们展示了人类习惯中的一个小改变能带来什么帮助。\n\n连起来记：具备条件才能做 → enable；生物住在哪里 → habitat；把成果拿出来 → exhibition；长期保持的做法 → habits。",
+    "words": [
+      "able",
+      "ability",
+      "unable",
+      "inability",
+      "enable",
+      "enabler",
+      "enablement",
+      "disable",
+      "disabled",
+      "disability",
+      "disenable",
+      "habile",
+      "inhabile",
+      "habilitate",
+      "rehabilitate",
+      "rehabilitation",
+      "rehabilitative",
+      "rehabilitator",
+      "rehabilitant",
+      "due",
+      "overdue",
+      "undue",
+      "duly",
+      "duty",
+      "dutiful",
+      "debt",
+      "debtor",
+      "debit",
+      "debenture",
+      "debitor",
+      "devoir",
+      "endeavor",
+      "habeas corpus",
+      "habendum",
+      "habit",
+      "habitual",
+      "habitually",
+      "nonhabitual",
+      "habituate",
+      "habituation",
+      "habitude",
+      "habitudinal",
+      "habitat",
+      "habitable",
+      "habitability",
+      "uninhabitable",
+      "inhabit",
+      "inhabitant",
+      "inhabitable",
+      "habitation",
+      "inhabitation",
+      "habitant",
+      "habitance",
+      "habitator",
+      "exhibit",
+      "exhibition",
+      "exhibitor",
+      "exhibitionist",
+      "exhibitionism",
+      "inhibit",
+      "inhibition",
+      "inhibitor",
+      "inhibitory",
+      "inhibited",
+      "uninhibited",
+      "disinhibit",
+      "disinhibition",
+      "prohibit",
+      "prohibition",
+      "prohibitionist",
+      "prohibitive",
+      "prohibitively",
+      "prohibitory",
+      "prebend",
+      "prebendary",
+      "provender",
+      "habenula",
+      "debility",
+      "debilitate",
+      "debile",
+      "rehab",
+      "uninhabited",
+      "cohabit",
+      "cohabitation"
+    ],
+    "exclude": [
+      "indubitable",
+      "indubitably"
+    ]
+  }
+]

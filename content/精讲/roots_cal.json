@@ -1,0 +1,180 @@
+[
+  {
+    "id": "C0156",
+    "meaning": "呼叫、宣布；召集、命名",
+    "core": "把声音发出去，让人听见、过来，或知道某人某物叫什么。",
+    "image": "想象一个人在广场上发声：叫大家来议事，连到 council；报出月初与日期，连到 calendar；报来客名字，连到 nomenclature。",
+    "intro": "拉丁语 calāre 的本质是“呼叫、正式宣布”。同源的 clāmāre 更突出喊、宣告，形成 claim 一大支。classis“分组、等级”传统上也联系召集而来的人群，但这条更深的解释并非完全确定，所以 class 的图从有记录的 classis 开始。各支之间是家族关系，不是所有英语词都从同一个短字母块直接拼出来。",
+    "forms": "cal- 见于 calendar、intercalate；concilium“会议”走到 council、conciliate、reconcile；classis 走到 class、classic、classify；clāmāre 的 clam-/claim- 分支另有专题。拉丁语和法语的旧变化解释了不同词形，现代英语不把这些拼写自由互换。",
+    "branches": [
+      [
+        "召集议事的人",
+        "council, councillor, councilmember"
+      ],
+      [
+        "把关系重新拉到一起",
+        "conciliate, conciliatory, reconcile, reconciliation"
+      ],
+      [
+        "分组、等级与范本",
+        "class, classify, classic, classical"
+      ],
+      [
+        "宣布日期与置闰",
+        "calendar, calends, intercalate"
+      ],
+      [
+        "报名字与命名体系",
+        "nomenclator, nomenclature"
+      ],
+      [
+        "同源的喊出、主张支线",
+        "claim, reclaim, acclaim, proclaim"
+      ]
+    ],
+    "contrasts": "council 来自 concilium“会议”；counsel 的直接来源是 consilium“意见、计划”，更深来历有不同解释，本页不把两者画成一条确定的祖先链。callous、callus 来自“硬皮、胼胝”的另一支；calorie 的 cal- 是“热”，不能按字母混归。classical 不是“课堂的”；classroom 才直接以现代 class“班级”组成。",
+    "practice": "先学三个场景：The council meets today，议员被聚到一起；Check your calendar，看安排在哪天；Reconcile the two accounts，把两套说法或账目对上。再把 classic“典范”与 class“类别、等级”联系起来，理解它们为何既相近又不能处处互换。",
+    "words": [
+      "class",
+      "classic",
+      "classical",
+      "classically",
+      "classics",
+      "classy",
+      "classroom",
+      "classmate",
+      "classwork",
+      "subclass",
+      "classless",
+      "underclass",
+      "classism",
+      "classist",
+      "classify",
+      "classification",
+      "classified",
+      "classifier",
+      "classifiable",
+      "unclassified",
+      "declassify",
+      "declassification",
+      "reclassify",
+      "reclassification",
+      "classicism",
+      "classicist",
+      "neoclassical",
+      "neoclassicism",
+      "council",
+      "councilman",
+      "councilwoman",
+      "councilmember",
+      "councillor",
+      "councilor",
+      "conciliate",
+      "conciliatory",
+      "conciliation",
+      "conciliator",
+      "reconcile",
+      "reconciliation",
+      "irreconcilable",
+      "calendar",
+      "calends",
+      "intercalate",
+      "intercalation",
+      "intercalary",
+      "nomenclature",
+      "nomenclator",
+      "claim",
+      "claimant",
+      "counterclaim",
+      "unclaimed",
+      "reclaim",
+      "reclamation",
+      "acclaim",
+      "acclaimed",
+      "acclamation",
+      "exclaim",
+      "exclamation",
+      "exclamatory",
+      "proclaim",
+      "proclamation",
+      "clamor",
+      "clamour",
+      "clamorous",
+      "disclaim",
+      "disclaimer",
+      "declaim",
+      "declamation",
+      "declamatory"
+    ],
+    "exclude": []
+  },
+  {
+    "id": "C0229",
+    "meaning": "喊、宣告；提出主张",
+    "core": "把一句话或一个要求明确地说出来，让别人听见并回应。",
+    "image": "同一个人站出来发声：说“这是我的”是 claim；喊“太好了”连到 acclaim；向公众宣布连到 proclaim；惊讶脱口而出连到 exclaim。",
+    "intro": "来自拉丁语 clāmāre“喊、呼叫、宣布”。它与 calāre 同源，但不是 calāre 在英语里加一个 m 就变成 clam-。现代常用词已不一定需要大声：claim 可以安静地写在申请表上，acclaim 也可以体现为很多好评。记住发声的意图，比记一个僵硬的“喊”字更有用。",
+    "forms": "clam- 保留在 proclamation、exclamation、clamor；claim 常见于动词 claim、proclaim、exclaim、reclaim。许多 -ation 名词在拉丁语里已经形成，英语的动词和名词分别借入，不能一概当成现代动词加词尾。exclaim 甚至可能由较早的 exclamation 反构。",
+    "branches": [
+      [
+        "提出权利与说法",
+        "claim, claimant, counterclaim, unclaimed"
+      ],
+      [
+        "取回与恢复用途",
+        "reclaim, reclamation"
+      ],
+      [
+        "赞同与好评",
+        "acclaim, acclaimed, acclamation"
+      ],
+      [
+        "惊呼与感叹",
+        "exclaim, exclamation, exclamatory"
+      ],
+      [
+        "公开宣告",
+        "proclaim, proclamation"
+      ],
+      [
+        "众声喧哗、强烈呼声",
+        "clamor, clamour, clamorous"
+      ],
+      [
+        "划清责任或主张",
+        "disclaim, disclaimer"
+      ],
+      [
+        "演说与朗诵",
+        "declaim, declamation, declamatory"
+      ]
+    ],
+    "contrasts": "claim 是提出说法或要求，prove 才是证明；exclaim 是带情绪说出，proclaim 是公开宣告。declaim 的 de- 常被解释为加强，不是撤销；disclaim 才有否认、放弃主张的路线。clam“蛤蜊”不是 clāmāre 的后代，climb“爬”也不因拼写相似而属于这里。",
+    "practice": "用同一场发布会串联：The company claims the product is safer，是公司声称；critics acclaim the design，是评论者赞扬；a notice disclaims responsibility，是声明不承担某种责任。三个词都涉及表达，但表达的目的不同。",
+    "words": [
+      "claim",
+      "claimant",
+      "counterclaim",
+      "unclaimed",
+      "reclaim",
+      "reclamation",
+      "acclaim",
+      "acclaimed",
+      "acclamation",
+      "exclaim",
+      "exclamation",
+      "exclamatory",
+      "proclaim",
+      "proclamation",
+      "clamor",
+      "clamour",
+      "clamorous",
+      "disclaim",
+      "disclaimer",
+      "declaim",
+      "declamation",
+      "declamatory"
+    ],
+    "exclude": []
+  }
+]

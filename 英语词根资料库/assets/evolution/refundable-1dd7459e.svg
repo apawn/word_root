@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="462" viewBox="0 0 1000 462" role="img">
+<title>refundable：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="460" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：fundere；分词 fūsus</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">倾倒、流出；熔化后浇铸</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语 refundere → 古法语 refondre 等</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">倒回去 → 归还、偿还</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">英语：refund</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">退还已付的钱；退款</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：refundable</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">按相应条件可以退钱的</text>
+</svg>

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "C0954",
+    "meaning": "面包；从共同吃饭延伸到相伴",
+    "core": "PAN = BREAD",
+    "image": "一块面包：可以拿来吃，也可以与别人分着吃",
+    "intro": "拉丁语 pānis 的本义就是“面包”。最值得先学的是那条人际路线：com- 一起 + pānis 面包，形成“共食的伙伴”，再走到 companion、company 和 accompany。另一些词保留食品本义，或由存放面包的地方、容器得名。",
+    "forms": "pan- / pani- 是拉丁语 pānis 在借词与组合词中的形式。意大利语 pane、西班牙语 pan、葡萄牙语 pão 都延续这条来源；日语 pan 又从葡萄牙语借入。这里不包括希腊语 pan-“全部”，也不把英语 pan“锅”硬归进来。",
+    "branches": [
+      [
+        "人与人相伴",
+        "companion, company"
+      ],
+      [
+        "陪同与伴奏",
+        "accompany, accompaniment"
+      ],
+      [
+        "相处的感觉",
+        "companionship, companionable"
+      ],
+      [
+        "公司间或内部",
+        "intercompany, intracompany"
+      ],
+      [
+        "储放与搬运",
+        "pantry, pannier"
+      ],
+      [
+        "食物名字",
+        "panini, panettone, panko"
+      ],
+      [
+        "把面包做成糊",
+        "panada, panade"
+      ],
+      [
+        "提供生计",
+        "appanage"
+      ],
+      [
+        "少见专业词",
+        "impanation, panivorous"
+      ]
+    ],
+    "contrasts": "company 的公司义、陪伴义出自同一伙伴词族；companion 不是现代英语 company 加一个人称词尾。\n\npan-“面包”和 pan-“全部”只是拼写重合。panivorous 指吃面包，不是“什么都吃”。\n\n食品名可以借到英语，也可以保留原语复数：panelle、panini 的词尾不能按普通英语词缀乱切。\n\npanatella 等雪茄名称是由食物的形状借名；panettone 才是甜面包，不要看着像就混为一物。",
+    "practice": "先记一句：A companion keeps you company. 同伴陪着你。再把 accompany、accompaniment、accompanist 分成“动作、伴随的东西、提供伴奏的人”。",
+    "words": [
+      "company",
+      "companion",
+      "companionship",
+      "companionable",
+      "companionably",
+      "accompany",
+      "accompanied",
+      "accompanying",
+      "unaccompanied",
+      "accompaniment",
+      "accompanist",
+      "telco",
+      "intercompany",
+      "intracompany",
+      "pantry",
+      "pannier",
+      "panko",
+      "panino",
+      "panini",
+      "panettone",
+      "empanada",
+      "panelle",
+      "panada",
+      "panade",
+      "panification",
+      "panivorous",
+      "appanage",
+      "apanage",
+      "impanate",
+      "impanation",
+      "panatella",
+      "panatela",
+      "panetela",
+      "panetella"
+    ]
+  }
+]

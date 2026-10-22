@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="462" viewBox="0 0 1000 462" role="img">
+<title>resentment：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="460" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：sentīre（sentiō）</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">感到；察觉；认为</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">古法语：resentir → 法语 ressentir</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">感到；强烈感受到</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">法语：ressentiment</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">强烈感受；不满</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">英语：resentment</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">因受委屈而积下的怨愤</text>
+</svg>

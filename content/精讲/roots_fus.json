@@ -1,0 +1,108 @@
+[
+  {
+    "id": "C0457",
+    "meaning": "倾倒、流出；熔化后浇铸",
+    "core": "FUND / FUS = POUR",
+    "image": "把液体倒出去：可混合、流入、散开，也可倒回来",
+    "intro": "拉丁语 **fundere** 的核心画面是“倾倒、流出”，也包括把熔化的金属浇铸出来。其分词 **fūsus** 留下 **fus-**。两杯液体倒在一起，就能帮助理解 **confuse** 的混乱；向里注入，是 **infuse**；往四周散开，是 **diffuse**；退回去，是 **refund**。这些画面帮助理解，逐词历史仍要看各自的借入路线。",
+    "forms": "**fundere → fūsus** 是拉丁语自身的词形变化，不是英语把 nd 随便换成 s。**confound / confuse** 分别保留了较像动词原形与分词词干的外形。\n\n法语 **fondre** 保留了熔化、铸造义，因此 **foundry、font〔字体〕、fondue、fondant** 虽不都显出 fus，仍有可靠的同源关系。\n\n**confused** 比现代常用动词 **confuse** 更早；**fusion** 也早于常用动词 **fuse**。不能总画成英语动词先变出名词或分词。**diffusion、infusion、transfusion、effusion、suffusion** 各有拉丁名词借入支线。\n\n另一个 **fundus** 是“底部”，产生 fund〔资金〕、foundation〔基础〕；它和本页 fundere 不同。**found** 的找到、创办、铸造，以及 **font** 的字体、洗礼盆，要分别读。**refuse** 的远源有分歧；**defuse** 属于引信支线，作为易混辨析说明。",
+    "branches": [
+      [
+        "倒到一起，分不清",
+        "confound · confuse · confusion"
+      ],
+      [
+        "熔合成一体",
+        "fusion · fuse · fused"
+      ],
+      [
+        "向里面注入",
+        "infuse · infusion · infuser"
+      ],
+      [
+        "向四周散开",
+        "diffuse · diffusion · diffusely"
+      ],
+      [
+        "转输、流过组织",
+        "transfusion · perfusion · reperfusion"
+      ],
+      [
+        "大量向外涌",
+        "profuse · profusion · effusive"
+      ],
+      [
+        "颜色、感觉漫开",
+        "suffuse · suffusion"
+      ],
+      [
+        "把钱退回来",
+        "refund · refundable"
+      ],
+      [
+        "浇铸与熔化支线",
+        "foundry · font · fondue · fondant"
+      ],
+      [
+        "留不住，难起作用",
+        "futile · futility"
+      ],
+      [
+        "远源争议、同形辨析",
+        "refuse · refusal · defuse"
+      ]
+    ],
+    "contrasts": "**confused / confusing**：人或叙述已经乱了 / 东西让别人弄不清。\n\n**infuse / diffuse / suffuse**：注入某种成分 / 向外散开 / 铺满整体。**diffuse** 动词末尾 /z/，形容词末尾 /s/；**defuse** 则是化解紧张。\n\n**profuse / effusive**：前者强调量大，后者多强调热情外露。**profusion** 是大量，**profound** 是深刻，不同源。\n\n**refund / refuse**：退还款项 / 拒绝。refund 名词前重音、动词后重音；refuse 还要分动词 /z/ 与垃圾名词 /s/。",
+    "practice": "**The confusing notice caused confusion, so the manager offered a refund and tried to defuse the argument.**\n\n通知写得让人看不懂，造成了混乱；于是经理提出退款，并试图化解争论。confusing 说通知的效果，confusion 是出现的状态，refund 是退钱，defuse 是缓和冲突。",
+    "words": [
+      "found",
+      "founder",
+      "fusion",
+      "fuse",
+      "fused",
+      "fusible",
+      "fusibility",
+      "confound",
+      "confounded",
+      "confounding",
+      "confuse",
+      "confused",
+      "confusing",
+      "confusingly",
+      "confusion",
+      "refund",
+      "refundable",
+      "nonrefundable",
+      "infuse",
+      "infusion",
+      "infuser",
+      "diffuse",
+      "diffusion",
+      "diffusely",
+      "transfuse",
+      "transfusion",
+      "perfuse",
+      "perfusion",
+      "reperfusion",
+      "profuse",
+      "profusely",
+      "profusion",
+      "effuse",
+      "effusive",
+      "effusively",
+      "effusion",
+      "suffuse",
+      "suffusion",
+      "foundry",
+      "font",
+      "fondue",
+      "fondant",
+      "funnel",
+      "futile",
+      "futility",
+      "refuse",
+      "refusal",
+      "defuse"
+    ]
+  }
+]

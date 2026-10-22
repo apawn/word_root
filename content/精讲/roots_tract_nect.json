@@ -1,0 +1,142 @@
+[
+  {
+    "id": "C1534",
+    "meaning": "拉；拖；由拉动发展出的处理和引导",
+    "core": "TRAH / TRACT = PULL, DRAW",
+    "image": "同一个“拉”的动作，方向一变，意思就跟着变",
+    "intro": "**trah-、tract-** 来自拉丁语 **trahere**“拉、拖”。向自己拉是 attract，拉出来是 extract，向不同方向拉是 distract，拉回来是 retract。再远一点，“用手拉动、处理”发展出 tractāre“处理、管理”，经法语形成 treat。这组词不要只背“拉”，还要看拉向哪里、拉的是什么。",
+    "forms": "**trahere** 的相关分词形式有 **tractus**，所以许多英语词保留 tract-；这不是英语里 h 可以随意换成 ct。**tractāre** 则是由这个词干形成的反复动作动词，发展出处理、管理的意思。法语路径会让词形变化更大，如 treat、trait、train、portray；它们的现代拼写不能硬切回同一个模板。",
+    "branches": [
+      [
+        "拉到这里：吸引",
+        "attract · attractive · attraction"
+      ],
+      [
+        "拉成一团：收紧或订约",
+        "contract · contraction · contractor"
+      ],
+      [
+        "从中抽出：提取或抽象",
+        "extract · abstract · abstraction"
+      ],
+      [
+        "注意力被拉走",
+        "distract · distracted · distraction"
+      ],
+      [
+        "拿走与拉回",
+        "subtract · detract · retract"
+      ],
+      [
+        "动手处理与引导",
+        "tractable · treat · treaty · train"
+      ],
+      [
+        "线条与形象",
+        "trait · portray · portrait"
+      ]
+    ],
+    "contrasts": "**attract / distract / detract**：attract 把注意力拉过来；distract 把注意力从原目标拉走；detract from 则说减损价值或效果。\n\n**abstract / extract**：abstract 常抽离细节、留下概念；extract 常从整体取出目标部分。两者都含“抽出”，实际任务不同。\n\n**treat / treaty / treatise** 同属历史上的处理、商谈词族，但今天分别常说对待或治疗、条约、专题论著。\n\n**trait 与 traitor** 不要按拼写归在一起；traitor 属于“交出、背叛”的另一条来源。",
+    "practice": "**The app extracts useful information without distracting the reader.**\n\n这个应用提取有用的信息，又不会让读者分心。extract 是把需要的部分取出，distract 是把注意力从原本的任务拉走。",
+    "words": [
+      "contract",
+      "contraction",
+      "contractor",
+      "contractual",
+      "attract",
+      "attractive",
+      "attraction",
+      "attractiveness",
+      "abstract",
+      "abstraction",
+      "abstracted",
+      "abstractly",
+      "extract",
+      "extraction",
+      "distract",
+      "distraction",
+      "distracted",
+      "traction",
+      "tractor",
+      "subtract",
+      "subtraction",
+      "subtractive",
+      "subtrahend",
+      "retract",
+      "retraction",
+      "detract",
+      "tractable",
+      "intractable",
+      "protracted",
+      "treat",
+      "treatment",
+      "treaty",
+      "treatise",
+      "trait",
+      "portray",
+      "portrait",
+      "train",
+      "training"
+    ]
+  },
+  {
+    "id": "C0803",
+    "meaning": "系住；连接；附接",
+    "core": "NECT / NEX = TIE, CONNECT",
+    "image": "在两个点之间接线；再把多个点连成网",
+    "intro": "**nect-、nex-** 来自拉丁语 **nectere**“系住、连接”。connect 把部分接起来；disconnect 把线断开；reconnect 再接回去。annex 则把一部分附到较大主体上，nexus 看的是连接关系或交汇点。物理线索很清楚，也容易扩展到人际关系和思想联系。",
+    "forms": "拉丁语 **nectere** 的相关形式里有 **nex-**，如 nexus；不是英语里见到 nect 就能任意换成 nex。**con-** 表示一起，**ad-** 在 n 前可同化成 an-，形成 annectere。**本组是拉丁语“连接”**，与来自希腊语、表示游泳的 nect- 不同；nekton、nectopod 不放在这里。",
+    "branches": [
+      [
+        "接起来与连通",
+        "connect · connection · connected · connectivity"
+      ],
+      [
+        "负责连接的部分",
+        "connector · connective"
+      ],
+      [
+        "断开与重连",
+        "disconnect · disconnection · reconnect"
+      ],
+      [
+        "连成网络",
+        "interconnect · interconnected · nexus"
+      ],
+      [
+        "附接与并入",
+        "annex · annexation · deannexation"
+      ],
+      [
+        "旧式或专业词形",
+        "connexion · annexion · annectent · adnexum"
+      ]
+    ],
+    "contrasts": "**connection / connector / connectivity**：连接关系 / 连接器 / 连接能力。一个谈关系，一个谈部件，一个谈系统是否连得通。\n\n**connected / connective**：已经相连 / 起连接作用。connected rooms 是相通的房间，connective tissue 是起支持和连接作用的组织。\n\n**connexion 与 annexion**：前者是 connection 的旧式拼写，也留在特定宗教用法里；后者是 annexation 的古旧用词。它们需要读懂，但一般现代写作优先常用形式。",
+    "practice": "**A loose connector caused a disconnection, but the device soon reconnected.**\n\n一个松动的接头造成了断连，不过设备很快又连上了。connector 是部件，disconnection 是发生的中断，reconnected 是恢复联系的动作。",
+    "words": [
+      "connect",
+      "connection",
+      "connected",
+      "connector",
+      "connective",
+      "connectivity",
+      "disconnect",
+      "disconnected",
+      "disconnection",
+      "reconnect",
+      "reconnection",
+      "interconnect",
+      "interconnected",
+      "interconnection",
+      "nexus",
+      "annex",
+      "annexation",
+      "connexion",
+      "annexion",
+      "deannexation",
+      "annectent",
+      "adnexum"
+    ]
+  }
+]

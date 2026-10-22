@@ -1,0 +1,66 @@
+[
+  {
+    "id": "C1105",
+    "meaning": "携带；门；港口（分支辨析）",
+    "core": "PORT：三个来源分别看",
+    "image": "同样的字母，不要画成同一条祖先链",
+    "intro": "这一页的 port- 是同形词族合页，需要先分清三条拉丁来源。**portāre 是携带**，所以有 transport、support、report；**porta 是门**，所以有 portal；**portus 是港口**，形成英语 port 的港口义。它们在更深层的词源上有联系，但英语单词的直接来路不同，不能互相替换。",
+    "forms": "**携带可以是实物，也可以是信息、责任和含义。** re- + portāre 把信息带回来，成为 report；sub- + portāre 从下面承担，成为 support；importāre“带入、传达”一支还发展出 important。sub- 在 p 前变成 sup-，in- 在 p 前变成 im-，是历史上的辅音同化。portal 则从 porta 走“门、入口”路线。",
+    "branches": [
+      [
+        "portāre：携带、承载",
+        "support · report · transport · important"
+      ],
+      [
+        "porta：门、入口",
+        "portal · port 的开口、端口义"
+      ],
+      [
+        "portus：港口",
+        "port 的港口义"
+      ]
+    ],
+    "contrasts": "**import 与 export**：以所在国家、应用或系统为参照，前者向内带，后者向外带。名词通常重音在前，动词常在后。\n\n**porter 也有两条路线。** 搬运工来自 portātor“携带者”；门卫来自 portārius“守门者”。这两个词后来碰成了相同的英语拼写。\n\n**portable 与 transportable**：便携通常强调方便随人携带；可运输的东西可能仍需卡车或起重机。\n\n**important 不是“进口货更贵所以重要”。** 它连着 importāre 的“传达意义、关系重大”一支。用“有分量”记忆可以，编一段商品贸易故事当词源则不可以。\n\n**port 的软件移植义要保留来源分歧。** “把程序搬过去”很直观，但不能据此断定唯一词源；有词典把它联系到硬件接口。接口本身沿门、开口支理解。葡萄酒名 port 来自 Porto 城市名。",
+    "practice": "把三支放进同一场景：**At the port, a porter carried the portable equipment while a reporter opened the news portal.**\n\n在港口，一位搬运工搬着便携设备，一名记者打开新闻门户。port 是港口支；porter、portable、reporter 是携带支；portal 是门的支线。看见相同字母后，再确认它究竟走哪条路。",
+    "words": [
+      "support",
+      "important",
+      "report",
+      "port",
+      "supporting",
+      "transport",
+      "transportation",
+      "importance",
+      "reporting",
+      "reporter",
+      "export",
+      "portfolio",
+      "import",
+      "importantly",
+      "supporter",
+      "supportive",
+      "portal",
+      "porter",
+      "portable",
+      "transporting",
+      "deportation",
+      "exporter",
+      "purported",
+      "transporter",
+      "deport",
+      "rapport",
+      "importer",
+      "importation",
+      "portage",
+      "portability",
+      "reportage",
+      "purport",
+      "reportable",
+      "portly",
+      "transportable",
+      "exportation",
+      "deportment",
+      "comportment"
+    ]
+  }
+]

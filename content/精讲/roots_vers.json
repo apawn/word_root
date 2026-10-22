@@ -1,0 +1,158 @@
+[
+  {
+    "id": "C1624",
+    "meaning": "转、转向、翻过来",
+    "core": "原先朝这一边，现在转向另一边；方向改变，状态、用途和立场也能跟着改变。",
+    "image": "想象一个可以转动的箭头：转回去是 revert，转开是 avert，转到相反方向是 reverse；让大家转头看向一件事，则连到了 advertise。",
+    "intro": "核心来自拉丁语 vertere“转”，其分词词干是 vers-，反复动作形式是 versāre。这个词族很大，因为人们能把空间中的转向，用来描写注意力、关系、立场和形式的变化。先学会追踪“从哪里转到哪里”，再认识 verse、vertex 等已经走远的名词支线。",
+    "forms": "vert- 多保留在 convert、divert、revert；vers- 见于 conversion、diverse、reverse。它们反映拉丁语词干变化，不是英语见到 t 就能一律换 s。vertex 的变格词干 vertic- 留在 vertical；vertigo 的 vertigin- 留在 vertiginous。法语借入、拉丁语书面借入和现代英语派生要分开看。",
+    "branches": [
+      [
+        "换形式、换说法",
+        "convert, conversion, version"
+      ],
+      [
+        "共处到交谈",
+        "converse, conversation, conversant"
+      ],
+      [
+        "朝向、对抗、引起注意",
+        "adverse, adversary, advertise"
+      ],
+      [
+        "转离、转向多种方向",
+        "avert, aversion, divert, diverse"
+      ],
+      [
+        "反转、转回与颠覆",
+        "reverse, revert, invert, subvert, pervert"
+      ],
+      [
+        "对立争论",
+        "controversy, controversial, controvert"
+      ],
+      [
+        "转成文字行与直行表达",
+        "verse, prose, prosaic"
+      ],
+      [
+        "整体与每年转回",
+        "universe, university, anniversary"
+      ],
+      [
+        "旋转、头顶、椎骨",
+        "vortex, vertex, vertical, vertigo, vertebra"
+      ],
+      [
+        "向内、向外",
+        "introvert, extrovert, ambivert"
+      ],
+      [
+        "横过与灵活转用",
+        "transverse, traverse, versatile"
+      ]
+    ],
+    "contrasts": "conversation“交谈”与 conversion“转换”是不同支线；verse“诗”与 version“版本”是两个独立借入的名词，不能互相硬加词尾。university 从“团体、共同体”得到大学义，不是“教授宇宙知识”。adverse 是条件不利，averse 是人不愿意。converge、diverge 直接来自另一拉丁语动词 vergere“倾斜”，不因为远源相近就在本页当作 vertere 的直接派生词。",
+    "practice": "用三幅小画面串起来：把旧车库 convert into a studio；经营不佳时 revert to the original plan；新海报 advertise the studio，把人的注意力转过来。再看一句 The conversation changed her version of events：交谈改变了她对事情的说法，两个长得相近的词各做自己的工作。",
+    "words": [
+      "version",
+      "versioning",
+      "verse",
+      "versus",
+      "conversation",
+      "converse",
+      "conversely",
+      "conversational",
+      "conversant",
+      "convo",
+      "convert",
+      "conversion",
+      "converter",
+      "convertible",
+      "anniversary",
+      "advertise",
+      "advertisement",
+      "advertising",
+      "advertiser",
+      "adverse",
+      "adversely",
+      "adversity",
+      "adversary",
+      "avert",
+      "averse",
+      "aversion",
+      "reverse",
+      "reversal",
+      "reversible",
+      "irreversible",
+      "irreversibly",
+      "revert",
+      "reversion",
+      "inverse",
+      "inversely",
+      "invert",
+      "inversion",
+      "inverter",
+      "divert",
+      "diversion",
+      "diverse",
+      "diversity",
+      "diversify",
+      "diversification",
+      "pervert",
+      "perverse",
+      "perversely",
+      "perversity",
+      "perverted",
+      "perversion",
+      "subvert",
+      "subversion",
+      "subversive",
+      "controversy",
+      "controversial",
+      "controversially",
+      "controvert",
+      "versatile",
+      "versatility",
+      "vertical",
+      "vertically",
+      "vertex",
+      "vertigo",
+      "vertiginous",
+      "vertebra",
+      "vertebral",
+      "vertebrate",
+      "invertebrate",
+      "transverse",
+      "transversely",
+      "traverse",
+      "transversal",
+      "introvert",
+      "introverted",
+      "introversion",
+      "extrovert",
+      "extroverted",
+      "extravert",
+      "extroversion",
+      "extraversion",
+      "tergiversate",
+      "prose",
+      "prosaic",
+      "vortex",
+      "obverse",
+      "inadvertent",
+      "inadvertently",
+      "advert",
+      "ad",
+      "incontrovertible",
+      "incontrovertibly",
+      "ambivert",
+      "universe",
+      "universal",
+      "university",
+      "universally",
+      "universality"
+    ],
+    "exclude": []
+  }
+]

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="358" viewBox="0 0 1000 358" role="img">
+<title>idempotence：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="356" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁材料：idem；potentia 一支</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">相同；力量、能力</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">近代英语数学词：idempotence</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">幂等性</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">计算机等领域：idempotence</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">重复操作不额外改变预期结果的性质</text>
+</svg>

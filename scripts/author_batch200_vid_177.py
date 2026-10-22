@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""C0509 gutt: a drop, a drainage channel, and a historical disease name."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[
+E('gout','/ɡaʊt/','痛风；一团、一股液体等〔文学用法〕','痛风这个名字里藏着“滴”：古人曾以为有害体液滴进关节，引起疼痛。那是名称的历史，不是现代病因解释。','拉丁 gutta“一滴”，在中世纪拉丁已有痛风用法，经古法语 gote/goute、 中古英语 goute 进入英语。一般“一滴”的名词还留下较少见的文学用法，指一团或涌出的一股液体等。',[['拉丁 gutta','一滴'],['中世纪拉丁与古法语 gote／goute','旧体液理论下的痛风病名；也保留滴状物义'],['中古英语 goute → gout','现代痛风名称；文学中一团、一股的用法']],'现代痛风涉及尿酸盐结晶在关节及附近沉积并引起炎症，不能解释成雨滴、潮湿或某种“坏水”流进去。疾病义一般不可数。读文学时遇到 a gout of ink，则是另一种仍与滴、团状物相连的用法，不是在给墨水诊断疾病。','an attack of gout；have gout；a gout of liquid〔文学〕。','gout 是一种具体疾病名称，不是所有关节痛的统称。gout 的旧“滴”解释帮助记词源，但不应替代现代对疾病的理解。',('The doctor explained how gout can cause inflammation in a joint.','医生解释了痛风如何引起关节炎症。'),('A gout of black ink spilled onto the desk.','一大团黑墨水溅到了桌上。'),sources=['https://www.etymonline.com/word/gout','https://www.oxfordlearnersdictionaries.com/definition/english/gout','https://www.merriam-webster.com/dictionary/gout','https://www.nhs.uk/conditions/gout/']),
+E('gutter','英 /ˈɡʌtə/；美 /ˈɡʌtər/','排水槽、路边水沟；保龄球边沟；书页装订处空白；低俗处境；〔火焰〕忽明忽暗','雨水一滴滴落下，被一道槽接住引走。由排水槽的形状，gutter 又可以指球道边沟、书页中间的空白；动词则有另一段“蜡流成槽”的变化。','拉丁 gutta“滴” → 古法语 goute，再形成 gotiere/goutiere 等排水槽名称，借入英语 gutter。英语动词由名词发展，早先有开槽、形成沟槽义，后来用于烛蜡流出槽道及火焰不稳。',[['拉丁 gutta → 古法语 goute → gotiere／goutiere','水滴 → 接引水的槽道'],['中古英语 goter → gutter','排水槽、沟；后来扩展到相似槽形和低处比喻'],['英语名词 → 动词 gutter','形成槽道 → 烛蜡沿槽流动 → 火焰燃烧不稳']],'屋檐下的 gutter 接雨水，路边的 gutter 汇集排水。保龄球滚进 gutter 就偏离球道；书籍的 gutter 是相对两页靠装订处留出的空白。gutter journalism 是把“低处”借来批评低俗报道。小说中 a candle gutters 则说烛火不稳，不是蜡烛跳进水沟。','clean the gutters；a roof gutter；a bowling gutter；the gutter between facing pages；gutter journalism；a guttering candle。','drain 更强调排水口或排水通路，gutter 常是一道开放的槽。gutter 的低俗比喻不能当作对住在街头者的客观定义。',('Leaves had blocked the gutter under the roof.','树叶堵住了屋檐下的排水槽。'),('The ball rolled into the gutter before reaching the pins.','球还没碰到球瓶，就滚进了边沟。'),('The designer widened the gutter so the text would not disappear into the binding.','设计师加宽了装订处的内侧空白，免得文字陷进书脊。'),('The candle guttered as a draught passed through the room.','一阵穿堂风吹过房间，烛火忽明忽暗。'),sources=['https://www.etymonline.com/word/gutter','https://www.oxfordlearnersdictionaries.com/definition/english/gutter_1','https://www.oxfordlearnersdictionaries.com/definition/english/gutter_2','https://www.merriam-webster.com/dictionary/gutter']),
+]
+m=json.loads((BASE/'.cache/batch200/rewrite_vid.json').read_text());r=next(x for x in m['roots'] if x['id']=='C0509')
+EX={w:'滴状形态、植物或建筑等专门术语，按当前通用阅读范围暂略。' for w in r['family'] if w not in {e['word'] for e in W}}
+ROOT=dict(id='C0509',meaning='滴、一滴',core='gutt- 来自拉丁 gutta“一滴”。实际水滴引出排水槽，古人的体液想象则参与了痛风的命名；两条路应分开理解。',image='gutta 滴 → 法语 goute；排水槽形式 gotiere → gutter；中世纪病名 goute → gout。',intro='这组最值得记的是一个真实设施和一个历史误解：排水槽确实引走雨滴，而痛风的名称保留了旧体液理论。',forms='gout 与 gutter 都经法语传承，词形不再直接露出全部拉丁 gutt-。gutter 动词是英语名词后来的派生；烛火义还经过蜡液形成槽道这一层。',branches=[['旧病名与滴团状物','gout'],['排水槽、相似形状与动词','gutter']],contrasts='词源解释人们当时为什么这样命名，不保证那套旧医学理论正确。gout 的现代疾病解释与 gutter 的排水功能不能互相套用。',practice='把滴分成两条记忆路线：“水滴—排水槽”和“旧体液说—病名”；再认识 gutter 对槽形与燃烧状态的扩展。',words=[e['word'] for e in W],exclude=EX)
+if __name__=='__main__':
+ assert {e['word'] for e in W}<=set(m['owned_words'])
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_177.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('gutt:',len(W),'words;',sum(len(e['examples']) for e in W),'examples')

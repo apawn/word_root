@@ -1,0 +1,9 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+W=[E('tertiary','英 /ˈtɜːʃəri/；美 /ˈtɜːrʃieri/','第三的；第三级的；高等教育的；第三产业的','把分类往下数：第一、第二之后的第三层或第三类；具体是什么，要看后面跟的名词。','来自拉丁 tertiarius 第三部分或第三等级的，基于 tertius 第三。现代可辨出 terti- 与 -ary，但它不是英语 third 改拼写造出的。',[['拉丁 tertius','第三'],['拉丁 tertiarius → 英语 tertiary','第三部分、等级的 → 第三类或第三级的']],'tertiary education 常指中等教育之后的高等教育，包括大学和相应层级的职业教育；不是小学三年级。tertiary sector 是第三产业，主要指服务业。tertiary 在这些搭配里给类别定位，不是在评价它比第一类差。','tertiary education；the tertiary sector；a tertiary source。','primary、secondary、tertiary 可按第一、第二、第三对照，但每个学科对层级有自己的定义。不要把 tertiary education 直译成三级教育后就不解释它实际指什么。',('The scholarship helped her gain access to tertiary education.','这项奖学金帮助她获得了接受高等教育的机会。'),('Tourism is an important part of the tertiary sector.','旅游业是第三产业的重要组成部分。'),sources=['https://www.etymonline.com/word/tertiary','https://www.oxfordlearnersdictionaries.com/definition/english/tertiary','https://uis.unesco.org/en/glossary-term/tertiary-education-isced-levels-5-8'])]
+ROOT=dict(id='C1498',meaning='第三；第三等级',core='TERTI = THIRD',image='分类表的第一行、第二行之后，指向第三行；先认出顺序，再看这个领域把什么放在第三类。',intro='拉丁 tertius 表示第三，tertiarius 表示第三部分或等级的。英语里最值得先掌握 tertiary，尤其是高等教育和第三产业这两个常见搭配。',forms='terti- 表示第三，-ary 对应拉丁形容词形式。tertiary 与英语 third 在更远的印欧语数词历史上有关，但不是由现代 third 直接派生。',branches=[['教育层级','tertiary'],['产业分类与其他等级','tertiary']],contrasts='第三类不必意味着第三流、较差；也不必是时间上第三个发生。tertiary education 指一种教育层级，tertiary sector 指产业分类。',practice='Tertiary education can prepare students for work in many parts of the tertiary sector.\n\n高等教育能帮助学生为第三产业中许多领域的工作作准备。',words=['tertiary'],exclude={'tertian':'低频医学或音乐术语，按用户要求先略过'})
+if __name__=='__main__':
+ for name,data in [('roots_terti',[ROOT]),('words_terti',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

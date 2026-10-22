@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>presidential：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">重构原始印欧语：*sed-</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">坐；星号表示根据后代语言重构</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：sedēre；分词 sessus</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">坐；停留、占据一个位置</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">拉丁语：prae- + sedēre → praesidēre</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">坐在前面；主持、统领</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">拉丁语 praesidēns → 中古拉丁语 praesidentia / praesidentiālis</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">主持者 → 主持者的职位、职位相关的</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：presidential</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">与 president 相关；被认为适合这一职位的</text>
+</svg>

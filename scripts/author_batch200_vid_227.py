@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""C1245 sagac: perception and judgment; distinct noun borrowing."""
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_vid'
+W=[
+E('sagacious','/səˈɡeɪʃəs/','有洞察力的；判断敏锐而明智的','别人只听见一句好听的承诺，他却听出背后的漏洞，知道下一步该怎么办。这种看得透、判断准的本领，就是 sagacious 的核心。','采用拉丁 sagax 的词干 sagac-“感知敏锐的”，结合英语形容词形式 -ious/-ous。拉丁词族与敏锐察觉有关，早期英语也用于敏锐嗅觉；后来更常说人的洞察与判断。',[['拉丁 sagax〔词干 sagac-〕','感知敏锐、察觉迅速的'],['英语 sagac- + 形容词后缀形式','形成 sagacious，早期也可说嗅觉敏锐'],['现代 sagacious','有洞察力，能作出明智判断的']],'你可以用“嗅出问题”记忆，但今天通常不是在评鼻子。a sagacious decision 强调对局势看得透，作出的选择明智；这个词偏正式，常有赞许意味。','a sagacious observer；sagacious advice；a sagacious decision。','clever 可以只是脑筋快或技巧高；sagacious 更突出判断和洞察。sage 虽也能说睿智，词源却接另一条拉丁来源，不能直接当它的缩写。',('A sagacious observer noticed the weakness in the proposal.','一位有洞察力的观察者看出了提案的弱点。'),('Her decision to wait for more evidence proved sagacious.','事实证明，她等待更多证据再行动的决定很明智。'),sources=['https://www.etymonline.com/word/sagacious','https://www.oxfordlearnersdictionaries.com/definition/english/sagacious','https://en.wiktionary.org/wiki/sagacious#English']),
+E('sagacity','/səˈɡæsəti/','洞察力；明智而敏锐的判断力','这个词把“看穿情势并判断得当”当作一种能力来谈。一个人可以靠它避开表面诱人、实则麻烦的选择。','经法语 sagacité 借入，来自拉丁 sagacitas、sagacitatem“敏锐感知”，再接 sagax、sagac-。英语名词的记录早于 sagacious，不能把真实历史画成英语 sagacious 先造出 sagacity。',[['拉丁 sagax／sagac-','感知敏锐的'],['拉丁 sagacitas／sagacitatem','敏锐感知、洞察的能力'],['法语 sagacité → 英语 sagacity','洞察力与明智判断力']],'今天主要用于人的判断，常在传记、历史和评论中出现。political sagacity 不是背了多少政治知识，而是能看清局势、权衡人心与后果。早期也可涉及嗅觉敏锐，但现代阅读不必机械译成嗅觉。','political sagacity；show sagacity；the sagacity to recognize a problem。通常不可数。','sagacious 是形容词，sagacity 是相应名词，词中重音后的读音由 /ɡeɪʃ/ 变成 /ɡæs/。这种对应能帮助学习，却不表示英语名词一定由形容词后来派生。',('Her sagacity helped the team avoid an expensive mistake.','她敏锐而明智的判断帮助团队避开了一次代价高昂的错误。'),('The historian admired his political sagacity.','这位历史学家赞赏他的政治洞察力。'),sources=['https://www.etymonline.com/word/sagacity','https://www.oxfordlearnersdictionaries.com/definition/english/sagacity','https://en.wiktionary.org/wiki/sagacity#English']),
+]
+ROOT=dict(id='C1245',meaning='敏锐察觉；善于判断',core='sagac- 是拉丁 sagax 的词干，指感知敏锐。用“嗅出问题”帮助联想，再把嗅觉的敏锐转到观察、判断局势上。',image='敏锐感知 sagax／sagac- → sagacious 判断敏锐的；sagacitas → 法语 sagacité → sagacity 洞察力。',intro='这组词不只是夸“聪明”。它强调看见别人忽略的东西，并据此作出好判断，常见于正式书面语。',forms='sagacious 用拉丁词干构成英语形容词；sagacity 经法语与拉丁名词路线传来，英语记录更早。两条支线要并看。',branches=[['判断敏锐的人与这种能力','sagacious, sagacity']],contrasts='sage 语义相近却不是这个词根的简单短形。sagacity 不等于知识储量，sagacious 也不只表示反应快。',practice='用 sagacious 修饰一个决定，再用 sagacity 说出作出这个决定所体现的判断力。',words=[x['word'] for x in W],exclude={})
+if __name__=='__main__':
+ for kind,data in [('roots',[ROOT]),('words',W)]: (OUT/(kind+'_batch200_vid_227.json')).write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print('sagac: 2 words; 4 examples')

@@ -1,0 +1,13 @@
+# coding: utf-8
+import json
+from pathlib import Path
+from lesson_authoring import entry as E
+B=[['希腊 homos → homalos','相同 → 平齐、均匀'],['希腊 an- + homalos → anomalos','不 + 平齐 → 不规则、与一般情况不同']]
+W=[
+E('anomaly','英 /əˈnɒməli/；美 /əˈnɑːməli/','异常现象；反常之处；与通常规律不一致的情况','一排数据或一套规则看着都很整齐，偏偏有一个地方对不上。','希腊 an- 不 + homalos 平齐、均匀，形成 anomalos 不规则的，再有名词 anomalia；经拉丁 anomalia 进入英语。不是 an + 英语 normal 的简写。',B+[['希腊 anomalia → 拉丁 anomalia → 英语 anomaly','不规则的性质 → 异常现象']],'数据分析中，an anomaly 是偏离预期模式的一项表现；制度里也可能有 anomaly，比如相似的人被两条规则区别对待。它提醒你这里需要解释，未必已经证明是错误、欺诈或坏事；新发现也可能最初看上去像异常。','detect an anomaly；an anomaly in the data；a statistical anomaly。','error 已经把某事判定为错误，anomaly 先指出它不符合预期。一次突然增长可能是测量错误，也可能是真实变化，需要进一步查。',('The analyst noticed an anomaly in the sales figures.','分析师注意到销售数据中有一处异常。'),('The result was an anomaly that the original theory could not explain.','这个结果是原有理论无法解释的一个反常现象。'),sources=['https://www.etymonline.com/word/anomaly','https://www.oxfordlearnersdictionaries.com/definition/english/anomaly']),
+E('anomalous','英 /əˈnɒmələs/；美 /əˈnɑːmələs/','异常的；不合常规的；与预期不符的','把那项对不上规律的结果、情况或安排标出来：它与一般模式不一致。','经晚期拉丁 anomalus，来自希腊 anomalos 不平齐、不规则；英语调整为 -ous 结尾。它与 anomaly 是同源的名词、形容词，不必强说由英语 anomaly 换尾产生。',B+[['晚期拉丁 anomalus → 英语 anomalous','不规则的 → 与一般情况或预期不符的']],'anomalous readings 是异常读数，an anomalous situation 是不合常规的局面。这是比较正式的说法，常见于分析或讨论。先问正常模式是什么，才能明白说话者为什么把某项情况叫 anomalous。','anomalous results；an anomalous reading；an anomalous situation。','unusual 只是少见，anomalous 更强调与模式、规则或预期不一致。一件少见但完全符合规律的事，不一定要叫 anomalous。',('The team repeated the experiment to check the anomalous reading.','团队重复了实验，以核查那个异常读数。'),('The policy left a small group of employees in an anomalous position.','这项政策让一小群员工处于不合常规的处境。'),sources=['https://www.etymonline.com/word/anomalous','https://www.oxfordlearnersdictionaries.com/definition/english/anomalous'])
+]
+ROOT=dict(id='C0563',meaning='平齐；均匀；一致',core='HOMAL = EVEN / REGULAR',image='先想一排平齐的东西，再加否定：其中一处不齐，就成了需要解释的异常。',intro='希腊 homalos 表示平齐、均匀，关联 homos 相同。英语最实用的后代恰恰带否定 an-：anomaly 与 anomalous 都从不平齐、不规则发展为不符合预期模式。',forms='an- + homalos 在希腊语里形成 anomalos；名词 anomalia 和形容词 anomalos 分别经拉丁形式进入英语。现代看到 anomaly 不要把中间部分误当作 normal 的简单缩写。',branches=[['指出一项不合规律的现象','anomaly'],['形容某项结果不合规律','anomalous']],contrasts='异常不自动等于错误或坏事。anomaly 指现象，anomalous 修饰现象；判断是否异常，总有一个通常模式或预期作为参照。',practice='An anomalous result may be an error, but it may also point to a new discovery.\n\n异常结果可能是错误，也可能指向一个新发现。',words=[x['word'] for x in W],exclude={})
+if __name__=='__main__':
+ for name,data in [('roots_homal',[ROOT]),('words_homal',W)]:Path('.cache/batch200/drafts/root/'+name+'.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
+ print(len(W),sum(len(x['examples']) for x in W))

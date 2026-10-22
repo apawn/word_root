@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""Core additions to firm, merged into its authored source records."""
+from author_batch200_root_firm import W, ROOT, H, F, A, I, D
+from lesson_authoring import entry as E
+from pathlib import Path
+import json
+EX=[
+E('firmly','英 /ˈfɜːmli/；美 /ˈfɝːmli/','牢牢地；坚定地；明确地','手握得稳，决定拿得定，话说得不含糊，都是把 firm 的稳固放到动作上。','firm + -ly；中古英语已有相应副词形式 fermely。',[['拉丁 firmus → 古法语 ferm / ferme','稳固的'],['中古英语 ferm、fermely → 英语 firmly','稳固的 → 牢固、坚定地']],'hold firmly 说握得牢；firmly believe 说信念坚定；say firmly 说语气明确。坚定不一定大声，也不一定粗鲁。','hold firmly；firmly believe；firmly established。','tightly 偏夹得紧；firmly 偏牢固不松。firmly 拒绝也可以很有礼貌。',('Hold the handle firmly with both hands.','用双手牢牢握住把手。'),('She politely but firmly declined the offer.','她礼貌而坚定地谢绝了邀请。')),
+E('firmness','英 /ˈfɜːmnəs/；美 /ˈfɝːmnəs/','结实程度；坚定；严格而明确的态度','把一个东西按下去有多稳，或一个人面对压力有多不动摇，当作性质来谈，就是 firmness。','firm + -ness；形容词形成状态名词。',D(F,'英语 firm + -ness → firmness','稳固的 → 稳固程度、坚定性'),'选床垫时谈软硬与支撑的 firmness；管理事情时谈态度的 firmness。它不自动带“冷酷”的意思。','mattress firmness；firmness of purpose；with firmness。','hardness 主要说硬度；firmness 还常说立场坚定和有分寸的严格。',('You can choose the firmness of the mattress.','你可以选择床垫的软硬程度。'),('She handled the disagreement with patience and firmness.','她耐心而坚定地处理了分歧。')),
+E('affirmation','英 /ˌæfəˈmeɪʃən/；美 /ˌæfərˈmeɪʃən/','肯定；郑重声明；肯定的话','一句“我认可你”或“我明确支持这件事”，把认可变成了听得见的表达。','拉丁 affirmātiō，经古法语 afermacion 借入；现代与 affirm 对应，但名词有自己的借入路线。',[H[0],['拉丁 affirmāre → affirmātiō → 古法语 afermacion','明确肯定 → 肯定、声明'],['英语 affirmation','肯定的话或行为；正式声明']],'可指支持认可，也可指自我鼓励的短句。肯定句能表达态度，但一句积极的话本身并不能保证事情成功。','an affirmation of support；positive affirmations；seek affirmation。','confirmation 常落实信息；affirmation 常表达认可与信念，情感支持意味可以更明显。',('The award felt like an affirmation of years of hard work.','这个奖让她觉得多年的努力得到了肯定。'),('His message was a clear affirmation of support.','他的信息明确表达了支持。'),sources=['https://www.etymonline.com/word/affirmation']),
+E('affirmative','英 /əˈfɜːmətɪv/；美 /əˈfɝːmətɪv/','肯定的；表示同意的；是、同意〔正式答复〕','面对“是不是、同不同意”，回答落在“是”的一边，就属于 affirmative。','拉丁 affirmātīvus，经古法语 affirmatif 传入；不是只在现代英语 affirm 后直接补 -ative。',[H[0],['拉丁 affirmāre → affirmātīvus → 古法语 affirmatif','肯定 → 表示肯定的'],['中古英语 → affirmative','肯定的；肯定答复']],'an affirmative answer 是肯定答复。语法中 affirmative sentence 是肯定句；它可以讲一件坏事，只要没有语法上的否定，并不表示内容积极乐观。','an affirmative answer；reply in the affirmative；an affirmative sentence。','affirmative 在问答或语法上与 negative 相对；positive 还可以表示积极、正数等许多别的意思。',('She answered in the affirmative when asked whether she agreed.','被问到是否同意时，她作出了肯定答复。'),('“The train is late” is an affirmative sentence.','“火车晚点了”是一个肯定句。'),sources=['https://www.etymonline.com/word/affirmative']),
+E('infirmary','英 /ɪnˈfɜːməri/；美 /ɪnˈfɝːməri/','医务室；病房；医院〔部分机构名〕','infirm 是身体虚弱，把照料病人的场所接在后面，就得到 infirmary。','中世纪拉丁 īnfirmāria，接拉丁 īnfirmus“虚弱的”；借入英语。',[I[0],['中世纪拉丁 īnfirmāria → 英语 infirmary','照料病人的处所 → 医务室、医院']],'学校、军营等机构里的医务室可以这样叫；英国一些医院名称也保留 Infirmary。不能一律理解成规模很小。','the school infirmary；a hospital named Royal Infirmary。','pharmacy 主要是配药售药处；infirmary 是照护病人的医疗场所，功能不同。',('The student went to the school infirmary after feeling unwell.','学生感到不舒服后去了学校医务室。'),('The old infirmary building is now used as an archive.','旧医务楼现在被用作档案馆。')),
+]
+if __name__=='__main__':
+ words=W+EX; root=dict(ROOT,words=[w['word'] for w in words]);t=Path(__file__).resolve().parents[1]/'.cache/batch200/drafts/root'
+ for k,v in [('roots',[root]),('words',words)]: (t/f'{k}_batch200_root_firm.json').write_text(json.dumps(v,ensure_ascii=False,indent=2))
+ print(len(words),'individually authored words')

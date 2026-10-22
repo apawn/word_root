@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+W=[E('arsenic','名词：英 /ˈɑːsənɪk/，美 /ˈɑːrsənɪk/；化学形容词：英 /ɑːˈsenɪk/，美 /ɑːrˈsenɪk/','砷；砒霜〔传统语境〕；砷的','这个元素名称，远处其实带着“金黄色”的颜色记忆。','名词不是现代 arsen-“男性”+ -ic 的直接组合。它追到中世波斯语 zarnik“金黄色”，经叙利亚语传入希腊，形状受 arsenikos“男性的、强有力的”影响；随后经拉丁、法语进入英语。这种借熟词改造外来词的过程叫民间词源。',[['中世波斯语 zarnik → 叙利亚语相关形式','金黄色材料的名称'],['希腊 arsenikon','借入的矿物名受 arsenikos“男性的、强有力的”影响改形'],['拉丁 arsenicum → 法语 arsenic → 中古英语 arsenik','名称传入英语'],['现代 arsenic','用于元素砷，也保留传统砒霜义；另有化学形容词用法']],'现代化学中砷的符号是 As。早期名称所指的黄色含砷矿物，与今天的元素不是同一概念；传统故事里的 arsenic 还常指砒霜。阅读污染报道时，应理解为砷或相关化合物问题，不能把它当作一种固定颜色的粉末。','arsenic contamination；arsenic in groundwater；arsenic compounds。名词作定语仍可首音节重读；独立化学形容词 arsenic 则重读第二音节。','arsenic poisoning 的 arsenic 是物质名，不是“男性的”。“金黄色”的词源说明名称历史，不保证今天每种含砷物质都是黄色。',('The laboratory tested groundwater samples for arsenic.','实验室检测了地下水样本中的砷。'),('The museum label explains how the name arsenic developed from an older mineral name.','博物馆标签解释了 arsenic 这个名称如何从较早的矿物名称演变而来。'),sources=['https://www.etymonline.com/word/arsenic','https://www.merriam-webster.com/dictionary/arsenic','https://en.wiktionary.org/wiki/arsenic'])]
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(x for x in m['roots']if x['id']=='C0082');c=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text())if x['id']=='C0082');keep={'arsenic'};excluded={w:'按用户当前范围暂略：细分化合物或矿石名称。'for w in(set(r['family'])|set(c['family'])|set(c.get('unmatched',[])))-keep}
+ROOT=[dict(id='C0082',meaning='男性的〔影响砷名的希腊词〕；砷相关名称',core='这组要记的是一次词形受影响的历史，不是“男性直接变成砷”。',image='外来的金黄色矿物名传到希腊，听起来被联系到“男性的、强有力的”，再经其他语言传成 arsenic。',intro='原表把 arsen- 标为 male，容易让人误以为砷由“男性”这个概念直接命名。实际路线更复杂：矿物名本是外来词，希腊熟词影响了它的形状；现代化学再用它命名砷。',forms='希腊 arsenikos“男性的、强有力的”影响 arsenikon 的词形；英语化学里的 arsen-/arseno- 通常直接联系 arsenic“砷”。',branches=[['外来矿物名、词形改造与元素名','arsenic']],contrasts='民间词源是历史上的改形或重新理解，不等于今天可以随意拆词编故事。Arsenic 的名词与化学形容词还存在重音差异。',practice='用“金黄色矿物名→希腊熟词影响→英语元素名”复述 arsenic 的来源。',words=['arsenic'],exclude=excluded,sources=['https://www.etymonline.com/word/arsenic','https://www.merriam-webster.com/dictionary/arsenic'])]
+assert all(w['word']in m['owned_words']for w in W)
+assert not(set(c['family'])|set(c.get('unmatched',[])))-set(ROOT[0]['words'])-set(excluded)
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history'])
+for k,d in [('roots',ROOT),('words',W)]: (OUT/f'{k}_batch200_spec_239_arsen.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print('C0082',len(W),'new')

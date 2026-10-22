@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="566" viewBox="0 0 1000 566" role="img">
+<title>disapproval：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="564" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：probus</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">好的；可靠的；正直的</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：probāre</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">检验是否合格；证明；认可</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">拉丁语：ad- + probāre → approbāre</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">给予认可；认为合格</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">古法语 aprover → 英语 approve</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">认可；批准</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：disapprove → disapproval</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">不认可 → 不赞同的态度</text>
+</svg>

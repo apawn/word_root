@@ -1,0 +1,18 @@
+# coding: utf-8
+from pathlib import Path
+import json
+from lesson_authoring import entry as E
+BASE=Path(__file__).resolve().parents[1];OUT=BASE/'.cache/batch200/drafts/rewrite_spec'
+ID='C0272';TAG='329_cribr';SHARED=[];EXCLUDE_REASON='暂略筛状解剖形态、蜘蛛器官及少用筛选动词；garble 与 cribrum 的较远连接仅为可能分析。'
+G=[['阿拉伯语 gharbala／相关筛子名','筛选；其更远来源可能涉及拉丁 cribellum，但未定'],['地中海贸易词 garbellare；盎格鲁法语 garbeler','筛选香料、去除杂质；存在多条借入中介'],['中古英语 garbelen → 英语 garble','筛选、删择 → 歪曲或弄乱信息']]
+W=[E('garble','英 /ˈɡɑːbəl/；美 /ˈɡɑːrbəl/','弄乱；使含混；歪曲','信息被搅乱，传出来已经不是清楚的原话。','经盎格鲁法语及地中海贸易词，接阿拉伯语“筛选”一组词。更远可能联系后期拉丁 cribellum〔小筛〕、拉丁 cribrum〔筛子〕，这层连接并未确定。',G,'它早先是筛香料、除杂质的好事，后来“挑挑拣拣”也能变成删掉关键部分、让原意走样。现代电话信号差、转述混乱、文字编码出错，都可以把信息 garble，并不一定出于故意。','garble a message；garble someone’s words；a signal that garbles speech。','distort 常突出变形或歪曲；garble 尤其让人想到话语、文字被弄得含混混乱。',('The faulty microphone garbled the speaker’s final sentence.','坏掉的麦克风把讲者最后一句话弄得含混不清。'),('Each retelling seemed to garble the original story further.','每转述一次，原来的故事似乎就更走样一些。'),sources=['https://www.etymonline.com/word/garble','https://en.wiktionary.org/wiki/garble']),
+E('garbled','英 /ˈɡɑːbəld/；美 /ˈɡɑːrbəld/','含混不清的；乱成一团的；被歪曲的','消息还在，但排列或意思已经乱了。','garble＋-ed，过去分词作形容词；既可以是别人歪曲过，也可以是设备或传输把信息弄坏了。',G+[['garble ＋ -ed → garbled','混乱或失真的结果']],'a garbled message 可能有几个词听得见，却拼不出清楚意思；garbled text 也可能是一屏乱码。这个词本身不告诉你是撒谎、误听，还是技术故障，要看原因。','a garbled message；garbled text；a garbled account of events。','unclear 是笼统不清楚；garbled 更像内容被打乱、损坏或错误重组。',('The voicemail was so garbled that I could not catch the address.','语音留言含混得厉害，我没听清地址。'),('The wrong encoding turned the document into garbled text.','错误的编码让文档变成了乱码。'),sources=['https://www.etymonline.com/word/garbled','https://www.etymonline.com/word/garble'])]
+ROOT=dict(meaning='筛子〔garble 的远源联系不确定〕',core='筛选本是把杂质拿走，后来也可能变成把信息筛坏、弄乱。',image='一条消息被反复删择和重排，最后只剩听不明白的碎片。',intro='拉丁 cribrum 是筛子，cribellum 是其小称。常用的 garble 确实沿着筛香料、挑选、歪曲信息发展；但它接入拉丁“筛子”词族的更远路线有争议，本页把它作为可能相关的历史支线，不能画成确定直系。',forms='garble 经阿拉伯语、地中海贸易词及法语等路线形成，已看不出 cribr-。garbled 是它在英语中的规则分词派生。',branches=[['筛选转到信息混乱的支线','garble；garbled']],contrasts='garbled information 不必是故意造假，也可能来自失真信号或错误编码。',practice='分别想一个由人转述出错、一个由设备出错造成的 garbled message。',sources=['https://www.etymonline.com/word/garble'])
+m=json.loads((BASE/'.cache/batch200/rewrite_spec.json').read_text());r=next(x for x in m['roots']if x['id']==ID);c=next(x for x in json.loads((BASE/'.cache/catalog.json').read_text())if x['id']==ID);keep={w['word']for w in W}|set(SHARED);excluded={w:EXCLUDE_REASON for w in(set(r['family'])|set(c['family'])|set(c.get('unmatched',[])))-keep}
+ROOT['id']=ID;ROOT['words']=list(dict.fromkeys([w for w in r['family']if w in keep]+[w for w in SHARED if w not in r['family']]));ROOT['exclude']=excluded
+assert all(w['word']in m['owned_words']for w in W)
+assert not(set(c['family'])|set(c.get('unmatched',[])))-set(ROOT['words'])-set(excluded)
+assert {w['word']for w in W}<=set(ROOT['words'])
+for w in W:assert len(w['examples'])>=2 and all(len(n)==2 and all(isinstance(x,str)and x for x in n)for n in w['history'])
+for k,d in [('roots',[ROOT]),('words',W)]: (OUT/f'{k}_batch200_spec_{TAG}.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print(ID,len(W),'new,',len(SHARED),'shared')

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="670" viewBox="0 0 1000 670" role="img">
+<title>statistic：词形演化</title>
+<style>text{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif;fill:#202020}.note{fill:#727272}</style>
+<rect x="1" y="1" width="998" height="668" rx="18" fill="#fdfdfd" stroke="#dedede" stroke-width="1.5"/>
+<text x="500" y="42" text-anchor="middle" font-size="25" font-weight="600">拉丁语：stāre</text>
+<text class="note" x="500" y="78" text-anchor="middle" font-size="20">站立；保持位置</text>
+<text class="note" x="500" y="117" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="146" text-anchor="middle" font-size="25" font-weight="600">拉丁语：status</text>
+<text class="note" x="500" y="182" text-anchor="middle" font-size="20">状态；政治共同体</text>
+<text class="note" x="500" y="221" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="250" text-anchor="middle" font-size="25" font-weight="600">意大利语：statista</text>
+<text class="note" x="500" y="286" text-anchor="middle" font-size="20">熟悉国家事务的人</text>
+<text class="note" x="500" y="325" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="354" text-anchor="middle" font-size="25" font-weight="600">新拉丁语 statisticum → 德语 Statistik</text>
+<text class="note" x="500" y="390" text-anchor="middle" font-size="20">国家事务的研究</text>
+<text class="note" x="500" y="429" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="458" text-anchor="middle" font-size="25" font-weight="600">英语：statistics</text>
+<text class="note" x="500" y="494" text-anchor="middle" font-size="20">统计学；统计资料</text>
+<text class="note" x="500" y="533" text-anchor="middle" font-size="29">↓</text>
+<text x="500" y="562" text-anchor="middle" font-size="25" font-weight="600">英语：statistic</text>
+<text class="note" x="500" y="598" text-anchor="middle" font-size="20">一项统计数值</text>
+</svg>

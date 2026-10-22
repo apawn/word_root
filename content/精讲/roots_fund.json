@@ -1,0 +1,61 @@
+[
+  {
+    "id": "C0456",
+    "meaning": "底部；地基；由财产、储备发展出的资金",
+    "core": "FUND = BOTTOM / FOUNDATION",
+    "image": "楼有地基，事业有资金，深刻则一路触到底",
+    "intro": "**fund-** 这一页从拉丁语 **fundus**“底部、地基、地产”出发。found 是打基础、建立；foundation 是托住后续东西的底层；fundamental 是抽掉就站不住的根本。财产与储备的支线留下 fund，而 profound 则把“底部”带到很深的程度。",
+    "forms": "**fundāre**“建立”经法语留下 found，名词路线留下 foundation。**fundāmentum** 留下 fundament 及 fundamental。**profundus** 留下 profound，相关名词 profundity 的读音会改变。注意同形：find 的过去式 found 不属于这一支；铸造义 found 来自 **fundere**“倾倒”，另列在 fund-/fus- 中。",
+    "branches": [
+      [
+        "奠基与创办",
+        "found · founder · foundation"
+      ],
+      [
+        "根本的支撑",
+        "fundamental · fundamentally · foundational"
+      ],
+      [
+        "资金与出资",
+        "fund · funding · funder"
+      ],
+      [
+        "募集与撤资",
+        "fundraise · fundraiser · crowdfund · defund"
+      ],
+      [
+        "深入底层",
+        "profound · profoundly · profundity"
+      ],
+      [
+        "严守基本教义",
+        "fundamentalism · fundamentalist"
+      ]
+    ],
+    "contrasts": "**found / find**：创办的过去式 founded；找到的过去式 found。\n\n**founder / funder**：创办人 / 出资方，不一定同一人。founder 作动词还可指沉没、失败。\n\n**funding / fundraising**：资金支持 / 筹集资金的活动。\n\n**fundamental / fundamentalist**：根本的 / 坚持特定基本教义的人，不能把后者当作“初学者”。",
+    "practice": "**The founder secured funding from a new funder and laid a firm foundation for the project.**\n\n创办人从新的出资方那里获得资金，为项目打下牢固基础。founder 建立，funder 出钱，funding 是支持，foundation 是基础。",
+    "words": [
+      "found",
+      "fund",
+      "funding",
+      "foundation",
+      "founder",
+      "fundamental",
+      "fundamentally",
+      "foundational",
+      "fundamentalism",
+      "fundamentalist",
+      "profound",
+      "profoundly",
+      "profundity",
+      "fundraise",
+      "fundraising",
+      "fundraiser",
+      "funder",
+      "defund",
+      "crowdfund",
+      "superfund",
+      "fundament"
+    ]
+  }
+]
