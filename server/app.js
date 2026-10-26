@@ -1,11 +1,17 @@
 import {Virtualizer, elementScroll, observeElementRect, observeElementOffset} from './vendor/virtual.js';
 
+const staticMode = document.documentElement.dataset.source === 'static';
+const staticApi = staticMode ? import('./static-api.js') : null;
+const sourceBase = new URL('./source/', import.meta.url);
+const sourceURL = path => new URL(path.split('/').map(encodeURIComponent).join('/'), sourceBase);
+
 const $ = (selector) => document.querySelector(selector);
 const state = {path: '', doc: null, mode: 'documents', kind: 'word', anchor: '', openToken: 0};
 const esc = (s = '') => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const debounce = (fn, delay = 220) => {let timer; return (...args) => {clearTimeout(timer); timer = setTimeout(() => fn(...args), delay);};};
 function toast(message) { $('#toast').textContent = message; $('#toast').hidden = false; clearTimeout(toast.timer); toast.timer = setTimeout(() => $('#toast').hidden = true, 6000); }
 async function api(route, params = {}, signal) {
+  if (staticMode) return (await staticApi).api(route, params, signal);
   const response = await fetch(`/api/${route}?${new URLSearchParams(params)}`, {signal});
   if (!response.ok) throw new Error((await response.json()).error || '加载失败，请重试');
   return response.json();
@@ -267,14 +273,14 @@ class Reader {
     }
   }
   prepare(node) {
-    const base = new URL(`/source/${this.path}`, location.origin);
+    const base = sourceURL(this.path);
     for (const a of node.querySelectorAll('a[href]')) {
       const href = a.getAttribute('href');
       try {
         const url = new URL(href, base);
-        if (url.origin === location.origin && url.pathname.startsWith('/source/') && /\.md$/i.test(url.pathname)) {
-          a.href = '#' + new URLSearchParams({path: decodeURIComponent(url.pathname.slice(8)), anchor: decodeURIComponent(url.hash.slice(1))});
-          a.dataset.document = decodeURIComponent(url.pathname.slice(8));
+        if (url.origin === location.origin && url.pathname.startsWith(sourceBase.pathname) && /\.md$/i.test(url.pathname)) {
+          a.href = '#' + new URLSearchParams({path: decodeURIComponent(url.pathname.slice(sourceBase.pathname.length)), anchor: decodeURIComponent(url.hash.slice(1))});
+          a.dataset.document = decodeURIComponent(url.pathname.slice(sourceBase.pathname.length));
           a.dataset.anchor = decodeURIComponent(url.hash.slice(1));
         } else {a.href = url.href; a.target = '_blank'; a.rel = 'noopener noreferrer';}
       } catch {a.removeAttribute('href');}
@@ -321,7 +327,7 @@ async function openDocument(path, anchor = '', updateRoute = true) {
     $('#current-root').textContent = doc.title.replace(/^\d+\s*·\s*/, '').split(' — ')[0];
     $('#current-root').title = doc.title;
     document.title = doc.title + ' · 词根阅读室';
-    $('#source-link').href = '/source/' + path.split('/').map(encodeURIComponent).join('/');
+    $('#source-link').href = sourceURL(path).href;
     $('#word-search').value = '';
     state.kind = doc.word_count ? 'word' : 'heading';
     updateNavTabs();
@@ -390,7 +396,7 @@ async function init() {
     let route = readRoute();
     if (!route.path) {try {route = JSON.parse(localStorage.getItem('word-root-route')) || route;} catch {}}
     await openDocument(route.path || '英语词根资料库/01_古典词根/2800_vend_C1615.md', route.anchor || '');
-  } catch (e) {$('#reader-message').textContent = '无法连接本地服务，请运行 python3 server/server.py 后刷新。'; toast(e.message);}
+  } catch (e) {$('#reader-message').textContent = staticMode ? '在线资料加载失败，请检查网络并刷新重试。' : '无法连接本地服务，请运行 python3 server/server.py 后刷新。'; toast(e.message);}
 }
 init();
 // Bounded metrics for manual QA; contains counts only, never Markdown content.

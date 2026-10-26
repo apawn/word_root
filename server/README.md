@@ -65,3 +65,29 @@ npm run build:vendor
 python3 -m unittest discover -s server -p 'test_*.py'
 node --check server/app.js
 ```
+
+## GitHub Pages
+
+在线地址：https://apawn.github.io/word_root/ 。`.github/workflows/pages.yml` 在 `main` 更新后测试、构建并发布，也支持手动触发。仓库 Settings → Pages 的发布来源设为 **GitHub Actions**。
+
+本地服务继续使用 SQLite，启动及刷新同步方式不变。静态构建使用独立临时索引，不读取或修改本地 SQLite。
+
+手动构建、预览（输出目录必须尚不存在）：
+
+```sh
+python3 server/build_static.py --output .cache/pages-preview
+python3 -m http.server 9000 --directory .cache/pages-preview
+```
+
+打开 http://localhost:9000 。生成物不提交 Git，线上由 Actions 上传。静态包包含网页、Markdown 原文、图片、分块正文及搜索索引，不包含 SQLite、原始 JSONL 或本地缓存。
+
+- 静态页与本地页共用 UI，支持仓库子路径、相对链接和原有 `#w-N` 书签。
+- 首次打开加载目录索引；单词及中文释义搜索在 Web Worker 中逐片查询，首次搜索获取全部搜索分片，之后可利用浏览器 HTTP 缓存。
+- Worker 最多缓存 8 份数据文件及最近一次搜索结果页；正文及 DOM 继续使用原有有限缓存。全库搜索速度受网络影响，不提供正文全文搜索。
+- 更新后数据使用新的版本目录；长时间打开的旧页面如遇加载失败，刷新即可。线上页面需要网络，不保证离线可用。
+
+静态接口与本地接口一致性验证：
+
+```sh
+node --test server/test_static.mjs
+```
